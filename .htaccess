@@ -1,5 +1,5 @@
 # Made by build.js: one address for the whole site, https://wanderer-addon.com
-Options -Indexes
+Options -Indexes +FollowSymLinks
 DirectoryIndex index.html
 AddDefaultCharset utf-8
 

@@ -10,9 +10,9 @@ RewriteCond %{SERVER_PORT} 80 [OR]
 RewriteCond %{HTTP_HOST} ^www\.wanderer-addon\.com$ [NC]
 RewriteRule ^(.*)$ https://wanderer-addon.com/$1 [R=301,L]
 # The root: the reference language
-RewriteRule ^$ /en/ [R=301,L]
+RewriteRule ^$ https://wanderer-addon.com/en/ [R=301,L]
 # A language without its final slash
-RewriteRule ^(en|fr|de|es|it|pt-br|ru|ko|zh-cn|zh-tw)$ /$1/ [R=301,L]
+RewriteRule ^(en|fr|de|es|it|pt-br|ru|ko|zh-cn|zh-tw)$ https://wanderer-addon.com/$1/ [R=301,L]
 </IfModule>
 
 <IfModule mod_headers.c>

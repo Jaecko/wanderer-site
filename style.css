@@ -287,3 +287,6 @@ main { overflow: hidden; }
 	.js .reveal { opacity: 1; transform: none; }
 }
 
+
+/* A hyphenated word stays whole on its line. */
+.nw { white-space: nowrap; }

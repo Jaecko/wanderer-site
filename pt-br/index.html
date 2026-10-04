@@ -17,10 +17,12 @@
 <link rel="alternate" hreflang="zh-CN" href="https://wanderer-addon.com/zh-cn/">
 <link rel="alternate" hreflang="zh-TW" href="https://wanderer-addon.com/zh-tw/">
 <link rel="alternate" hreflang="x-default" href="https://wanderer-addon.com/en/">
-<meta name="theme-color" content="#0b1322">
+<meta name="theme-color" content="#070b14">
 <meta name="color-scheme" content="dark">
 <link rel="icon" href="/assets/logo.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="preload" href="/assets/fonts/Cinzel-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/hero.webp" as="image" fetchpriority="high">
 <link rel="stylesheet" href="/style.css">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Wanderer">
@@ -51,86 +53,123 @@
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"VideoObject","name":"Trailer do Wanderer, addon de imersão para WoW Forever","description":"Quarenta segundos com o Wanderer no WoW Forever: nomes escondidos acima das cabeças, a etiqueta ao passar o mouse, missões como cenas tranquilas e o diário de viagem.","thumbnailUrl":["https://wanderer-addon.com/assets/video-poster.jpg","https://i.ytimg.com/vi/iptaXzImWI4/maxresdefault.jpg"],"uploadDate":"2026-10-03","duration":"PT41S","embedUrl":"https://www.youtube-nocookie.com/embed/iptaXzImWI4","contentUrl":"https://www.youtube.com/watch?v=iptaXzImWI4"}</script>
 </head>
 <body>
+<script>document.documentElement.classList.add('js')</script>
 <a class="skip" href="#content">Ir para o conteúdo</a>
-<header class="top">
-	<nav class="langs" aria-label="Idioma">
-		<ul><li><a href="/en/" hreflang="en" lang="en">English</a></li><li><a href="/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/es/" hreflang="es" lang="es">Español</a></li><li><a href="/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="/pt-br/" hreflang="pt-BR" lang="pt-BR" aria-current="page">Português (Brasil)</a></li><li><a href="/ru/" hreflang="ru" lang="ru">Русский</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-cn/" hreflang="zh-CN" lang="zh-CN">简体中文</a></li><li><a href="/zh-tw/" hreflang="zh-TW" lang="zh-TW">繁體中文</a></li></ul>
-	</nav>
+<header class="masthead">
+	<a class="brand" href="/pt-br/" lang="en"><img src="/assets/logo.svg" alt="" width="34" height="34"><span>Wanderer</span></a>
+	<div class="masthead-end">
+		<details class="langmenu">
+			<summary aria-label="Idioma"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.5" d="M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18Zm0 0c2.5 2.4 3.8 5.4 3.8 9s-1.3 6.6-3.8 9m0-18C9.5 5.4 8.2 8.4 8.2 12s1.3 6.6 3.8 9M3.5 9h17M3.5 15h17"/></svg><span>Português (Brasil)</span></summary>
+			<nav aria-label="Idioma"><ul><li><a href="/en/" hreflang="en" lang="en">English</a></li><li><a href="/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/es/" hreflang="es" lang="es">Español</a></li><li><a href="/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="/pt-br/" hreflang="pt-BR" lang="pt-BR" aria-current="page">Português (Brasil)</a></li><li><a href="/ru/" hreflang="ru" lang="ru">Русский</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-cn/" hreflang="zh-CN" lang="zh-CN">简体中文</a></li><li><a href="/zh-tw/" hreflang="zh-TW" lang="zh-TW">繁體中文</a></li></ul></nav>
+		</details>
+		<a class="button button-main button-small" href="https://www.curseforge.com/wow/addons/wanderer" rel="noopener">Baixar o Wanderer</a>
+	</div>
 </header>
 <main id="content">
 	<div class="hero">
-		<img class="logo" src="/assets/logo.svg" alt="" width="88" height="88">
-		<h1>Esconder os nomes acima das cabeças no WoW Forever e jogar com imersão total</h1>
-		<p class="subtitle" lang="en">Wanderer</p>
-		<p class="lead">Wanderer é um addon gratuito para World of Warcraft Forever. Os nomes saem de cima das cabeças ao seu redor, uma etiqueta aparece quando você olha para alguém, as conversas viram cenas tranquilas, e os pequenos confortos para os quais você instalaria uma dúzia de addons estão reunidos em um só.</p>
-		<div class="video">
-			<a class="video-facade" href="https://www.youtube.com/watch?v=iptaXzImWI4" data-video="iptaXzImWI4" data-title="Trailer do Wanderer, addon de imersão para WoW Forever">
-				<img src="/assets/video-poster.jpg" alt="Trailer do Wanderer, addon de imersão para WoW Forever" width="960" height="540" fetchpriority="high">
-				<span class="play" aria-hidden="true"></span>
-				<span class="visually-hidden">Assistir ao trailer</span>
-			</a>
-		</div>
-		<section class="download" aria-labelledby="download-title">
-			<h2 id="download-title" class="visually-hidden">Baixar o Wanderer</h2>
-			<div class="buttons">
-			<a class="button button-main" href="https://www.curseforge.com/wow/addons/wanderer" rel="noopener" data-place="top">Baixar no <strong>CurseForge</strong></a>
+		<img class="hero-bg" src="/assets/hero.webp" alt="" width="1920" height="870" fetchpriority="high">
+		<div class="hero-inner">
+			<img class="medallion" src="/assets/logo.svg" alt="" width="112" height="112">
+			<p class="kicker" lang="en">Wanderer</p>
+			<h1>Esconder os nomes acima das cabeças no WoW Forever e jogar com imersão total</h1>
+			<div class="ornament" aria-hidden="true"><span></span></div>
+			<p class="lead">Wanderer é um addon gratuito para World of Warcraft Forever. Os nomes saem de cima das cabeças ao seu redor, uma etiqueta aparece quando você olha para alguém, as conversas viram cenas tranquilas, e os pequenos confortos para os quais você instalaria uma dúzia de addons estão reunidos em um só.</p>
+			<section class="download" aria-labelledby="download-title">
+				<h2 id="download-title" class="visually-hidden">Baixar o Wanderer</h2>
+				<div class="buttons">
+				<a class="button button-main" href="https://www.curseforge.com/wow/addons/wanderer" rel="noopener" data-place="top">Baixar no <strong>CurseForge</strong></a>
 			<a class="button" href="https://github.com/Jaecko/wanderer" rel="noopener" data-place="top">Baixar no <strong>GitHub</strong></a>
-			</div>
-			<p class="note">Versão 0.34.0. O aplicativo do CurseForge instala e atualiza para você. Gratuito, traduzido para 10 idiomas, em desenvolvimento ativo.</p>
-		</section>
+				</div>
+				<p class="note">Versão 0.34.0. O aplicativo do CurseForge instala e atualiza para você. Gratuito, traduzido para 10 idiomas, em desenvolvimento ativo.</p>
+			</section>
+		</div>
 	</div>
 
-		<section class="need" id="immersion" aria-labelledby="immersion-title">
-			<h2 id="immersion-title">Como esconder os nomes acima das cabeças para jogar com imersão?</h2>
-			<p>Escolha a predefinição Imersão total e os nomes acima das cabeças somem: jogadores, PNJs, inimigos, ajudantes, guildas e títulos se ajustam cada um à parte. Equilibrado mantém só os inimigos, Mostrar tudo traz tudo de volta, e uma tecla revela todos os nomes por um instante.</p>
-			<p>Quando nada acontece, sua interface sai da frente e volta assim que você precisa dela. Em voo, tudo some menos o chat, e o modo foto esconde tudo com uma tecla só.</p>
-			
+	<div class="trailer reveal" id="trailer">
+		<div class="frame frame-video">
+			<a class="video-facade" href="https://www.youtube.com/watch?v=iptaXzImWI4" data-video="iptaXzImWI4" data-title="Trailer do Wanderer, addon de imersão para WoW Forever">
+				<img src="/assets/video-poster.jpg" alt="Trailer do Wanderer, addon de imersão para WoW Forever" width="960" height="540" loading="lazy" decoding="async">
+				<span class="play" aria-hidden="true"><svg viewBox="0 0 24 24" width="30" height="30"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span>
+			</a>
+		</div>
+		<p class="trailer-caption"><span class="trailer-label">Assistir ao trailer</span> <span class="trailer-time">0:41</span></p>
+	</div>
+
+		<section class="need need-split" id="immersion" aria-labelledby="immersion-title">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">I</p>
+					<h2 id="immersion-title">Como esconder os nomes acima das cabeças para jogar com imersão?</h2>
+					<p>Escolha a predefinição Imersão total e os nomes acima das cabeças somem: jogadores, PNJs, inimigos, ajudantes, guildas e títulos se ajustam cada um à parte. Equilibrado mantém só os inimigos, Mostrar tudo traz tudo de volta, e uma tecla revela todos os nomes por um instante.</p>
+					<p>Quando nada acontece, sua interface sai da frente e volta assim que você precisa dela. Em voo, tudo some menos o chat, e o modo foto esconde tudo com uma tecla só.</p>
+				</div>
+			<figure class="shot reveal"><div class="frame"><img src="/assets/names-hidden-revealed.webp" alt="Uma rua de Ventobravo ao pôr do sol, sem nenhum nome acima das cabeças" width="1600" height="900" loading="lazy" decoding="async"></div></figure>
 		</section>
 
-		<section class="need" id="label" aria-labelledby="label-title">
-			<h2 id="label-title">Como saber quem é alguém sem nomes por toda parte?</h2>
-			<p>Passe o mouse sobre um personagem e uma etiqueta aparece logo acima da cabeça dele, no lugar da dica do jogo. Você vê o retrato, o nível colorido pela dificuldade, a função, sua reputação com a facção dele e uma pequena barra de vida.</p>
-			<p>Ela também mostra o que importa naquele momento: a missão que ele dá ou espera, seus objetivos (3/8), o que você pode saquear, esfolar ou minerar, e para quem ele está olhando.</p>
-			
+		<section class="need need-split need-flip" id="label" aria-labelledby="label-title">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">II</p>
+					<h2 id="label-title">Como saber quem é alguém sem nomes por toda parte?</h2>
+					<p>Passe o mouse sobre um personagem e uma etiqueta aparece logo acima da cabeça dele, no lugar da dica do jogo. Você vê o retrato, o nível colorido pela dificuldade, a função, sua reputação com a facção dele e uma pequena barra de vida.</p>
+					<p>Ela também mostra o que importa naquele momento: a missão que ele dá ou espera, seus objetivos (3/8), o que você pode saquear, esfolar ou minerar, e para quem ele está olhando.</p>
+				</div>
+			<figure class="shot reveal"><div class="frame"><img src="/assets/label-npc.webp" alt="A etiqueta do Wanderer acima de um personagem que dá missões, com retrato redondo, nível, função e objetivos da missão" width="1200" height="674" loading="lazy" decoding="async"></div></figure>
 		</section>
 
-		<section class="need" id="scenes" aria-labelledby="scenes-title">
-			<h2 id="scenes-title">Dá para viver as missões e os diálogos como cenas de cinema?</h2>
-			<p>Fale com um personagem: a interface some, a câmera se aproxima e as falas aparecem página por página num painel na parte de baixo da tela. As recompensas mostram a raridade, os itens que você não pode usar ficam em vermelho e você pode compará-los com o que está usando.</p>
-			<p>Espaço para continuar, 1 a 9 para escolher, Esc para fechar. Segure Shift e você tem a janela do jogo quando quiser.</p>
-			
+		<section class="need need-split" id="scenes" aria-labelledby="scenes-title">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">III</p>
+					<h2 id="scenes-title">Dá para viver as missões e os diálogos como cenas de cinema?</h2>
+					<p>Fale com um personagem: a interface some, a câmera se aproxima e as falas aparecem página por página num painel na parte de baixo da tela. As recompensas mostram a raridade, os itens que você não pode usar ficam em vermelho e você pode compará-los com o que está usando.</p>
+					<p>Espaço para continuar, 1 a 9 para escolher, Esc para fechar. Segure Shift e você tem a janela do jogo quando quiser.</p>
+				</div>
+			<figure class="shot reveal"><div class="frame"><img src="/assets/quest-scene.webp" alt="Uma missão como cena: interface escondida, câmera perto do PNJ e o texto da missão num painel na parte de baixo da tela" width="1600" height="900" loading="lazy" decoding="async"></div></figure>
 		</section>
 
-		<section class="need" id="journal" aria-labelledby="journal-title">
-			<h2 id="journal-title">Um diário de viagem que lembra da sua aventura?</h2>
-			<p>O diário de viagem escreve sua jornada dia após dia: lugares explorados, cada missão concluída com o título, profissões, ouro e nível, até o que você viveu antes de instalar o Wanderer.</p>
-			<p>Os marcos, como a primeira montaria, uma masmorra ou uma noite na estalagem, são escritos com um aviso curto e o som de uma pena. Um resumo da sessão mostra seu tempo de jogo e o ouro e a experiência por hora.</p>
-			
+		<section class="need need-split need-flip" id="journal" aria-labelledby="journal-title">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">IV</p>
+					<h2 id="journal-title">Um diário de viagem que lembra da sua aventura?</h2>
+					<p>O diário de viagem escreve sua jornada dia após dia: lugares explorados, cada missão concluída com o título, profissões, ouro e nível, até o que você viveu antes de instalar o Wanderer.</p>
+					<p>Os marcos, como a primeira montaria, uma masmorra ou uma noite na estalagem, são escritos com um aviso curto e o som de uma pena. Um resumo da sessão mostra seu tempo de jogo e o ouro e a experiência por hora.</p>
+				</div>
+			<figure class="shot reveal"><div class="frame"><img src="/assets/travel-journal.webp" alt="O diário de viagem do Wanderer aberto na Crônica, com os dias da jornada e suas anotações" width="1600" height="900" loading="lazy" decoding="async"></div></figure>
 		</section>
 
-		<section class="need" id="comfort" aria-labelledby="comfort-title">
-			<h2 id="comfort-title">Um só addon para vender sucata, reparar, saquear na hora e pescar com clique duplo?</h2>
-			<p>O Wanderer pode vender sua sucata e reparar nos comerciantes (primeiro com o banco da guilda, se quiser), saquear na hora quando o saque automático do jogo está ligado, e deixar você pescar com um clique duplo direito. Os instrutores ganham um botão Aprender tudo, a caixa de correio um botão Pegar tudo.</p>
-			<p>As missões podem ser aceitas e entregues por você, os sussurros podem abrir numa janela própria e as janelas do jogo podem ser movidas para onde você quiser. Cada automação fica desligada até você ligar, e nada muda durante um combate.</p>
-			
+		<section class="need need-band" id="comfort" aria-labelledby="comfort-title">
+			<img class="band-bg" src="/assets/band.webp" alt="" width="1920" height="828" loading="lazy" decoding="async">
+			<div class="band-panel">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">V</p>
+					<h2 id="comfort-title">Um só addon para vender sucata, reparar, saquear na hora e pescar com clique duplo?</h2>
+					<p>O Wanderer pode vender sua sucata e reparar nos comerciantes (primeiro com o banco da guilda, se quiser), saquear na hora quando o saque automático do jogo está ligado, e deixar você pescar com um clique duplo direito. Os instrutores ganham um botão Aprender tudo, a caixa de correio um botão Pegar tudo.</p>
+					<p>As missões podem ser aceitas e entregues por você, os sussurros podem abrir numa janela própria e as janelas do jogo podem ser movidas para onde você quiser. Cada automação fica desligada até você ligar, e nada muda durante um combate.</p>
+				</div>
+			</div>
 		</section>
 
-		<section class="need" id="options" aria-labelledby="options-title">
-			<h2 id="options-title">Posso escolher o visual e manter minhas configurações?</h2>
-			<p>Seis estilos predefinidos vestem juntos a etiqueta, as dicas do jogo e o painel das conversas. Tudo fica nas opções do jogo (Esc, Opções, AddOns, Wanderer), com prévia ao vivo, e a busca do jogo encontra.</p>
-			<p>Uma tela de boas-vindas ajusta tudo do seu jeito de jogar, com perfis por personagem e por tipo de lugar. Desligue o Wanderer e cada configuração do jogo que ele mudou volta para você.</p>
-			
+		<section class="need need-split" id="options" aria-labelledby="options-title">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">VI</p>
+					<h2 id="options-title">Posso escolher o visual e manter minhas configurações?</h2>
+					<p>Seis estilos predefinidos vestem juntos a etiqueta, as dicas do jogo e o painel das conversas. Tudo fica nas opções do jogo (Esc, Opções, AddOns, Wanderer), com prévia ao vivo, e a busca do jogo encontra.</p>
+					<p>Uma tela de boas-vindas ajusta tudo do seu jeito de jogar, com perfis por personagem e por tipo de lugar. Desligue o Wanderer e cada configuração do jogo que ele mudou volta para você.</p>
+				</div>
+			<figure class="shot reveal"><div class="frame"><img src="/assets/options-styles.webp" alt="As opções do Wanderer nas configurações do jogo, com os estilos predefinidos e a prévia ao vivo da etiqueta" width="1600" height="900" loading="lazy" decoding="async"></div></figure>
 		</section>
 
-		<section class="need" id="trp3" aria-labelledby="trp3-title">
-			<h2 id="trp3-title">O Wanderer é compatível com o Total RP 3?</h2>
-			<p>Sim. Quando você passa o mouse sobre um jogador de RP, a etiqueta mostra o nome, o título e o status de RP do Total RP 3, logo acima da cabeça dele.</p>
-			<p>Também há gestos de RP se você quiser: seu personagem lê ao abrir um livro ou o correio, comemora ao subir de nível e acena para quem conversa com ele.</p>
-			
+		<section class="need need-solo" id="trp3" aria-labelledby="trp3-title">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">VII</p>
+					<h2 id="trp3-title">O Wanderer é compatível com o Total RP 3?</h2>
+					<p>Sim. Quando você passa o mouse sobre um jogador de RP, a etiqueta mostra o nome, o título e o status de RP do Total RP 3, logo acima da cabeça dele.</p>
+					<p>Também há gestos de RP se você quiser: seu personagem lê ao abrir um livro ou o correio, comemora ao subir de nível e acena para quem conversa com ele.</p>
+				</div>
 		</section>
 
-	<section class="faq" id="faq" aria-labelledby="faq-title">
+	<section class="faq reveal" id="faq" aria-labelledby="faq-title">
+		<div class="ornament" aria-hidden="true"><span></span></div>
 		<h2 id="faq-title">Perguntas</h2>
+		<div class="faq-list">
 			<details>
 				<summary><h3>Como esconder os nomes acima das cabeças no WoW Forever?</h3></summary>
 				<p>Instale o Wanderer e escolha a predefinição Imersão total, na tela de boas-vindas ou na página Nomes das opções. Todos os nomes somem. Passe o mouse sobre alguém para saber quem é, ou segure a tecla para revelar.</p>
@@ -151,37 +190,42 @@
 				<summary><h3>O Wanderer é gratuito?</h3></summary>
 				<p>Sim, totalmente. Ele está em desenvolvimento ativo e nada sai do seu jogo: nenhuma comunicação com outros jogadores ou sites.</p>
 			</details>
-	</section>
-
-	<section class="install" id="install" aria-labelledby="install-title">
-		<h2 id="install-title">Instalar sem aplicativo de addons</h2>
-		<ol>
-			<li>Baixe o arquivo zip no CurseForge.</li>
-			<li>Abra a pasta do WoW Forever, depois Interface e AddOns (na maioria das instalações: World of Warcraft, _classic_beta_, Interface, AddOns).</li>
-			<li>Extraia o zip ali, para ter uma pasta Wanderer dentro de AddOns.</li>
-			<li>Inicie o jogo, ou digite /reload se ele já estiver aberto. Digite /wanderer para abrir as opções.</li>
-		</ol>
-		<div class="buttons">
-			<a class="button button-main" href="https://www.curseforge.com/wow/addons/wanderer" rel="noopener" data-place="install">Baixar no <strong>CurseForge</strong></a>
-			<a class="button" href="https://github.com/Jaecko/wanderer" rel="noopener" data-place="install">Baixar no <strong>GitHub</strong></a>
 		</div>
-		<p><a href="https://www.curseforge.com/wow/addons/wanderer/files" rel="noopener">Ver as novidades de cada versão</a></p>
 	</section>
 
-	<section class="feedback" id="feedback" aria-labelledby="feedback-title">
+	<section class="install reveal" id="install" aria-labelledby="install-title">
+		<div class="install-card">
+			<h2 id="install-title">Instalar sem aplicativo de addons</h2>
+			<ol>
+				<li>Baixe o arquivo zip no CurseForge.</li>
+				<li>Abra a pasta do WoW Forever, depois Interface e AddOns (na maioria das instalações: World of Warcraft, _classic_beta_, Interface, AddOns).</li>
+				<li>Extraia o zip ali, para ter uma pasta Wanderer dentro de AddOns.</li>
+				<li>Inicie o jogo, ou digite /reload se ele já estiver aberto. Digite /wanderer para abrir as opções.</li>
+			</ol>
+			<div class="buttons">
+				<a class="button button-main" href="https://www.curseforge.com/wow/addons/wanderer" rel="noopener" data-place="install">Baixar no <strong>CurseForge</strong></a>
+			<a class="button" href="https://github.com/Jaecko/wanderer" rel="noopener" data-place="install">Baixar no <strong>GitHub</strong></a>
+			</div>
+			<p class="changelog"><a href="https://www.curseforge.com/wow/addons/wanderer/files" rel="noopener">Ver as novidades de cada versão</a></p>
+		</div>
+	</section>
+
+	<section class="feedback reveal" id="feedback" aria-labelledby="feedback-title">
 		<h2 id="feedback-title">Diga o que você achou</h2>
 		<p>O Wanderer é feito por um jogador e cresce com a sua opinião. Um bug, uma ideia, uma tradução para corrigir: cada mensagem é lida.</p>
-		<ul>
+		<ul class="links">
 				<li><a href="https://www.curseforge.com/wow/addons/wanderer/comments" rel="noopener">Comentários no CurseForge</a></li>
 				<li><a href="https://github.com/Jaecko/wanderer" rel="noopener">O projeto no GitHub</a></li>
 		</ul>
 	</section>
 </main>
 <footer class="bottom">
+	<div class="ornament" aria-hidden="true"><span></span></div>
+	<p class="footer-brand" lang="en"><img src="/assets/logo.svg" alt="" width="40" height="40"> Wanderer</p>
 	<nav class="langs" aria-label="Idioma">
 		<ul><li><a href="/en/" hreflang="en" lang="en">English</a></li><li><a href="/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/es/" hreflang="es" lang="es">Español</a></li><li><a href="/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="/pt-br/" hreflang="pt-BR" lang="pt-BR" aria-current="page">Português (Brasil)</a></li><li><a href="/ru/" hreflang="ru" lang="ru">Русский</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-cn/" hreflang="zh-CN" lang="zh-CN">简体中文</a></li><li><a href="/zh-tw/" hreflang="zh-TW" lang="zh-TW">繁體中文</a></li></ul>
 	</nav>
-	<p>Wanderer é um addon gratuito feito por um fã. World of Warcraft é uma marca da Blizzard Entertainment, que não apoia este addon.</p>
+	<p class="legal">Wanderer é um addon gratuito feito por um fã. World of Warcraft é uma marca da Blizzard Entertainment, que não apoia este addon.</p>
 </footer>
 <script src="/video.js" defer></script>
 </body>

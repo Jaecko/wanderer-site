@@ -17,10 +17,12 @@
 <link rel="alternate" hreflang="zh-CN" href="https://wanderer-addon.com/zh-cn/">
 <link rel="alternate" hreflang="zh-TW" href="https://wanderer-addon.com/zh-tw/">
 <link rel="alternate" hreflang="x-default" href="https://wanderer-addon.com/en/">
-<meta name="theme-color" content="#0b1322">
+<meta name="theme-color" content="#070b14">
 <meta name="color-scheme" content="dark">
 <link rel="icon" href="/assets/logo.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="preload" href="/assets/fonts/Cinzel-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/hero.webp" as="image" fetchpriority="high">
 <link rel="stylesheet" href="/style.css">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Wanderer">
@@ -51,86 +53,123 @@
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"VideoObject","name":"Wanderer 预告片：WoW Forever 沉浸插件","description":"在 WoW Forever 中体验 Wanderer 的四十秒：隐藏的头顶姓名、鼠标悬停标签、以安静场景呈现的任务和旅行日志。","thumbnailUrl":["https://wanderer-addon.com/assets/video-poster.jpg","https://i.ytimg.com/vi/iptaXzImWI4/maxresdefault.jpg"],"uploadDate":"2026-10-03","duration":"PT41S","embedUrl":"https://www.youtube-nocookie.com/embed/iptaXzImWI4","contentUrl":"https://www.youtube.com/watch?v=iptaXzImWI4"}</script>
 </head>
 <body>
+<script>document.documentElement.classList.add('js')</script>
 <a class="skip" href="#content">跳到正文</a>
-<header class="top">
-	<nav class="langs" aria-label="语言">
-		<ul><li><a href="/en/" hreflang="en" lang="en">English</a></li><li><a href="/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/es/" hreflang="es" lang="es">Español</a></li><li><a href="/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="/pt-br/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a></li><li><a href="/ru/" hreflang="ru" lang="ru">Русский</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-cn/" hreflang="zh-CN" lang="zh-CN" aria-current="page">简体中文</a></li><li><a href="/zh-tw/" hreflang="zh-TW" lang="zh-TW">繁體中文</a></li></ul>
-	</nav>
+<header class="masthead">
+	<a class="brand" href="/zh-cn/" lang="en"><img src="/assets/logo.svg" alt="" width="34" height="34"><span>Wanderer</span></a>
+	<div class="masthead-end">
+		<details class="langmenu">
+			<summary aria-label="语言"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.5" d="M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18Zm0 0c2.5 2.4 3.8 5.4 3.8 9s-1.3 6.6-3.8 9m0-18C9.5 5.4 8.2 8.4 8.2 12s1.3 6.6 3.8 9M3.5 9h17M3.5 15h17"/></svg><span>简体中文</span></summary>
+			<nav aria-label="语言"><ul><li><a href="/en/" hreflang="en" lang="en">English</a></li><li><a href="/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/es/" hreflang="es" lang="es">Español</a></li><li><a href="/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="/pt-br/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a></li><li><a href="/ru/" hreflang="ru" lang="ru">Русский</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-cn/" hreflang="zh-CN" lang="zh-CN" aria-current="page">简体中文</a></li><li><a href="/zh-tw/" hreflang="zh-TW" lang="zh-TW">繁體中文</a></li></ul></nav>
+		</details>
+		<a class="button button-main button-small" href="https://www.curseforge.com/wow/addons/wanderer" rel="noopener">下载 Wanderer</a>
+	</div>
 </header>
 <main id="content">
 	<div class="hero">
-		<img class="logo" src="/assets/logo.svg" alt="" width="88" height="88">
-		<h1>在魔兽世界 Forever 中隐藏头顶姓名，完全沉浸地游玩</h1>
-		<p class="subtitle" lang="en">Wanderer</p>
-		<p class="lead">Wanderer 是一款适用于 World of Warcraft Forever 的免费插件。身边每个人头顶的姓名都会消失，当你看向某人时会出现一个标签，与 NPC 的对话变成安静的场景。平时要装十几个插件才有的小便利，这里一个插件就全有了。</p>
-		<div class="video">
-			<a class="video-facade" href="https://www.youtube.com/watch?v=iptaXzImWI4" data-video="iptaXzImWI4" data-title="Wanderer 预告片：WoW Forever 沉浸插件">
-				<img src="/assets/video-poster.jpg" alt="Wanderer 预告片：WoW Forever 沉浸插件" width="960" height="540" fetchpriority="high">
-				<span class="play" aria-hidden="true"></span>
-				<span class="visually-hidden">播放预告片</span>
-			</a>
-		</div>
-		<section class="download" aria-labelledby="download-title">
-			<h2 id="download-title" class="visually-hidden">下载 Wanderer</h2>
-			<div class="buttons">
-			<a class="button button-main" href="https://www.curseforge.com/wow/addons/wanderer" rel="noopener" data-place="top">下载： <strong>CurseForge</strong></a>
+		<img class="hero-bg" src="/assets/hero.webp" alt="" width="1920" height="870" fetchpriority="high">
+		<div class="hero-inner">
+			<img class="medallion" src="/assets/logo.svg" alt="" width="112" height="112">
+			<p class="kicker" lang="en">Wanderer</p>
+			<h1>在魔兽世界 Forever 中隐藏头顶姓名，完全沉浸地游玩</h1>
+			<div class="ornament" aria-hidden="true"><span></span></div>
+			<p class="lead">Wanderer 是一款适用于 World of Warcraft Forever 的免费插件。身边每个人头顶的姓名都会消失，当你看向某人时会出现一个标签，与 NPC 的对话变成安静的场景。平时要装十几个插件才有的小便利，这里一个插件就全有了。</p>
+			<section class="download" aria-labelledby="download-title">
+				<h2 id="download-title" class="visually-hidden">下载 Wanderer</h2>
+				<div class="buttons">
+				<a class="button button-main" href="https://www.curseforge.com/wow/addons/wanderer" rel="noopener" data-place="top">下载： <strong>CurseForge</strong></a>
 			<a class="button" href="https://github.com/Jaecko/wanderer" rel="noopener" data-place="top">下载： <strong>GitHub</strong></a>
-			</div>
-			<p class="note">版本 0.34.0。CurseForge 应用会帮你安装和更新。 免费，支持 10 种语言，持续开发中。</p>
-		</section>
+				</div>
+				<p class="note">版本 0.34.0。CurseForge 应用会帮你安装和更新。 免费，支持 10 种语言，持续开发中。</p>
+			</section>
+		</div>
 	</div>
 
-		<section class="need" id="immersion" aria-labelledby="immersion-title">
-			<h2 id="immersion-title">怎样隐藏头顶姓名，沉浸地游玩？</h2>
-			<p>选择「完全沉浸」预设，头顶姓名就会消失：玩家、NPC、敌人、宠物、公会和头衔都可以分别设置。「平衡」只保留敌人，「全部显示」恢复全部，按住显示姓名按键可以暂时看到所有姓名。</p>
-			<p>无事发生时，界面会悄悄退开，需要时又立刻回来。飞行途中除了聊天框，其他界面都会淡出；拍照模式一键隐藏所有界面。</p>
-			
+	<div class="trailer reveal" id="trailer">
+		<div class="frame frame-video">
+			<a class="video-facade" href="https://www.youtube.com/watch?v=iptaXzImWI4" data-video="iptaXzImWI4" data-title="Wanderer 预告片：WoW Forever 沉浸插件">
+				<img src="/assets/video-poster.jpg" alt="Wanderer 预告片：WoW Forever 沉浸插件" width="960" height="540" loading="lazy" decoding="async">
+				<span class="play" aria-hidden="true"><svg viewBox="0 0 24 24" width="30" height="30"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span>
+			</a>
+		</div>
+		<p class="trailer-caption"><span class="trailer-label">播放预告片</span> <span class="trailer-time">0:41</span></p>
+	</div>
+
+		<section class="need need-split" id="immersion" aria-labelledby="immersion-title">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">I</p>
+					<h2 id="immersion-title">怎样隐藏头顶姓名，沉浸地游玩？</h2>
+					<p>选择「完全沉浸」预设，头顶姓名就会消失：玩家、NPC、敌人、宠物、公会和头衔都可以分别设置。「平衡」只保留敌人，「全部显示」恢复全部，按住显示姓名按键可以暂时看到所有姓名。</p>
+					<p>无事发生时，界面会悄悄退开，需要时又立刻回来。飞行途中除了聊天框，其他界面都会淡出；拍照模式一键隐藏所有界面。</p>
+				</div>
+			<figure class="shot reveal"><div class="frame"><img src="/assets/names-hidden-revealed.webp" alt="夕阳下的暴风城街道，头顶没有任何姓名" width="1600" height="900" loading="lazy" decoding="async"></div></figure>
 		</section>
 
-		<section class="need" id="label" aria-labelledby="label-title">
-			<h2 id="label-title">头顶没有姓名，怎么知道对方是谁？</h2>
-			<p>把鼠标移到角色身上，标签会出现在他的头顶，取代游戏的鼠标提示。你能看到他的头像、按难度着色的等级、身份、你在其阵营的声望和一条小血条。</p>
-			<p>标签也会显示当下要紧的信息：他提供或等待的任务、你的任务目标（3/8）、能否拾取、剥皮或采矿，以及他正在看着谁。</p>
-			
+		<section class="need need-split need-flip" id="label" aria-labelledby="label-title">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">II</p>
+					<h2 id="label-title">头顶没有姓名，怎么知道对方是谁？</h2>
+					<p>把鼠标移到角色身上，标签会出现在他的头顶，取代游戏的鼠标提示。你能看到他的头像、按难度着色的等级、身份、你在其阵营的声望和一条小血条。</p>
+					<p>标签也会显示当下要紧的信息：他提供或等待的任务、你的任务目标（3/8）、能否拾取、剥皮或采矿，以及他正在看着谁。</p>
+				</div>
+			<figure class="shot reveal"><div class="frame"><img src="/assets/label-npc.webp" alt="任务发布者头顶的 Wanderer 标签：圆形头像、等级、身份和任务目标" width="1200" height="674" loading="lazy" decoding="async"></div></figure>
 		</section>
 
-		<section class="need" id="scenes" aria-labelledby="scenes-title">
-			<h2 id="scenes-title">任务和对话能像电影场景一样呈现吗？</h2>
-			<p>与角色交谈时，界面淡出，镜头拉近，对话在屏幕下方的面板中一页一页显示。奖励会显示品质，无法使用的物品标为红色，还能与身上的装备比较。</p>
-			<p>空格继续，1 到 9 选择，Esc 关闭。按住 Shift，随时都能使用游戏原本的窗口。</p>
-			
+		<section class="need need-split" id="scenes" aria-labelledby="scenes-title">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">III</p>
+					<h2 id="scenes-title">任务和对话能像电影场景一样呈现吗？</h2>
+					<p>与角色交谈时，界面淡出，镜头拉近，对话在屏幕下方的面板中一页一页显示。奖励会显示品质，无法使用的物品标为红色，还能与身上的装备比较。</p>
+					<p>空格继续，1 到 9 选择，Esc 关闭。按住 Shift，随时都能使用游戏原本的窗口。</p>
+				</div>
+			<figure class="shot reveal"><div class="frame"><img src="/assets/quest-scene.webp" alt="以场景呈现的任务：界面淡出，镜头靠近 NPC，任务文字显示在屏幕下方的面板中" width="1600" height="900" loading="lazy" decoding="async"></div></figure>
 		</section>
 
-		<section class="need" id="journal" aria-labelledby="journal-title">
-			<h2 id="journal-title">有没有能记住冒险经历的旅行日志？</h2>
-			<p>旅行日志按天记录你的旅程：探索过的地点、每个完成的任务及其名称、专业技能、金币和等级，连安装 Wanderer 之前的经历也会记下。</p>
-			<p>第一匹坐骑、一次地下城、在旅店过夜等里程碑，会伴随简短提示和羽毛笔的沙沙声写进日志。本次游戏小结会告诉你游戏时长，以及每小时获得的金币和经验。</p>
-			
+		<section class="need need-split need-flip" id="journal" aria-labelledby="journal-title">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">IV</p>
+					<h2 id="journal-title">有没有能记住冒险经历的旅行日志？</h2>
+					<p>旅行日志按天记录你的旅程：探索过的地点、每个完成的任务及其名称、专业技能、金币和等级，连安装 Wanderer 之前的经历也会记下。</p>
+					<p>第一匹坐骑、一次地下城、在旅店过夜等里程碑，会伴随简短提示和羽毛笔的沙沙声写进日志。本次游戏小结会告诉你游戏时长，以及每小时获得的金币和经验。</p>
+				</div>
+			<figure class="shot reveal"><div class="frame"><img src="/assets/travel-journal.webp" alt="Wanderer 旅行日志翻到编年史页面，列出旅程的每一天和记录" width="1600" height="900" loading="lazy" decoding="async"></div></figure>
 		</section>
 
-		<section class="need" id="comfort" aria-labelledby="comfort-title">
-			<h2 id="comfort-title">一个插件就能自动出售垃圾、自动修理、即时拾取、双击钓鱼？</h2>
-			<p>Wanderer 可以在商人处自动出售垃圾并修理装备（可选优先使用公会银行），在游戏的自动拾取开启时即时拾取，还能用右键双击钓鱼。训练师处会多一个「全部学习」按钮，邮箱多一个「全部收取」按钮。</p>
-			<p>任务可以自动接受和交付，密语可以在独立窗口中打开，游戏窗口也能移到你想要的位置。所有自动功能在你开启前都是关闭的，战斗中什么都不会改变。</p>
-			
+		<section class="need need-band" id="comfort" aria-labelledby="comfort-title">
+			<img class="band-bg" src="/assets/band.webp" alt="" width="1920" height="828" loading="lazy" decoding="async">
+			<div class="band-panel">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">V</p>
+					<h2 id="comfort-title">一个插件就能自动出售垃圾、自动修理、即时拾取、双击钓鱼？</h2>
+					<p>Wanderer 可以在商人处自动出售垃圾并修理装备（可选优先使用公会银行），在游戏的自动拾取开启时即时拾取，还能用右键双击钓鱼。训练师处会多一个「全部学习」按钮，邮箱多一个「全部收取」按钮。</p>
+					<p>任务可以自动接受和交付，密语可以在独立窗口中打开，游戏窗口也能移到你想要的位置。所有自动功能在你开启前都是关闭的，战斗中什么都不会改变。</p>
+				</div>
+			</div>
 		</section>
 
-		<section class="need" id="options" aria-labelledby="options-title">
-			<h2 id="options-title">能选择外观风格，又保留自己的设置吗？</h2>
-			<p>六种预设风格会统一装扮标签、游戏的鼠标提示和对话面板。所有设置都在游戏自己的选项里（Esc、选项、插件、Wanderer），带实时预览，游戏的搜索框也能找到。</p>
-			<p>欢迎界面会按你的游玩方式完成设置，并提供按角色、按地点类型的配置档。关闭 Wanderer 后，它改动过的游戏设置都会恢复原样。</p>
-			
+		<section class="need need-split" id="options" aria-labelledby="options-title">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">VI</p>
+					<h2 id="options-title">能选择外观风格，又保留自己的设置吗？</h2>
+					<p>六种预设风格会统一装扮标签、游戏的鼠标提示和对话面板。所有设置都在游戏自己的选项里（Esc、选项、插件、Wanderer），带实时预览，游戏的搜索框也能找到。</p>
+					<p>欢迎界面会按你的游玩方式完成设置，并提供按角色、按地点类型的配置档。关闭 Wanderer 后，它改动过的游戏设置都会恢复原样。</p>
+				</div>
+			<figure class="shot reveal"><div class="frame"><img src="/assets/options-styles.webp" alt="游戏设置中的 Wanderer 选项，显示预设风格和标签实时预览" width="1600" height="900" loading="lazy" decoding="async"></div></figure>
 		</section>
 
-		<section class="need" id="trp3" aria-labelledby="trp3-title">
-			<h2 id="trp3-title">Wanderer 兼容 Total RP 3 吗？</h2>
-			<p>兼容。鼠标移到角色扮演玩家身上时，标签会在其头顶显示 Total RP 3 中的名字、头衔和角色扮演状态。</p>
-			<p>如果你喜欢，还有角色扮演动作：打开书本或邮件时阅读，升级时欢呼，向交谈的对象挥手。</p>
-			
+		<section class="need need-solo" id="trp3" aria-labelledby="trp3-title">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">VII</p>
+					<h2 id="trp3-title">Wanderer 兼容 Total RP 3 吗？</h2>
+					<p>兼容。鼠标移到角色扮演玩家身上时，标签会在其头顶显示 Total RP 3 中的名字、头衔和角色扮演状态。</p>
+					<p>如果你喜欢，还有角色扮演动作：打开书本或邮件时阅读，升级时欢呼，向交谈的对象挥手。</p>
+				</div>
 		</section>
 
-	<section class="faq" id="faq" aria-labelledby="faq-title">
+	<section class="faq reveal" id="faq" aria-labelledby="faq-title">
+		<div class="ornament" aria-hidden="true"><span></span></div>
 		<h2 id="faq-title">常见问题</h2>
+		<div class="faq-list">
 			<details>
 				<summary><h3>WoW Forever 怎么隐藏头顶姓名？</h3></summary>
 				<p>安装 Wanderer，在欢迎界面或选项的「姓名」页面选择「完全沉浸」预设，所有姓名都会消失。想知道某人是谁，把鼠标移过去，或按住显示姓名按键即可。</p>
@@ -151,37 +190,42 @@
 				<summary><h3>Wanderer 免费吗？</h3></summary>
 				<p>完全免费。插件持续开发中，任何数据都不会离开你的游戏，不与其他玩家或网站通信。</p>
 			</details>
-	</section>
-
-	<section class="install" id="install" aria-labelledby="install-title">
-		<h2 id="install-title">不用插件管理器的安装方法</h2>
-		<ol>
-			<li>从 CurseForge 下载 zip 文件。</li>
-			<li>打开 WoW Forever 的游戏目录，进入 Interface，再进入 AddOns（大多数安装路径为：World of Warcraft、_classic_beta_、Interface、AddOns）。</li>
-			<li>把 zip 解压到这里，让 AddOns 里出现一个 Wanderer 文件夹。</li>
-			<li>启动游戏，或在游戏中输入 /reload。输入 /wanderer 打开选项。</li>
-		</ol>
-		<div class="buttons">
-			<a class="button button-main" href="https://www.curseforge.com/wow/addons/wanderer" rel="noopener" data-place="install">下载： <strong>CurseForge</strong></a>
-			<a class="button" href="https://github.com/Jaecko/wanderer" rel="noopener" data-place="install">下载： <strong>GitHub</strong></a>
 		</div>
-		<p><a href="https://www.curseforge.com/wow/addons/wanderer/files" rel="noopener">查看各版本更新内容</a></p>
 	</section>
 
-	<section class="feedback" id="feedback" aria-labelledby="feedback-title">
+	<section class="install reveal" id="install" aria-labelledby="install-title">
+		<div class="install-card">
+			<h2 id="install-title">不用插件管理器的安装方法</h2>
+			<ol>
+				<li>从 CurseForge 下载 zip 文件。</li>
+				<li>打开 WoW Forever 的游戏目录，进入 Interface，再进入 AddOns（大多数安装路径为：World of Warcraft、_classic_beta_、Interface、AddOns）。</li>
+				<li>把 zip 解压到这里，让 AddOns 里出现一个 Wanderer 文件夹。</li>
+				<li>启动游戏，或在游戏中输入 /reload。输入 /wanderer 打开选项。</li>
+			</ol>
+			<div class="buttons">
+				<a class="button button-main" href="https://www.curseforge.com/wow/addons/wanderer" rel="noopener" data-place="install">下载： <strong>CurseForge</strong></a>
+			<a class="button" href="https://github.com/Jaecko/wanderer" rel="noopener" data-place="install">下载： <strong>GitHub</strong></a>
+			</div>
+			<p class="changelog"><a href="https://www.curseforge.com/wow/addons/wanderer/files" rel="noopener">查看各版本更新内容</a></p>
+		</div>
+	</section>
+
+	<section class="feedback reveal" id="feedback" aria-labelledby="feedback-title">
 		<h2 id="feedback-title">告诉我你的想法</h2>
 		<p>Wanderer 由一名玩家制作，并随着大家的反馈不断成长。发现问题、有新点子或想修正翻译，都欢迎留言，每条消息都会认真阅读。</p>
-		<ul>
+		<ul class="links">
 				<li><a href="https://www.curseforge.com/wow/addons/wanderer/comments" rel="noopener">CurseForge 评论区</a></li>
 				<li><a href="https://github.com/Jaecko/wanderer" rel="noopener">GitHub 项目</a></li>
 		</ul>
 	</section>
 </main>
 <footer class="bottom">
+	<div class="ornament" aria-hidden="true"><span></span></div>
+	<p class="footer-brand" lang="en"><img src="/assets/logo.svg" alt="" width="40" height="40"> Wanderer</p>
 	<nav class="langs" aria-label="语言">
 		<ul><li><a href="/en/" hreflang="en" lang="en">English</a></li><li><a href="/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/es/" hreflang="es" lang="es">Español</a></li><li><a href="/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="/pt-br/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a></li><li><a href="/ru/" hreflang="ru" lang="ru">Русский</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-cn/" hreflang="zh-CN" lang="zh-CN" aria-current="page">简体中文</a></li><li><a href="/zh-tw/" hreflang="zh-TW" lang="zh-TW">繁體中文</a></li></ul>
 	</nav>
-	<p>Wanderer 是一款由玩家制作的免费插件。World of Warcraft 是 Blizzard Entertainment 的商标，Blizzard Entertainment 不为本插件背书。</p>
+	<p class="legal">Wanderer 是一款由玩家制作的免费插件。World of Warcraft 是 Blizzard Entertainment 的商标，Blizzard Entertainment 不为本插件背书。</p>
 </footer>
 <script src="/video.js" defer></script>
 </body>

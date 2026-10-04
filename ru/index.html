@@ -17,10 +17,12 @@
 <link rel="alternate" hreflang="zh-CN" href="https://wanderer-addon.com/zh-cn/">
 <link rel="alternate" hreflang="zh-TW" href="https://wanderer-addon.com/zh-tw/">
 <link rel="alternate" hreflang="x-default" href="https://wanderer-addon.com/en/">
-<meta name="theme-color" content="#0b1322">
+<meta name="theme-color" content="#070b14">
 <meta name="color-scheme" content="dark">
 <link rel="icon" href="/assets/logo.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="preload" href="/assets/fonts/Cinzel-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/hero.webp" as="image" fetchpriority="high">
 <link rel="stylesheet" href="/style.css">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Wanderer">
@@ -51,86 +53,123 @@
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"VideoObject","name":"Трейлер Wanderer, аддона для погружения в WoW Forever","description":"Сорок секунд с Wanderer в WoW Forever: скрытые имена над головами, метка при наведении, задания как спокойные сцены и путевой дневник.","thumbnailUrl":["https://wanderer-addon.com/assets/video-poster.jpg","https://i.ytimg.com/vi/iptaXzImWI4/maxresdefault.jpg"],"uploadDate":"2026-10-03","duration":"PT41S","embedUrl":"https://www.youtube-nocookie.com/embed/iptaXzImWI4","contentUrl":"https://www.youtube.com/watch?v=iptaXzImWI4"}</script>
 </head>
 <body>
+<script>document.documentElement.classList.add('js')</script>
 <a class="skip" href="#content">К содержанию</a>
-<header class="top">
-	<nav class="langs" aria-label="Язык">
-		<ul><li><a href="/en/" hreflang="en" lang="en">English</a></li><li><a href="/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/es/" hreflang="es" lang="es">Español</a></li><li><a href="/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="/pt-br/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a></li><li><a href="/ru/" hreflang="ru" lang="ru" aria-current="page">Русский</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-cn/" hreflang="zh-CN" lang="zh-CN">简体中文</a></li><li><a href="/zh-tw/" hreflang="zh-TW" lang="zh-TW">繁體中文</a></li></ul>
-	</nav>
+<header class="masthead">
+	<a class="brand" href="/ru/" lang="en"><img src="/assets/logo.svg" alt="" width="34" height="34"><span>Wanderer</span></a>
+	<div class="masthead-end">
+		<details class="langmenu">
+			<summary aria-label="Язык"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.5" d="M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18Zm0 0c2.5 2.4 3.8 5.4 3.8 9s-1.3 6.6-3.8 9m0-18C9.5 5.4 8.2 8.4 8.2 12s1.3 6.6 3.8 9M3.5 9h17M3.5 15h17"/></svg><span>Русский</span></summary>
+			<nav aria-label="Язык"><ul><li><a href="/en/" hreflang="en" lang="en">English</a></li><li><a href="/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/es/" hreflang="es" lang="es">Español</a></li><li><a href="/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="/pt-br/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a></li><li><a href="/ru/" hreflang="ru" lang="ru" aria-current="page">Русский</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-cn/" hreflang="zh-CN" lang="zh-CN">简体中文</a></li><li><a href="/zh-tw/" hreflang="zh-TW" lang="zh-TW">繁體中文</a></li></ul></nav>
+		</details>
+		<a class="button button-main button-small" href="https://www.curseforge.com/wow/addons/wanderer" rel="noopener">Скачать Wanderer</a>
+	</div>
 </header>
 <main id="content">
 	<div class="hero">
-		<img class="logo" src="/assets/logo.svg" alt="" width="88" height="88">
-		<h1>Скрыть имена над головами в WoW Forever и играть с полным погружением</h1>
-		<p class="subtitle" lang="en">Wanderer</p>
-		<p class="lead">Wanderer: бесплатный аддон для World of Warcraft Forever. Имена исчезают над головами вокруг вас, метка появляется, когда вы смотрите на кого-то, разговоры превращаются в спокойные сцены, а мелкие удобства, ради которых обычно ставят десяток аддонов, собраны в одном.</p>
-		<div class="video">
-			<a class="video-facade" href="https://www.youtube.com/watch?v=iptaXzImWI4" data-video="iptaXzImWI4" data-title="Трейлер Wanderer, аддона для погружения в WoW Forever">
-				<img src="/assets/video-poster.jpg" alt="Трейлер Wanderer, аддона для погружения в WoW Forever" width="960" height="540" fetchpriority="high">
-				<span class="play" aria-hidden="true"></span>
-				<span class="visually-hidden">Смотреть трейлер</span>
-			</a>
-		</div>
-		<section class="download" aria-labelledby="download-title">
-			<h2 id="download-title" class="visually-hidden">Скачать Wanderer</h2>
-			<div class="buttons">
-			<a class="button button-main" href="https://www.curseforge.com/wow/addons/wanderer" rel="noopener" data-place="top">Скачать на <strong>CurseForge</strong></a>
+		<img class="hero-bg" src="/assets/hero.webp" alt="" width="1920" height="870" fetchpriority="high">
+		<div class="hero-inner">
+			<img class="medallion" src="/assets/logo.svg" alt="" width="112" height="112">
+			<p class="kicker" lang="en">Wanderer</p>
+			<h1>Скрыть имена над головами в WoW Forever и играть с полным погружением</h1>
+			<div class="ornament" aria-hidden="true"><span></span></div>
+			<p class="lead">Wanderer: бесплатный аддон для World of Warcraft Forever. Имена исчезают над головами вокруг вас, метка появляется, когда вы смотрите на кого-то, разговоры превращаются в спокойные сцены, а мелкие удобства, ради которых обычно ставят десяток аддонов, собраны в одном.</p>
+			<section class="download" aria-labelledby="download-title">
+				<h2 id="download-title" class="visually-hidden">Скачать Wanderer</h2>
+				<div class="buttons">
+				<a class="button button-main" href="https://www.curseforge.com/wow/addons/wanderer" rel="noopener" data-place="top">Скачать на <strong>CurseForge</strong></a>
 			<a class="button" href="https://github.com/Jaecko/wanderer" rel="noopener" data-place="top">Скачать на <strong>GitHub</strong></a>
-			</div>
-			<p class="note">Версия 0.34.0. Приложение CurseForge установит и обновит его за вас. Бесплатно, переведён на 10 языков, активно развивается.</p>
-		</section>
+				</div>
+				<p class="note">Версия 0.34.0. Приложение CurseForge установит и обновит его за вас. Бесплатно, переведён на 10 языков, активно развивается.</p>
+			</section>
+		</div>
 	</div>
 
-		<section class="need" id="immersion" aria-labelledby="immersion-title">
-			<h2 id="immersion-title">Как скрыть имена над головами и играть с погружением?</h2>
-			<p>Выберите набор «Полное погружение», и имена над головами исчезнут: игроки, НИП, враги, питомцы, гильдии и звания настраиваются по отдельности. «Сбалансированный» оставляет только врагов, «Показывать всё» возвращает всё, а клавиша показа на мгновение открывает все имена.</p>
-			<p>Когда ничего не происходит, интерфейс отходит в сторону и возвращается, как только он нужен. В полёте всё гаснет, кроме чата, а режим фото прячет всё одной клавишей.</p>
-			
+	<div class="trailer reveal" id="trailer">
+		<div class="frame frame-video">
+			<a class="video-facade" href="https://www.youtube.com/watch?v=iptaXzImWI4" data-video="iptaXzImWI4" data-title="Трейлер Wanderer, аддона для погружения в WoW Forever">
+				<img src="/assets/video-poster.jpg" alt="Трейлер Wanderer, аддона для погружения в WoW Forever" width="960" height="540" loading="lazy" decoding="async">
+				<span class="play" aria-hidden="true"><svg viewBox="0 0 24 24" width="30" height="30"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span>
+			</a>
+		</div>
+		<p class="trailer-caption"><span class="trailer-label">Смотреть трейлер</span> <span class="trailer-time">0:41</span></p>
+	</div>
+
+		<section class="need need-split" id="immersion" aria-labelledby="immersion-title">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">I</p>
+					<h2 id="immersion-title">Как скрыть имена над головами и играть с погружением?</h2>
+					<p>Выберите набор «Полное погружение», и имена над головами исчезнут: игроки, НИП, враги, питомцы, гильдии и звания настраиваются по отдельности. «Сбалансированный» оставляет только врагов, «Показывать всё» возвращает всё, а клавиша показа на мгновение открывает все имена.</p>
+					<p>Когда ничего не происходит, интерфейс отходит в сторону и возвращается, как только он нужен. В полёте всё гаснет, кроме чата, а режим фото прячет всё одной клавишей.</p>
+				</div>
+			<figure class="shot reveal"><div class="frame"><img src="/assets/names-hidden-revealed.webp" alt="Улица Штормграда на закате, и ни одного имени над головами" width="1600" height="900" loading="lazy" decoding="async"></div></figure>
 		</section>
 
-		<section class="need" id="label" aria-labelledby="label-title">
-			<h2 id="label-title">Как узнать, кто перед вами, без имён повсюду?</h2>
-			<p>Наведите курсор на персонажа, и прямо над его головой появится метка вместо подсказки игры. Вы видите его портрет, уровень в цвете сложности, роль, вашу репутацию у его фракции и небольшую полоску здоровья.</p>
-			<p>Метка показывает и то, что важно сейчас: задание, которое он даёт или ждёт, ваши цели (3/8), что можно обыскать, освежевать или добыть, и на кого он смотрит.</p>
-			
+		<section class="need need-split need-flip" id="label" aria-labelledby="label-title">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">II</p>
+					<h2 id="label-title">Как узнать, кто перед вами, без имён повсюду?</h2>
+					<p>Наведите курсор на персонажа, и прямо над его головой появится метка вместо подсказки игры. Вы видите его портрет, уровень в цвете сложности, роль, вашу репутацию у его фракции и небольшую полоску здоровья.</p>
+					<p>Метка показывает и то, что важно сейчас: задание, которое он даёт или ждёт, ваши цели (3/8), что можно обыскать, освежевать или добыть, и на кого он смотрит.</p>
+				</div>
+			<figure class="shot reveal"><div class="frame"><img src="/assets/label-npc.webp" alt="Метка Wanderer над персонажем, выдающим задание: круглый портрет, уровень, роль и цели задания" width="1200" height="674" loading="lazy" decoding="async"></div></figure>
 		</section>
 
-		<section class="need" id="scenes" aria-labelledby="scenes-title">
-			<h2 id="scenes-title">Можно ли проходить задания и диалоги как спокойные кинематографичные сцены?</h2>
-			<p>Заговорите с персонажем: интерфейс гаснет, камера приближается, а его слова появляются страница за страницей на панели внизу экрана. Награды показывают редкость, непригодные предметы выделены красным, и их можно сравнить с тем, что на вас надето.</p>
-			<p>Пробел, чтобы продолжить, клавиши от 1 до 9, чтобы выбрать, Esc, чтобы закрыть. Удерживайте Shift, и вы получите окно игры, когда захотите.</p>
-			
+		<section class="need need-split" id="scenes" aria-labelledby="scenes-title">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">III</p>
+					<h2 id="scenes-title">Можно ли проходить задания и диалоги как спокойные кинематографичные сцены?</h2>
+					<p>Заговорите с персонажем: интерфейс гаснет, камера приближается, а его слова появляются страница за страницей на панели внизу экрана. Награды показывают редкость, непригодные предметы выделены красным, и их можно сравнить с тем, что на вас надето.</p>
+					<p>Пробел, чтобы продолжить, клавиши от 1 до 9, чтобы выбрать, Esc, чтобы закрыть. Удерживайте Shift, и вы получите окно игры, когда захотите.</p>
+				</div>
+			<figure class="shot reveal"><div class="frame"><img src="/assets/quest-scene.webp" alt="Задание в виде сцены: интерфейс скрыт, камера близко к НИП, текст задания на панели внизу экрана" width="1600" height="900" loading="lazy" decoding="async"></div></figure>
 		</section>
 
-		<section class="need" id="journal" aria-labelledby="journal-title">
-			<h2 id="journal-title">Путевой дневник, который помнит ваше приключение?</h2>
-			<p>Путевой дневник записывает ваше путешествие день за днём: исследованные места, каждое выполненное задание с названием, профессии, золото и уровень, даже то, что было до установки Wanderer.</p>
-			<p>Важные вехи, например первое верховое животное, подземелье или ночь в таверне, записываются с коротким уведомлением и звуком пера. Итог сеанса показывает время игры, золото и опыт в час.</p>
-			
+		<section class="need need-split need-flip" id="journal" aria-labelledby="journal-title">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">IV</p>
+					<h2 id="journal-title">Путевой дневник, который помнит ваше приключение?</h2>
+					<p>Путевой дневник записывает ваше путешествие день за днём: исследованные места, каждое выполненное задание с названием, профессии, золото и уровень, даже то, что было до установки Wanderer.</p>
+					<p>Важные вехи, например первое верховое животное, подземелье или ночь в таверне, записываются с коротким уведомлением и звуком пера. Итог сеанса показывает время игры, золото и опыт в час.</p>
+				</div>
+			<figure class="shot reveal"><div class="frame"><img src="/assets/travel-journal.webp" alt="Путевой дневник Wanderer, открытый на Хронике, с днями путешествия и записями" width="1600" height="900" loading="lazy" decoding="async"></div></figure>
 		</section>
 
-		<section class="need" id="comfort" aria-labelledby="comfort-title">
-			<h2 id="comfort-title">Один аддон, чтобы продавать хлам, чиниться, мгновенно собирать добычу и рыбачить двойным щелчком?</h2>
-			<p>Wanderer может продавать хлам и чинить снаряжение у торговцев (сначала за счёт гильдейского банка, если хотите), мгновенно собирать добычу, когда в игре включён автосбор, и позволяет рыбачить двойным щелчком правой кнопки. У наставников появляется кнопка «Изучить всё», у почтового ящика кнопка «Забрать всё».</p>
-			<p>Задания можно принимать и сдавать автоматически, шёпот может открываться в отдельном окне, а окна игры можно перемещать куда угодно. Любая автоматизация выключена, пока вы её не включите, и в бою ничего не меняется.</p>
-			
+		<section class="need need-band" id="comfort" aria-labelledby="comfort-title">
+			<img class="band-bg" src="/assets/band.webp" alt="" width="1920" height="828" loading="lazy" decoding="async">
+			<div class="band-panel">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">V</p>
+					<h2 id="comfort-title">Один аддон, чтобы продавать хлам, чиниться, мгновенно собирать добычу и рыбачить двойным щелчком?</h2>
+					<p>Wanderer может продавать хлам и чинить снаряжение у торговцев (сначала за счёт гильдейского банка, если хотите), мгновенно собирать добычу, когда в игре включён автосбор, и позволяет рыбачить двойным щелчком правой кнопки. У наставников появляется кнопка «Изучить всё», у почтового ящика кнопка «Забрать всё».</p>
+					<p>Задания можно принимать и сдавать автоматически, шёпот может открываться в отдельном окне, а окна игры можно перемещать куда угодно. Любая автоматизация выключена, пока вы её не включите, и в бою ничего не меняется.</p>
+				</div>
+			</div>
 		</section>
 
-		<section class="need" id="options" aria-labelledby="options-title">
-			<h2 id="options-title">Можно ли выбрать стиль и сохранить свои настройки?</h2>
-			<p>Шесть готовых стилей одинаково оформляют метку, подсказки игры и панель разговоров. Всё находится в настройках игры (Esc, Настройки, Модификации, Wanderer), с живым предпросмотром, и поиск игры это находит.</p>
-			<p>Экран приветствия настраивает всё под ваш стиль игры, с профилями для каждого персонажа и типа места. Выключите Wanderer, и каждая настройка игры, которую он менял, вернётся.</p>
-			
+		<section class="need need-split" id="options" aria-labelledby="options-title">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">VI</p>
+					<h2 id="options-title">Можно ли выбрать стиль и сохранить свои настройки?</h2>
+					<p>Шесть готовых стилей одинаково оформляют метку, подсказки игры и панель разговоров. Всё находится в настройках игры (Esc, Настройки, Модификации, Wanderer), с живым предпросмотром, и поиск игры это находит.</p>
+					<p>Экран приветствия настраивает всё под ваш стиль игры, с профилями для каждого персонажа и типа места. Выключите Wanderer, и каждая настройка игры, которую он менял, вернётся.</p>
+				</div>
+			<figure class="shot reveal"><div class="frame"><img src="/assets/options-styles.webp" alt="Настройки Wanderer в параметрах игры: готовые стили и живой предпросмотр метки" width="1600" height="900" loading="lazy" decoding="async"></div></figure>
 		</section>
 
-		<section class="need" id="trp3" aria-labelledby="trp3-title">
-			<h2 id="trp3-title">Работает ли Wanderer с Total RP 3?</h2>
-			<p>Да. Когда вы наводите курсор на ролевика, метка показывает его имя, титул и ролевой статус из Total RP 3 прямо над головой.</p>
-			<p>При желании есть и ролевые жесты: ваш персонаж читает, открывая книгу или почту, радуется новому уровню и машет тем, с кем говорит.</p>
-			
+		<section class="need need-solo" id="trp3" aria-labelledby="trp3-title">
+				<div class="need-text reveal">
+					<p class="numeral" aria-hidden="true">VII</p>
+					<h2 id="trp3-title">Работает ли Wanderer с Total RP 3?</h2>
+					<p>Да. Когда вы наводите курсор на ролевика, метка показывает его имя, титул и ролевой статус из Total RP 3 прямо над головой.</p>
+					<p>При желании есть и ролевые жесты: ваш персонаж читает, открывая книгу или почту, радуется новому уровню и машет тем, с кем говорит.</p>
+				</div>
 		</section>
 
-	<section class="faq" id="faq" aria-labelledby="faq-title">
+	<section class="faq reveal" id="faq" aria-labelledby="faq-title">
+		<div class="ornament" aria-hidden="true"><span></span></div>
 		<h2 id="faq-title">Вопросы</h2>
+		<div class="faq-list">
 			<details>
 				<summary><h3>Как скрыть имена над головами в WoW Forever?</h3></summary>
 				<p>Установите Wanderer и выберите набор «Полное погружение» на экране приветствия или на странице «Имена» в настройках. Все имена исчезнут. Наведите курсор на кого-нибудь, чтобы узнать, кто это, или удерживайте клавишу показа.</p>
@@ -151,37 +190,42 @@
 				<summary><h3>Wanderer бесплатный?</h3></summary>
 				<p>Да, полностью. Он активно развивается, и ничего не уходит из вашей игры: никакой связи с другими игроками или сайтами.</p>
 			</details>
-	</section>
-
-	<section class="install" id="install" aria-labelledby="install-title">
-		<h2 id="install-title">Установка без приложения для аддонов</h2>
-		<ol>
-			<li>Скачайте zip-файл с CurseForge.</li>
-			<li>Откройте папку WoW Forever, затем Interface и AddOns (в большинстве установок: World of Warcraft, _classic_beta_, Interface, AddOns).</li>
-			<li>Распакуйте архив туда, чтобы в AddOns появилась папка Wanderer.</li>
-			<li>Запустите игру или введите /reload, если она уже открыта. Введите /wanderer, чтобы открыть настройки.</li>
-		</ol>
-		<div class="buttons">
-			<a class="button button-main" href="https://www.curseforge.com/wow/addons/wanderer" rel="noopener" data-place="install">Скачать на <strong>CurseForge</strong></a>
-			<a class="button" href="https://github.com/Jaecko/wanderer" rel="noopener" data-place="install">Скачать на <strong>GitHub</strong></a>
 		</div>
-		<p><a href="https://www.curseforge.com/wow/addons/wanderer/files" rel="noopener">Что изменилось в каждой версии</a></p>
 	</section>
 
-	<section class="feedback" id="feedback" aria-labelledby="feedback-title">
+	<section class="install reveal" id="install" aria-labelledby="install-title">
+		<div class="install-card">
+			<h2 id="install-title">Установка без приложения для аддонов</h2>
+			<ol>
+				<li>Скачайте zip-файл с CurseForge.</li>
+				<li>Откройте папку WoW Forever, затем Interface и AddOns (в большинстве установок: World of Warcraft, _classic_beta_, Interface, AddOns).</li>
+				<li>Распакуйте архив туда, чтобы в AddOns появилась папка Wanderer.</li>
+				<li>Запустите игру или введите /reload, если она уже открыта. Введите /wanderer, чтобы открыть настройки.</li>
+			</ol>
+			<div class="buttons">
+				<a class="button button-main" href="https://www.curseforge.com/wow/addons/wanderer" rel="noopener" data-place="install">Скачать на <strong>CurseForge</strong></a>
+			<a class="button" href="https://github.com/Jaecko/wanderer" rel="noopener" data-place="install">Скачать на <strong>GitHub</strong></a>
+			</div>
+			<p class="changelog"><a href="https://www.curseforge.com/wow/addons/wanderer/files" rel="noopener">Что изменилось в каждой версии</a></p>
+		</div>
+	</section>
+
+	<section class="feedback reveal" id="feedback" aria-labelledby="feedback-title">
 		<h2 id="feedback-title">Расскажите, что вы думаете</h2>
 		<p>Wanderer делает один игрок, и аддон растёт благодаря вашим отзывам. Ошибка, идея, перевод, который стоит поправить: каждое сообщение читается.</p>
-		<ul>
+		<ul class="links">
 				<li><a href="https://www.curseforge.com/wow/addons/wanderer/comments" rel="noopener">Комментарии на CurseForge</a></li>
 				<li><a href="https://github.com/Jaecko/wanderer" rel="noopener">Проект на GitHub</a></li>
 		</ul>
 	</section>
 </main>
 <footer class="bottom">
+	<div class="ornament" aria-hidden="true"><span></span></div>
+	<p class="footer-brand" lang="en"><img src="/assets/logo.svg" alt="" width="40" height="40"> Wanderer</p>
 	<nav class="langs" aria-label="Язык">
 		<ul><li><a href="/en/" hreflang="en" lang="en">English</a></li><li><a href="/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/es/" hreflang="es" lang="es">Español</a></li><li><a href="/it/" hreflang="it" lang="it">Italiano</a></li><li><a href="/pt-br/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a></li><li><a href="/ru/" hreflang="ru" lang="ru" aria-current="page">Русский</a></li><li><a href="/ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="/zh-cn/" hreflang="zh-CN" lang="zh-CN">简体中文</a></li><li><a href="/zh-tw/" hreflang="zh-TW" lang="zh-TW">繁體中文</a></li></ul>
 	</nav>
-	<p>Wanderer: бесплатный фанатский аддон. World of Warcraft является товарным знаком Blizzard Entertainment, которая не поддерживает этот аддон.</p>
+	<p class="legal">Wanderer: бесплатный фанатский аддон. World of Warcraft является товарным знаком Blizzard Entertainment, которая не поддерживает этот аддон.</p>
 </footer>
 <script src="/video.js" defer></script>
 </body>

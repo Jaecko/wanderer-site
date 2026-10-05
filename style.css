@@ -294,8 +294,9 @@ main { overflow: hidden; }
 /* ---------- facts ---------- */
 
 .facts { width: min(60rem, calc(100% - 2.5rem)); margin: 3rem auto 0; }
-.facts dl { margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(10.5rem, 1fr)); gap: 1px; border: 1px solid var(--line); border-radius: 4px; overflow: hidden; background: var(--line); }
-.facts dl > div { padding: 1rem 1.1rem; background: linear-gradient(180deg, var(--stone-2), var(--stone)); }
+.facts dl { margin: 0; display: grid; grid-template-columns: repeat(2, 1fr); border: 1px solid var(--line); border-radius: 4px; overflow: hidden; background: linear-gradient(180deg, var(--stone-2), var(--stone)); }
+.facts dl > div { padding: 1rem 1.1rem; box-shadow: inset -1px -1px 0 var(--line); }
+@media (min-width: 48rem) { .facts dl { grid-template-columns: repeat(3, 1fr); } }
 .facts dt { margin: 0 0 .3rem; font: 600 .78rem var(--display); letter-spacing: .14em; text-transform: uppercase; color: var(--gold); }
 .facts dd { margin: 0; color: var(--ivory); font-size: 1.02rem; line-height: 1.45; }
 :lang(ko) .facts dt, :lang(zh-CN) .facts dt, :lang(zh-TW) .facts dt, :lang(ru) .facts dt { letter-spacing: .04em; }

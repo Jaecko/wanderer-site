@@ -21,6 +21,14 @@ Header set X-Content-Type-Options "nosniff"
 Header set Referrer-Policy "strict-origin-when-cross-origin"
 </IfModule>
 
+# The pages are checked again at every visit (a quick "not changed" when nothing moved):
+# an update shows at once. Style and script carry a fingerprint, so they can stay in cache.
+<FilesMatch ".html$">
+<IfModule mod_headers.c>
+Header set Cache-Control "no-cache"
+</IfModule>
+</FilesMatch>
+
 <IfModule mod_deflate.c>
 AddOutputFilterByType DEFLATE text/html text/css text/javascript application/javascript application/xml image/svg+xml text/plain
 </IfModule>
@@ -28,7 +36,7 @@ AddOutputFilterByType DEFLATE text/html text/css text/javascript application/jav
 <IfModule mod_expires.c>
 ExpiresActive On
 ExpiresDefault "access plus 1 hour"
-ExpiresByType text/html "access plus 1 hour"
+ExpiresByType text/html "access plus 0 seconds"
 ExpiresByType text/css "access plus 1 week"
 ExpiresByType text/javascript "access plus 1 week"
 ExpiresByType application/javascript "access plus 1 week"

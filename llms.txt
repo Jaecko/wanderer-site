@@ -2,7 +2,7 @@
 
 > Wanderer is a free immersion and comfort addon for World of Warcraft Forever. Names leave the heads of everyone around you, a label appears when you look at someone, conversations turn into quiet scenes, and the small comforts you would install a dozen addons for are gathered in one. Free, translated into 10 languages, in active development.
 
-Wanderer is a free addon for World of Warcraft Forever, version 0.35.0 (2026-10-04), translated into 10 languages, made by Jaekco.
+Wanderer is a free addon for World of Warcraft Forever, version 0.36.0 (2026-10-05), translated into 10 languages, made by Jaekco.
 
 ## What it does
 

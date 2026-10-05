@@ -23,7 +23,7 @@
 <link rel="icon" href="/assets/logo.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="preload" href="/assets/fonts/Cinzel-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="/assets/hero.webp" as="image" fetchpriority="high">
+<link rel="preload" as="image" href="/assets/hero.webp" imagesrcset="/assets/hero-960.webp 960w, /assets/hero.webp 1920w" imagesizes="100vw" fetchpriority="high">
 <link rel="stylesheet" href="/style.css">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Wanderer">
@@ -66,7 +66,7 @@
 </header>
 <main id="content">
 	<div class="hero">
-		<img class="hero-bg" src="/assets/hero.webp" alt="" width="1920" height="870" fetchpriority="high">
+		<img class="hero-bg" src="/assets/hero.webp" srcset="/assets/hero-960.webp 960w, /assets/hero.webp 1920w" sizes="100vw" alt="" width="1920" height="870" fetchpriority="high">
 		<div class="hero-inner">
 			<img class="medallion" src="/assets/logo.svg" alt="" width="112" height="112">
 			<p class="kicker" lang="en">Wanderer</p>

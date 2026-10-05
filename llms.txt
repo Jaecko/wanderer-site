@@ -1,8 +1,8 @@
 # Wanderer
 
-> Wanderer is a free addon for World of Warcraft Forever. Names leave the heads of everyone around you, a label appears when you look at someone, conversations turn into quiet scenes, and the small comforts you would install a dozen addons for are gathered in one. Free, translated into 10 languages, in active development.
+> Wanderer is a free immersion and comfort addon for World of Warcraft Forever. Names leave the heads of everyone around you, a label appears when you look at someone, conversations turn into quiet scenes, and the small comforts you would install a dozen addons for are gathered in one. Free, translated into 10 languages, in active development.
 
-Wanderer is an addon for World of Warcraft Forever, version 0.34.0, free, translated into 10 languages.
+Wanderer is a free addon for World of Warcraft Forever, version 0.35.0 (2026-10-04), translated into 10 languages, made by Jaekco.
 
 ## What it does
 
@@ -24,10 +24,10 @@ Wanderer is an addon for World of Warcraft Forever, version 0.34.0, free, transl
 
 ## Pages
 
-- [English](https://wanderer-addon.com/en/): Hide names above heads in WoW Forever: Wanderer, immersion addon
-- [Français](https://wanderer-addon.com/fr/): Cacher les noms au-dessus des têtes dans WoW Forever : Wanderer
+- [English](https://wanderer-addon.com/en/): Hide names above heads in WoW Forever: the Wanderer addon
+- [Français](https://wanderer-addon.com/fr/): Cacher les noms au-dessus des têtes (WoW Forever) : Wanderer
 - [Deutsch](https://wanderer-addon.com/de/): Namen über den Köpfen ausblenden in WoW Forever: Wanderer
-- [Español](https://wanderer-addon.com/es/): Ocultar los nombres sobre las cabezas en WoW Forever: Wanderer
+- [Español](https://wanderer-addon.com/es/): Ocultar nombres sobre las cabezas en WoW Forever: Wanderer
 - [Italiano](https://wanderer-addon.com/it/): Nascondere i nomi sopra le teste in WoW Forever: Wanderer
 - [Português (Brasil)](https://wanderer-addon.com/pt-br/): Esconder os nomes acima das cabeças no WoW Forever: Wanderer
 - [Русский](https://wanderer-addon.com/ru/): Как скрыть имена над головами в WoW Forever: аддон Wanderer
@@ -38,5 +38,6 @@ Wanderer is an addon for World of Warcraft Forever, version 0.34.0, free, transl
 ## Download and source
 
 - [CurseForge](https://www.curseforge.com/wow/addons/wanderer)
+- [Wago](https://addons.wago.io/addons/wanderer)
 - [GitHub](https://github.com/Jaecko/wanderer)
 - [Trailer on YouTube](https://www.youtube.com/watch?v=iptaXzImWI4)

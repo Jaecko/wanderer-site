@@ -118,7 +118,7 @@ p { margin: 0 0 1.1em; }
 	padding: 1rem clamp(1rem, 4vw, 2.5rem);
 }
 .brand { display: inline-flex; align-items: center; gap: .6rem; color: var(--ivory); text-decoration: none; font: 600 1.05rem var(--display); letter-spacing: .18em; text-transform: uppercase; }
-.brand img { border-radius: 50%; box-shadow: 0 0 0 1px var(--line-strong), 0 0 16px rgba(227, 191, 111, .25); }
+.brand img { filter: drop-shadow(0 0 8px rgba(227, 191, 111, .3)); }
 .brand:hover { color: var(--gold-bright); }
 .masthead-end { display: flex; align-items: center; gap: .75rem; }
 .masthead .button-small { display: none; }
@@ -151,8 +151,8 @@ p { margin: 0 0 1.1em; }
 }
 
 .hero-inner { width: 100%; max-width: 50rem; text-align: center; }
-.medallion { display: block; width: 112px; height: 112px; margin: 0 auto 1.25rem; border-radius: 50%; box-shadow: 0 0 0 1px rgba(251, 231, 168, .5), 0 0 40px rgba(227, 191, 111, .35), 0 20px 40px -10px rgba(0, 0, 0, .8); animation: glow 5s ease-in-out infinite alternate; }
-@keyframes glow { to { box-shadow: 0 0 0 1px rgba(251, 231, 168, .7), 0 0 60px rgba(227, 191, 111, .5), 0 20px 40px -10px rgba(0, 0, 0, .8); } }
+.medallion { display: block; width: 112px; height: 112px; margin: 0 auto 1.25rem; filter: drop-shadow(0 0 18px rgba(227, 191, 111, .35)) drop-shadow(0 16px 20px rgba(0, 0, 0, .7)); animation: glow 5s ease-in-out infinite alternate; }
+@keyframes glow { to { filter: drop-shadow(0 0 30px rgba(227, 191, 111, .5)) drop-shadow(0 16px 20px rgba(0, 0, 0, .7)); } }
 .kicker {
 	margin: 0 0 1rem; font: 700 clamp(1.1rem, 3.5vw, 1.4rem) var(--display); letter-spacing: .45em; text-indent: .45em; text-transform: uppercase;
 	background: var(--gold-grad); -webkit-background-clip: text; background-clip: text; color: transparent;
@@ -211,6 +211,23 @@ main { overflow: hidden; }
 .band-panel .numeral { justify-content: center; }
 .band-panel .numeral::before { content: ""; width: 3rem; height: 1px; background: linear-gradient(90deg, transparent, var(--line-strong)); }
 
+/* ---------- extensions ---------- */
+
+.extension { width: min(var(--width), calc(100% - 2.5rem)); margin: 7rem auto 0; display: grid; gap: 2rem; justify-items: center; text-align: center; }
+.extension-logo { width: 220px; max-width: 60vw; height: auto; border-radius: 6px; border: 1px solid var(--line-strong); box-shadow: 0 30px 60px -20px rgba(0, 0, 0, .8), 0 0 40px -10px rgba(227, 191, 111, .25); }
+.extension-text { max-width: var(--text-width); }
+.extension .numeral { justify-content: center; }
+.extension .numeral::before { content: ""; width: 3rem; height: 1px; background: linear-gradient(90deg, transparent, var(--line-strong)); }
+.extension h2 { font-size: clamp(1.65rem, 1.3rem + 1.6vw, 2.45rem); margin-bottom: 1.25rem; }
+.extension .note { margin: 1.25rem 0 0; max-width: none; font-size: 1rem; }
+.extension .buttons { margin-top: 1.5rem; justify-content: center; }
+@media (min-width: 48rem) {
+	.extension { grid-template-columns: 220px 1fr; align-items: center; justify-items: start; text-align: left; gap: 3rem; }
+	.extension .numeral { justify-content: flex-start; }
+	.extension .numeral::before { content: none; }
+	.extension .extension-text .buttons { flex-direction: row; justify-content: flex-start; }
+}
+
 /* ---------- FAQ ---------- */
 
 .faq { width: min(48rem, calc(100% - 2.5rem)); margin: 8rem auto 0; }
@@ -250,7 +267,7 @@ main { overflow: hidden; }
 .bottom { margin-top: 8rem; padding: 3rem 1.25rem 3.5rem; text-align: center; border-top: 1px solid var(--line); background: linear-gradient(180deg, rgba(12, 19, 34, .6), #04070d); }
 .bottom .ornament { margin-top: 0; }
 .footer-brand { display: inline-flex; align-items: center; gap: .7rem; margin: 0 0 1.5rem; font: 600 1.1rem var(--display); letter-spacing: .25em; text-transform: uppercase; color: var(--ivory); }
-.footer-brand img { border-radius: 50%; box-shadow: 0 0 0 1px var(--line-strong); }
+.footer-brand img { filter: drop-shadow(0 0 6px rgba(227, 191, 111, .25)); }
 .langs ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: .25rem 1.1rem; }
 .langs a { display: inline-block; padding: .4rem 0; color: var(--muted); text-decoration: none; font-size: 1rem; }
 .langs a:hover { color: var(--ivory); }

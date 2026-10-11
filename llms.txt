@@ -16,6 +16,42 @@ Wanderer is a free addon for World of Warcraft Forever, version 0.40.0 (2026-10-
 - Can I choose the look and keep my own settings? Six predefined styles dress the label, the game's tooltips and the conversation panel alike. Everything sits in the game's own options (Esc, Options, AddOns, Wanderer), with a live preview, and the game's search box finds it. A welcome screen sets things up the way you play, with profiles per character and per kind of place. Turn Wanderer off and every game setting it changed is given back.
 - Does Wanderer work with Total RP 3? Yes. When you hover a roleplayer, the label shows their Total RP 3 name, title and in-character status, right above their head. Roleplay gestures are there too if you want them: your character reads when opening a book or the mail, cheers on level up and waves at the people they talk to.
 
+## Extensions
+
+### Wanderer Bags
+
+Wanderer Bags is a free extension of Wanderer for World of Warcraft Forever. It gathers every bag you carry in a single window, sorts what you carry the way you think about it, keeps what matters safe from a careless sale, and brings your bank along, even far from the banker.
+
+- How do I see all my bags in one window in WoW Forever? Install Wanderer Bags with Wanderer: your bags open in one window drawn like every Wanderer window, following your Wanderer profiles. The squares are the game's own: a right click uses an item, a drag moves it, the tooltips, cooldowns and the glow of new items are exactly as you know them. Sorted by kind, what you just picked up comes first, then gear, consumables, crafting, quests and the rest, the junk at the end, and your free slots fit in a single square. If you prefer, bag by bag, each slot in its place.
+- How do I find an item quickly? A search by name or by kind ("quest", "junk"...) lets what does not match step back. The item level shows in the corner of your gear, Wanderer's green arrow marks what is better for the branch you play, and a small coin marks the junk wherever you are.
+- Can my crafting reagents be sorted by profession? Yes. Crafting is split into a section for each of your professions, then what your other characters use, then what only other professions use, just before the junk: what you may sell, at a glance. Wanderer knows the recipes, and yours as soon as a profession's window has been opened.
+- How do I stop an item from being sold by mistake? Alt+click an item and keep it: a padlock appears, and the item is never sold, neither to a merchant nor at the auction house, until you free it. Kept items gather in their own section, at the bottom of your bags. The same click sets an item aside for the auction house (never sold to a merchant), marks it as junk, or puts it in a section of your own, named as you like. Any section folds with a click on its title.
+- Can I sell my junk safely at a merchant? At a merchant, a Sell link sits beside the junk and the sections you may sell, with their value. The game's Sell All Junk follows your marks, so what you keep stays in your bags. With Wanderer Auction or Auctionator, a section also shows its value at the auction house.
+- Can I see my bank from anywhere? At the banker, your bank opens in its own Wanderer window beside your bags, with your character's tabs and the Warband's, the game's deposit and sorting; a right click moves an item between the two. Away from the banker, one link of your bags shows your bank as you left it.
+- Do I need Wanderer for Wanderer Bags? Yes, Wanderer 0.40 or later. Wanderer Bags is an extension: it uses Wanderer's windows, profiles and item comparison, and its settings sit in Wanderer's options. The CurseForge app installs Wanderer with it.
+- Can I get the game's bags back? Yes. One checkbox in Wanderer's options gives the game's bags back, another the game's bank. Nothing else in your game changes.
+- Does Wanderer Bags work with Auctionator? Yes. What you keep is hidden from Auctionator's selling list, and what you set aside for the auction house comes first in it.
+- Is Wanderer Bags free? Yes, completely, like Wanderer. It is translated into 10 languages, and nothing leaves your game.
+
+Page: https://wanderer-addon.com/en/bags/. Download: https://www.curseforge.com/wow/addons/wanderer-bags, https://addons.wago.io/addons/wanderer-bags.
+
+### Wanderer Auction
+
+Wanderer Auction is a free extension of Wanderer for World of Warcraft Forever. It brings the game's own auction house into a single Wanderer window, with every native feature and comfort on top, and one rule above all: you never sell for less than a merchant would give you.
+
+- How do I use the auction house in a Wanderer window? Open the auction house as usual: Wanderer's window takes the place of the game's, with a link for each page: to sell, to buy, your auctions, your bids. One link brings the game's window back at any time, another returns to Wanderer's, and closing the window closes the auction house.
+- How does it choose a selling price? Choose an item and its lowest price is looked up at once; a price just below is offered, or yours matched if you are already the cheapest. What you set aside in Wanderer Bags comes first and has its price looked up by itself, and what you keep there is never offered. A starting bid for items, the duration, the whole stack or a part of it: one click posts it. A right click on an item of your bags chooses it to sell.
+- Will it ever sell below a merchant's price? Never. The auction house takes a cut on every sale, so Wanderer Auction compares what you would really receive with what a merchant would give. A price that would bring less is never offered and cannot be posted: the window tells you the least worth asking, or to sell the item to a merchant. The deposit, lost if nothing sells, is shown in orange when it is more than what you would gain over the merchant.
+- How do I search and buy? Search by name, or with the game's categories, filters and levels, sorted by price, name or level; your favorites are a right click away. Commodities are bought by the quantity, their total cost said first; items by buyout or by bid. Every purchase and every bid is confirmed before it is made, and what a merchant gives for an item is shown, in green when it is more than its price here.
+- How do I follow my auctions and bids? Your auctions show in red the ones that are undercut, and say when following is not worth it. What sold waits in your mail. A cancel shows its cost and is asked first. Your bids put the outbid ones first, a new bid or the buyout in one click.
+- Can I see auction prices away from the auction house? Prices seen are remembered for the whole account, with how long ago. Wanderer Bags shows them on its sections, and the tooltips show them over an item, unless Auctionator is there to say them itself.
+- Does Wanderer Auction replace Auctionator? No, it is not meant to. It brings the game's own auction house into a Wanderer window, with comfort on top: the lowest price found, a merchant's price never undercut, your marks from Wanderer Bags. It works beside Auctionator, and the game's window stays one click away.
+- Do I need Wanderer Bags for Wanderer Auction? No. Wanderer Auction only needs Wanderer 0.40 or later. With Wanderer Bags, your marks (to keep, for the auction house) guide what is offered.
+- Can I keep the game's auction house window? Yes. An option in Wanderer's options keeps the game's window, and a link beside it opens Wanderer's whenever you want.
+- Is Wanderer Auction free? Yes, completely, like Wanderer. It is translated into 10 languages, and nothing is ever bought, bid or posted without your click.
+
+Page: https://wanderer-addon.com/en/auction/. Download: https://www.curseforge.com/wow/addons/wanderer-auction.
+
 ## Questions
 
 - How do I hide names above heads in WoW Forever? Install Wanderer and choose the Full immersion preset, on the welcome screen or in the Names page of the options. Every name goes away. Hover someone to see who they are, or hold the reveal key.

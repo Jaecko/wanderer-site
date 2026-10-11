@@ -226,7 +226,9 @@ main { overflow: hidden; }
 	.extension .numeral { justify-content: flex-start; }
 	.extension .numeral::before { content: none; }
 	.extension .extension-text .buttons { flex-direction: row; justify-content: flex-start; }
+	.extension-plain { grid-template-columns: 1fr; }
 }
+.extension + .extension { margin-top: 5rem; }
 
 /* ---------- FAQ ---------- */
 

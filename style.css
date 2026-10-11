@@ -137,6 +137,22 @@ p { margin: 0 0 1.1em; }
 .langmenu a { display: block; padding: .5rem .75rem; border-radius: 3px; color: var(--text); text-decoration: none; font-size: 1rem; }
 .langmenu a:hover { background: rgba(227, 191, 111, .1); color: var(--ivory); }
 .langmenu a[aria-current="page"] { color: var(--gold-bright); }
+.sitenav { display: none; }
+/* Phones: the menu and the languages by their icon alone (their name stays for screen readers). */
+@media (max-width: 39.99rem) {
+	.langmenu summary span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+	.langmenu summary { padding: .4rem .65rem; }
+}
+.sitenav ul { list-style: none; display: flex; align-items: center; gap: clamp(1.25rem, 2.2vw, 2.25rem); margin: 0; padding: 0; }
+.sitenav a { position: relative; white-space: nowrap; color: var(--text); text-decoration: none; font: 500 .82rem var(--display); letter-spacing: .14em; text-transform: uppercase; padding: .4rem 0; transition: color .2s; }
+.sitenav a::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 1px; background: linear-gradient(90deg, transparent, var(--gold), transparent); opacity: 0; transition: opacity .25s; }
+.sitenav a:hover { color: var(--ivory); }
+.sitenav a:hover::after, .sitenav a[aria-current="page"]::after { opacity: 1; }
+.sitenav a[aria-current="page"] { color: var(--gold-bright); }
+@media (min-width: 75rem) {
+	.sitenav { display: block; }
+	.sitemenu { display: none; }
+}
 
 /* ---------- hero ---------- */
 
@@ -250,7 +266,7 @@ main { overflow: hidden; }
 .crumbs li + li::before { content: "\25C6"; font-size: .55rem; color: var(--gold); margin-right: .6rem; vertical-align: .15em; }
 .crumbs a { color: var(--gold); text-decoration: none; }
 .crumbs a:hover { color: var(--gold-bright); }
-.ext-hero { width: min(var(--width), calc(100% - 2.5rem)); margin: 2.5rem auto 0; display: grid; gap: 2.5rem; align-items: center; }
+.ext-hero { width: min(var(--width), calc(100% - 2.5rem)); margin: 2.5rem auto 0; display: grid; grid-template-columns: minmax(0, 1fr); gap: 2.5rem; align-items: center; }
 .ext-hero-image { width: min(100%, 22rem); margin: 0 auto; }
 .ext-hero-text { text-align: center; }
 .ext-hero h1 { font-size: clamp(1.9rem, 1.4rem + 2.4vw, 3rem); text-shadow: 0 2px 2px rgba(0, 0, 0, .6); }

@@ -24,7 +24,7 @@
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="preload" href="/assets/fonts/Cinzel-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" as="image" href="/assets/hero.webp" imagesrcset="/assets/hero-960.webp 960w, /assets/hero.webp 1920w" imagesizes="100vw" fetchpriority="high">
-<link rel="stylesheet" href="/style.css?v=4e32fb53c7">
+<link rel="stylesheet" href="/style.css?v=0ce4b7447f">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Wanderer">
 <meta property="og:title" content="Как скрыть имена над головами в WoW Forever: аддон Wanderer">
@@ -195,31 +195,39 @@
 				</div>
 		</section>
 
-	<section class="extension reveal" id="bags" aria-labelledby="bags-title">
-		<img class="extension-logo" src="/assets/bags.png" alt="Логотип Wanderer Bags: кожаный рюкзак путешественника в свете фонаря ночью" width="220" height="220" loading="lazy" decoding="async">
-		<div class="extension-text">
-			<p class="numeral">Дополнение</p>
-			<h2 id="bags-title" lang="en">Wanderer Bags</h2>
-			<p>Ваши сумки и банк в одном спокойном окне Wanderer. По видам предметов, только что поднятое вверху, хлам в конце, или по сумкам. Поиск, уровень предметов на снаряжении, зелёная стрелка на том, что вам лучше.</p>
-			<p>У банкира банк открывается рядом с сумками, с вкладками персонажа и отряда. В любом другом месте один щелчок показывает его таким, каким вы его оставили.</p>
-			<p class="note">Бесплатное дополнение: ему нужен Wanderer, и приложение CurseForge устанавливает оба вместе.</p>
-			<div class="buttons">
-				<a class="button button-main" href="https://www.curseforge.com/wow/addons/wanderer-bags" rel="noopener" data-place="bags">Скачать на <strong>CurseForge</strong></a>
-				<a class="button" href="https://addons.wago.io/addons/wanderer-bags" rel="noopener" data-place="bags">Скачать на <strong>Wago</strong></a>
+	<section class="extensions reveal" id="extensions" aria-labelledby="extensions-title">
+		<header class="extensions-head">
+			<p class="numeral">Расширения</p>
+			<h2 id="extensions-title">Два спутника в дороге</h2>
+			<p>Бесплатные модули, которые следуют вашим профилям и стилю Wanderer. Берите только нужные: Wanderer работает и сам по себе, а приложение CurseForge ставит его вместе с ними.</p>
+			<div class="ornament" aria-hidden="true"><span></span></div>
+		</header>
+		<div class="extensions-list">
+		<article class="extension" id="bags" aria-labelledby="bags-title">
+			<div class="frame extension-image"><img src="/assets/bags.webp" alt="Логотип Wanderer Bags: кожаный рюкзак путешественника в свете фонаря ночью" width="720" height="720" loading="lazy" decoding="async"></div>
+			<div class="extension-text">
+				<p class="numeral">Ваши сумки и банк</p>
+				<h3 id="bags-title" lang="en">Wanderer Bags</h3>
+				<p>Ваши сумки в спокойном окне Wanderer, по видам: только что подобранное сначала, ремесло по профессиям, хлам в конце. Alt+щелчок защищает предмет от любой продажи или откладывает его для аукциона.</p>
+				<p>У банкира банк открывается рядом с сумками, с вкладками персонажа и отряда. В любом другом месте один щелчок показывает его таким, каким вы его оставили.</p>
+				<div class="buttons">
+					<a class="button button-small button-main" href="https://www.curseforge.com/wow/addons/wanderer-bags" rel="noopener" data-place="bags">Скачать на <strong>CurseForge</strong></a>
+					<a class="button button-small" href="https://addons.wago.io/addons/wanderer-bags" rel="noopener" data-place="bags">Скачать на <strong>Wago</strong></a>
+				</div>
 			</div>
-		</div>
-	</section>
-
-	<section class="extension extension-plain reveal" id="auction" aria-labelledby="auction-title">
-		<div class="extension-text">
-			<p class="numeral">Расширение</p>
-			<h2 id="auction-title" lang="en">Wanderer Auction</h2>
-			<p>Аукцион в спокойном окне Wanderer вместо окна игры: продажа, покупка, ваши лоты и ставки. Один щелчок возвращает окно игры.</p>
-			<p>При продаже сначала идет отложенное в Wanderer Bags, а то, что вы храните, никогда не предлагается. Самая низкая цена ищется за вас, предлагается чуть ниже, но никогда такая, что за вычетом комиссии аукциона даст меньше торговца.</p>
-			<p class="note">Бесплатное расширение: ему нужен Wanderer, и приложение CurseForge устанавливает оба вместе.</p>
-			<div class="buttons">
-				<a class="button button-main" href="https://www.curseforge.com/wow/addons/wanderer-auction" rel="noopener" data-place="auction">Скачать на <strong>CurseForge</strong></a>
+		</article>
+		<article class="extension" id="auction" aria-labelledby="auction-title">
+			<div class="frame extension-image"><img src="/assets/auction.webp" alt="Логотип Wanderer Auction" width="720" height="720" loading="lazy" decoding="async"></div>
+			<div class="extension-text">
+				<p class="numeral">Аукцион</p>
+				<h3 id="auction-title" lang="en">Wanderer Auction</h3>
+				<p>Аукцион в спокойном окне Wanderer вместо окна игры: продажа, покупка, ваши лоты и ставки. Один щелчок возвращает окно игры.</p>
+				<p>При продаже сначала идет отложенное в Wanderer Bags, а то, что вы храните, никогда не предлагается. Самая низкая цена ищется за вас, предлагается чуть ниже, но никогда такая, что за вычетом комиссии аукциона даст меньше торговца.</p>
+				<div class="buttons">
+					<a class="button button-small button-main" href="https://www.curseforge.com/wow/addons/wanderer-auction" rel="noopener" data-place="auction">Скачать на <strong>CurseForge</strong></a>
+				</div>
 			</div>
+		</article>
 		</div>
 	</section>
 

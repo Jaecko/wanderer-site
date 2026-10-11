@@ -24,7 +24,7 @@
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="preload" href="/assets/fonts/Cinzel-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" as="image" href="/assets/hero.webp" imagesrcset="/assets/hero-960.webp 960w, /assets/hero.webp 1920w" imagesizes="100vw" fetchpriority="high">
-<link rel="stylesheet" href="/style.css?v=4e32fb53c7">
+<link rel="stylesheet" href="/style.css?v=0ce4b7447f">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Wanderer">
 <meta property="og:title" content="魔獸世界 Forever 隱藏頭頂名稱：沉浸插件 Wanderer">
@@ -195,31 +195,39 @@
 				</div>
 		</section>
 
-	<section class="extension reveal" id="bags" aria-labelledby="bags-title">
-		<img class="extension-logo" src="/assets/bags.png" alt="Wanderer Bags 標誌：夜晚被提燈照亮的冒險者皮革背包" width="220" height="220" loading="lazy" decoding="async">
-		<div class="extension-text">
+	<section class="extensions reveal" id="extensions" aria-labelledby="extensions-title">
+		<header class="extensions-head">
 			<p class="numeral">擴充</p>
-			<h2 id="bags-title" lang="en">Wanderer Bags</h2>
-			<p>你的背包和銀行合在一個安靜的 Wanderer 視窗中。依類別排列，剛拾取的在最前，垃圾在最後，或逐個背包排列。可搜尋，裝備上顯示物品等級，更適合你的裝備顯示綠色箭頭。</p>
-			<p>在銀行職員處，銀行會在背包旁開啟，包含角色和戰隊的標籤頁。在其他任何地方，點一下即可查看你離開時的銀行。</p>
-			<p class="note">免費擴充：需要 Wanderer，CurseForge 應用程式會一併安裝兩者。</p>
-			<div class="buttons">
-				<a class="button button-main" href="https://www.curseforge.com/wow/addons/wanderer-bags" rel="noopener" data-place="bags">下載： <strong>CurseForge</strong></a>
-				<a class="button" href="https://addons.wago.io/addons/wanderer-bags" rel="noopener" data-place="bags">下載： <strong>Wago</strong></a>
+			<h2 id="extensions-title">旅途中的兩位夥伴</h2>
+			<p>免費模組，沿用你的設定檔和 Wanderer 的風格。只選你想要的：Wanderer 單獨也能運作，CurseForge 應用程式會一併安裝它。</p>
+			<div class="ornament" aria-hidden="true"><span></span></div>
+		</header>
+		<div class="extensions-list">
+		<article class="extension" id="bags" aria-labelledby="bags-title">
+			<div class="frame extension-image"><img src="/assets/bags.webp" alt="Wanderer Bags 標誌：夜晚被提燈照亮的冒險者皮革背包" width="720" height="720" loading="lazy" decoding="async"></div>
+			<div class="extension-text">
+				<p class="numeral">背包與銀行</p>
+				<h3 id="bags-title" lang="en">Wanderer Bags</h3>
+				<p>背包放進一個簡潔的 Wanderer 視窗，依類別排列：剛拾取的在前，製作材料依專業分類，垃圾在最後。Alt+點擊可讓物品免於任何出售，或留給拍賣場。</p>
+				<p>在銀行職員處，銀行會在背包旁開啟，包含角色和戰隊的標籤頁。在其他任何地方，點一下即可查看你離開時的銀行。</p>
+				<div class="buttons">
+					<a class="button button-small button-main" href="https://www.curseforge.com/wow/addons/wanderer-bags" rel="noopener" data-place="bags">下載： <strong>CurseForge</strong></a>
+					<a class="button button-small" href="https://addons.wago.io/addons/wanderer-bags" rel="noopener" data-place="bags">下載： <strong>Wago</strong></a>
+				</div>
 			</div>
-		</div>
-	</section>
-
-	<section class="extension extension-plain reveal" id="auction" aria-labelledby="auction-title">
-		<div class="extension-text">
-			<p class="numeral">擴充</p>
-			<h2 id="auction-title" lang="en">Wanderer Auction</h2>
-			<p>用一個簡潔的 Wanderer 視窗取代遊戲內建的拍賣場視窗：出售、購買、你的拍賣和競標。一鍵即可切回遊戲視窗。</p>
-			<p>出售時，你在 Wanderer Bags 中留給拍賣場的物品排在最前，保留的物品永不出售。為你查詢最低價並建議略低的價格，但絕不建議扣除拍賣場手續費後低於商人收購價的價格。</p>
-			<p class="note">免費擴充：需要 Wanderer，CurseForge 應用程式會同時安裝兩者。</p>
-			<div class="buttons">
-				<a class="button button-main" href="https://www.curseforge.com/wow/addons/wanderer-auction" rel="noopener" data-place="auction">下載： <strong>CurseForge</strong></a>
+		</article>
+		<article class="extension" id="auction" aria-labelledby="auction-title">
+			<div class="frame extension-image"><img src="/assets/auction.webp" alt="Wanderer Auction 標誌" width="720" height="720" loading="lazy" decoding="async"></div>
+			<div class="extension-text">
+				<p class="numeral">拍賣場</p>
+				<h3 id="auction-title" lang="en">Wanderer Auction</h3>
+				<p>用一個簡潔的 Wanderer 視窗取代遊戲內建的拍賣場視窗：出售、購買、你的拍賣和競標。一鍵即可切回遊戲視窗。</p>
+				<p>出售時，你在 Wanderer Bags 中留給拍賣場的物品排在最前，保留的物品永不出售。為你查詢最低價並建議略低的價格，但絕不建議扣除拍賣場手續費後低於商人收購價的價格。</p>
+				<div class="buttons">
+					<a class="button button-small button-main" href="https://www.curseforge.com/wow/addons/wanderer-auction" rel="noopener" data-place="auction">下載： <strong>CurseForge</strong></a>
+				</div>
 			</div>
+		</article>
 		</div>
 	</section>
 

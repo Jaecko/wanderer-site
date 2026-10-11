@@ -24,7 +24,7 @@
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="preload" href="/assets/fonts/Cinzel-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" as="image" href="/assets/hero.webp" imagesrcset="/assets/hero-960.webp 960w, /assets/hero.webp 1920w" imagesizes="100vw" fetchpriority="high">
-<link rel="stylesheet" href="/style.css?v=4e32fb53c7">
+<link rel="stylesheet" href="/style.css?v=0ce4b7447f">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Wanderer">
 <meta property="og:title" content="Cacher les noms au-dessus des têtes (WoW Forever) : Wanderer">
@@ -195,31 +195,39 @@
 				</div>
 		</section>
 
-	<section class="extension reveal" id="bags" aria-labelledby="bags-title">
-		<img class="extension-logo" src="/assets/bags.png" alt="Logo de Wanderer Bags : un sac d'aventurier en cuir éclairé par une lanterne, la nuit" width="220" height="220" loading="lazy" decoding="async">
-		<div class="extension-text">
-			<p class="numeral">Extension</p>
-			<h2 id="bags-title" lang="en">Wanderer Bags</h2>
-			<p>Vos sacs et votre banque dans une seule fenêtre Wanderer, sobre. Rangés par genre, ce que vous venez de ramasser en tête et la camelote à la fin, ou sac par sac. Une recherche, le niveau d'objet sur l'équipement, la flèche verte sur ce qui vous va mieux.</p>
-			<p>Chez le banquier, votre banque s'ouvre à côté de vos sacs, avec les onglets du personnage et ceux du bataillon. Partout ailleurs, un clic la montre telle que vous l'avez laissée.</p>
-			<p class="note">Une extension gratuite : elle demande Wanderer, et l'application CurseForge installe les deux ensemble.</p>
-			<div class="buttons">
-				<a class="button button-main" href="https://www.curseforge.com/wow/addons/wanderer-bags" rel="noopener" data-place="bags">Télécharger sur <strong>CurseForge</strong></a>
-				<a class="button" href="https://addons.wago.io/addons/wanderer-bags" rel="noopener" data-place="bags">Télécharger sur <strong>Wago</strong></a>
+	<section class="extensions reveal" id="extensions" aria-labelledby="extensions-title">
+		<header class="extensions-head">
+			<p class="numeral">Extensions</p>
+			<h2 id="extensions-title">Deux compagnons de route</h2>
+			<p>Des modules gratuits qui suivent vos profils et le style de Wanderer. Ne prenez que ceux qui vous parlent : Wanderer fonctionne très bien seul, et l'application CurseForge l'installe avec eux.</p>
+			<div class="ornament" aria-hidden="true"><span></span></div>
+		</header>
+		<div class="extensions-list">
+		<article class="extension" id="bags" aria-labelledby="bags-title">
+			<div class="frame extension-image"><img src="/assets/bags.webp" alt="Logo de Wanderer Bags : un sac d'aventurier en cuir éclairé par une lanterne, la nuit" width="720" height="720" loading="lazy" decoding="async"></div>
+			<div class="extension-text">
+				<p class="numeral">Vos sacs et votre banque</p>
+				<h3 id="bags-title" lang="en">Wanderer Bags</h3>
+				<p>Vos sacs dans une fenêtre Wanderer sobre, rangés par genre : ce que vous venez de ramasser en tête, l'artisanat par métier, la camelote à la fin. Un Alt+clic met un objet à l'abri de toute vente, ou le réserve à l'hôtel des ventes.</p>
+				<p>Chez le banquier, votre banque s'ouvre à côté de vos sacs, avec les onglets du personnage et ceux du bataillon. Partout ailleurs, un clic la montre telle que vous l'avez laissée.</p>
+				<div class="buttons">
+					<a class="button button-small button-main" href="https://www.curseforge.com/wow/addons/wanderer-bags" rel="noopener" data-place="bags">Télécharger sur <strong>CurseForge</strong></a>
+					<a class="button button-small" href="https://addons.wago.io/addons/wanderer-bags" rel="noopener" data-place="bags">Télécharger sur <strong>Wago</strong></a>
+				</div>
 			</div>
-		</div>
-	</section>
-
-	<section class="extension extension-plain reveal" id="auction" aria-labelledby="auction-title">
-		<div class="extension-text">
-			<p class="numeral">Extension</p>
-			<h2 id="auction-title" lang="en">Wanderer Auction</h2>
-			<p>L'hôtel des ventes dans une fenêtre Wanderer discrète, à la place de celle du jeu : vendre, acheter, vos ventes et vos enchères. Un clic ramène la fenêtre du jeu.</p>
-			<p>Pour vendre, ce que vous réservez dans Wanderer Bags passe en tête et ce que vous gardez n'est jamais proposé. Le prix le plus bas est recherché pour vous et un prix juste en dessous proposé, mais jamais un qui rapporterait moins qu'un marchand une fois la commission de l'hôtel des ventes déduite.</p>
-			<p class="note">Une extension gratuite : elle a besoin de Wanderer, et l'application CurseForge installe les deux ensemble.</p>
-			<div class="buttons">
-				<a class="button button-main" href="https://www.curseforge.com/wow/addons/wanderer-auction" rel="noopener" data-place="auction">Télécharger sur <strong>CurseForge</strong></a>
+		</article>
+		<article class="extension" id="auction" aria-labelledby="auction-title">
+			<div class="frame extension-image"><img src="/assets/auction.webp" alt="Logo de Wanderer Auction" width="720" height="720" loading="lazy" decoding="async"></div>
+			<div class="extension-text">
+				<p class="numeral">L'hôtel des ventes</p>
+				<h3 id="auction-title" lang="en">Wanderer Auction</h3>
+				<p>L'hôtel des ventes dans une fenêtre Wanderer discrète, à la place de celle du jeu : vendre, acheter, vos ventes et vos enchères. Un clic ramène la fenêtre du jeu.</p>
+				<p>Pour vendre, ce que vous réservez dans Wanderer Bags passe en tête et ce que vous gardez n'est jamais proposé. Le prix le plus bas est recherché pour vous et un prix juste en dessous proposé, mais jamais un qui rapporterait moins qu'un marchand une fois la commission de l'hôtel des ventes déduite.</p>
+				<div class="buttons">
+					<a class="button button-small button-main" href="https://www.curseforge.com/wow/addons/wanderer-auction" rel="noopener" data-place="auction">Télécharger sur <strong>CurseForge</strong></a>
+				</div>
 			</div>
+		</article>
 		</div>
 	</section>
 

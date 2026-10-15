@@ -2,7 +2,7 @@
 
 > Wanderer is a free immersion and comfort addon for World of Warcraft Forever. Names leave the heads of everyone around you, a label appears when you look at someone, conversations turn into quiet scenes, and the small comforts you would install a dozen addons for are gathered in one. Free, translated into 10 languages, in active development.
 
-Wanderer is a free addon for World of Warcraft Forever, version 0.40.0 (2026-10-11), translated into 10 languages, made by Jaekco.
+Wanderer is a free addon for World of Warcraft Forever, version 0.41.0 (2026-10-15), translated into 10 languages, made by Jaekco.
 
 ## What it does
 
@@ -28,6 +28,7 @@ Wanderer Bags is a free extension of Wanderer for World of Warcraft Forever. It 
 - How do I stop an item from being sold by mistake? Alt+click an item and keep it: a padlock appears, and the item is never sold, neither to a merchant nor at the auction house, until you free it. Kept items gather in their own section, at the bottom of your bags. The same click sets an item aside for the auction house (never sold to a merchant), marks it as junk, or puts it in a section of your own, named as you like. Any section folds with a click on its title.
 - Can I sell my junk safely at a merchant? At a merchant, a Sell link sits beside the junk and the sections you may sell, with their value. The game's Sell All Junk follows your marks, so what you keep stays in your bags. With Wanderer Auction or Auctionator, a section also shows its value at the auction house.
 - Can I see my bank from anywhere? At the banker, your bank opens in its own Wanderer window beside your bags, with your character's tabs and the Warband's, the game's deposit and sorting; a right click moves an item between the two. Away from the banker, one link of your bags shows your bank as you left it.
+- Can I act on many items at once? Yes. The Select button beside the search lets you choose one item or several (Shift+click for a run), then act on them all from a bar under the squares: keep them, set them aside for the auction house, mark them as junk, put them in a section of yours, sell them at a merchant or deposit them at the banker.
 
 #### Questions about Wanderer Bags
 
@@ -51,6 +52,7 @@ Wanderer Auction is a free extension of Wanderer for World of Warcraft Forever. 
 - How do I search and buy? Search by name, or with the game's categories, filters and levels, sorted by price, name or level; your favorites are a right click away. Commodities are bought by the quantity, their total cost said first; items by buyout or by bid. Every purchase and every bid is confirmed before it is made, and what a merchant gives for an item is shown, in green when it is more than its price here.
 - How do I follow my auctions and bids? Your auctions show in red the ones that are undercut, and say when following is not worth it. What sold waits in your mail. A cancel shows its cost and is asked first. Your bids put the outbid ones first, a new bid or the buyout in one click.
 - Can I see auction prices away from the auction house? Prices seen are remembered for the whole account, with how long ago. Wanderer Bags shows them on its sections, and the tooltips show them over an item, unless Auctionator is there to say them itself.
+- Can I keep a shopping list? Yes. Items added from Wanderer Quests or from Wanderer's reminders gather in a shopping list, searched all at once on the buying page, cheapest first; what is not on sale is said. What you already carry enough of leaves it by itself. Identical items to sell stand on one line and are posted together, like a stack.
 
 #### Questions about Wanderer Auction
 
@@ -64,6 +66,26 @@ Wanderer Auction is a free extension of Wanderer for World of Warcraft Forever. 
 
 Page: https://wanderer-addon.com/en/auction/. Download: https://www.curseforge.com/wow/addons/wanderer-auction.
 
+### Wanderer Quests
+
+Wanderer Quests is a free extension of Wanderer for World of Warcraft Forever. It shows every quest of your class, of every dungeon and raid and of every zone, each with the quests that lead to it, and where you stand with each. It is not an arrow over the world: it is a book you open to plan your way.
+
+- Which quests does Wanderer Quests show? Three tabs: your class, its own quests by bands of levels; dungeons and raids, the quests of each and every quest that leads to them; zones, every zone with quests for you, the one you stand in chosen first. Only what is for you: your race, your class, your side. Each place says its levels and how many of its quests you have done.
+- How do I see a quest chain? A place's quests are drawn as a tree: the quests that open others above them, wherever they start, in the colors of their difficulty. The quest you need to open a dungeon chain, the class quest no one tells you about, the one you skipped three zones ago: they are all there. Each says if it is done, in your log, to take, after another, another choice taken, or too high for now. A quest the game let you skip is said passed.
+- What does a quest's sheet show? A click on a quest opens its sheet beside the window: what to do, in its own words, and its story; the items it asks with how many you already carry, the creatures or objects to find; who gives it and who takes it back, with a pin on your map for each. Read ahead: a quest still far off is prepared as well as one in your log.
+- Does it work with the other Wanderer addons? What a quest asks goes to Wanderer's reminders in one click, with how many you carry as you gather it. Its items go to the shopping list of Wanderer Auction, searched all at once at the auction house.
+
+#### Questions about Wanderer Quests
+
+- Do I need Questie or another quest addon? No. Everything Wanderer Quests knows comes with it, from the CMaNGOS classic database and pfQuest. Only Wanderer is needed.
+- Does Wanderer Quests slow down my game? No. Its data is read only when you first open the window, only your language is loaded, and where you stand is always asked of the game, never saved apart.
+- Does Wanderer Quests draw arrows or markers over the world? No. It shows nothing over the world: a pin goes on your map only when you ask for one.
+- How do I open Wanderer Quests? From Wanderer's minimap menu, its options page, or by typing /wquests.
+- Does it know the quests added by WoW Forever? Not yet: it knows the quests of the original game. Tell us which new ones you meet in the comments on CurseForge.
+- Is Wanderer Quests free? Yes, completely, like Wanderer. It is free software under the GPL-3.0, translated into 10 languages.
+
+Page: https://wanderer-addon.com/en/quests/. Download: https://www.curseforge.com/wow/addons/wanderer-quests.
+
 ## Questions about Wanderer
 
 - How do I hide names above heads in WoW Forever? Install Wanderer and choose the Full immersion preset, on the welcome screen or in the Names page of the options. Every name goes away. Hover someone to see who they are, or hold the reveal key.
@@ -71,9 +93,10 @@ Page: https://wanderer-addon.com/en/auction/. Download: https://www.curseforge.c
 - Will it change my game settings forever? No. Turn Wanderer off, or type /wanderer off, and every setting it changed is given back.
 - Does it automate quests by default? No. Every automation that acts for you is off until you turn it on, and holding Shift always keeps things manual.
 - Is Wanderer free? Yes, completely. It is in active development, and nothing leaves your game: no communication with other players or websites.
-- What are Wanderer's extensions? Two free modules that add to Wanderer for World of Warcraft Forever. Wanderer Bags puts your bags and your bank in one window and keeps chosen items safe from any sale. Wanderer Auction brings the auction house into a Wanderer window and never sells below a merchant's price. Each needs Wanderer and has its own page on wanderer-addon.com.
+- What are Wanderer's extensions? Three free modules that add to Wanderer for World of Warcraft Forever. Wanderer Bags puts your bags and your bank in one window and keeps chosen items safe from any sale. Wanderer Auction brings the auction house into a Wanderer window and never sells below a merchant's price. Wanderer Quests shows every quest of your class, your dungeons and your zones, in chains. Each needs Wanderer and has its own page on wanderer-addon.com.
 - Do I need Wanderer for Wanderer Bags? Yes. Wanderer Bags is an extension: it uses Wanderer's windows, profiles and item comparison, and its settings sit in Wanderer's options. The CurseForge app installs Wanderer with it. Wanderer works on its own without it.
 - Does Wanderer Auction replace Auctionator? No, it is not meant to. It brings the game's own auction house into a Wanderer window, with comfort on top: the lowest price found, a merchant's price never undercut, your marks from Wanderer Bags. It works beside Auctionator, and the game's window stays one click away.
+- How do I find the quests that open a dungeon in WoW Forever? Install Wanderer Quests with Wanderer and open its Dungeons tab: each dungeon and raid lists its quests and every quest that leads to them, wherever they start, with where you stand with each and the entrance pinned on your map.
 
 ## Pages
 

@@ -93,6 +93,26 @@ Wanderer Quests is a free extension of Wanderer for World of Warcraft Forever. I
 
 Page: https://wanderer-addon.com/en/quests/. Download: https://www.curseforge.com/wow/addons/wanderer-quests.
 
+### Wanderer Campfire Game
+
+Wanderer Campfire Game is a free extension of Wanderer for World of Warcraft Forever. A campfire grows tier after tier, companions gather around it and set out on expeditions across Azeroth in real time. What you do in the game makes it stronger; what it gives stays in its own world.
+
+- How does the camp grow? The fire makes embers all the time, even while you are away (twelve hours, more with the ashes). Stoke it with a click, buy its producers and their upgrades. With embers and renown it grows through seven tiers, each bringing room for more companions and more expeditions at once; the seventh, the eternal blaze, never ends, each of its levels asking more. Six buildings, each up to five levels: a kitchen for provisions, a forge for strength, an apothecary for wounds, tents for room, a storehouse for reserves, a watchtower for what comes back.
+- What is a new fire? Once a fire has grown, let it go out for its ashes. Only the fire begins again: the tier, the buildings, the companions, the expeditions and the resources stay. Each ash makes every fire after it stronger, for good, and between two fires, and only then, they are spent in the ashes' tree.
+- Who are the companions? Adventurers in the colors of WoW's classes, each a protector, a healer or a fighter, with a trait of their own. They level up on the road, choose a talent at levels 20, 40 and 60, and wear the gear your forge makes them. Those who often go together work better together. An exalted reputation brings a champion of that faction to your fire.
+- How do the expeditions work? Choose a place, how long and who goes: forty zones, nineteen dungeons, seven raids. The odds, the provisions and what it should bring are said before you leave. A protector and a healer matter, in dungeons and raids above all. They come back in real time, from fifteen minutes to a whole day, with renown, embers, supplies and sometimes a trophy. A short notice says when they are back. Now and then the road brings a choice back with it.
+- How does my real journey count? A zone opens to expeditions when your character has its exploration achievement. Your level opens the fire's tiers and the dungeons. Your professions strengthen the camp, and the quartermaster asks for goods of your professions: have them in your bags or your bank, they stay yours. Each quest you hand in brings renown, each fish caught and each dish cooked brings provisions. A boss you kill in a dungeon or a raid makes it lived: its expeditions bring a quarter more, for good.
+- What happens by the fire? Every few hours something happens by the fire: a peddler, a storm, wolves, a bard. You choose, and live with it. Some stories go on over three nights. Trophies to find in every place, feats of the camp, and champions of your exalted factions.
+
+#### Questions about Wanderer Campfire Game
+
+- Does Wanderer Campfire Game give anything in the real game? No. It only reads what your character has done (achievements, level, professions, items in your bags); everything it gives stays in the game by the fire.
+- Does it slow down my game? No. Nothing runs while its window is closed: the time gone by is counted when you look, and one timer only waits for the next expedition to come back.
+- Is the camp shared between my characters? No. Each character has its own camp, fed by its own journey.
+- How do I open it? From Wanderer's menu, a key of yours in the game's key bindings, or /wcampfire.
+
+Page: https://wanderer-addon.com/en/campfire/. Download: https://www.curseforge.com/wow/addons/wanderer-campfire-game.
+
 ## Questions about Wanderer
 
 - How do I hide names above heads in WoW Forever? Install Wanderer and choose the Full immersion preset, on the welcome screen or in the Names page of the options. Every name goes away. Hover someone to see who they are, or hold the reveal key.

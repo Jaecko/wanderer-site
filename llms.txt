@@ -2,7 +2,7 @@
 
 > Wanderer is a free family of addons for World of Warcraft Forever. Names leave the heads of everyone around you, a label tells you who someone is when you look at them, conversations become quiet scenes, and the small comforts you would install a dozen addons for are gathered in one. Free, translated into 10 languages, in active development.
 
-Wanderer is a free addon for World of Warcraft Forever, version 1.4.8 (2026-11-09), translated into 10 languages, made by Jaekco.
+Wanderer is a free addon for World of Warcraft Forever, version 1.4.11 (2026-11-09), translated into 10 languages, made by Jaekco.
 
 ## What it does
 
@@ -108,8 +108,10 @@ Page: https://wanderer-addon.com/en/quests/. Download: https://www.curseforge.co
 
 ### Wanderer Maps
 
-Wanderer Maps is a free extension of Wanderer for World of Warcraft Forever. It adds your own notes and a route of steps to the world map, a small arrow toward the step you follow, and a way guided through your flight paths, the boats, zeppelins and tram. The continents become one seamless map, and each zone says its levels and the fishing it asks. Everything is drawn by the game's own map, so its zoom, pins and clicks stay as you know them.
+Wanderer Maps is a free extension of Wanderer for World of Warcraft Forever. The game's map key opens the Atlas, a big map in Wanderer's window: your quest objectives as zones, your notes and your route of steps, flights, boats, dungeons and town services, and a side panel to read one place at a time. It navigates as the game's map does, the game's map stays one click away, and an option gives the key back. On the screen, a small arrow leads you to the step you follow, by a way that counts your flight paths, the boats, zeppelins and tram.
 
+- Is there a bigger map for WoW Forever? Yes: the Atlas. The game's map key opens it, a big map in Wanderer's window, built from the game's own pictures, in a window you can resize. It navigates as the game's map does: a left click opens the map under the mouse, a right click goes back to the one around it, and the wheel zooms toward the mouse. The game's map stays one click away, and an option in Wanderer's options gives the key back. Your key bindings stay as they are. Typing /wmaps atlas opens it too. One search covers zones, dungeons, flight masters and your notes. A legend in one line along the bottom shows or hides each kind of place, one click each: quest objectives, quests to take, route, notes, flights and boats, dungeons and raids, town services and the game's places. A side panel reads one place at a time, with Go there, Add to route and Note. Walk mode leaves only the map, see-through, to read it without stopping.
+- Can the map show where my quest objectives are? Yes, with Wanderer Quests installed. In the Atlas, each objective is a blue zone around where the creatures and objects stand, from pfQuest data, with its own outline so that quests that overlap stay apart. What is done goes away, and a finished quest shows who takes it back. A click on a zone puts the quest in front of your Wanderer Quests list, and its objectives can be read in the side panel. Positions come from public data, so Forever may have moved some creatures. A quest the data does not know keeps the one mark the game gives it.
 - How do I put my own notes on the world map? Alt+click anywhere on the map: a small card opens where you clicked, with a name and one of eight signs (a place, a star, a treasure, herbs, ore, danger, a meeting, a question). Enter saves it, Shift+Enter saves and follows it, Ctrl+Enter puts it on your route. A window gathers your route and your notes in two tabs, with their distances kept fresh, and lists the nearest inn, flight master, mailbox and trainer you know, one click to follow. A route you like, a round of herbs or of mailboxes, can be kept under a name and followed again later. A Notes button on the world map shows or hides your notes by sign, or all at once, and the minimap follows. On a continent's map they become small dots, grouped by zone when many, and the Notes tab removes a whole sign or zone at once, asked first.
 - Can an arrow lead me to my next step? Yes. A small arrow you place where you like points toward the step you follow, with the distance in yards: gold on course, amber when the point is behind you. Near a step it ticks itself and the next one is followed. The game's own floating marker and a dotted line on the minimap follow the same point. It also gives the time of arrival and, on a route, the time for all of it. When no step is followed, the arrow points to the pin the game keeps on your map: yours, a place from Wanderer Quests, a trainer. A right click on it gives the next step, a new plan of the way, or the window. After a death, the arrow points to your corpse while you are a ghost, and your route comes back at resurrection.
 - Does it count flight paths, boats and my hearthstone? Yes. To reach a step, the guided way takes the quickest road through your feet, the flight paths this character has found, the boats, zeppelins and tram of the original world, and leads you leg by leg: to the flight master, fly to, the boat to. If you wish, your hearthstone counts too when its inn is known: still cooling down, its wait is counted, and it is only taken when it still comes first.
@@ -119,11 +121,12 @@ Wanderer Maps is a free extension of Wanderer for World of Warcraft Forever. It 
 
 #### Questions about Wanderer Maps
 
+- Does the Atlas replace the game's map? It takes the game's map key, and the game's map stays one click away. An option in Wanderer's options gives the key back, and your key bindings stay as they are.
 - Does Wanderer Maps replace TomTom? It does a similar job in Wanderer's style. If TomTom is installed, its arrow is kept and Maps' arrow steps aside, so the two never fight. The same goes for the arrows of the RestedXP and Zygor guides.
 - Does it walk or fly for me? No. It shows the way, the road is yours: nothing walks, mounts or flies for you, and nothing is drawn over the world beyond the game's own marker.
 - Are my notes shared between characters? Your notes and your route belong to each character. What the world teaches (flight times, the services of a town) is kept for all of them.
 - Can I turn it all off at once? Yes. One checkbox in Wanderer's options turns off everything that runs outside the window: the arrow, the pins, the flight line.
-- How do I open Wanderer Maps? From Wanderer's menu, a key of yours in the game's key bindings, or by typing /wmaps.
+- How do I open Wanderer Maps? The Atlas opens with the game's map key or /wmaps atlas. The route and notes window opens from Wanderer's menu, a key of yours in the game's key bindings, or by typing /wmaps.
 
 Page: https://wanderer-addon.com/en/maps/. Download: https://www.curseforge.com/wow/addons/wanderer-maps.
 
@@ -167,6 +170,29 @@ Wanderer Outfits is a free extension of Wanderer for World of Warcraft Forever. 
 - How do I open Wanderer Outfits? From Wanderer's menu, the button on the character sheet, a key of yours in the game's key bindings, or /woutfits. /woutfits pole takes the pole in hand, /woutfits undo undoes the last change.
 
 Page: https://wanderer-addon.com/en/outfits/. Download: https://www.curseforge.com/wow/addons/wanderer-outfits.
+
+### Wanderer Professions
+
+Wanderer Professions is a free extension of Wanderer for World of Warcraft Forever. In place of the game's long grey table, your recipes stand on one workbench: every recipe with its icon, the one you choose shown large, its reagents laid out as cards, and only the two or three crafts worth doing next. It says what it knows and where that comes from. The game's own window stays one click away, and nothing is ever made without a click of yours.
+
+- How do I see all my recipes with their icons in WoW Forever? The key you already use for professions opens the workbench. Your professions that make something stand on a rail, one click from one to another. Recipes come as a list or as a wall of icons: bright when you can make it, grey when you cannot, how many in the corner. You can search by recipe or by reagent. The recipe you choose is shown large: the piece worn on your character when it can be, how it binds and what armor it is, and its skill colors on one bar with your skill marked on it.
+- Which reagents am I missing, and where are they? Reagents are laid out as cards: what your bags hold, what is missing in plain words, what waits in the bank or, with Wanderer Bags, on another character. A reagent you can make yourself takes you to its recipe, or shows as a tree. What your bags lack can be sent to Wanderer Auction's shopping list in one click.
+- Can I queue crafts and stop them? While you craft, a progress bar shows what is left and how long, with a way to stop. What was interrupted is one click from going on. A queue keeps crafts for later, and you start it yourself: nothing is ever made without a click of yours.
+- What should I craft next to raise my skill? Two or three crafts for your next points, never a route: the surest points first, then what you can already make. A slider shows the colors and the suggestions at another skill, and nothing changes in the game. The next rank says the skill and level it asks, and you are told when a trainer can teach it.
+- Where do the recipes come from, and are they right for Forever? The game comes first. Each recipe says if it was seen in the game, comes from a database of the classic world, or has an unknown source. Forever may have changed a recipe: what comes from the database says so, and nothing is guessed. Recipes still to learn say where they come from, with a way to go there with Wanderer Maps or a pin on the map.
+- How do I plan what to buy with Merchant's Favor? Every recipe it buys, its cost and the reputation it asks, what you can pay now, and a goal to save for. What a merchant really asks replaces what the data says.
+- Does it know camp objects, Writs and specializations? Camp objects are sorted by tier: the ones you know, what you can make now and the Blueprint each one asks. A Craftsman's Writ in your bags says what it asks, whether you can make it, and where to hand it in when that is known. Before you specialize, each path says what it opens, with a clear warning: it is a choice that closes the others.
+- Which of my characters can make this? One page gathers your characters' professions and cooldowns, and "who can make this?" searches across all of them. Guild crafters, if you want: this is off by default. Once on, you can ask who can make a recipe with one click, and only members who switched it on answer.
+
+#### Questions about Wanderer Professions
+
+- Does it replace the game's profession window? It opens in its place, and the game's own window stays one click away. Wanderer's options let you keep the game's window and your professions key as they were.
+- Does it craft for me? No. Nothing is ever made without a click of yours, and a queue only starts when you start it. It suggests two or three crafts and never plans a route.
+- Which addons does it work with? It needs Wanderer. Wanderer Bags, Wanderer Auction and Wanderer Maps are optional: reagents on your other characters, the shopping list, and the way to a recipe still to learn.
+- Where does its data come from? From the game's tables, the CMaNGOS database (GPL v3) and pfQuest by Shagu (MIT, for zones); Favor costs and other Forever facts come from public guides. Wanderer Professions is free software under the GPL 3.0 or later.
+- How do I open Wanderer Professions? With your professions key, from Wanderer's menu, or by typing /wprofessions. Its settings are in Wanderer's options.
+
+Page: https://wanderer-addon.com/en/professions/. Download: https://www.curseforge.com/wow/addons/wanderer-professions.
 
 ### Wanderer Chat
 
@@ -220,7 +246,7 @@ Page: https://wanderer-addon.com/en/campfire/. Download: https://www.curseforge.
 - Does it play for me? No. Wanderer is a comfort addon: nothing is bought, sent or spent without your click, holding Shift keeps every automation manual, and nothing decides for you in a fight.
 - Does it work with ElvUI, Questie or other addons? Yes. When another addon already does a job, ElvUI for unit frames, Questie, TomTom, Postal, Bagnon and many more, Wanderer steps aside for that job and its option says who does it.
 - Are my settings the same on all my characters? No, each character has its own profile, with its own profiles for the world, cities and dungeons. A shared profile is there if you want one, and a new character can start like your main.
-- What are Wanderer's extensions? Nine free addons that add to Wanderer: Bags, Auction, Mail, Quests, Maps, Training, Outfits, Chat and Campfire Game. Take only the ones you want: each needs Wanderer, which works on its own without them, and each has its page on wanderer-addon.com.
+- What are Wanderer's extensions? Ten free addons that add to Wanderer: Bags, Auction, Mail, Quests, Maps, Training, Outfits, Professions, Chat and Campfire Game. Take only the ones you want: each needs Wanderer, which works on its own without them, and each has its page on wanderer-addon.com.
 - Is Wanderer free? Yes, completely, and nothing leaves your game: no communication with other players or websites.
 
 ## Pages

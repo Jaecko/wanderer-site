@@ -340,6 +340,9 @@ main { overflow: hidden; }
 .langs a:hover { color: var(--ivory); }
 .langs a[aria-current="page"] { color: var(--gold-bright); }
 .legal { max-width: 40rem; margin: 1.75rem auto 0; color: #8f8774; font-size: .98rem; }
+.studio { max-width: 40rem; margin: .75rem auto 0; color: var(--muted); font-size: 1rem; }
+.studio a { color: var(--gold); text-decoration: none; letter-spacing: .04em; }
+.studio a:hover { color: var(--gold-bright); }
 
 /* ---------- reveal on scroll ---------- */
 

@@ -13,6 +13,8 @@ RewriteRule ^(.*)$ https://wanderer-addon.com/$1 [R=301,L]
 RewriteRule ^$ https://wanderer-addon.com/en/ [R=301,L]
 # A language without its final slash
 RewriteRule ^(en|fr|de|es|it|pt-br|ru|ko|zh-cn|zh-tw)$ https://wanderer-addon.com/$1/ [R=301,L]
+# An extension taken off the site (config.removed): its old pages sent to the language's home
+RewriteRule ^(en|fr|de|es|it|pt-br|ru|ko|zh-cn|zh-tw)/(campfire)(/.*)?$ https://wanderer-addon.com/$1/ [R=301,L]
 </IfModule>
 
 <IfModule mod_headers.c>

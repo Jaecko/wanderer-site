@@ -80,7 +80,7 @@
       "h2": "Meus quadros de unidade e barras de vida podem ficar limpos no WoW Forever?",
       "paragraphs": [
         "Seu quadro, seu alvo, seu grupo, os chefes e as barras de lançamento deles ganham o visual do Wanderer: um retrato quadrado com seu nível e seu descanso, vida e poder ao lado, exatamente na mesma altura, a barra de lançamento embaixo. O código do jogo, seus valores e os tamanhos do Modo de Edição ficam intactos, e três outros visuais estão a uma escolha de distância.",
-        "Se quiser, uma faixa suave mostra o que seu dano ao longo do tempo ainda vai causar, com uma caveira que se enche quando ele cobre o que resta, e uma faixa verde escura o que suas curas ao longo do tempo ainda vão curar. Em grupo, sua ameaça fica numa linha discreta."
+        "Se quiser, uma faixa suave mostra o que seu dano ao longo do tempo ainda vai causar, com uma caveira que se enche quando ele cobre o que resta, e uma faixa verde escura o que suas curas ao longo do tempo ainda vão curar. Em combate, a barra de vida de um monstro diz quem ele ataca: verde quando está em você, amarelo quando você está perdendo ou vai tomá-lo, vermelho quando está em outro. Um monstro ou aliado marcado com um símbolo de raide sempre mostra a barra de vida sobre a cabeça."
       ],
       "image": {
         "file": "frames",
@@ -108,6 +108,14 @@
       ]
     },
     {
+      "id": "windows",
+      "h2": "As janelas do mercador, do saque e das rolagens podem ser tão calmas quanto o resto?",
+      "paragraphs": [
+        "Sim. Os mercadores abrem numa janela do Wanderer: todas as mercadorias numa só lista, cada uma com seu preço, marcado o que você não pode usar ou já conhece, e a recompra, os reparos e sua sucata no mesmo lugar. O saque abre numa janela calma que diz quanto vale cada coisa, e as rolagens de grupo se reúnem numa janela com Necessidade, Ganância e Passar. Cada uma guarda um link para a janela do jogo, e uma opção a traz de volta de vez.",
+        "As outras janelas do jogo, a barra de bolsas e os menus do clique direito ganham as cores do Wanderer sem mover nada, enquanto as barras de ação mantêm a aparência do jogo. O marcador de navegação do jogo mostra o caminho até a missão acompanhada, e o que você pega sobe pela lateral da tela, dinheiro incluído, até o de uma carta."
+      ]
+    },
+    {
       "id": "travel",
       "h2": "A interface pode sair da frente enquanto viajo ou estou ausente?",
       "paragraphs": [
@@ -123,7 +131,7 @@
       "id": "group",
       "h2": "O Wanderer pode ajudar em grupo sem jogar por mim?",
       "paragraphs": [
-        "Segure uma tecla sobre um inimigo e os oito marcadores de raide se abrem em volta do cursor, sem mudar o seu alvo. Suas bênçãos que se dissipam em você ou no seu grupo são lembradas para renovar, um monstro em que ninguém bateu ainda é apontado, e nas masmorras o tanque fica sabendo quando um monstro o deixa.",
+        "Segure uma tecla sobre um inimigo e as oito marcas de raide se abrem em volta do cursor, sem mudar seu alvo. Suas bênçãos que somem em você ou no grupo são lembradas para lançar de novo, e um monstro que ninguém atingiu ainda é apontado.",
         "Os pedidos podem ser respondidos por você, se quiser: convites de amigos para grupo, invocações, ressurreições, mas nunca uma ressurreição em raide. Segure Shift e cada pedido espera a sua própria resposta. Tudo continua sendo informação: nenhuma ajuda de rotação, nenhuma decisão tomada em combate."
       ],
       "image": {
@@ -135,7 +143,7 @@
       "id": "options",
       "h2": "Posso ajustar tudo ao meu jeito de jogar e mudar depois?",
       "paragraphs": [
-        "Uma acolhida junto à fogueira oferece seis jeitos de jogar (o novato, o andarilho, o contador de histórias, o aventureiro experiente, o explorador de masmorras, o artesão) e ajusta o que combina só para este personagem, com desfazer. Cada configuração vem predefinida, e cada configuração pode ser mudada.",
+        "A acolhida guia você passo a passo, cada passo nomeado ao lado, ou mantém as configurações aconselhadas em um clique. Uma acolhida junto à fogueira oferece seis jeitos de jogar (o novato, o andarilho, o contador de histórias, o aventureiro experiente, o explorador de masmorras, o artesão) e ajusta o que combina só para este personagem, com desfazer. Cada configuração vem predefinida, e cada configuração pode ser mudada.",
         "Uma única janela de configurações reúne toda a família, com busca, uma página O que você mudou e perfis por personagem e por tipo de lugar. Seis estilos vestem juntos a etiqueta e as dicas. Desligue o Wanderer e cada configuração do jogo que ele mudou volta para você."
       ],
       "image": {

@@ -80,7 +80,7 @@
       "h2": "¿Pueden verse limpios mis marcos de unidad y barras de salud en WoW Forever?",
       "paragraphs": [
         "Tu marco, tu objetivo, tu grupo, tus jefes y sus barras de lanzamiento adoptan el aspecto de Wanderer: un retrato cuadrado con tu nivel y tu descanso, la salud y el poder a su lado exactamente a su altura, la barra de lanzamiento debajo. El código del juego, sus valores y los tamaños del Modo de edición no se tocan, y otros tres aspectos están a una elección.",
-        "Si quieres, una franja suave muestra el daño que tus efectos periódicos aún van a infligir, con una calavera que se llena a medida que cubre lo que queda, y una franja verde oscuro lo que tus sanaciones periódicas aún van a curar. En grupo, tu amenaza aparece en una línea discreta."
+        "Si quieres, una franja suave muestra el daño que tus efectos periódicos aún van a infligir, con una calavera que se llena a medida que cubre lo que queda, y una franja verde oscuro lo que tus sanaciones periódicas aún van a curar. En combate, la barra de vida de un monstruo dice a quién va: verde cuando está sobre ti, amarillo cuando lo pierdes o vas a tomarlo, rojo cuando está sobre otro. Un monstruo o un aliado marcado con un símbolo de banda siempre muestra su barra de vida sobre la cabeza."
       ],
       "image": {
         "file": "frames",
@@ -108,6 +108,14 @@
       ]
     },
     {
+      "id": "windows",
+      "h2": "¿Pueden las ventanas del mercader, del botín y de las tiradas verse tan tranquilas como el resto?",
+      "paragraphs": [
+        "Sí. Los mercaderes se abren en una ventana de Wanderer: todas sus mercancías en una sola lista, cada una con su precio, marcado lo que no puedes usar o ya conoces, y la recompra, las reparaciones y tu chatarra en el mismo lugar. El botín se abre en una ventana tranquila que dice lo que vale cada cosa, y las tiradas de grupo se reúnen en una ventana con Necesidad, Codicia y Pasar. Cada una guarda un enlace a la ventana del juego, y un ajuste la devuelve para siempre.",
+        "Las demás ventanas del juego, la barra de bolsas y los menús del clic derecho toman los colores de Wanderer sin mover nada, mientras las barras de acción conservan el aspecto del juego. El marcador de navegación del juego muestra el camino a la misión que sigues, y lo que recoges sube por el lado de la pantalla, dinero incluido, incluso el de una carta."
+      ]
+    },
+    {
       "id": "travel",
       "h2": "¿Puede la interfaz apartarse mientras viajo o me ausento?",
       "paragraphs": [
@@ -123,7 +131,7 @@
       "id": "group",
       "h2": "¿Ayuda Wanderer en grupo sin jugar por mí?",
       "paragraphs": [
-        "Mantén una tecla sobre un enemigo y los ocho marcadores de banda se abren alrededor del cursor, sin cambiar tu objetivo. Tus bendiciones que se disipan en ti o en tu grupo se avisan para lanzarlas de nuevo, se señala un monstruo que nadie ha golpeado aún, y en mazmorras el tanque se entera cuando un monstruo lo deja.",
+        "Mantén una tecla sobre un enemigo y las ocho marcas de banda se abren alrededor del cursor, sin cambiar tu objetivo. Tus bendiciones que se apagan sobre ti o tu grupo se recuerdan para lanzarlas de nuevo, y se señala un monstruo que nadie ha golpeado todavía.",
         "Las peticiones pueden responderse por ti si quieres (grupos de amigos, invocaciones, resurrecciones), pero nunca una resurrección en banda. Mantén Mayús y cada petición espera tu propia respuesta. Todo sigue siendo información: ninguna ayuda de rotación, ninguna decisión tomada en combate."
       ],
       "image": {
@@ -135,7 +143,7 @@
       "id": "options",
       "h2": "¿Puedo ajustarlo a mi forma de jugar y cambiar lo que quiera después?",
       "paragraphs": [
-        "Una bienvenida junto al fuego ofrece seis formas de jugar (el recién llegado, el trotamundos, el narrador, el aventurero curtido, el explorador de profundidades, el artesano) y ajusta lo que encaja solo para este personaje, con deshacer. Cada ajuste viene preajustado, y cada ajuste se puede cambiar.",
+        "La bienvenida te guía paso a paso, cada paso nombrado a un lado, o mantiene los ajustes aconsejados con un clic. Una bienvenida junto al fuego ofrece seis formas de jugar (el recién llegado, el trotamundos, el narrador, el aventurero curtido, el explorador de profundidades, el artesano) y ajusta lo que encaja solo para este personaje, con deshacer. Cada ajuste viene preajustado, y cada ajuste se puede cambiar.",
         "Una sola ventana de ajustes reúne a toda la familia, con buscador, una página Lo que has cambiado y perfiles por personaje y por tipo de lugar. Seis estilos visten a la vez la etiqueta y las descripciones emergentes. Desactiva Wanderer y recuperas cada ajuste del juego que había cambiado."
       ],
       "image": {

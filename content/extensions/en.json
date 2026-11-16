@@ -60,7 +60,8 @@
           "id": "bank",
           "h2": "Can I see my bank from anywhere?",
           "paragraphs": [
-            "At the banker, your bank opens beside your bags, sorted the same way, with your character's tabs and the Warband's; a right click moves an item between the two, and what you marked for the bank goes in by itself (hold Shift to skip it). A section's card deposits the whole section, or sends it to the bank at every visit. Away from the banker, one link shows your bank as you left it."
+            "At the banker, your bank opens beside your bags, sorted the same way, with your character's tabs and the Warband's; a right click moves an item between the two, and what you marked for the bank goes in by itself (hold Shift to skip it). A section's card deposits the whole section, or sends it to the bank at every visit. Away from the banker, one link shows your bank as you left it.",
+            "When your guild has a bank, it opens in the same window: its tabs, the guild's gold, deposits and withdrawals, and its log, as far as your rank allows."
           ]
         }
       ],
@@ -278,7 +279,7 @@
           "id": "tracker",
           "h2": "Can I reorder my tracked quests and focus on one?",
           "paragraphs": [
-            "Yes. Wanderer Quests can take the place of the game's list of followed quests. One quest stands in front, at the top: bigger, with a star and its objectives always shown. A click puts a quest in front, a click again lets it go, and nothing else ever changes it. The game follows that quest on its map, even when one of its objectives changes.",
+            "Yes. Wanderer Quests can take the place of the game's list of followed quests. One quest stands in front, at the top: bigger, with a star and its objectives always shown. A click puts a quest in front, a click again lets it go, and nothing else ever changes it. The game follows that quest on its map, even when one of its objectives changes. Its right click also opens the quest in the game's own log, and a quest you can complete from afar says so: one click completes it.",
             "The others follow in your own order: drag one by its handle or move it from its right click, and Arrange now orders the list once, by level, by distance or ready to hand in first. The zone you stand in comes first, the dungeons apart, each zone folded as you left it. A quest ready says to whom it goes, its item waits on its line, and the list stays faded at rest and quieter in a fight. With a controller, the game's quest shortcut and the Quests entry of the radial wheel open this list: the cross goes from title to title, the bottom button chooses and the left one opens the map."
           ]
         },
@@ -362,7 +363,7 @@
           "id": "quest-zones",
           "h2": "Can the map show where my quest objectives are?",
           "paragraphs": [
-            "Yes, with Wanderer Quests installed. In the Atlas, each objective is a blue zone around where the creatures and objects stand, from pfQuest data, with its own outline so that quests that overlap stay apart. What is done goes away, and a finished quest shows who takes it back.",
+            "Yes, with Wanderer Quests installed. In the Atlas, each objective is a blue zone around where the creatures and objects stand, from pfQuest data, with its own outline so that quests that overlap stay apart. What is done goes away, and a finished quest shows who takes it back. Each creature or object asked has its own zone, where it really stands: four creatures in four places make four zones, and the zone under the mouse names what is there.",
             "A click on a zone puts the quest in front of your Wanderer Quests list, and its objectives can be read in the side panel. Positions come from public data, so Forever may have moved some creatures. A quest the data does not know keeps the one mark the game gives it.",
             "A quest you choose in the Atlas opens its Wanderer Quests sheet beside it, all it says, asks and gives, and the panel keeps its list with the quest lit in gold. The quest you follow stays chosen on its map whenever nothing else is, a box beside each quest follows it in your objectives or lets it go, and a right click offers to go there, share it or abandon it, asked first."
           ]
@@ -576,6 +577,13 @@
           ]
         },
         {
+          "id": "sheet",
+          "h2": "Can my character sheet look better?",
+          "paragraphs": [
+            "Yes. Wanderer Outfits dresses the character sheet: your character in the middle, your pieces in two columns around it, and beside it your characteristics, your outfits and your titles. Every click works as on the game's sheet, and a link brings the game's own back."
+          ]
+        },
+        {
           "id": "fishing",
           "h2": "Can my fishing pole swap in and out by itself?",
           "paragraphs": [
@@ -727,7 +735,7 @@
           "paragraphs": [
             "A line naming you shows in gold, and stays a minute longer. If it was said where you could not read it, in another tab, while the chat had faded or while you were busy, a card beside the chat shows it with a button to answer, and a quiet sound can tell you, once a minute at most.",
             "Give it your other names too, a nickname or your main's: they show in gold and alert you like your own.",
-            "When someone greets the guild or says goodbye, a card offers an answer by name that fits the hour, written for you and sent only by your Enter. A whisper you have not answered waits in a small line above the chat."
+            "A whisper you have not answered waits in a small line above the chat."
           ]
         },
         {
@@ -774,7 +782,7 @@
         },
         {
           "q": "Does it send anything by itself?",
-          "a": "Never. Greetings and answers are written in your chat line and sent only by your Enter, and it never does a /who on its own."
+          "a": "Never. Answers are written in your chat line and sent only by your Enter, and it never does a /who on its own."
         },
         {
           "q": "Are my settings and notes shared between characters?",

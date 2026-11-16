@@ -80,7 +80,7 @@
       "h2": "Können meine Einheitenfenster und Lebensleisten in WoW Forever klar aussehen?",
       "paragraphs": [
         "Dein Fenster, dein Ziel, deine Gruppe, deine Bosse und ihre Zauberleisten bekommen den Stil von Wanderer: ein quadratisches Porträt mit deiner Stufe und deiner Erholung, Gesundheit und Kraft daneben in genau seiner Höhe, die Zauberleiste darunter. Der Code des Spiels, seine Werte und die Größen aus dem Bearbeitungsmodus bleiben unberührt, und drei andere Ansichten sind nur eine Wahl entfernt.",
-        "Auf Wunsch zeigt ein sanftes Band, was deine regelmäßigen Schadenseffekte noch anrichten werden, mit einem Schädel, der sich füllt, wenn sie den Rest abdecken, und ein tiefgrünes Band, was deine regelmäßigen Heilungen noch heilen werden. In der Gruppe steht deine Bedrohung auf einer ruhigen Linie."
+        "Auf Wunsch zeigt ein sanftes Band, was deine regelmäßigen Schadenseffekte noch anrichten werden, mit einem Schädel, der sich füllt, wenn sie den Rest abdecken, und ein tiefgrünes Band, was deine regelmäßigen Heilungen noch heilen werden. Im Kampf zeigt die Lebensleiste eines Monsters, wen es angreift: grün, wenn es auf dir ist, gelb, wenn du es verlierst oder gleich ziehst, rot, wenn es auf jemand anderem ist. Ein Monster oder ein Verbündeter mit einer Schlachtzugsmarkierung zeigt seine Lebensleiste immer über dem Kopf."
       ],
       "image": {
         "file": "frames",
@@ -108,6 +108,14 @@
       ]
     },
     {
+      "id": "windows",
+      "h2": "Können die Fenster für Händler, Beute und Würfe so ruhig aussehen wie der Rest?",
+      "paragraphs": [
+        "Ja. Händler öffnen sich in einem Wanderer-Fenster: alle Waren in einer Liste, jede mit ihrem Preis, markiert, was du nicht nutzen kannst oder schon kennst, dazu Rückkauf, Reparaturen und dein Plunder an einem Ort. Beute öffnet sich in einem ruhigen Fenster, das sagt, was jedes Ding wert ist, und Gruppenwürfe sammeln sich in einem Fenster mit Bedarf, Gier und Passen. Jedes behält einen Link zum Fenster des Spiels, und eine Einstellung bringt es dauerhaft zurück.",
+        "Die anderen Fenster des Spiels, die Taschenleiste und die Rechtsklickmenüs nehmen Wanderers Farben an, ohne etwas zu verschieben, während die Aktionsleisten das Aussehen des Spiels behalten. Die Navigationsmarkierung des Spiels zeigt den Weg zur verfolgten Quest, und was du aufhebst, steigt am Bildschirmrand auf, Geld inklusive, auch aus einem Brief."
+      ]
+    },
+    {
       "id": "travel",
       "h2": "Kann die Oberfläche zurücktreten, wenn ich reise oder nicht da bin?",
       "paragraphs": [
@@ -123,7 +131,7 @@
       "id": "group",
       "h2": "Kann Wanderer in der Gruppe helfen, ohne für mich zu spielen?",
       "paragraphs": [
-        "Halte eine Taste über einem Feind, und die acht Schlachtzugsmarkierungen öffnen sich um den Mauszeiger, ohne dein Ziel zu wechseln. Segen, die auf dir oder deiner Gruppe auslaufen, werden zum Erneuern gemeldet, ein Monster, das noch niemand getroffen hat, wird angezeigt, und in Dungeons erfährt der Tank, wenn sich ein Monster von ihm löst.",
+        "Halte eine Taste über einem Feind, und die acht Schlachtzugsmarkierungen öffnen sich um den Mauszeiger, ohne dein Ziel zu wechseln. Segen, die auf dir oder deiner Gruppe auslaufen, werden zum Erneuern gemeldet, und ein Monster, das noch niemand getroffen hat, wird angezeigt.",
         "Anfragen können auf Wunsch für dich beantwortet werden (Gruppeneinladungen von Freunden, Beschwörungen, Wiederbelebungen), eine Wiederbelebung im Schlachtzug aber nie. Mit gehaltener Umschalttaste wartet jede Anfrage auf deine eigene Antwort. Alles bleibt Information: keine Rotationshilfe, keine Entscheidung im Kampf."
       ],
       "image": {
@@ -135,7 +143,7 @@
       "id": "options",
       "h2": "Kann ich es nach meiner Spielweise einrichten und danach alles ändern?",
       "paragraphs": [
-        "Eine Begrüßung am Feuer bietet sechs Spielweisen an (der Neuling, der Wanderer, der Erzähler, der erfahrene Abenteurer, der Tiefenforscher, der Handwerker) und stellt nur für diesen Charakter ein, was passt, mit Rückgängig. Jede Einstellung ist voreingestellt, und jede Einstellung lässt sich ändern.",
+        "Die Begrüßung führt dich Schritt für Schritt, jeder Schritt seitlich benannt, oder behält mit einem Klick die empfohlenen Einstellungen. Eine Begrüßung am Feuer bietet sechs Spielweisen an (der Neuling, der Wanderer, der Erzähler, der erfahrene Abenteurer, der Tiefenforscher, der Handwerker) und stellt nur für diesen Charakter ein, was passt, mit Rückgängig. Jede Einstellung ist voreingestellt, und jede Einstellung lässt sich ändern.",
         "Ein einziges Einstellungsfenster vereint die ganze Familie, mit einer Suche, einer Seite Was du geändert hast und Profilen pro Charakter und pro Art von Ort. Sechs Stile gestalten das Schildchen und die Tooltips einheitlich. Schaltest du Wanderer aus, bekommst du jede Spieleinstellung zurück, die es geändert hat."
       ],
       "image": {

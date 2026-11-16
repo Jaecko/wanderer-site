@@ -80,7 +80,7 @@
       "h2": "Can my unit frames and health bars look clean in WoW Forever?",
       "paragraphs": [
         "Your frame, your target, your group, your bosses and their cast bars take Wanderer's look: a square portrait with your level and rest, health and power beside it at exactly its height, the cast bar beneath. The game's code, its values and its Edit Mode sizes stay untouched, and three other looks are one choice away.",
-        "If you wish, a soft band shows what your damage over time will still deal, with a skull that fills as it covers what is left, and a deep green band what your heals over time will still heal. In a group, your threat sits on a quiet line."
+        "If you wish, a soft band shows what your damage over time will still deal, with a skull that fills as it covers what is left, and a deep green band what your heals over time will still heal. In a fight, a monster's health bar says who it is after: green when it is on you, yellow when you are losing it or about to take it, red when it is on someone else. A monster or an ally marked with a raid symbol always shows its health bar over its head."
       ],
       "image": {
         "file": "frames",
@@ -108,6 +108,14 @@
       ]
     },
     {
+      "id": "windows",
+      "h2": "Can the merchant, loot and roll windows look as calm as the rest?",
+      "paragraphs": [
+        "Yes. Merchants open in a Wanderer window: all their goods in one list, each with its price, what you cannot use or already know marked, and the buyback, the repairs and your junk in the same place. Loot opens in a calm window that tells what each thing is worth, and group rolls gather in one window with Need, Greed and Pass. Each keeps a link to the game's own window, and a setting brings it back for good.",
+        "The game's other windows, the bag bar and the right click menus take Wanderer's colors without moving anything, while the action bars keep the game's own look. The game's navigation marker shows the way to the quest you follow, and what you pick up rises at the side of the screen, money included, even from a letter."
+      ]
+    },
+    {
       "id": "travel",
       "h2": "Can the interface step aside while I travel or stay away?",
       "paragraphs": [
@@ -123,7 +131,7 @@
       "id": "group",
       "h2": "Can Wanderer help in a group without playing for me?",
       "paragraphs": [
-        "Hold a key over an enemy and the eight raid markers open around the cursor, without changing your target. Your blessings that fade on you or your group are said to be cast again, a monster that nobody has hit yet is pointed out, and in dungeons the tank hears when a monster leaves them.",
+        "Hold a key over an enemy and the eight raid markers open around the cursor, without changing your target. Your blessings that fade on you or your group are said to be cast again, and a monster that nobody has hit yet is pointed out.",
         "Requests can be answered for you if you wish, groups from friends, summons, resurrections, but never a resurrection in a raid. Hold Shift and every request waits for your own answer. Everything stays information: no rotation help, no decision made in a fight."
       ],
       "image": {
@@ -135,7 +143,7 @@
       "id": "options",
       "h2": "Can I set it up the way I play, and change anything after?",
       "paragraphs": [
-        "A welcome by the fire offers six ways to play, the newcomer, the wanderer, the storyteller, the seasoned adventurer, the delver, the artisan, and sets what fits for this character only, with undo. Every setting is pre-set, and every setting can be changed.",
+        "The welcome guides you step by step, each step named at its side, or keeps the advised settings in one click. A welcome by the fire offers six ways to play, the newcomer, the wanderer, the storyteller, the seasoned adventurer, the delver, the artisan, and sets what fits for this character only, with undo. Every setting is pre-set, and every setting can be changed.",
         "One settings window holds the whole family, with a search, a What you changed page and profiles per character and per kind of place. Six styles dress the label and the tooltips alike. Turn Wanderer off and every game setting it changed is given back."
       ],
       "image": {

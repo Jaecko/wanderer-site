@@ -80,7 +80,7 @@
       "h2": "Mes cadres d'unité et barres de vie peuvent-ils être épurés dans WoW Forever ?",
       "paragraphs": [
         "Votre cadre, votre cible, votre groupe, vos boss et leurs barres d'incantation prennent l'allure de Wanderer : un portrait carré avec votre niveau et votre repos, la vie et la puissance à côté, exactement à sa hauteur, la barre d'incantation dessous. Le code du jeu, ses valeurs et les tailles du mode Édition restent intacts, et trois autres allures sont à un choix de distance.",
-        "Si vous le souhaitez, une bande douce montre ce que vos dégâts sur la durée infligeront encore, avec un crâne qui se remplit quand ils couvrent ce qui reste, et une bande vert profond ce que vos soins sur la durée soigneront encore. En groupe, votre menace tient sur une ligne discrète."
+        "Si vous le souhaitez, une bande douce montre ce que vos dégâts sur la durée infligeront encore, avec un crâne qui se remplit quand ils couvrent ce qui reste, et une bande vert profond ce que vos soins sur la durée soigneront encore. En combat, la barre de vie d'un monstre dit qui il vise : vert quand il est sur vous, jaune quand vous le perdez ou allez le prendre, rouge quand il est sur un autre. Un monstre ou un allié marqué d'un symbole de raid montre toujours sa barre de vie au-dessus de sa tête."
       ],
       "image": {
         "file": "frames",
@@ -108,6 +108,14 @@
       ]
     },
     {
+      "id": "windows",
+      "h2": "Les fenêtres du marchand, du butin et des jets peuvent-elles être aussi calmes que le reste ?",
+      "paragraphs": [
+        "Oui. Les marchands s'ouvrent dans une fenêtre de Wanderer : toutes leurs marchandises dans une seule liste, chacune avec son prix, ce que vous ne pouvez pas utiliser ou connaissez déjà marqué, et le rachat, les réparations et votre camelote au même endroit. Le butin s'ouvre dans une fenêtre calme qui dit ce que vaut chaque chose, et les jets de groupe se rassemblent dans une seule fenêtre avec Besoin, Cupidité et Passer. Chacune garde un lien vers la fenêtre du jeu, et un réglage la rend pour de bon.",
+        "Les autres fenêtres du jeu, la barre des sacs et les menus du clic droit prennent les couleurs de Wanderer sans rien déplacer, tandis que les barres d'action gardent l'allure du jeu. Le repère de navigation du jeu montre le chemin vers la quête suivie, et ce que vous ramassez monte sur le côté de l'écran, argent compris, même celui d'une lettre."
+      ]
+    },
+    {
       "id": "travel",
       "h2": "L'interface peut-elle s'effacer pendant que je voyage ou que je m'absente ?",
       "paragraphs": [
@@ -123,7 +131,7 @@
       "id": "group",
       "h2": "Wanderer peut-il aider en groupe sans jouer à ma place ?",
       "paragraphs": [
-        "Maintenez une touche sur un ennemi et les huit marqueurs de raid s'ouvrent autour du curseur, sans changer votre cible. Vos bénédictions qui s'estompent sur vous ou votre groupe vous sont rappelées, un monstre que personne n'a encore frappé vous est signalé, et en donjon, le tank est prévenu quand un monstre le lâche.",
+        "Maintenez une touche sur un ennemi et les huit marqueurs de raid s'ouvrent autour du curseur, sans changer votre cible. Vos bénédictions qui s'estompent sur vous ou votre groupe vous sont rappelées, et un monstre que personne n'a encore frappé vous est signalé.",
         "Les demandes peuvent être acceptées pour vous si vous le souhaitez (invitations de groupe d'amis, invocations, résurrections), mais jamais une résurrection en raid. Maintenez Maj et chaque demande attend votre propre réponse. Tout reste de l'information : aucune aide à la rotation, aucune décision prise en combat."
       ],
       "image": {
@@ -135,7 +143,7 @@
       "id": "options",
       "h2": "Puis-je tout régler selon ma façon de jouer, et tout changer ensuite ?",
       "paragraphs": [
-        "Un accueil au coin du feu propose six façons de jouer (le nouveau venu, le vagabond, le conteur, l'aventurier aguerri, l'explorateur des profondeurs, l'artisan) et règle ce qui convient pour ce personnage seulement, avec une annulation possible. Chaque réglage est prérempli, et chaque réglage peut être changé.",
+        "L'accueil vous guide pas à pas, chaque étape nommée sur le côté, ou garde les réglages conseillés en un clic. Un accueil au coin du feu propose six façons de jouer (le nouveau venu, le vagabond, le conteur, l'aventurier aguerri, l'explorateur des profondeurs, l'artisan) et règle ce qui convient pour ce personnage seulement, avec une annulation possible. Chaque réglage est prérempli, et chaque réglage peut être changé.",
         "Une seule fenêtre de réglages réunit toute la famille, avec une recherche, une page Ce que vous avez changé et des profils par personnage et par type de lieu. Six styles habillent ensemble l'étiquette et les infobulles. Désactivez Wanderer et chaque réglage du jeu qu'il avait changé vous est rendu."
       ],
       "image": {

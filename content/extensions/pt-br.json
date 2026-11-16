@@ -60,7 +60,8 @@
           "id": "bank",
           "h2": "Dá para ver o banco de qualquer lugar?",
           "paragraphs": [
-            "No banqueiro, o seu banco se abre ao lado das bolsas, organizado do mesmo jeito, com as abas do personagem e as do Bando de Guerra; um clique direito move um item entre os dois, e o que você marcou para o banco vai sozinho (segure Shift para pular). O cartão de uma seção a deposita inteira, ou a manda para o banco a cada visita. Longe do banqueiro, um link mostra o seu banco como você o deixou."
+            "No banqueiro, o seu banco se abre ao lado das bolsas, organizado do mesmo jeito, com as abas do personagem e as do Bando de Guerra; um clique direito move um item entre os dois, e o que você marcou para o banco vai sozinho (segure Shift para pular). O cartão de uma seção a deposita inteira, ou a manda para o banco a cada visita. Longe do banqueiro, um link mostra o seu banco como você o deixou.",
+            "Quando sua guilda tem um banco, ele abre na mesma janela: suas abas, o ouro da guilda, depósitos e saques, e seu registro, até onde seu posto permite."
           ]
         }
       ],
@@ -278,7 +279,7 @@
           "id": "tracker",
           "h2": "Posso reordenar as missões acompanhadas e destacar uma?",
           "paragraphs": [
-            "Sim. O Wanderer Quests pode tomar o lugar da lista de missões acompanhadas do jogo. Uma missão fica em destaque, no topo: maior, com uma estrela e os objetivos sempre à vista. Um clique destaca uma missão, outro clique a retira, e nada mais a muda. O jogo acompanha essa missão no mapa dele, mesmo quando um dos objetivos muda.",
+            "Sim. O Wanderer Quests pode tomar o lugar da lista de missões acompanhadas do jogo. Uma missão fica em destaque, no topo: maior, com uma estrela e os objetivos sempre à vista. Um clique destaca uma missão, outro clique a retira, e nada mais a muda. O jogo acompanha essa missão no mapa dele, mesmo quando um dos objetivos muda. O clique direito também abre a missão no registro do jogo, e uma missão que você pode concluir à distância avisa: um clique a conclui.",
             "As outras seguem na sua ordem: arraste uma pela alça ou mova-a pelo clique direito, e Organizar agora ordena a lista uma vez, por nível, por distância ou prontas para entregar primeiro. A zona onde você está vem primeiro, as masmorras à parte, cada zona recolhida como você deixou. Uma missão pronta diz a quem entregar, o item dela espera na linha, e a lista fica atenuada em repouso e mais discreta em combate. Com controle, o atalho de missões do jogo e a entrada Missões da roda radial abrem esta lista: o direcional vai de título em título, o botão de baixo escolhe e o da esquerda abre o mapa."
           ]
         },
@@ -362,7 +363,7 @@
           "id": "quest-zones",
           "h2": "O mapa pode mostrar onde estão meus objetivos de missões?",
           "paragraphs": [
-            "Sim, com o Wanderer Quests instalado. No Atlas, cada objetivo é uma zona azul ao redor de onde ficam as criaturas e os objetos, segundo os dados do pfQuest, com contorno próprio para que missões sobrepostas continuem separadas. O que está feito some, e uma missão terminada mostra quem a recebe.",
+            "Sim, com o Wanderer Quests instalado. No Atlas, cada objetivo é uma zona azul ao redor de onde ficam as criaturas e os objetos, segundo os dados do pfQuest, com contorno próprio para que missões sobrepostas continuem separadas. O que está feito some, e uma missão terminada mostra quem a recebe. Cada criatura ou objeto pedido tem sua própria zona, onde realmente está: quatro criaturas em quatro lugares fazem quatro zonas, e a zona sob o mouse diz o que há ali.",
             "Um clique em uma zona coloca a missão à frente da sua lista do Wanderer Quests, e seus objetivos são lidos no painel lateral. As posições vêm de dados públicos, então o Forever pode ter movido algumas criaturas. Uma missão que os dados não conhecem mantém a única marca que o jogo lhe dá.",
             "Uma missão escolhida no Atlas abre a ficha do Wanderer Quests ao lado, tudo o que ela diz, pede e dá, e o painel mantém a lista com a missão iluminada em ouro. A missão que você segue fica escolhida no mapa dela enquanto nada mais estiver, uma caixa ao lado de cada missão a acompanha nos seus objetivos ou a solta, e um clique direito oferece ir até lá, compartilhá-la ou abandoná-la, com confirmação."
           ]
@@ -576,6 +577,13 @@
           ]
         },
         {
+          "id": "sheet",
+          "h2": "Minha ficha de personagem pode ficar mais bonita?",
+          "paragraphs": [
+            "Sim. O Wanderer Outfits veste a ficha de personagem: seu personagem no centro, suas peças em duas colunas ao redor, e ao lado suas características, seus trajes e seus títulos. Cada clique funciona como na ficha do jogo, e um link traz a do jogo de volta."
+          ]
+        },
+        {
           "id": "fishing",
           "h2": "Minha vara de pescar pode entrar e sair sozinha?",
           "paragraphs": [
@@ -727,7 +735,7 @@
           "paragraphs": [
             "Uma linha que cita você aparece em dourado e fica um minuto a mais. Se foi dita onde você não podia ler (em outra aba, enquanto o chat estava apagado ou enquanto você estava ocupado), um cartão ao lado do chat a mostra com um botão para responder, e um som discreto pode avisar, no máximo uma vez por minuto.",
             "Dê também seus outros nomes, um apelido ou o do seu personagem principal: eles aparecem em dourado e avisam como o seu.",
-            "Quando alguém cumprimenta a guilda ou se despede, um cartão oferece uma resposta com o nome, adequada à hora, escrita para você e enviada só pelo seu Enter. Um sussurro que você ainda não respondeu espera numa pequena linha acima do chat."
+            "Um sussurro que você não respondeu espera numa pequena linha acima do chat."
           ]
         },
         {
@@ -774,7 +782,7 @@
         },
         {
           "q": "Ele envia alguma coisa sozinho?",
-          "a": "Nunca. Cumprimentos e respostas são escritos na sua linha de chat e enviados só pelo seu Enter, e ele nunca faz um /who por conta própria."
+          "a": "Nunca. As respostas são escritas na sua linha do chat e só saem com o seu Enter, e ele nunca faz um /quem sozinho."
         },
         {
           "q": "Minhas configurações e notas são compartilhadas entre personagens?",

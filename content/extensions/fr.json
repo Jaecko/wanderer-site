@@ -60,7 +60,8 @@
           "id": "bank",
           "h2": "Peut-on consulter sa banque de n'importe où ?",
           "paragraphs": [
-            "Chez le banquier, votre banque s'ouvre à côté de vos sacs, rangée de la même façon, avec les onglets du personnage et ceux du bataillon ; un clic droit déplace un objet de l'un à l'autre, et ce que vous avez marqué pour la banque y va tout seul (maintenez Maj pour l'éviter). La carte d'une section la dépose en entier, ou l'envoie à la banque à chaque visite. Loin du banquier, un lien montre votre banque telle que vous l'avez laissée."
+            "Chez le banquier, votre banque s'ouvre à côté de vos sacs, rangée de la même façon, avec les onglets du personnage et ceux du bataillon ; un clic droit déplace un objet de l'un à l'autre, et ce que vous avez marqué pour la banque y va tout seul (maintenez Maj pour l'éviter). La carte d'une section la dépose en entier, ou l'envoie à la banque à chaque visite. Loin du banquier, un lien montre votre banque telle que vous l'avez laissée.",
+            "Quand votre guilde a une banque, elle s'ouvre dans la même fenêtre : ses onglets, l'or de la guilde, les dépôts et les retraits, et son journal, autant que votre rang le permet."
           ]
         }
       ],
@@ -278,7 +279,7 @@
           "id": "tracker",
           "h2": "Peut-on réordonner les quêtes suivies et en mettre une en avant ?",
           "paragraphs": [
-            "Oui. Wanderer Quests peut prendre la place de la liste des quêtes suivies du jeu. Une quête se tient en avant, tout en haut : plus grande, avec une étoile et ses objectifs toujours affichés. Un clic met une quête en avant, un nouveau clic la retire, et rien d'autre ne la change jamais. Le jeu suit cette quête sur sa carte, même quand l'un de ses objectifs change.",
+            "Oui. Wanderer Quests peut prendre la place de la liste des quêtes suivies du jeu. Une quête se tient en avant, tout en haut : plus grande, avec une étoile et ses objectifs toujours affichés. Un clic met une quête en avant, un nouveau clic la retire, et rien d'autre ne la change jamais. Le jeu suit cette quête sur sa carte, même quand l'un de ses objectifs change. Son clic droit ouvre aussi la quête dans le journal du jeu, et une quête que vous pouvez terminer à distance le dit : un clic la termine.",
             "Les autres suivent dans votre ordre : glissez l'une d'elles par sa poignée ou déplacez-la depuis son clic droit, et Ranger maintenant range la liste une fois, par niveau, par distance ou prêtes à rendre d'abord. La zone où vous êtes vient en premier, les donjons à part, chaque zone repliée comme vous l'avez laissée. Une quête prête dit à qui la rendre, son objet attend sur sa ligne, et la liste reste atténuée au repos et plus discrète en combat. À la manette, le raccourci des quêtes du jeu et l'entrée Quêtes de la roue ouvrent cette liste : la croix va de titre en titre, le bouton du bas choisit et celui de gauche ouvre la carte."
           ]
         },
@@ -362,7 +363,7 @@
           "id": "quest-zones",
           "h2": "La carte peut-elle montrer où sont mes objectifs de quêtes ?",
           "paragraphs": [
-            "Oui, avec Wanderer Quests installé. Dans l'Atlas, chaque objectif est une zone bleue autour de l'endroit où se tiennent les créatures et les objets, d'après les données de pfQuest, avec son propre contour pour que les quêtes qui se chevauchent restent distinctes. Ce qui est fait disparaît, et une quête terminée montre qui la reprend.",
+            "Oui, avec Wanderer Quests installé. Dans l'Atlas, chaque objectif est une zone bleue autour de l'endroit où se tiennent les créatures et les objets, d'après les données de pfQuest, avec son propre contour pour que les quêtes qui se chevauchent restent distinctes. Ce qui est fait disparaît, et une quête terminée montre qui la reprend. Chaque créature ou objet demandé a sa propre zone, là où il se trouve vraiment : quatre créatures en quatre lieux font quatre zones, et la zone sous la souris nomme ce qui s'y trouve.",
             "Un clic sur une zone met la quête en tête de votre liste de Wanderer Quests, et ses objectifs se lisent dans le panneau latéral. Les positions viennent de données publiques : Forever a pu déplacer certaines créatures. Une quête que les données ne connaissent pas garde la seule marque que le jeu lui donne.",
             "Une quête choisie dans l'Atlas ouvre sa fiche de Wanderer Quests à côté, tout ce qu'elle dit, demande et donne, et le panneau garde sa liste, la quête éclairée d'or. La quête que vous suivez reste choisie sur sa carte tant que rien d'autre ne l'est, une case à côté de chaque quête la suit dans vos objectifs ou la laisse, et un clic droit propose d'y aller, de la partager ou de l'abandonner, après confirmation."
           ]
@@ -576,6 +577,13 @@
           ]
         },
         {
+          "id": "sheet",
+          "h2": "Ma fiche de personnage peut-elle être plus belle ?",
+          "paragraphs": [
+            "Oui. Wanderer Outfits habille la fiche de personnage : votre personnage au centre, vos pièces sur deux colonnes autour, et à côté vos caractéristiques, vos tenues et vos titres. Chaque clic fonctionne comme sur la fiche du jeu, et un lien rend celle du jeu."
+          ]
+        },
+        {
           "id": "fishing",
           "h2": "Ma canne à pêche peut-elle se mettre en main et se ranger toute seule ?",
           "paragraphs": [
@@ -727,7 +735,7 @@
           "paragraphs": [
             "Une ligne qui vous nomme s'affiche en doré et reste une minute de plus. Si elle a été dite là où vous ne pouviez pas la lire (dans un autre onglet, pendant que le chat s'était estompé ou que vous étiez occupé), une carte à côté du chat la montre avec un bouton pour répondre, et un son discret peut vous prévenir, une fois par minute au plus.",
             "Donnez-lui aussi vos autres noms, un surnom ou celui de votre personnage principal : ils s'affichent en doré et vous alertent comme le vôtre.",
-            "Quand quelqu'un salue la guilde ou dit au revoir, une carte propose une réponse avec son nom, adaptée à l'heure, écrite pour vous et envoyée seulement par votre touche Entrée. Un chuchotement auquel vous n'avez pas répondu attend sur une petite ligne au-dessus du chat."
+            "Un chuchotement auquel vous n'avez pas répondu attend sur une petite ligne au-dessus du chat."
           ]
         },
         {
@@ -774,7 +782,7 @@
         },
         {
           "q": "Envoie-t-il quelque chose tout seul ?",
-          "a": "Jamais. Les salutations et les réponses sont écrites dans votre ligne de saisie et envoyées seulement par votre touche Entrée, et il ne fait jamais de /who de lui-même."
+          "a": "Jamais. Les réponses s'écrivent dans votre ligne de chat et ne partent que par votre Entrée, et il ne fait jamais de /qui de lui-même."
         },
         {
           "q": "Mes réglages et mes notes sont-ils partagés entre personnages ?",

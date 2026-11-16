@@ -60,7 +60,8 @@
           "id": "bank",
           "h2": "Kann ich meine Bank von überall aus sehen?",
           "paragraphs": [
-            "Beim Bankier öffnet sich deine Bank neben deinen Taschen, genauso sortiert, mit den Reitern deines Charakters und denen der Kriegsmeute; ein Rechtsklick verschiebt einen Gegenstand zwischen beiden, und was du für die Bank markiert hast, wandert von selbst hinein (halte Umschalt, um das zu überspringen). Die Karte eines Abschnitts lagert ihn ganz ein oder schickt ihn bei jedem Besuch in die Bank. Fern vom Bankier zeigt ein Link deine Bank so, wie du sie verlassen hast."
+            "Beim Bankier öffnet sich deine Bank neben deinen Taschen, genauso sortiert, mit den Reitern deines Charakters und denen der Kriegsmeute; ein Rechtsklick verschiebt einen Gegenstand zwischen beiden, und was du für die Bank markiert hast, wandert von selbst hinein (halte Umschalt, um das zu überspringen). Die Karte eines Abschnitts lagert ihn ganz ein oder schickt ihn bei jedem Besuch in die Bank. Fern vom Bankier zeigt ein Link deine Bank so, wie du sie verlassen hast.",
+            "Hat deine Gilde eine Bank, öffnet sie sich im selben Fenster: ihre Reiter, das Gold der Gilde, Einzahlungen und Abhebungen und ihr Protokoll, so weit dein Rang es erlaubt."
           ]
         }
       ],
@@ -278,7 +279,7 @@
           "id": "tracker",
           "h2": "Kann ich verfolgte Quests umsortieren und eine nach vorne stellen?",
           "paragraphs": [
-            "Ja. Wanderer Quests kann den Platz der Questliste des Spiels einnehmen. Eine Quest steht vorne, ganz oben: größer, mit einem Stern und immer sichtbaren Zielen. Ein Klick stellt eine Quest nach vorne, ein weiterer Klick nimmt sie zurück, und nichts anderes ändert das je. Das Spiel verfolgt diese Quest auf seiner Karte, auch wenn sich eines ihrer Ziele ändert.",
+            "Ja. Wanderer Quests kann den Platz der Questliste des Spiels einnehmen. Eine Quest steht vorne, ganz oben: größer, mit einem Stern und immer sichtbaren Zielen. Ein Klick stellt eine Quest nach vorne, ein weiterer Klick nimmt sie zurück, und nichts anderes ändert das je. Das Spiel verfolgt diese Quest auf seiner Karte, auch wenn sich eines ihrer Ziele ändert. Sein Rechtsklick öffnet die Quest auch im Questlog des Spiels, und eine Quest, die du aus der Ferne abschließen kannst, sagt es: ein Klick schließt sie ab.",
             "Die anderen folgen in deiner Reihenfolge: Zieh eine an ihrem Griff oder verschieb sie per Rechtsklick, und Jetzt ordnen sortiert die Liste einmal, nach Stufe, nach Entfernung oder abgabebereite zuerst. Das Gebiet, in dem du stehst, kommt zuerst, die Dungeons getrennt, jedes Gebiet so eingeklappt, wie du es gelassen hast. Eine fertige Quest sagt, bei wem sie abzugeben ist, ihr Gegenstand wartet in ihrer Zeile, und die Liste bleibt in Ruhe gedämpft und im Kampf zurückhaltend. Mit dem Controller öffnen die Quest-Tastenkombination des Spiels und der Eintrag Quests im Radialmenü diese Liste: Das Steuerkreuz geht von Titel zu Titel, die untere Taste wählt, die linke öffnet die Karte."
           ]
         },
@@ -362,7 +363,7 @@
           "id": "quest-zones",
           "h2": "Kann die Karte zeigen, wo meine Questziele sind?",
           "paragraphs": [
-            "Ja, wenn Wanderer Quests installiert ist. Im Atlas ist jedes Ziel eine blaue Zone um die Stelle, an der die Kreaturen und Objekte stehen, nach den Daten von pfQuest, mit eigener Umrisslinie, damit sich überlappende Quests auseinanderzuhalten sind. Was erledigt ist, verschwindet, und eine fertige Quest zeigt, wer sie entgegennimmt.",
+            "Ja, wenn Wanderer Quests installiert ist. Im Atlas ist jedes Ziel eine blaue Zone um die Stelle, an der die Kreaturen und Objekte stehen, nach den Daten von pfQuest, mit eigener Umrisslinie, damit sich überlappende Quests auseinanderzuhalten sind. Was erledigt ist, verschwindet, und eine fertige Quest zeigt, wer sie entgegennimmt. Jede verlangte Kreatur und jedes Objekt hat seine eigene Zone, dort, wo es wirklich steht: vier Kreaturen an vier Orten ergeben vier Zonen, und die Zone unter der Maus nennt, was dort ist.",
             "Ein Klick auf eine Zone setzt die Quest an den Anfang deiner Liste in Wanderer Quests, und ihre Ziele stehen in der Seitenleiste. Die Positionen stammen aus öffentlichen Daten, Forever kann also manche Kreaturen versetzt haben. Eine Quest, die die Daten nicht kennen, behält die eine Markierung, die ihr das Spiel gibt.",
             "Eine im Atlas gewählte Quest öffnet ihr Blatt von Wanderer Quests daneben, alles, was sie sagt, verlangt und gibt, und das Seitenfeld behält seine Liste, die Quest in Gold hervorgehoben. Die Quest, der du folgst, bleibt auf ihrer Karte gewählt, solange nichts anderes gewählt ist, ein Kästchen neben jeder Quest verfolgt sie in deinen Zielen oder lässt sie los, und ein Rechtsklick bietet an, hinzugehen, sie zu teilen oder abzubrechen, nach Rückfrage."
           ]
@@ -576,6 +577,13 @@
           ]
         },
         {
+          "id": "sheet",
+          "h2": "Kann mein Charakterfenster schöner aussehen?",
+          "paragraphs": [
+            "Ja. Wanderer Outfits gestaltet das Charakterfenster: dein Charakter in der Mitte, deine Teile in zwei Spalten darum, daneben deine Werte, deine Outfits und deine Titel. Jeder Klick wirkt wie im Fenster des Spiels, und ein Link holt das Fenster des Spiels zurück."
+          ]
+        },
+        {
           "id": "fishing",
           "h2": "Kann meine Angel von selbst ein- und ausgewechselt werden?",
           "paragraphs": [
@@ -727,7 +735,7 @@
           "paragraphs": [
             "Eine Zeile, die dich nennt, erscheint in Gold und bleibt eine Minute länger. Fiel sie dort, wo du sie nicht lesen konntest (in einem anderen Reiter, während der Chat verblasst war oder du beschäftigt warst), zeigt eine Karte neben dem Chat sie mit einem Knopf zum Antworten, und ein leiser Ton kann dich darauf hinweisen, höchstens einmal pro Minute.",
             "Gib ihm auch deine anderen Namen, einen Spitznamen oder den deines Hauptcharakters: Sie erscheinen in Gold und melden sich wie dein eigener.",
-            "Grüßt jemand die Gilde oder verabschiedet sich, bietet eine Karte eine Antwort mit Namen an, passend zur Tageszeit, für dich geschrieben und nur mit deiner Eingabetaste verschickt. Ein Flüstern, auf das du nicht geantwortet hast, wartet in einer kleinen Zeile über dem Chat."
+            "Ein Flüstern, auf das du nicht geantwortet hast, wartet in einer kleinen Zeile über dem Chat."
           ]
         },
         {
@@ -774,7 +782,7 @@
         },
         {
           "q": "Verschickt es etwas von selbst?",
-          "a": "Nie. Grüße und Antworten werden in deine Chatzeile geschrieben und nur mit deiner Eingabetaste verschickt, und es macht nie von selbst ein /who."
+          "a": "Nie. Antworten werden in deine Chatzeile geschrieben und nur mit deiner Eingabetaste gesendet, und es macht nie von selbst ein /wer."
         },
         {
           "q": "Teilen sich meine Charaktere Einstellungen und Notizen?",

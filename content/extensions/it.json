@@ -60,7 +60,8 @@
           "id": "bank",
           "h2": "Posso vedere la mia banca da qualsiasi luogo?",
           "paragraphs": [
-            "Dal banchiere, la tua banca si apre accanto alle borse, ordinata allo stesso modo, con le schede del tuo personaggio e quelle della Brigata; un clic destro sposta un oggetto tra le due, e ciò che hai segnato per la banca ci entra da solo (tieni premuto Maiusc per evitarlo). La scheda di una sezione la deposita tutta, oppure la manda in banca a ogni visita. Lontano dal banchiere, un collegamento mostra la banca così come l'hai lasciata."
+            "Dal banchiere, la tua banca si apre accanto alle borse, ordinata allo stesso modo, con le schede del tuo personaggio e quelle della Brigata; un clic destro sposta un oggetto tra le due, e ciò che hai segnato per la banca ci entra da solo (tieni premuto Maiusc per evitarlo). La scheda di una sezione la deposita tutta, oppure la manda in banca a ogni visita. Lontano dal banchiere, un collegamento mostra la banca così come l'hai lasciata.",
+            "Quando la tua gilda ha una banca, si apre nella stessa finestra: le sue schede, l'oro della gilda, depositi e prelievi, e il suo registro, per quanto il tuo grado lo permette."
           ]
         }
       ],
@@ -278,7 +279,7 @@
           "id": "tracker",
           "h2": "Posso riordinare le missioni seguite e metterne una in evidenza?",
           "paragraphs": [
-            "Sì. Wanderer Quests può prendere il posto dell'elenco delle missioni seguite del gioco. Una missione sta in evidenza, in cima: più grande, con una stella e i suoi obiettivi sempre visibili. Un clic mette in evidenza una missione, un altro clic la toglie, e nient'altro la cambia mai. Il gioco segue quella missione sulla sua mappa, anche quando cambia uno dei suoi obiettivi.",
+            "Sì. Wanderer Quests può prendere il posto dell'elenco delle missioni seguite del gioco. Una missione sta in evidenza, in cima: più grande, con una stella e i suoi obiettivi sempre visibili. Un clic mette in evidenza una missione, un altro clic la toglie, e nient'altro la cambia mai. Il gioco segue quella missione sulla sua mappa, anche quando cambia uno dei suoi obiettivi. Il suo clic destro apre anche la missione nel registro del gioco, e una missione che puoi completare a distanza lo dice: un clic la completa.",
             "Le altre seguono nel tuo ordine: trascinane una dalla sua maniglia o spostala dal clic destro, e Ordina ora ordina l'elenco una volta, per livello, per distanza o prima quelle pronte da consegnare. La zona in cui ti trovi viene prima, le spedizioni a parte, ogni zona chiusa come l'hai lasciata. Una missione pronta dice a chi consegnarla, il suo oggetto aspetta sulla sua riga, e l'elenco resta attenuato a riposo e più discreto in combattimento. Con il controller, la scorciatoia delle missioni del gioco e la voce Missioni della ruota radiale aprono questo elenco: la croce direzionale va di titolo in titolo, il tasto in basso sceglie e quello a sinistra apre la mappa."
           ]
         },
@@ -362,7 +363,7 @@
           "id": "quest-zones",
           "h2": "La mappa può mostrare dove sono i miei obiettivi delle missioni?",
           "paragraphs": [
-            "Sì, con Wanderer Quests installato. Nell'Atlante, ogni obiettivo è una zona blu attorno al punto in cui si trovano le creature e gli oggetti, secondo i dati di pfQuest, con un contorno proprio perché le missioni che si sovrappongono restino distinte. Ciò che è fatto scompare, e una missione finita mostra chi la riceve.",
+            "Sì, con Wanderer Quests installato. Nell'Atlante, ogni obiettivo è una zona blu attorno al punto in cui si trovano le creature e gli oggetti, secondo i dati di pfQuest, con un contorno proprio perché le missioni che si sovrappongono restino distinte. Ciò che è fatto scompare, e una missione finita mostra chi la riceve. Ogni creatura o oggetto richiesto ha la sua zona, dove si trova davvero: quattro creature in quattro luoghi fanno quattro zone, e la zona sotto il mouse nomina ciò che c'è.",
             "Un clic su una zona mette la missione in cima alla tua lista di Wanderer Quests, e i suoi obiettivi si leggono nel pannello laterale. Le posizioni vengono da dati pubblici, quindi Forever può aver spostato alcune creature. Una missione che i dati non conoscono conserva l'unico segno che le dà il gioco.",
             "Una missione scelta nell'Atlante apre la sua scheda di Wanderer Quests accanto, tutto ciò che dice, chiede e dà, e il pannello tiene il suo elenco con la missione illuminata d'oro. La missione che segui resta scelta sulla sua mappa finché nient'altro lo è, una casella accanto a ogni missione la segue nei tuoi obiettivi o la lascia, e un clic destro propone di andarci, condividerla o abbandonarla, dopo conferma."
           ]
@@ -576,6 +577,13 @@
           ]
         },
         {
+          "id": "sheet",
+          "h2": "La mia scheda del personaggio può essere più bella?",
+          "paragraphs": [
+            "Sì. Wanderer Outfits veste la scheda del personaggio: il tuo personaggio al centro, i tuoi pezzi su due colonne attorno, e accanto le tue caratteristiche, i tuoi completi e i tuoi titoli. Ogni clic funziona come sulla scheda del gioco, e un collegamento riporta quella del gioco."
+          ]
+        },
+        {
           "id": "fishing",
           "h2": "La canna da pesca può entrare e uscire da sola?",
           "paragraphs": [
@@ -727,7 +735,7 @@
           "paragraphs": [
             "Una riga che ti nomina appare in oro e resta un minuto in più. Se è stata detta dove non potevi leggerla (in un'altra scheda, mentre la chat era sfumata o mentre eri occupato), una scheda accanto alla chat la mostra con un pulsante per rispondere, e un suono discreto può avvisarti, al massimo una volta al minuto.",
             "Dagli anche i tuoi altri nomi, un soprannome o quello del tuo personaggio principale: appaiono in oro e ti avvisano come il tuo.",
-            "Quando qualcuno saluta la gilda o si congeda, una scheda propone una risposta col suo nome adatta all'ora, scritta per te e inviata solo con il tuo Invio. Un sussurro a cui non hai risposto aspetta in una piccola riga sopra la chat."
+            "Un sussurro a cui non hai risposto aspetta in una piccola riga sopra la chat."
           ]
         },
         {
@@ -774,7 +782,7 @@
         },
         {
           "q": "Invia qualcosa da solo?",
-          "a": "Mai. Saluti e risposte vengono scritti nella tua riga della chat e inviati solo con il tuo Invio, e non fa mai un /who di sua iniziativa."
+          "a": "Mai. Le risposte vengono scritte nella tua riga della chat e partono solo col tuo Invio, e non fa mai un /chi da solo."
         },
         {
           "q": "Le mie impostazioni e note sono condivise tra i personaggi?",

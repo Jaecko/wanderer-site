@@ -80,7 +80,7 @@
       "h2": "I miei riquadri e le barre della salute possono essere più puliti in WoW Forever?",
       "paragraphs": [
         "Il tuo riquadro, il bersaglio, il gruppo, i boss e le loro barre di lancio prendono l'aspetto di Wanderer: un ritratto quadrato con il tuo livello e il riposo, salute e risorsa accanto esattamente alla sua altezza, la barra di lancio sotto. Il codice del gioco, i suoi valori e le dimensioni della Modalità modifica restano intatti, e altri tre aspetti sono a una scelta di distanza.",
-        "Se vuoi, una banda morbida mostra quanto infliggeranno ancora i tuoi danni periodici, con un teschio che si riempie quando coprono ciò che resta, e una banda verde scuro quanto cureranno ancora le tue cure periodiche. In gruppo, la tua minaccia sta su una riga discreta."
+        "Se vuoi, una banda morbida mostra quanto infliggeranno ancora i tuoi danni periodici, con un teschio che si riempie quando coprono ciò che resta, e una banda verde scuro quanto cureranno ancora le tue cure periodiche. In combattimento, la barra della vita di un mostro dice chi sta attaccando: verde quando è su di te, giallo quando lo stai perdendo o stai per prenderlo, rosso quando è su un altro. Un mostro o un alleato segnato con un simbolo d'incursione mostra sempre la sua barra della vita sopra la testa."
       ],
       "image": {
         "file": "frames",
@@ -108,6 +108,14 @@
       ]
     },
     {
+      "id": "windows",
+      "h2": "Le finestre del mercante, del bottino e dei tiri possono essere calme come il resto?",
+      "paragraphs": [
+        "Sì. I mercanti si aprono in una finestra di Wanderer: tutta la loro merce in un'unica lista, ognuna col suo prezzo, segnato ciò che non puoi usare o già conosci, e il riacquisto, le riparazioni e la tua cianfrusaglia nello stesso posto. Il bottino si apre in una finestra calma che dice quanto vale ogni cosa, e i tiri di gruppo si riuniscono in una finestra con Necessità, Avidità e Passo. Ognuna conserva un collegamento alla finestra del gioco, e un'impostazione la riporta per sempre.",
+        "Le altre finestre del gioco, la barra delle borse e i menu del clic destro prendono i colori di Wanderer senza spostare nulla, mentre le barre delle azioni mantengono l'aspetto del gioco. L'indicatore di navigazione del gioco mostra la strada verso la missione seguita, e ciò che raccogli sale sul lato dello schermo, denaro compreso, anche quello di una lettera."
+      ]
+    },
+    {
       "id": "travel",
       "h2": "L'interfaccia può farsi da parte mentre viaggio o sono assente?",
       "paragraphs": [
@@ -123,7 +131,7 @@
       "id": "group",
       "h2": "Wanderer può aiutare in gruppo senza giocare al posto mio?",
       "paragraphs": [
-        "Tieni premuto un tasto su un nemico e gli otto segnalini dell'incursione si aprono intorno al cursore, senza cambiare bersaglio. Le benedizioni che svaniscono su di te o sul tuo gruppo vengono segnalate da rinnovare, un mostro che nessuno ha ancora colpito viene indicato, e nelle spedizioni il difensore sente quando un mostro lo lascia.",
+        "Tieni premuto un tasto su un nemico e gli otto segnalini d'incursione si aprono attorno al cursore, senza cambiare il tuo bersaglio. Le tue benedizioni che svaniscono su di te o sul gruppo vengono ricordate, e viene indicato un mostro che nessuno ha ancora colpito.",
         "Se vuoi, alcune richieste ricevono risposta per te (inviti di gruppo dagli amici, evocazioni, resurrezioni), ma mai una resurrezione in incursione. Tieni premuto Maiusc e ogni richiesta aspetta la tua risposta. Tutto resta informazione: nessun aiuto alla rotazione, nessuna decisione presa in combattimento."
       ],
       "image": {
@@ -135,7 +143,7 @@
       "id": "options",
       "h2": "Posso impostarlo come gioco io e cambiare tutto dopo?",
       "paragraphs": [
-        "Un benvenuto accanto al fuoco propone sei modi di giocare (il novizio, il viandante, il narratore, l'avventuriero esperto, l'esploratore di spedizioni, l'artigiano) e imposta ciò che serve solo per questo personaggio, con la possibilità di annullare. Ogni impostazione è già preparata, e ogni impostazione si può cambiare.",
+        "Il benvenuto ti guida passo dopo passo, ogni passo nominato a lato, oppure mantiene le impostazioni consigliate con un clic. Un benvenuto accanto al fuoco propone sei modi di giocare (il novizio, il viandante, il narratore, l'avventuriero esperto, l'esploratore di spedizioni, l'artigiano) e imposta ciò che serve solo per questo personaggio, con la possibilità di annullare. Ogni impostazione è già preparata, e ogni impostazione si può cambiare.",
         "Una sola finestra delle impostazioni contiene tutta la famiglia, con una ricerca, una pagina Ciò che hai cambiato e profili per personaggio e per tipo di luogo. Sei stili vestono insieme l'etichetta e le descrizioni. Disattiva Wanderer e ogni impostazione del gioco che aveva cambiato ti viene restituita."
       ],
       "image": {

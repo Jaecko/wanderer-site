@@ -50,8 +50,8 @@
     "curseforge": "https://www.curseforge.com/members/jaekco",
     "github": "https://github.com/Jaecko"
   },
-  "addonGit": "C:/Users/jacks/.voile-tools/wanderer.git",
-  "addonToc": "C:/Users/jacks/.voile-tools/stage/Wanderer/Wanderer.toc",
+  "addonGit": "C:/Users/jacks/.wanderer-tools/wanderer.git",
+  "addonToc": "C:/Users/jacks/.wanderer-tools/stage/Wanderer/Wanderer.toc",
   "version": "0.43.0",
   "downloads": {
     "enabled": false,

@@ -62,4 +62,4 @@ La racine `/` envoie vers `/en/` (version de référence, aussi `x-default`).
 - Une extension sans logo : `illustrations/make.js` dessine un emblème carré (`assets/bestiary.svg`) ; un `assets/<clé>.webp` fait par `make_extensions.js` le remplace dès qu'il existe.
 - Textes : `content/extensions/<langue>.json` (`extensionPage`, `pages.<clé>` : meta, h1, lead, sections, faq). Vérifier une langue : `node validate-lang.js fr`.
 - Emblèmes : `node make_extensions.js` (depuis `media/Logo`). Illustrations sans texte (valables pour les 10 langues) : `node illustrations/make.js` écrit `assets/<section>.svg`.
-- Inventaire des fonctions qui a servi aux textes : `~/.voile-tools/catalog-2026-11-08/`.
+- Inventaire des fonctions qui a servi aux textes : `~/.wanderer-tools/catalog-2026-11-08/`.

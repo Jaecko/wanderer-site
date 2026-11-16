@@ -8,7 +8,7 @@ const path = require('path');
 const { execFileSync } = require('child_process');
 
 const CHROME = 'C:/Program Files/Google/Chrome/Application/chrome.exe';
-const LOGOS = 'C:/Users/jacks/.voile-tools/media/Logo';
+const LOGOS = 'C:/Users/jacks/.wanderer-tools/media/Logo';
 const OUT = path.join(__dirname, 'assets');
 // [source, name, size]: the extensions' emblems, and the site's logo (transparent) for the header and footer.
 const EMBLEMS = [['Wanderer Bags', 'bags'], ['Wanderer Auction', 'auction'], ['Wanderer Quests', 'quests'],

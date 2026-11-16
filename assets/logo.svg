@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <!-- Night around the medallion -->
+    <radialGradient id="bg" cx="50%" cy="45%" r="70%">
+      <stop offset="0" stop-color="#16233a"/>
+      <stop offset="0.6" stop-color="#0b1322"/>
+      <stop offset="1" stop-color="#05080f"/>
+    </radialGradient>
+    <!-- Sky inside the medallion -->
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f1c33"/>
+      <stop offset="0.55" stop-color="#1f3354"/>
+      <stop offset="0.72" stop-color="#3a4a66"/>
+      <stop offset="1" stop-color="#0a1220"/>
+    </linearGradient>
+    <!-- Gold of the frame -->
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbe7a1"/>
+      <stop offset="0.35" stop-color="#e2b34f"/>
+      <stop offset="0.65" stop-color="#a8761f"/>
+      <stop offset="1" stop-color="#f0cf75"/>
+    </linearGradient>
+    <linearGradient id="goldDark" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#5c3d0e"/>
+      <stop offset="0.5" stop-color="#9a6b1c"/>
+      <stop offset="1" stop-color="#4a300a"/>
+    </linearGradient>
+    <!-- The road, lit by the star -->
+    <linearGradient id="road" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#f3d27a" stop-opacity="0.95"/>
+      <stop offset="0.6" stop-color="#e8c36a" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#e8c36a" stop-opacity="0.1"/>
+    </linearGradient>
+    <!-- Glow of the star -->
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#fff4cc" stop-opacity="0.9"/>
+      <stop offset="0.25" stop-color="#f5d27a" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#f5d27a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="star" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fffaf0"/>
+      <stop offset="0.5" stop-color="#f7dc8c"/>
+      <stop offset="1" stop-color="#d9a441"/>
+    </linearGradient>
+    <!-- Mist over the valley -->
+    <linearGradient id="mist" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9d6ea" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#c9d6ea" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#c9d6ea" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="medallion">
+      <circle cx="256" cy="256" r="196"/>
+    </clipPath>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <rect width="512" height="512" fill="url(#bg)"/>
+
+  <!-- The scene, inside the medallion -->
+  <g clip-path="url(#medallion)">
+    <rect x="40" y="40" width="432" height="432" fill="url(#sky)"/>
+
+    <!-- Stars -->
+    <g fill="#e9eefb">
+      <circle cx="132" cy="138" r="1.6" opacity="0.8"/>
+      <circle cx="176" cy="104" r="1.2" opacity="0.6"/>
+      <circle cx="352" cy="118" r="1.5" opacity="0.75"/>
+      <circle cx="388" cy="168" r="1.1" opacity="0.55"/>
+      <circle cx="318" cy="88" r="1" opacity="0.5"/>
+      <circle cx="108" cy="196" r="1.1" opacity="0.5"/>
+      <circle cx="214" cy="86" r="0.9" opacity="0.45"/>
+      <circle cx="404" cy="232" r="1" opacity="0.4"/>
+      <circle cx="152" cy="232" r="0.9" opacity="0.35"/>
+    </g>
+
+    <!-- The guiding star -->
+    <circle cx="256" cy="150" r="70" fill="url(#glow)"/>
+    <path d="M256 104 L264 142 L300 150 L264 158 L256 196 L248 158 L212 150 L248 142 Z" fill="url(#star)"/>
+    <path d="M256 128 L259 147 L278 150 L259 153 L256 172 L253 153 L234 150 L253 147 Z" fill="#fffdf6" opacity="0.9"/>
+
+    <!-- Far mountains -->
+    <path d="M40 286 L96 244 L132 262 L182 214 L232 252 L268 230 L312 258 L360 222 L410 254 L472 236 L472 472 L40 472 Z"
+          fill="#2a3b5c" opacity="0.75"/>
+    <path d="M40 300 L110 254 L150 274 L205 234 L256 266 L300 242 L352 270 L398 246 L472 292 L472 472 L40 472 Z"
+          fill="#1d2b46"/>
+    <!-- Mist in the valley -->
+    <rect x="40" y="262" width="432" height="60" fill="url(#mist)" filter="url(#soft)"/>
+    <!-- Near hills -->
+    <path d="M40 336 C110 300 170 318 226 330 C276 340 320 312 370 316 C420 320 450 334 472 344 L472 472 L40 472 Z"
+          fill="#121d31"/>
+
+    <!-- The road toward the star -->
+    <path d="M214 472 C232 430 300 412 284 382 C270 356 236 352 250 330 C258 318 262 312 258 302
+             L262 302 C268 314 266 322 260 334 C250 354 290 362 302 386 C318 418 262 440 298 472 Z"
+          fill="url(#road)"/>
+
+    <!-- The wanderer, small on the road -->
+    <g fill="#0a1120">
+      <circle cx="287" cy="372" r="4.2"/>
+      <path d="M282 377 C281 384 279 392 277 399 L297 399 C295 392 293 384 292 377 Z"/>
+      <path d="M296 375 L300 401" stroke="#0a1120" stroke-width="2" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- Golden frame -->
+  <g filter="url(#shadow)">
+    <circle cx="256" cy="256" r="204" fill="none" stroke="url(#goldDark)" stroke-width="16"/>
+    <circle cx="256" cy="256" r="204" fill="none" stroke="url(#gold)" stroke-width="10"/>
+    <circle cx="256" cy="256" r="194" fill="none" stroke="#f3d58a" stroke-width="1.5" opacity="0.7"/>
+    <circle cx="256" cy="256" r="214" fill="none" stroke="#c99a3c" stroke-width="1.5" opacity="0.6"/>
+    <!-- Cardinal jewels -->
+    <g fill="url(#gold)" stroke="#5c3d0e" stroke-width="1.5">
+      <path d="M256 36 L268 52 L256 68 L244 52 Z"/>
+      <path d="M256 444 L268 460 L256 476 L244 460 Z"/>
+      <path d="M36 256 L52 244 L68 256 L52 268 Z"/>
+      <path d="M444 256 L460 244 L476 256 L460 268 Z"/>
+    </g>
+  </g>
+</svg>

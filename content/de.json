@@ -1,0 +1,303 @@
+{
+  "lang": "de",
+  "hreflang": "de",
+  "ogLocale": "de_DE",
+  "nativeName": "Deutsch",
+  "meta": {
+    "title": "Wanderer: Immersion und Komfort für WoW Forever",
+    "description": "Kostenlose Addons für WoW Forever: Namen über Köpfen verborgen, Schildchen beim Überfahren, Quests als Szenen, klare Einheitenfenster, 10 Erweiterungen."
+  },
+  "ui": {
+    "skip": "Zum Inhalt",
+    "languages": "Sprache",
+    "play": "Trailer abspielen",
+    "videoTitle": "Trailer zu Wanderer, einem Immersions-Addon für WoW Forever",
+    "videoDescription": "Vierzig Sekunden mit Wanderer in WoW Forever: verborgene Namen über den Köpfen, das Schildchen beim Überfahren, Quests als ruhige Szenen und eine Oberfläche, die zurücktritt.",
+    "videoFallback": "Trailer auf YouTube ansehen",
+    "downloadOn": "Herunterladen auf",
+    "screenshotSoon": "Screenshot folgt",
+    "menu": "Menü",
+    "nav": "Seiten",
+    "faq": "Fragen",
+    "family": "Die Familie",
+    "comingSoon": "Bald auf CurseForge",
+    "soonBadge": "Bald verfügbar"
+  },
+  "hero": {
+    "h1": "In Azeroth leben: Immersion und Komfort für WoW Forever",
+    "subtitle": "Wanderer",
+    "lead": "Wanderer ist eine kostenlose Addon-Familie für World of Warcraft Forever. Die Namen verschwinden über den Köpfen um dich herum, ein Schildchen sagt dir, wer jemand ist, sobald du ihn ansiehst, Gespräche werden zu ruhigen Szenen, und die kleinen Annehmlichkeiten, für die man sonst ein Dutzend Addons installiert, stecken in einem einzigen.",
+    "status": "Kostenlos, in 10 Sprachen übersetzt, in aktiver Entwicklung."
+  },
+  "download": {
+    "heading": "Wanderer herunterladen",
+    "note": "Version {version}. Die CurseForge-App installiert und aktualisiert es für dich."
+  },
+  "core": {
+    "kicker": "Wanderer selbst",
+    "title": "Das Herz der Familie",
+    "intro": "Wanderer funktioniert allein und hält zusammen, was die Erweiterungen teilen: seinen Stil, seine Profile, sein Einstellungsfenster. Das tut es für dich, von der ersten Minute an."
+  },
+  "sections": [
+    {
+      "id": "immersion",
+      "h2": "Wie blende ich die Namen über den Köpfen aus und spiele in Immersion?",
+      "paragraphs": [
+        "Wähle Volle Immersion, und die Namen über den Köpfen verschwinden: Spieler, NSCs, Feinde, Begleiter, Gilden und Titel lassen sich jeweils einzeln einstellen, und jede Art von Ort (offene Welt, Städte, Dungeons, Schlachtzüge) hat ihre eigene Wahl. Halte eine Taste, und alle Namen kehren kurz zurück, zusammen mit allem, was die Oberfläche ausgeblendet hatte.",
+        "Deine Gruppe und deine Gilde behalten einen kleinen, blassen Namen in ihrer Farbe, und die Spieler, die du kennst, auf Wunsch auch. Feinde können ihren Namen zeigen, wenn du näher kommst, erst blass, dann deutlich."
+      ],
+      "image": {
+        "file": "names-hidden-revealed",
+        "alt": "Eine Straße in Sturmwind im Abendlicht, ohne einen einzigen Namen über den Köpfen"
+      }
+    },
+    {
+      "id": "label",
+      "h2": "Wie sehe ich, wer jemand ist, ohne überall Namen?",
+      "paragraphs": [
+        "Fahr mit der Maus über eine Figur, und direkt über ihrem Kopf erscheint ein Schildchen. Du siehst ihr Porträt, ihre Stufe in der Farbe der Schwierigkeit, ihre Rolle, deinen Ruf bei ihrer Fraktion, den Zauber, den sie wirkt, und wen sie ansieht, in drei Detailstufen.",
+        "Es zeigt auch, was gerade zählt: die Quest, die sie vergibt oder erwartet, deine Ziele (3/8), was du sammeln, kürschnern oder plündern kannst, und über einem Monster ungefähr, wie viele davon dir noch zum Stufenaufstieg fehlen. Halte Umschalt über einem Spieler für seine Talente und seine Gegenstandsstufe."
+      ],
+      "image": {
+        "file": "label-npc",
+        "alt": "Das Schildchen von Wanderer über einem Questgeber, mit rundem Porträt, Stufe, Rolle und Questzielen"
+      }
+    },
+    {
+      "id": "scenes",
+      "h2": "Können Quests und Dialoge wie ruhige Filmszenen ablaufen?",
+      "paragraphs": [
+        "Sprich eine Figur an: Die Oberfläche verblasst, die Kamera kommt näher, und ihre Worte erscheinen Seite für Seite in einem Feld am unteren Bildschirmrand. Elite- und Gruppenquests werden genannt, bevor du annimmst, Belohnungen zeigen ihre Seltenheit, und die, die beim Händler am meisten bringt, trägt eine Münze.",
+        "Leertaste geht weiter, 1 bis 9 wählt, das Mausrad blättert zurück zum Gesagten. Bücher, Tafeln und Briefe öffnen sich in einem Lesefenster, das sich deine Seite merkt. Halte Umschalt gedrückt, und du bekommst das Fenster des Spiels, wann immer du willst. Bereits gelesene Antworten erscheinen gedämpft, nie versteckt, und das Feld steht, wo du willst, sein Hintergrund so hell oder dunkel, wie du magst."
+      ],
+      "image": {
+        "file": "quest-scene",
+        "alt": "Eine Quest als Szene: Oberfläche ausgeblendet, Kamera nah am NSC, der Questtext in einem Feld am unteren Bildschirmrand"
+      }
+    },
+    {
+      "id": "frames",
+      "h2": "Können meine Einheitenfenster und Lebensleisten in WoW Forever klar aussehen?",
+      "paragraphs": [
+        "Dein Fenster, dein Ziel, deine Gruppe, deine Bosse und ihre Zauberleisten bekommen den Stil von Wanderer: ein quadratisches Porträt mit deiner Stufe und deiner Erholung, Gesundheit und Kraft daneben in genau seiner Höhe, die Zauberleiste darunter. Der Code des Spiels, seine Werte und die Größen aus dem Bearbeitungsmodus bleiben unberührt, und drei andere Ansichten sind nur eine Wahl entfernt.",
+        "Auf Wunsch zeigt ein sanftes Band, was deine regelmäßigen Schadenseffekte noch anrichten werden, mit einem Schädel, der sich füllt, wenn sie den Rest abdecken, und ein tiefgrünes Band, was deine regelmäßigen Heilungen noch heilen werden. In der Gruppe steht deine Bedrohung auf einer ruhigen Linie."
+      ],
+      "image": {
+        "file": "frames",
+        "alt": "Einheitenfenster von Wanderer: quadratische Porträts mit Stufe, Gesundheits- und Kraftleisten daneben, ein Heilband auf deinem und ein Schadensband mit Schädel auf dem Ziel"
+      }
+    },
+    {
+      "id": "items",
+      "h2": "Kann ich auf einen Blick sehen, ob ein Gegenstand für meine Spezialisierung besser ist?",
+      "paragraphs": [
+        "Über einem Gegenstand, den du tragen könntest, sagt eine Zeile, wie er sich mit dem vergleicht, was du trägst, für deine Spielweise: Bär und Katze getrennt bei einem wilden Druiden. Die Gewichte werden aus deiner eigenen Ausrüstung und deinen Talenten ermittelt oder von Hand eingestellt, und die Skalen von Pawn lassen sich importieren und exportieren, wie Raidbots und die Klassenleitfäden sie liefern.",
+        "Jeder Tooltip nennt, was ein Händler zahlen würde, und ein Reagenz sagt, welche Berufe es verwenden, deine in Gold."
+      ],
+      "image": {
+        "file": "items",
+        "alt": "Ein Gegenstands-Tooltip in der Farbe seiner Qualität mit einer grünen Zeile, die sagt, dass er für dich besser ist, neben dem Fenster der Wertgewichtung"
+      }
+    },
+    {
+      "id": "comfort",
+      "h2": "Ein Addon, um Plunder zu verkaufen, zu reparieren, sofort zu plündern und per Doppelklick zu angeln?",
+      "paragraphs": [
+        "Wanderer verkauft bei Händlern deinen Plunder und repariert, plündert sofort mit dem automatischen Plündern des Spiels und lässt dich mit einem Doppel-Rechtsklick angeln, während das Schildchen über dem Schwimmer jeden Fang erzählt. Was du immer wieder kaufst (Pfeile, Wasser, Reagenzien), wird mit einem Klick erneut angeboten, und Lehrer bekommen einen Knopf Alles lernen.",
+        "Kommst du in eine Stadt, fasst ein Hinweis zusammen, was dort auf dich wartet: Reparaturen, neue Zauber, deine Einkaufsliste, deine Post. Alles, was für dich handelt, lässt sich ausschalten, und mit gehaltener Umschalttaste bleibt immer alles von Hand."
+      ]
+    },
+    {
+      "id": "travel",
+      "h2": "Kann die Oberfläche zurücktreten, wenn ich reise oder nicht da bin?",
+      "paragraphs": [
+        "Im Flug verblasst die Oberfläche, die Kamera tritt zurück, und eine Karte nennt dein Ziel. Bist du nicht an der Tastatur, kreist die Kamera langsam um dich, setzt dich ans Feuer oder zieht sich über die Landschaft zurück. Der Fotomodus blendet mit einer Taste alles aus. Stören dich Kamerabewegungen, lässt Ruhige Bewegungen die Kamera, wo du sie hingestellt hast, und nichts gleitet über den Bildschirm.",
+        "Die Minikarte und die Questverfolgung können den ruhigen Stil von Wanderer annehmen, eine schmale Leiste vereint sein Menü und die Symbole deiner Addons, und jedes Fenster des Spiels öffnet sich dort, wo du es gelassen hast, das zuletzt angeklickte vorn. Quests, die Karte und deine Nachrichten bleiben auf dieser Leiste; jedes andere Fenster wartet unter Mehr, einer Karte mit dem Symbol und der Zahl jedes Fensters, wo ein Stern es an die Leiste heftet, für jedes Profil."
+      ],
+      "image": {
+        "file": "travel",
+        "alt": "Ein Nachthimmel über Hügeln, die Fluglinie mit ihren Zwischenstopps und ein leuchtender Punkt für den Reisenden"
+      }
+    },
+    {
+      "id": "group",
+      "h2": "Kann Wanderer in der Gruppe helfen, ohne für mich zu spielen?",
+      "paragraphs": [
+        "Halte eine Taste über einem Feind, und die acht Schlachtzugsmarkierungen öffnen sich um den Mauszeiger, ohne dein Ziel zu wechseln. Segen, die auf dir oder deiner Gruppe auslaufen, werden zum Erneuern gemeldet, ein Monster, das noch niemand getroffen hat, wird angezeigt, und in Dungeons erfährt der Tank, wenn sich ein Monster von ihm löst.",
+        "Anfragen können auf Wunsch für dich beantwortet werden (Gruppeneinladungen von Freunden, Beschwörungen, Wiederbelebungen), eine Wiederbelebung im Schlachtzug aber nie. Mit gehaltener Umschalttaste wartet jede Anfrage auf deine eigene Antwort. Alles bleibt Information: keine Rotationshilfe, keine Entscheidung im Kampf."
+      ],
+      "image": {
+        "file": "group",
+        "alt": "Das Rad der Schlachtzugsmarkierungen, geöffnet um den Mauszeiger, der Totenschädel gewählt"
+      }
+    },
+    {
+      "id": "options",
+      "h2": "Kann ich es nach meiner Spielweise einrichten und danach alles ändern?",
+      "paragraphs": [
+        "Eine Begrüßung am Feuer bietet sechs Spielweisen an (der Neuling, der Wanderer, der Erzähler, der erfahrene Abenteurer, der Tiefenforscher, der Handwerker) und stellt nur für diesen Charakter ein, was passt, mit Rückgängig. Jede Einstellung ist voreingestellt, und jede Einstellung lässt sich ändern.",
+        "Ein einziges Einstellungsfenster vereint die ganze Familie, mit einer Suche, einer Seite Was du geändert hast und Profilen pro Charakter und pro Art von Ort. Sechs Stile gestalten das Schildchen und die Tooltips einheitlich. Schaltest du Wanderer aus, bekommst du jede Spieleinstellung zurück, die es geändert hat."
+      ],
+      "image": {
+        "file": "options-styles",
+        "alt": "Die Optionen von Wanderer in den Einstellungen des Spiels, mit den vordefinierten Stilen und der Live-Vorschau des Schildchens"
+      }
+    },
+    {
+      "id": "characters",
+      "h2": "Behält es meine Charaktere im Blick und das, was ich nicht vergessen darf?",
+      "paragraphs": [
+        "Ein Fenster listet jeden Charakter deines Accounts: Stufe, Erholungserfahrung auch während er ruht, Gold, Berufe und ihre Abklingzeiten, Briefe, die bald aus dem Briefkasten verschwinden. Der Merkzettel behält, was du nicht vergessen darfst, auf Wunsch an einen Ort gebunden, und meldet sich, wenn du dorthin zurückkehrst.",
+        "Rollenspieler behalten ihre Namen, Titel und ihren Status aus Total RP 3 im Schildchen, und mit dem Addon Spoken erklingen seine Stimmen in den Szenen."
+      ],
+      "image": {
+        "file": "characters",
+        "alt": "Das Charakterfenster mit Gesichtern in ihren Klassenfarben, Stufen, Erholungsleisten und Gold, neben einer Karte des Merkzettels"
+      }
+    },
+    {
+      "id": "controller",
+      "h2": "Kann ich in WoW Forever mit einem Controller spielen?",
+      "paragraphs": [
+        "Ja. Wanderer lässt den Controller-Modus des Spiels unberührt: Fenster, Taschen, Karte und Menüs des Spiels funktionieren wie immer. Auch jedes Fenster von Wanderer lässt sich mit dem Controller bedienen: Das Steuerkreuz springt von Schaltfläche zu Schaltfläche, ein goldener Rahmen zeigt deine Wahl, die untere Taste klickt, die rechte schließt, die obere ist der Rechtsklick, und der rechte Stick scrollt.",
+        "Die Trigger wechseln zwischen den offenen Fenstern, die des Spiels eingeschlossen, und schließt du eines, bist du wieder dort, wo du warst. Menüs werden zu Karten, die Touchpad-Taste öffnet die Leiste von Wanderer oben am Bildschirm, von der aus sich die ganze Familie öffnet, und im Kampf gehört jede Taste wieder dem Spiel. Deine Aktionsleisten bleiben sichtbar und blenden sich nur während Gesprächen aus. Einstellungen, die Maus oder Tastatur brauchen, sagen es, und die Wörter auf dem Bildschirm folgen sofort, wenn du zwischen Maus und Controller wechselst."
+      ]
+    }
+  ],
+  "faq": {
+    "heading": "Fragen",
+    "items": [
+      {
+        "q": "Wie blende ich Namen über den Köpfen in WoW Forever aus?",
+        "a": "Installiere Wanderer und wähle Volle Immersion, im Begrüßungsbildschirm oder auf der Seite Namen in den Optionen. Alle Namen verschwinden. Fahr über jemanden, um zu sehen, wer es ist, oder halte die Aufdecken-Taste."
+      },
+      {
+        "q": "Ersetzt es mein Questfenster?",
+        "a": "Nur solange die Gesprächsszenen an sind. Halte beim Ansprechen eines NSC Umschalt gedrückt, um das Fenster des Spiels zu bekommen, oder schalte die Szenen in den Optionen aus."
+      },
+      {
+        "q": "Kann ich verhindern, dass Wanderer meine Kamera bewegt?",
+        "a": "Ja. Schalte in den Optionen Ruhige Bewegungen ein: Die Kamera bewegt sich weder für eine Szene noch im Flug oder während du weg bist, und nichts gleitet über den Bildschirm. In Dungeons und Schlachtzügen bleibt die Kamera ohnehin still, und beim ersten Mal, wenn sie sich bewegt, bietet ein Hinweis an, sie dort zu lassen, wo sie ist."
+      },
+      {
+        "q": "Ändert es meine Spieleinstellungen für immer?",
+        "a": "Nein. Schalte Wanderer aus oder tippe /wanderer off, und jede Einstellung, die es geändert hat, bekommst du zurück."
+      },
+      {
+        "q": "Spielt es für mich?",
+        "a": "Nein. Wanderer ist ein Komfort-Addon: Nichts wird ohne deinen Klick gekauft, verschickt oder ausgegeben, mit gehaltener Umschalttaste bleibt jede Automatik von Hand, und im Kampf entscheidet nichts für dich."
+      },
+      {
+        "q": "Funktioniert es mit ElvUI, Questie oder anderen Addons?",
+        "a": "Ja. Erledigt ein anderes Addon schon eine Aufgabe (ElvUI für Einheitenfenster, Questie, TomTom, Postal, Bagnon und viele mehr), tritt Wanderer bei dieser Aufgabe zurück, und seine Option sagt, wer sie übernimmt."
+      },
+      {
+        "q": "Funktioniert es mit einem Controller?",
+        "a": "Ja, mit dem Controller-Modus des Spiels, den Wanderer nie anrührt. Jedes Fenster von Wanderer und jede Erweiterung lässt sich mit Steuerkreuz, Tasten und Triggern bedienen, und im Kampf gehört jede Taste wieder dem Spiel."
+      },
+      {
+        "q": "Sind meine Einstellungen auf allen Charakteren gleich?",
+        "a": "Nein, jeder Charakter hat sein eigenes Profil, mit eigenen Profilen für Welt, Städte und Dungeons. Ein gemeinsames Profil gibt es, wenn du eines willst, und ein neuer Charakter kann wie dein Hauptcharakter starten."
+      },
+      {
+        "q": "Was sind die Erweiterungen von Wanderer?",
+        "a": "Zehn kostenlose Addons, die Wanderer ergänzen: Bags, Auction, Mail, Quests, Maps, Training, Outfits, Professions, Chat und Bestiary. Nimm nur, was du willst: Jedes benötigt Wanderer, das ohne sie allein funktioniert, und jedes hat seine eigene Seite auf wanderer-addon.com."
+      },
+      {
+        "q": "Ist Wanderer kostenlos?",
+        "a": "Ja, vollständig, und nichts verlässt dein Spiel: keine Verbindung zu anderen Spielern oder Websites."
+      }
+    ]
+  },
+  "install": {
+    "heading": "Installation ohne Addon-App",
+    "steps": [
+      "Lade die Zip-Datei bei CurseForge herunter.",
+      "Öffne den Ordner von WoW Forever, dann Interface und AddOns (bei den meisten Installationen: World of Warcraft, _forever_, Interface, AddOns).",
+      "Entpacke die Zip-Datei dort, sodass ein Ordner Wanderer in AddOns liegt. Mach dasselbe für jede Erweiterung, die du willst.",
+      "Starte das Spiel oder tippe /reload, wenn es läuft. Mit /wanderer öffnest du die Optionen."
+    ],
+    "changelog": "Was sich in jeder Version geändert hat"
+  },
+  "feedback": {
+    "heading": "Sag mir deine Meinung",
+    "text": "Wanderer wird von einem Spieler gemacht und wächst mit deinen Rückmeldungen. Ein Fehler, eine Idee, eine Übersetzung zum Verbessern: Jede Nachricht wird gelesen.",
+    "comments": "Kommentare auf CurseForge",
+    "github": "Das Projekt auf GitHub"
+  },
+  "footer": {
+    "text": "Wanderer ist ein kostenloses Fan-Addon. World of Warcraft ist eine Marke von Blizzard Entertainment, das dieses Addon nicht unterstützt.",
+    "madeBy": "Gemacht von {author}, auf {curseforge} und {github}.",
+    "studio": "Die Website und die Addons wurden von {studio} erstellt."
+  },
+  "facts": {
+    "heading": "Wanderer auf einen Blick",
+    "game": "Spiel",
+    "price": "Preis",
+    "priceValue": "Kostenlos",
+    "languages": "Sprachen",
+    "languagesValue": "{count} Sprachen",
+    "compatibility": "Funktioniert mit",
+    "compatibilityValue": "ElvUI, Questie, Total RP 3",
+    "updated": "Letztes Update",
+    "updatedValue": "{date}, Version {version}",
+    "platforms": "Herunterladen",
+    "downloads": "Downloads",
+    "downloadsValue": "{count} auf CurseForge"
+  },
+  "extensions": {
+    "kicker": "Die Familie",
+    "title": "Zehn Begleiter für unterwegs",
+    "intro": "Kostenlose Addons, die den Stil, die Profile und das Einstellungsfenster von Wanderer teilen. Nimm nur, was du willst: Wanderer läuft auch allein, und die CurseForge-App installiert es mit ihnen."
+  },
+  "bags": {
+    "alt": "Logo von Wanderer Bags: ein lederner Abenteurerrucksack im Licht einer Laterne bei Nacht",
+    "tagline": "Deine Taschen und deine Bank",
+    "summary": "Alle Taschen in einem Fenster, nach Art sortiert, Handwerk nach Beruf, Behaltenes nie verkauft, deine Bank überall einsehbar."
+  },
+  "auction": {
+    "alt": "Logo von Wanderer Auction",
+    "tagline": "Das Auktionshaus",
+    "summary": "Verkaufen, kaufen und verfolgen in einem Fenster, ein fairer Preis vorgeschlagen, nie unter dem Händlerpreis, und eine Einkaufsliste überall."
+  },
+  "mail": {
+    "alt": "Logo von Wanderer Mail",
+    "tagline": "Der Briefkasten",
+    "summary": "Eine Karte, die deinen Briefkasten zusammenfasst, die gewählten Briefe mit einem Klick genommen und deine Twinks in der Empfängerliste."
+  },
+  "quests": {
+    "alt": "Logo von Wanderer Quests: ein altes Questbuch mit einer leuchtenden goldenen Kompassrose auf dem Einband, daneben eine Kartennadel",
+    "tagline": "Die Quests, die die Welt verbirgt",
+    "summary": "Die Quests deiner Klasse, deiner Dungeons und Gebiete in Reihen, ein Blatt für jede und eine ruhige Liste deiner verfolgten Quests."
+  },
+  "maps": {
+    "alt": "Logo von Wanderer Maps",
+    "tagline": "Dein Weg durch die Welt",
+    "summary": "Der Atlas, eine große Karte mit deinen Quests als Zonen, Notizen und Route, ein Pfeil zu deinem nächsten Schritt, Flüge und Schiffe mitgerechnet."
+  },
+  "training": {
+    "alt": "Logo von Wanderer Training",
+    "tagline": "Was dein Lehrer für dich hat",
+    "summary": "Was deine Lehrer noch für dich haben und was es kostet, berechnet für deine Spielweise, und deine Talente geplant."
+  },
+  "outfits": {
+    "alt": "Logo von Wanderer Outfits",
+    "tagline": "Das richtige Teil im richtigen Moment",
+    "summary": "Deine Reit-, Angel- und Dungeonteile im richtigen Moment angelegt und danach wieder abgelegt, von selbst. Ganze Ausrüstungen mit einem Klick."
+  },
+  "professions": {
+    "alt": "Logo von Wanderer Professions: eine hölzerne Werkbank mit Amboss, Garnrolle und Fläschchen",
+    "tagline": "Deine Werkbank",
+    "summary": "Jedes Rezept mit Symbol, Reagenzien als Karten, die nächsten lohnenden Herstellungen und eine Warteschlange, die du selbst startest."
+  },
+  "chat": {
+    "alt": "Logo von Wanderer Chat",
+    "tagline": "Der Chat, zur Ruhe gebracht",
+    "summary": "Ein gläserner Chat, der verblasst, dein Name in Gold, eine Karte, wenn dich jemand nennt, ruhigere Kanäle und Flüstern als Gespräche."
+  },
+  "bestiary": {
+    "alt": "Emblem von Wanderer Bestiary: ein aufgeschlagenes Buch mit einem in Gold gezeichneten Wolfskopf",
+    "tagline": "Die Kreaturen der Welt",
+    "summary": "Jede Kreatur mit 3D-Modell, Stärke und Zaubern, enthüllt, sobald du ihr begegnest, und deine eigene Jagdliste."
+  }
+}

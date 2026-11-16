@@ -1,0 +1,870 @@
+{
+  "extensionPage": {
+    "more": "Alles über {name}",
+    "home": "Wanderer",
+    "breadcrumb": "Brotkrumennavigation",
+    "requires": "Eine kostenlose Erweiterung: Sie benötigt Wanderer, und die CurseForge-App installiert beide zusammen.",
+    "downloadHeading": "{name} herunterladen",
+    "faqHeading": "Fragen zu {name}",
+    "otherHeading": "Der Rest der Familie",
+    "back": "Zurück zu Wanderer"
+  },
+  "pages": {
+    "bags": {
+      "meta": {
+        "title": "Wanderer Bags: alle Taschen in einem Fenster (WoW Forever)",
+        "description": "Wanderer Bags, kostenloses Addon für WoW Forever: Taschen und Bank in einem Fenster, nach Art sortiert, Handwerk nach Beruf, vor Fehlverkäufen geschützt."
+      },
+      "h1": "Alle deine Taschen und deine Bank in einem ruhigen Fenster",
+      "lead": "Wanderer Bags ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Es vereint jede Tasche, die du trägst, in einem einzigen Fenster, ordnet dein Gepäck so, wie du darüber denkst, bewahrt das Wichtige vor einem achtlosen Verkauf und nimmt deine Bank mit, selbst fern vom Bankier. Die Felder sind die des Spiels, und ein Kontrollkästchen gibt dir die Taschen des Spiels zurück.",
+      "sections": [
+        {
+          "id": "window",
+          "h2": "Wie sehe ich alle Taschen in einem Fenster in WoW Forever?",
+          "paragraphs": [
+            "Installiere Wanderer Bags mit Wanderer: Deine Taschen öffnen sich in einem Fenster, gestaltet wie jedes Fenster von Wanderer. Die Felder sind die des Spiels: Ein Rechtsklick benutzt einen Gegenstand, Ziehen verschiebt ihn, Tooltips, Abklingzeiten und das Leuchten neuer Gegenstände sind genau so, wie du sie kennst. Mit dem Controller benutzt die untere Taste einen Gegenstand, die obere nimmt ihn in die Hand.",
+            "Nach Art sortiert kommt zuerst, was du gerade aufgehoben hast, dann Ausrüstung, Verbrauchsgüter, Handwerkswaren, Quests und der Rest, der Plunder ganz am Ende. Köcher, Munitionsbeutel, Seelentaschen und Berufstaschen haben jeweils ein eigenes freies Feld, und solange das Fenster offen ist, behält jeder Gegenstand seinen Platz: Nichts rutscht unter deiner Maus weg. Wenn du es lieber magst: Tasche für Tasche, jeder Platz an seiner Stelle. Die Größe der Felder und ihre Anzahl pro Reihe bestimmst du."
+          ]
+        },
+        {
+          "id": "find",
+          "h2": "Wie finde ich schnell einen Gegenstand?",
+          "paragraphs": [
+            "Eine Suche nach Name oder Art lässt zurücktreten, was nicht passt, und sagt, wie viele davon deine anderen Charaktere tragen. Sie kennt auch Stufen (>40, 30-40), Qualitäten, BoE, Ausrüstungsplätze, ! für ohne und | für oder. Die Gegenstandsstufe steht in der Ecke deiner Ausrüstung, „BoE“ auf dem, was beim Anlegen gebunden wird, Wanderers grüner Pfeil markiert, was für deine Spielweise besser ist, eine kleine Münze kennzeichnet den Plunder und ein Questzeichen die Gegenstände, die eine Quest von dir verlangt.",
+            "Über jedem Gegenstand sagt eine Liste, welche deiner Charaktere ihn tragen, in ihren Taschen und in ihrer Bank. Sind deine Taschen fast voll, nennen die freien Plätze die billigsten Dinge, die du trägst."
+          ]
+        },
+        {
+          "id": "crafting",
+          "h2": "Lassen sich Handwerksmaterialien nach Beruf sortieren?",
+          "paragraphs": [
+            "Ja. Die Handwerkswaren teilen sich in einen Abschnitt für jeden deiner Berufe, dann das, was deine anderen Charaktere verwenden, dann das, was nur andere Berufe brauchen, direkt vor dem Plunder: Was du verkaufen kannst, auf einen Blick. Die Teile deiner Ausrüstungssets sammeln sich in einem eigenen Abschnitt."
+          ]
+        },
+        {
+          "id": "keep",
+          "h2": "Wie verhindere ich, dass ein Gegenstand versehentlich verkauft wird?",
+          "paragraphs": [
+            "Alt+Klick auf einen Gegenstand: Eine kleine Karte bietet Behalten, Auktion, Plunder oder Bank an. Ein behaltener Gegenstand trägt ein Vorhängeschloss und wird nie verkauft, weder an einen Händler noch im Auktionshaus. Ein Gegenstand fürs Auktionshaus wird nie an einen Händler verkauft, ein Plunder-Gegenstand geht mit dem Plunder, welche Farbe er auch hat, und ein Gegenstand für die Bank kommt bei deinem nächsten Besuch hinein.",
+            "Eigene Abschnitte tragen die Namen, die du magst, klappen mit einem Klick zu und lassen sich oben anheften oder verschieben. Ein Knopf Auswählen wirkt auf viele Gegenstände auf einmal."
+          ]
+        },
+        {
+          "id": "merchant",
+          "h2": "Kann ich meinen Plunder sicher beim Händler verkaufen?",
+          "paragraphs": [
+            "Beim Händler zeigen der Plunder und das, was nur andere Berufe brauchen, ihren Wert und einen Knopf Verkaufen, der zuerst fragt, wie viele Gegenstände für wie viel. Ein Händler kauft nur die letzten 12 Gegenstände zurück, darum gehen größere Verkäufe in Losen zu 12, und was im Auktionshaus mehr als dreimal so viel wert ist, bleibt beiseite, außer du setzt das Häkchen. Auch das „Allen Plunder verkaufen“ des Spiels folgt deinen Markierungen, sodass Behaltenes, deine Ausrüstungssets und deine Questgegenstände immer in deinen Taschen bleiben."
+          ]
+        },
+        {
+          "id": "bank",
+          "h2": "Kann ich meine Bank von überall aus sehen?",
+          "paragraphs": [
+            "Beim Bankier öffnet sich deine Bank neben deinen Taschen, genauso sortiert, mit den Reitern deines Charakters und denen der Kriegsmeute; ein Rechtsklick verschiebt einen Gegenstand zwischen beiden, und was du für die Bank markiert hast, wandert von selbst hinein (halte Umschalt, um das zu überspringen). Die Karte eines Abschnitts lagert ihn ganz ein oder schickt ihn bei jedem Besuch in die Bank. Fern vom Bankier zeigt ein Link deine Bank so, wie du sie verlassen hast."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Kann ich die Taschen des Spiels zurückbekommen?",
+          "a": "Ja. Ein Kontrollkästchen in den Optionen von Wanderer bringt die Taschen des Spiels zurück, ein weiteres die Bank des Spiels. Sonst ändert sich nichts an deinem Spiel."
+        },
+        {
+          "q": "Zählen Köcher und Seelentaschen bei den freien Plätzen mit?",
+          "a": "Nein. Köcher, Munitionsbeutel, Seelentaschen und Berufstaschen haben jeweils ihr eigenes freies Feld mit eigener Zahl, so stimmen die freien Plätze deiner Taschen, und die Warnung „fast voll“ schaut nur auf deine gewöhnlichen Taschen."
+        },
+        {
+          "q": "Funktioniert es mit Bagnon, AdiBags oder den Taschen von ElvUI?",
+          "a": "Ja. Übernimmt ein anderes Addon deine Taschen, tritt Wanderer Bags von selbst zurück, und deine Markierungen schützen weiterhin, was beim Händler verkauft wird."
+        },
+        {
+          "q": "Funktioniert Wanderer Bags mit Auctionator?",
+          "a": "Ja. Was du behältst, ist in der Verkaufsliste von Auctionator ausgeblendet, was du für das Auktionshaus beiseitelegst, steht darin ganz oben, und seine Preise erscheinen auf deinen Abschnitten."
+        },
+        {
+          "q": "Unterstützt Wanderer Bags die Kriegsmeutenbank?",
+          "a": "Ja. Beim Bankier zeigt es die Reiter deines Charakters und die der Kriegsmeute neben deinen Taschen, mit dem spieleigenen Einlagern und Sortieren, und speichert eine Kopie, die du dir überall ansehen kannst."
+        },
+        {
+          "q": "Verkauft es etwas von selbst?",
+          "a": "Nein. Nichts wird ohne deinen Klick auf Verkaufen verkauft, und der Verkauf eines Abschnitts wird zuerst erfragt. Nur was du für die Bank markiert hast, wandert von selbst, und Umschalt überspringt es."
+        },
+        {
+          "q": "Teilen sich meine Charaktere die Markierungen?",
+          "a": "Nein. Markierungen, Abschnitte, ihre Reihenfolge und was zugeklappt ist, gehören jedem Charakter selbst."
+        }
+      ]
+    },
+    "auction": {
+      "meta": {
+        "title": "Wanderer Auction: ruhiges Auktionshaus-Addon (WoW Forever)",
+        "description": "Wanderer Auction, kostenloses Addon für WoW Forever: verkaufen, kaufen, verfolgen, ein fairer Preis, nie unter dem Händlerpreis, eine Einkaufsliste."
+      },
+      "h1": "Das Auktionshaus in einem ruhigen Fenster, nie unter dem Händlerpreis",
+      "lead": "Wanderer Auction ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Es holt das Auktionshaus des Spiels in ein einziges Wanderer-Fenster, um zu verkaufen, zu kaufen, deine Auktionen zu verfolgen und die Preise der letzten Tage zu lesen, und fügt eine Einkaufsliste hinzu, die du überall öffnen kannst. Eine Regel vor allem: Du verkaufst nie für weniger, als dir ein Händler geben würde.",
+      "sections": [
+        {
+          "id": "sell",
+          "h2": "Wie wird der Verkaufspreis festgelegt?",
+          "paragraphs": [
+            "Wähle einen Gegenstand, und sein Preis wird sofort gesucht. Der optimierte Preis liegt knapp unter dem ersten glaubwürdigen Angebot, gemessen an den letzten vierzehn Tagen; Lockangebote, viel zu niedrig, um echt zu sein, bleiben außen vor, und eine Zeile erklärt, warum dieser Preis. Schnell verkaufen oder der Marktpreis sind nur eine Wahl entfernt.",
+            "Gib einen Preis ein, wie du magst: 1.5, 1g50s oder 75s. Ein Preis unter der Hälfte des üblichen Werts eines Gegenstands oder über dem Dreifachen erscheint rot und wird vor dem Einstellen erfragt, und „Als deinen Preis merken“ macht deinen zum niedrigsten, der für diesen Gegenstand je angeboten wird. Was du in Wanderer Bags beiseitegelegt hast, kommt zuerst, gleiche Gegenstände werden zusammen eingestellt, und Alles verkaufen reiht alles auf, was hier mehr bringt als beim Händler: Die Leertaste stellt den nächsten ein."
+          ]
+        },
+        {
+          "id": "merchant",
+          "h2": "Verkauft es jemals unter dem Händlerpreis?",
+          "paragraphs": [
+            "Nie. Das Auktionshaus behält bei jedem Verkauf einen Anteil ein, daher vergleicht Wanderer Auction, was du wirklich erhalten würdest, mit dem, was ein Händler zahlt. Ein Preis, der weniger einbringen würde, wird auf den Händlerpreis angehoben, und das wird gesagt. Eine Anzahlung, die höher ist als dein Gewinn, wird angezeigt.",
+            "Mit Wanderer Bags wird ein fürs Auktionshaus beiseitegelegter Gegenstand, der beim Händler sicher mehr wert ist, zu Plunder. Gegenstände, deren Einstellen der Server verweigert, werden gemerkt und nicht mehr angeboten."
+          ]
+        },
+        {
+          "id": "buy",
+          "h2": "Wie suche und kaufe ich?",
+          "paragraphs": [
+            "Suche nach Name in den Kategorien des Spiels, mit Seltenheit, Stufen, nur benutzbaren Gegenständen und deinen Favoriten; deine letzten Suchen warten unter dem Suchfeld. Ein Preis erscheint in Grün, wenn er deutlich unter seinem üblichen Preis liegt, in Rot, wenn deutlich darüber. Waren kaufst du nach Menge, die Gesamtkosten werden zuerst genannt, Gegenstände per Sofortkauf oder Gebot, und jeder Kauf und jedes Gebot wird bestätigt."
+          ]
+        },
+        {
+          "id": "follow",
+          "h2": "Wie verfolge ich meine Auktionen und Gebote?",
+          "paragraphs": [
+            "Der Reiter Laufend vereint deine Auktionen und deine Gebote: anderswo günstiger, das günstigste, verkauft und per Post unterwegs, überboten. Eine Aktion pro Zeile: abbrechen, die Kosten zuerst erfragt, mit dem kleinstmöglichen Betrag erneut bieten oder sofort kaufen. „Unterbotene zurücknehmen“ sammelt die Auktionen, die ein neues Einstellen lohnen, in einer Karte, jede mit einem eigenen Klick abgebrochen, die verlorene Anzahlung zuerst genannt."
+          ]
+        },
+        {
+          "id": "history",
+          "h2": "Ist jetzt ein guter Zeitpunkt zum Verkaufen?",
+          "paragraphs": [
+            "Der Reiter Verlauf zeigt die Preise eines Gegenstands der letzten vierzehn Tage in einem kleinen Diagramm, mit seinem Marktwert und dem günstigsten Angebot des Tages, und sagt es klar: ein guter Zeitpunkt zum Verkaufen, der übliche Preis, besser warten oder besser beim Händler. Fern vom Auktionshaus erscheint der zuletzt gesehene Preis im Tooltip des Gegenstands."
+          ]
+        },
+        {
+          "id": "shopping",
+          "h2": "Kann ich eine Einkaufsliste führen?",
+          "paragraphs": [
+            "Ja, und sie öffnet sich überall. Füge einen Gegenstand aus deinen Taschen, deinen Quests, deinem Merkzettel oder dem Fenster eines Berufs hinzu, das die Reagenzien schickt, die dir fehlen, und sagt, was das Rezept kostet und was es einbringt. Eine Zeile kann einmalig sein oder mit einer Anzahl immer dabei: Pfeile, Essen, Reagenzien. Im Auktionshaus wird die ganze Liste auf einmal gesucht, das Günstigste zuerst.",
+            "Bei einem Händler, der ihn verkauft, kauft ein Link +N genau das Fehlende. Auf Wunsch wird es beim Eintreffen gekauft, nur für Gold und unter einer Grenze pro Besuch, und der Bankier kann zuerst herausgeben, was deine Bank enthält. Halte Umschalt, um beides zu überspringen."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Ersetzt Wanderer Auction Auctionator?",
+          "a": "Das soll es nicht. Es arbeitet neben Auctionator oder TradeSkillMaster: Ist eines davon installiert, bleibt das Fenster des Spiels, bis du das von Wanderer wählst, und der Preis im Tooltip bleibt Auctionator überlassen."
+        },
+        {
+          "q": "Kauft oder verkauft Wanderer Auction etwas von selbst?",
+          "a": "Nein. Jeder Verkauf braucht deine Geste, jeder Kauf, jedes Gebot und jeder Abbruch wird vorher bestätigt. Beim Händler wird nichts gekauft, außer du klickst auf +N oder schaltest den Kauf beim Eintreffen ein, mit einer Grenze pro Besuch."
+        },
+        {
+          "q": "Was, wenn ich aus Versehen einen falschen Preis eingebe?",
+          "a": "Ein Preis unter der Hälfte des üblichen Werts oder über dem Dreifachen erscheint rot und wird vor dem Einstellen noch einmal erfragt, auch bei Alles verkaufen. Und nie wird ein Preis unter dem angeboten, was ein Händler gibt."
+        },
+        {
+          "q": "Warum gibt es nur ganze Silberbeträge?",
+          "a": "Weil der Server von WoW Forever Kupfer in Auktionspreisen verweigert. Wanderer Auction schreibt jeden Preis in ganzen Silbermünzen, damit kein Verkauf abgelehnt wird."
+        },
+        {
+          "q": "Brauche ich Wanderer Bags für Wanderer Auction?",
+          "a": "Nein, nur Wanderer. Mit Wanderer Bags lenken deine Markierungen, was angeboten wird, und die Einkaufsliste ist nur einen Alt+Klick entfernt."
+        },
+        {
+          "q": "Kann ich das Auktionshausfenster des Spiels behalten?",
+          "a": "Ja. Eine Option behält das Fenster des Spiels, und ein Link daneben öffnet das von Wanderer, wann immer du willst."
+        },
+        {
+          "q": "Teilen sich meine Charaktere die Einkaufsliste?",
+          "a": "Die Liste gehört jedem Charakter selbst. Die Preise, die du gesehen hast, teilen sich alle."
+        }
+      ]
+    },
+    "mail": {
+      "meta": {
+        "title": "Wanderer Mail: ein schnellerer Briefkasten für WoW Forever",
+        "description": "Wanderer Mail, kostenloses Addon für WoW Forever: dein Briefkasten zusammengefasst, Auktionspost mit einem Klick, Twinks als Empfänger, ablaufende Briefe."
+      },
+      "h1": "Dein Briefkasten zusammengefasst, deine Briefe mit einem Klick genommen",
+      "lead": "Wanderer Mail ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Eine Karte neben dem Briefkasten des Spiels sagt, was er enthält, und nimmt die Briefe, die du wählst; eine kleine Liste füllt den Empfänger, wenn du schreibst. Es ersetzt nichts: Das Postfenster bleibt das des Spiels, und Wanderer Mail löscht, verschickt oder bezahlt nie etwas von selbst.",
+      "sections": [
+        {
+          "id": "card",
+          "h2": "Kann ich auf einen Blick sehen, was mein Briefkasten enthält?",
+          "paragraphs": [
+            "Ja. Eine Karte neben dem Briefkasten nennt die Zahl der Briefe, das Gold darin, die Briefe per Nachnahme, deine freien Taschenplätze und den ersten Brief, der bald zurückgeht. Die Briefe des Auktionshauses werden getrennt sortiert (verkauft, an dich zurück, gewonnen, überboten), und hält der Server mehr als fünfzig zurück, sagt die Karte, wie viele noch warten. Auf jedem Brief des Postfachs sagt ein kleines Wort, was geschieht, wenn seine Tage um sind: zurück an den Absender oder vernichtet."
+          ]
+        },
+        {
+          "id": "take",
+          "h2": "Wie nehme ich meine ganze Auktionspost auf einmal?",
+          "paragraphs": [
+            "Jeder Block hat seinen eigenen Knopf Diese nehmen: nur die Briefe des Auktionshauses oder nur die Briefe der Spieler. Gold nehmen nimmt nur das Gold. Der Knopf zählt mit und hält mit einem Klick an; danach sagt die Karte, was genommen wurde. Umschalt+Klick auf einen Brief nimmt ihn allein; Strg+Klick auf den Brief eines Spielers schickt ihn nach einer Frage zurück.",
+            "Volle Taschen halten nicht mehr alles an: Ein Gegenstand kommt auf einen Stapel seiner Art, wenn es geht, ein freier Platz bleibt frei, und der Rest wartet in seinem Brief, während das Gold weiter kommt. Über fünfzig Briefe hinaus geht es mit einem Klick weiter, sobald der Server die nächsten bringt. Einen Brief, für den du bezahlen müsstest, nimmt es nie."
+          ]
+        },
+        {
+          "id": "send",
+          "h2": "Kann ich meinen Twinks Post schicken, ohne ihre Namen zu tippen?",
+          "paragraphs": [
+            "Ja. Ein kleiner Pfeil am Ende des Empfängerfelds öffnet eine Liste: deine anderen Charaktere dieses Realms und dieser Fraktion, mit Klassenfarbe und Stufe, dann die letzten Spieler, denen du geschrieben hast. Ein Klick schreibt den Namen; das Feld bleibt deins. Deine Freunde und die Mitglieder deiner Gilde, die online sind, stehen auch in der Liste.",
+            "Gehen Gold oder Gegenstände an einen Namen, den du nicht kennst, oder soll einer deiner eigenen Charaktere per Nachnahme bezahlen, erscheint ein dezenter Hinweis im Feld. Der Senden-Knopf des Spiels bleibt der einzige, der verschickt."
+          ]
+        },
+        {
+          "id": "expiry",
+          "h2": "Erfahre ich, wenn ein Brief bald abläuft?",
+          "paragraphs": [
+            "Ja. Beim Einloggen sagt ein dezenter Hinweis, wenn einer deiner anderen Charaktere einen Brief mit Gold oder Gegenständen hat, der innerhalb von drei Tagen verschwindet, und das Charakterfenster von Wanderer zeigt es in seiner Zeile. Ein eigener Brief, der innerhalb eines Tages zurückgeht, kommt auf deinen Merkzettel."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Funktioniert es mit Postal?",
+          "a": "Ja. Sind Postal oder die Postfunktionen von TradeSkillMaster da, treten die Nehmen-Knöpfe von Wanderer Mail zurück; die Karte und die Empfängerliste bleiben."
+        },
+        {
+          "q": "Kann es Briefe von selbst löschen oder verschicken?",
+          "a": "Nie. Es löscht, verschickt oder bezahlt nie etwas: Jedes Nehmen beginnt mit deinem Klick."
+        },
+        {
+          "q": "Wie sehe ich von überall nach meiner Post?",
+          "a": "Tippe /wmail: Es sagt dir, ob ein Brief auf dich wartet."
+        }
+      ]
+    },
+    "quests": {
+      "meta": {
+        "title": "Wanderer Quests: jede Quest und ihre Reihe (WoW Forever)",
+        "description": "Wanderer Quests, kostenloses Addon für WoW Forever: Klassen-, Dungeon- und Gebietsquests in Reihen, ein Blatt für jede, eine ruhige Liste deiner Quests."
+      },
+      "h1": "Die Quests, die dir die Welt verbirgt, in einem ruhigen Fenster",
+      "lead": "Wanderer Quests ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Alle Quests deiner Klasse, jedes Dungeons und Schlachtzugs und jedes Gebiets, jede mit den Quests, die zu ihr führen, und wo du bei jeder stehst. Klick eine an, und ihr Blatt sagt dir, was zu tun ist, wer sie vergibt, wer sie annimmt und was sie dir bringt. Auf dem Bildschirm eine ruhige Liste der Quests, die du verfolgst, in deiner eigenen Reihenfolge, mit einer Quest vorne. Keine andere Questdatenbank ist nötig: Alles ist dabei.",
+      "sections": [
+        {
+          "id": "tabs",
+          "h2": "Welche Quests zeigt Wanderer Quests?",
+          "paragraphs": [
+            "Fünf Reiter: deine Klasse, nach Stufenbereichen; Dungeons und Schlachtzüge, mit allen Quests, die zu ihnen führen; Gebiete, das, in dem du stehst, zuerst gewählt; die Bücher der Bibliotheken; und deine Ausrüstung. Nur, was für dich bestimmt ist: dein Volk, deine Klasse, deine Fraktion.",
+            "Jeder Ort fasst sich mit seinen Stufen und seinen Zahlen zusammen: annehmbar, im Questlog, erledigt. Ein Suchfeld findet jede Quest nach Name in allen Reitern zugleich, und die erledigten können zurücktreten."
+          ]
+        },
+        {
+          "id": "chains",
+          "h2": "Wie sehe ich eine Questreihe?",
+          "paragraphs": [
+            "Die Quests eines Ortes werden als Baum gezeichnet: die Quests, die andere freischalten, darüber, wo auch immer sie beginnen, in den Farben ihrer Schwierigkeit für dich. Die Quest, die eine Dungeon-Reihe öffnet, die Klassenquest, von der dir niemand erzählt, die eine, die du drei Gebiete zuvor übersprungen hast: Sie sind alle da.",
+            "Jede sagt, wo du stehst: erledigt, im Questlog, annehmbar, nach einer anderen, durch eine andere Wahl entfallen, vorerst zu hoch oder übergangen, wenn das Spiel dich sie überspringen ließ."
+          ]
+        },
+        {
+          "id": "sheet",
+          "h2": "Was zeigt das Blatt einer Quest?",
+          "paragraphs": [
+            "Ein Klick auf eine Quest öffnet ihr Blatt neben dem Fenster: ihr Schritt in der Reihe, eine Zeile Bereit (deine Stufe, die Quests davor, was du trägst), was sie verlangt, samt der Anzahl, die du schon hast, und den Kreaturen, die es fallen lassen, wer sie vergibt und wer sie annimmt.",
+            "Ein Hauptknopf folgt deinem Stand: zum Questgeber, zum Ziel, zur Abgabe. Die Belohnungen sind die, die Forever wirklich gibt, gelernt, sobald du sie siehst, mit einem grünen Pfeil, wenn eine für dich besser ist. Auf Wunsch bleibt die Geschichte einer Quest, die du noch nicht angenommen hast, zugeklappt, damit du sie zuerst von ihrem Questgeber hörst."
+          ]
+        },
+        {
+          "id": "sources",
+          "h2": "Wo finde ich die Gegenstände, die eine Quest verlangt?",
+          "paragraphs": [
+            "Wanderer Quests weiß, woher jeder stammt: die Kreaturen, die ihn fallen lassen, die Händler, die ihn verkaufen, die Truhen, Kisten und Pflanzen der Welt, die ihn bergen. Solange eine Quest einen Gegenstand verlangt, nennt sein Tooltip den nächsten von jedem samt Gebiet, in deinen Taschen, auf dem Blatt und in deiner Liste.",
+            "Ein Klick auf einen verlangten Gegenstand, auf dem Blatt einer Quest oder auf seiner Zeile in deiner Liste, öffnet eine Karte: den Weg zum nächsten Ort, an dem du ihn bekommst, einen Schritt deiner Route mit Wanderer Maps, die Karte der Kreatur mit Wanderer Bestiary und die anderen Orte. Das Blatt nennt unter den Kreaturen auch die nächsten Händler und Objekte."
+          ]
+        },
+        {
+          "id": "tracker",
+          "h2": "Kann ich verfolgte Quests umsortieren und eine nach vorne stellen?",
+          "paragraphs": [
+            "Ja. Wanderer Quests kann den Platz der Questliste des Spiels einnehmen. Eine Quest steht vorne, ganz oben: größer, mit einem Stern und immer sichtbaren Zielen. Ein Klick stellt eine Quest nach vorne, ein weiterer Klick nimmt sie zurück, und nichts anderes ändert das je. Das Spiel verfolgt diese Quest auf seiner Karte, auch wenn sich eines ihrer Ziele ändert.",
+            "Die anderen folgen in deiner Reihenfolge: Zieh eine an ihrem Griff oder verschieb sie per Rechtsklick, und Jetzt ordnen sortiert die Liste einmal, nach Stufe, nach Entfernung oder abgabebereite zuerst. Das Gebiet, in dem du stehst, kommt zuerst, die Dungeons getrennt, jedes Gebiet so eingeklappt, wie du es gelassen hast. Eine fertige Quest sagt, bei wem sie abzugeben ist, ihr Gegenstand wartet in ihrer Zeile, und die Liste bleibt in Ruhe gedämpft und im Kampf zurückhaltend. Mit dem Controller öffnen die Quest-Tastenkombination des Spiels und der Eintrag Quests im Radialmenü diese Liste: Das Steuerkreuz geht von Titel zu Titel, die untere Taste wählt, die linke öffnet die Karte."
+          ]
+        },
+        {
+          "id": "map",
+          "h2": "Kann es die annehmbaren Quests auf der Weltkarte zeigen?",
+          "paragraphs": [
+            "Ja. Das „!“ des Spiels erscheint bei jedem Questgeber mit einer Quest, die du jetzt annehmen könntest, von drei Stufen unter deiner bis drei darüber, und auf Wunsch auch die älteren, ausgegraut. Jeder Questgeber, jedes Ziel und jede Abgabe ist einen Klick entfernt: verfolgt vom Pfeil von Wanderer Maps oder mit der Nadel des Spiels.",
+            "Jeder Dungeon und Schlachtzug hat einen Knopf, der seinen Eingang auf deiner Karte markiert, direkt an der Tür, auch wo das Spiel keinen nennt. In der Nähe eines Dungeons kann ein dezenter Hinweis sagen, wie viele seiner Quests du vorher noch annehmen könntest."
+          ]
+        },
+        {
+          "id": "gear",
+          "h2": "Welche Quests geben mir bessere Ausrüstung?",
+          "paragraphs": [
+            "Der Reiter Ausrüstung stellt zwei Charakterbögen nebeneinander: was du trägst, und für jeden Platz das beste Teil, das dir eine Quest geben kann, beurteilt für deine Spielweise, mit seinem Gewinn und deinen Werten, wenn du alles tragen würdest. Ein Klick auf ein Teil öffnet seine Quest."
+          ]
+        },
+        {
+          "id": "books",
+          "h2": "Hilft es bei den Bibliotheksbüchern von WoW Forever?",
+          "paragraphs": [
+            "Ja. Der Reiter Bücher listet jedes Bibliotheksbuch: wo es liegt, ob es in deinen Taschen oder deiner Bank wartet, ob es abgegeben ist, und die nächste Belohnung. Mit Wanderer Maps legt ein Knopf eine Route durch alle Bücher, die noch zu finden sind, und liest du ein Buch im Lesefenster von Wanderer, erfährst du, wer es annimmt."
+          ]
+        },
+        {
+          "id": "together",
+          "h2": "Funktioniert es mit den anderen Wanderer-Addons?",
+          "paragraphs": [
+            "Mit Wanderer Maps legt ein Knopf eine Questroute durch die Questgeber dessen, was du annehmen kannst, und die Abgabestellen dessen, was du trägst, jeweils die nächste ab der letzten, und jeder Schritt hakt sich selbst ab. Was eine Quest verlangt, kommt mit einem Klick auf den Merkzettel von Wanderer, ihre Gegenstände auf die Einkaufsliste von Wanderer Auction.",
+            "Das Schildchen von Wanderer markiert die Kreaturen, die einen Gegenstand fallen lassen, den eine deiner Quests verlangt, und eine Zeile In Quests öffnen wartet im Questlog und in der Zielverfolgung des Spiels.",
+            "Mit Wanderer Maps zeigt ein Klick auf eine Quest der Liste sie auf ihrer Karte im Atlas, und eine im Atlas gewählte Quest öffnet ihr Blatt daneben. Mit Wanderer Bestiary öffnet eine Kreatur auf einem Blatt, die zu tötende oder die, die das Verlangte fallen lässt, ihre Karte mit ihrem Modell."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Brauche ich Questie oder ein anderes Quest-Addon?",
+          "a": "Nein. Alles, was Wanderer Quests weiß, bringt es selbst mit. Nutzt du trotzdem Questie oder Kaliel's Tracker, tritt Quests zurück: Seine Markierungen überlassen die Karte den Questgebern von Questie, und seine Liste verfolgter Quests überlässt den Bildschirm deren Tracker."
+        },
+        {
+          "q": "Kennt es die von WoW Forever hinzugefügten Quests?",
+          "a": "Ja, sobald du ihnen begegnest: Eine von Forever hinzugefügte Quest wird gespeichert, sobald du ihren Questgeber siehst, und erscheint dann wie die anderen in den Listen und der Suche. Belohnungen werden genauso gelernt, sodass immer gilt, was das Spiel zeigt."
+        },
+        {
+          "q": "Verlangsamt Wanderer Quests mein Spiel?",
+          "a": "Nein. Seine Daten werden erst beim ersten Öffnen des Fensters gelesen, nur Englisch und deine Sprache werden geladen, und im Kampf wird nichts auf die Karte gezeichnet."
+        },
+        {
+          "q": "Nimmt es Quests für mich an oder gibt sie ab?",
+          "a": "Nein. Es zeigt und führt, es spielt nie: kein automatisches Annehmen, kein Abgeben, und ein Kartenlink landet immer nur in deiner Chatzeile, nie verschickt."
+        },
+        {
+          "q": "Wie öffne ich Wanderer Quests?",
+          "a": "Über das Menü von Wanderer, seine Optionsseite, eine eigene Taste in der Tastaturbelegung des Spiels oder mit /wquests."
+        },
+        {
+          "q": "Woher kommen seine Daten?",
+          "a": "Aus der klassischen Datenbank von CMaNGOS und aus pfQuest, die Dungeoneingänge aus Endless Map, die Bibliotheksbücher von Wowdee, alle genannt. Wanderer Quests ist freie Software unter der GPL 3.0."
+        }
+      ]
+    },
+    "maps": {
+      "meta": {
+        "title": "Wanderer Maps: Atlas, Route, Notizen (WoW Forever)",
+        "description": "Wanderer Maps, kostenloses Addon für WoW Forever: der Atlas, Quests als Zonen, Notizen und Route, ein Pfeil, Flüge und Schiffe mitgerechnet."
+      },
+      "h1": "Der Atlas: deine Quests, deine Route und deine Notizen auf einer großen Karte",
+      "lead": "Wanderer Maps ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Die Kartentaste des Spiels öffnet den Atlas, eine große Karte im Fenster von Wanderer: deine Questziele als Zonen, deine Notizen und deine Route aus Schritten, Flüge, Schiffe, Dungeons und die Dienste der Städte, dazu eine Seitenleiste, die einen Ort nach dem anderen zeigt. Er wird bedient wie die Karte des Spiels, die Karte des Spiels bleibt einen Klick entfernt, und eine Option gibt die Taste zurück. Auf dem Bildschirm führt dich ein kleiner Pfeil zum Schritt, dem du folgst, auf einem Weg, der deine Flugrouten, die Schiffe, Zeppeline und die Tiefenbahn mitrechnet.",
+      "sections": [
+        {
+          "id": "atlas",
+          "h2": "Gibt es eine größere Karte für WoW Forever?",
+          "paragraphs": [
+            "Ja: den Atlas. Die Kartentaste des Spiels öffnet ihn, eine große Karte im Fenster von Wanderer, aus den Bildern des Spiels, in einem Fenster, dessen Größe du ändern kannst. Er wird bedient wie die Karte des Spiels: Ein Linksklick öffnet die Karte unter der Maus, ein Rechtsklick geht zurück zur umgebenden, das Mausrad zoomt zur Maus hin. Mit dem Controller geht es genauso: Der linke Stick bewegt einen Zeiger aus zwei goldenen Linien, die Karte folgt an ihren Rändern, der rechte Stick zoomt zu ihm hin, und die untere Taste handelt dort, wo er steht. Auch der Eintrag Karte im Radialmenü öffnet den Atlas.",
+            "Die Karte des Spiels bleibt einen Klick entfernt, und eine Option in den Optionen von Wanderer gibt die Taste zurück. Deine Tastaturbelegung bleibt, wie sie ist. Auch /wmaps atlas öffnet ihn.",
+            "Eine einzige Suche umfasst Gebiete, Dungeons, Flugmeister und deine Notizen. Eine einzeilige Legende am unteren Rand zeigt oder verbirgt jede Art von Ort mit einem Klick: Questziele, verfügbare Quests, Route, Notizen, Flüge und Schiffe, Dungeons und Schlachtzüge, Dienste der Stadt und Orte des Spiels. Eine Seitenleiste zeigt einen Ort nach dem anderen, mit Hingehen, Zur Route hinzufügen und Notieren. Der Wandermodus lässt nur die Karte übrig, durchscheinend, damit du sie liest, ohne anzuhalten."
+          ]
+        },
+        {
+          "id": "quest-zones",
+          "h2": "Kann die Karte zeigen, wo meine Questziele sind?",
+          "paragraphs": [
+            "Ja, wenn Wanderer Quests installiert ist. Im Atlas ist jedes Ziel eine blaue Zone um die Stelle, an der die Kreaturen und Objekte stehen, nach den Daten von pfQuest, mit eigener Umrisslinie, damit sich überlappende Quests auseinanderzuhalten sind. Was erledigt ist, verschwindet, und eine fertige Quest zeigt, wer sie entgegennimmt.",
+            "Ein Klick auf eine Zone setzt die Quest an den Anfang deiner Liste in Wanderer Quests, und ihre Ziele stehen in der Seitenleiste. Die Positionen stammen aus öffentlichen Daten, Forever kann also manche Kreaturen versetzt haben. Eine Quest, die die Daten nicht kennen, behält die eine Markierung, die ihr das Spiel gibt.",
+            "Eine im Atlas gewählte Quest öffnet ihr Blatt von Wanderer Quests daneben, alles, was sie sagt, verlangt und gibt, und das Seitenfeld behält seine Liste, die Quest in Gold hervorgehoben. Die Quest, der du folgst, bleibt auf ihrer Karte gewählt, solange nichts anderes gewählt ist, ein Kästchen neben jeder Quest verfolgt sie in deinen Zielen oder lässt sie los, und ein Rechtsklick bietet an, hinzugehen, sie zu teilen oder abzubrechen, nach Rückfrage."
+          ]
+        },
+        {
+          "id": "habitat",
+          "h2": "Kann der Atlas zeigen, wo eine Kreatur lebt?",
+          "paragraphs": [
+            "Ja, mit Wanderer Bestiary. Unter deinen Quests listet Auf dieser Karte die Kreaturen, die sie dort verlangen, jede mit ihrem Porträt, und ein Klick öffnet ihre Karte neben dem Atlas.",
+            "Von der Karte einer Kreatur aus zeichnet Im Atlas ihren Lebensraum als sanft rote Zonen mit klarem Rand. Der Rest der Karte tritt so lange zurück, das Kreuz des Seitenfelds gibt dir die Karte zurück, wie du sie hattest, und ein Klick in eine Zone öffnet die Karte erneut. Ein Boss oder ein Seltener, dem du nie begegnet bist, behält sein Geheimnis."
+          ]
+        },
+        {
+          "id": "notes",
+          "h2": "Wie setze ich eigene Notizen auf die Weltkarte?",
+          "paragraphs": [
+            "Alt+Klick irgendwo auf die Karte: Eine kleine Karte öffnet sich dort, wo du geklickt hast, mit einem Namen und einem von acht Zeichen (ein Ort, ein Stern, ein Schatz, Kräuter, Erz, Gefahr, ein Treffpunkt, eine Frage). Eingabe speichert, Umschalt+Eingabe speichert und verfolgt, Strg+Eingabe setzt sie auf deine Route. Im Atlas verschwindet eine Notiz oder ein Schritt deiner Route über ihre Karte: Notiz löschen, Aus der Route entfernen.",
+            "Ein Fenster vereint deine Route und deine Notizen in zwei Reitern, mit stets aktuellen Entfernungen, und listet das nächste Gasthaus, den nächsten Flugmeister, Briefkasten und Lehrer, die du kennst, mit einem Klick zu verfolgen. Eine Route, die dir gefällt, eine Runde Kräuter oder Briefkästen, kannst du unter einem Namen behalten und später wieder verfolgen.",
+            "Ein Knopf Notizen auf der Weltkarte zeigt oder verbirgt deine Notizen nach Zeichen oder alle auf einmal, und die Minikarte folgt. Auf der Karte eines Kontinents werden sie zu kleinen Punkten, nach Zone gruppiert, wenn es viele sind, und der Reiter Notizen entfernt ein ganzes Zeichen oder eine ganze Zone auf einmal, nach einer Frage."
+          ]
+        },
+        {
+          "id": "arrow",
+          "h2": "Kann mich ein Pfeil zu meinem nächsten Schritt führen?",
+          "paragraphs": [
+            "Ja. Ein kleiner Pfeil, den du platzierst, wo du magst, zeigt zum Schritt, dem du folgst, mit der Entfernung in Metern: golden auf Kurs, bernsteinfarben, wenn der Punkt hinter dir liegt. In der Nähe eines Schritts hakt er sich selbst ab, und der nächste wird verfolgt. Die schwebende Markierung des Spiels und eine gepunktete Linie auf der Minikarte folgen demselben Punkt. Er nennt auch die Ankunftszeit und, auf einer Route, die Zeit für alles.",
+            "Wird kein Schritt verfolgt, zeigt der Pfeil auf die Nadel, die das Spiel auf deiner Karte hält: deine, ein Ort aus Wanderer Quests, ein Lehrer. Ein Rechtsklick darauf bietet den nächsten Schritt, eine neue Planung des Wegs oder das Fenster.",
+            "Nach einem Tod zeigt der Pfeil zu deiner Leiche, solange du ein Geist bist, und bei der Wiederbelebung kehrt deine Route zurück."
+          ]
+        },
+        {
+          "id": "way",
+          "h2": "Berücksichtigt es Flugrouten, Schiffe und meinen Ruhestein?",
+          "paragraphs": [
+            "Ja. Um einen Schritt zu erreichen, nimmt der geführte Weg die schnellste Strecke über deine Füße, die Flugrouten, die dieser Charakter entdeckt hat, die Schiffe, Zeppeline und die Tiefenbahn der ursprünglichen Welt, und führt dich Etappe für Etappe: zum Flugmeister, fliege nach, das Schiff nach.",
+            "Auf Wunsch zählt auch dein Ruhestein, wenn sein Gasthaus bekannt ist: Kühlt er noch ab, wird die Wartezeit eingerechnet, und er wird nur genommen, wenn er trotzdem am schnellsten ist."
+          ]
+        },
+        {
+          "id": "world",
+          "h2": "Kann die Kontinentkarte jedes Gebiet aus einem Guss zeigen?",
+          "paragraphs": [
+            "Ja. Auf der Karte eines Kontinents wird das Land jedes Gebiets dort gezeichnet, wo es liegt, so scharf wie auf seiner eigenen Karte: eine Welt aus einem Guss. Das Land, das du noch nicht erkundet hast, erscheint gedämpft und ohne Farben, und die Leiste der Karte sagt, wie viele Bereiche des Gebiets du erkundet hast.",
+            "Neben dem Namen des Gebiets stehen seine Stufen in den Farben ihrer Schwierigkeit für dich und, wenn du angelst, die Fertigkeit, die seine Gewässer verlangen: zwei Dinge, die WoW Forever nicht zeigt. Auf Wunsch bekommen die Gasthäuser, Briefkästen, Banken, Auktionshäuser und Lehrer, die du besucht hast, eine kleine Markierung."
+          ]
+        },
+        {
+          "id": "flights",
+          "h2": "Wie lange dauert mein Flug?",
+          "paragraphs": [
+            "Im Flug steht der Name des Ziels über einer schmalen Linie vom Abflug bis zur Landung: ein Punkt für jeden Zwischenstopp, deiner wandert mit, und die verbleibende Zeit. Die Zeiten werden aus deinen eigenen Flügen gelernt, bis dahin aus der Entfernung geschätzt, und auch auf der Karte des Flugmeisters gezeigt.",
+            "Ein Flugmeister in deinem Gebiet, den du noch nicht entdeckt hast, kann einmal dezent angezeigt werden, mit einem Klick, um dorthin zu gehen."
+          ]
+        },
+        {
+          "id": "quests",
+          "h2": "Funktioniert es mit Wanderer Quests?",
+          "paragraphs": [
+            "Hand in Hand. Aus Wanderer Quests kommt ein Questgeber oder ein Ziel mit einem Klick auf deine Route, und ein Knopf Questroute besucht jeden Questgeber dessen, was du annehmen kannst, und jede Abgabestelle dessen, was du trägst, jeweils die nächste ab der letzten. Jeder Questschritt sagt, was dort zu tun ist, und hakt sich selbst ab, wenn es erledigt ist."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Ersetzt der Atlas die Karte des Spiels?",
+          "a": "Er übernimmt die Kartentaste des Spiels, und die Karte des Spiels bleibt einen Klick entfernt. Eine Option in den Optionen von Wanderer gibt die Taste zurück, und deine Tastaturbelegung bleibt, wie sie ist."
+        },
+        {
+          "q": "Ersetzt Wanderer Maps TomTom?",
+          "a": "Es erledigt eine ähnliche Aufgabe im Stil von Wanderer. Ist TomTom installiert, bleibt sein Pfeil, und der Pfeil von Maps tritt zurück, damit sich die beiden nie ins Gehege kommen. Dasselbe gilt für die Pfeile der Guides von RestedXP und Zygor."
+        },
+        {
+          "q": "Läuft oder fliegt es für mich?",
+          "a": "Nein. Es zeigt den Weg, gehen musst du ihn selbst: Nichts läuft, reitet oder fliegt für dich, und über der Welt wird nichts gezeichnet außer der Markierung des Spiels."
+        },
+        {
+          "q": "Teilen sich meine Charaktere die Notizen?",
+          "a": "Deine Notizen und deine Route gehören jedem Charakter selbst. Was die Welt lehrt (Flugzeiten, die Dienste einer Stadt), wird für alle gespeichert."
+        },
+        {
+          "q": "Kann ich alles auf einmal ausschalten?",
+          "a": "Ja. Ein Kontrollkästchen in den Optionen von Wanderer schaltet alles aus, was außerhalb des Fensters läuft: den Pfeil, die Nadeln, die Fluglinie."
+        },
+        {
+          "q": "Wie öffne ich Wanderer Maps?",
+          "a": "Der Atlas öffnet sich mit der Kartentaste des Spiels oder /wmaps atlas. Das Fenster für Route und Notizen öffnet sich über das Menü von Wanderer, eine eigene Taste in der Tastaturbelegung des Spiels oder mit /wmaps."
+        }
+      ]
+    },
+    "training": {
+      "meta": {
+        "title": "Wanderer Training: Zauberkosten nach Zweig (WoW Forever)",
+        "description": "Wanderer Training, kostenloses Addon für WoW Forever: was deine Lehrer noch haben und was es kostet, nur was dein Zweig braucht, Ränge, Talentplaner."
+      },
+      "h1": "Wisse, was dein Lehrer für dich hat und was es kosten wird",
+      "lead": "Wanderer Training ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Ein Reiter deines Zauberbuchs zeigt alles, was deine Lehrer noch für dich haben (Klassenzauber, Waffenfertigkeiten und Dämonenfolianten) und vor allem, was es kosten wird: jetzt, auf deiner nächsten Stufe und bis zur letzten, dein Gold daneben. Es zählt nur, was sich für deine Spielweise zu kaufen lohnt, ohne je den Rest zu verbergen.",
+      "sections": [
+        {
+          "id": "ledger",
+          "h2": "Wie viel Gold brauche ich für meine nächsten Zauber?",
+          "paragraphs": [
+            "Drei Summen bilden ein Kassenbuch: was du jetzt lernen kannst, was deine nächste Stufe bringt und alles, was bis zur letzten Stufe bleibt, mit deinem Rufrabatt eingerechnet. Dein Gold steht daneben, mit einer klaren Antwort: was fehlt, um jetzt alles zu lernen, oder genug bis Stufe 32.",
+            "Darunter die Zauber Stufe für Stufe, jede mit ihrer eigenen Summe, die früheren Ränge zuerst. Ein Suchfeld findet einen Zauber mit einem Wort.",
+            "Neben den Summen ein eigenes Ziel: Reiten auf Stufe 40 mit einem Klick, eine Schätzung, die du auf den Preis änderst, den du siehst, oder jede Summe, für die du sparst, mit dem, was du schon hast."
+          ]
+        },
+        {
+          "id": "spec",
+          "h2": "Kann es nur die Zauber zählen, die meine Spezialisierung braucht?",
+          "paragraphs": [
+            "Ja. Wähle, was du spielst, eine Spezialisierung oder mehrere, Bär und Katze getrennt bei einem wilden Druiden: Die Summen zählen nur, was sich dafür zu kaufen lohnt, wie es die Leitfäden der klassischen Ära raten. Eine Katze zahlt nicht mehr für jeden Rang von Zermalmen, ein wilder Druide kauft nur den ersten Rang von Mondfeuer.",
+            "Nichts ist gesperrt: Der Rest bleibt unter Außerhalb deiner Spielweise sichtbar und lässt sich mit einem Klick samt aller Ränge mitzählen. Einen Zauber, den du nie willst, kannst du ausklammern und jederzeit wieder mitzählen."
+          ]
+        },
+        {
+          "id": "prices",
+          "h2": "Stimmen die Zauberpreise auf WoW Forever?",
+          "paragraphs": [
+            "Bis zu deinem ersten Besuch stammen die Preise aus den Daten von What's Training. Bei deinem Klassenlehrer liest Training, was jeder Zauber wirklich kostet, und behält es für diesen Charakter: Die Summen folgen den Preisen von Forever.",
+            "Fahr mit der Maus über einen Zauber in deinem Zauberbuch oder auf deinen Leisten: Sein Tooltip nennt den nächsten Rang, die Stufe, auf der er kommt, und seinen Preis. Ein Zauber außerhalb deiner Spielweise sagt in einer Zeile, warum, etwa dass ein Rang für deine Spezialisierung genügt."
+          ]
+        },
+        {
+          "id": "trainer",
+          "h2": "Kann ich beim Lehrer alles, was zählt, mit einem Klick lernen?",
+          "paragraphs": [
+            "Ja. Jeder Lehrer öffnet sich in einem Wanderer-Fenster: Lernen, was ich spiele nimmt jeden Zauber, der zählt, den günstigsten zuerst, solange dein Gold reicht, und Alles lernen nimmt auch den Rest. Es sagt, was du zahlst und was danach bleibt. Das Fenster des Spiels ist einen Klick entfernt. Bei einem Berufslehrer ordnen Jetzt zu lernen und Später die Rezepte in der Reihenfolge, in der du sie erreichst: nach der Fertigkeit, die jedes verlangt, dann nach Stufe.",
+            "Der nächste Klassenlehrer lässt sich auf deiner Karte markieren, und die Stadtkarte von Wanderer sagt, wenn einer in der Nähe etwas für dich hat, ohne je auf eine ferne Hauptstadt zu zeigen."
+          ]
+        },
+        {
+          "id": "ranks",
+          "h2": "Kann es die alten Ränge auf meinen Aktionsleisten aktualisieren?",
+          "paragraphs": [
+            "Neue Ränge kommen von selbst auf deine Leisten, sobald du sie lernst, nie im Kampf, und ein Klick macht es rückgängig. Ein niedrigerer Rang, den du selbst auf eine Leiste legst, bleibt dort.",
+            "Ja. Nach dem Lernen listet eine Zeile die Knöpfe, die noch einen älteren Rang verwenden: Aktualisieren setzt deinen besten Rang darauf, Rückgängig setzt die alten zurück, und ein Rechtsklick behält einen Rang mit Absicht. Nie während eines Kampfes.",
+            "Deine Makros folgen: Eines, das einen älteren Rang nennt, bekommt mit demselben Klick deinen besten, sonst ändert sich nichts darin. In den Zeilen des Lehrers zeigt jeder neue Rang, was er bringt: die erste Zahl, die sich in seiner Beschreibung ändert."
+          ]
+        },
+        {
+          "id": "talents",
+          "h2": "Kann ich meine Talente bis Stufe 60 vorbereiten?",
+          "paragraphs": [
+            "Ja, auf jeder Stufe. Der Rechner steht neben dem Talentfenster des Spiels: Klicke auf Simulieren und dann in der gewünschten Reihenfolge auf die Talente, bis zu allen 51 Punkten. Nichts wird ausgegeben, und die Regeln des Spiels gelten. Der Reiter Reihenfolge listet jeden Punkt Stufe für Stufe auf, und der nächste Punkt sticht im Talentbaum hervor. Mit dem Controller beginnt der Rechner auf Simulieren, und die Trigger wechseln zwischen ihm und dem Talentbaum des Spiels.",
+            "Fahre über ein Talent, um zu sehen, was es an deinen eigenen Zahlen ändert: Schaden oder Heilung, Kosten, Zauberzeit, Abklingzeit und Reichweite, jetzt, mit einem Punkt mehr und auf dem letzten Rang. Jede Zahl sagt, ob sie im Spiel gelesen oder berechnet ist, und was sich nicht ableiten lässt, bleibt unbekannt, statt geraten zu werden.",
+            "Behalte mehrere Pläne pro Charakter, jeden mit einer Notiz, auf Wunsch einen pro Spezialisierung. Vergleiche einen Plan mit deinen Talenten, einem anderen Plan oder einem inspizierten Spieler deiner Klasse, sieh ihn auf jeder Stufe, suche die Talente, die einen Zauber nennen, und teile ihn als Code."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Verbirgt es Zauber meiner anderen Spezialisierungen?",
+          "a": "Nie. Sie bleiben sichtbar und lassen sich jederzeit kaufen oder mitzählen. Training entscheidet nur, was in die Summen und den Knopf Lernen, was ich spiele eingeht."
+        },
+        {
+          "q": "Funktioniert es mit Naowh Training?",
+          "a": "Ja. Ist das Fenster von Naowh beim Lehrer aktiv, macht Training bei Klassenlehrern Platz, und sein eigenes Fenster bleibt einen Klick entfernt."
+        },
+        {
+          "q": "Teilen sich meine Charaktere meine Auswahl?",
+          "a": "Nein. Was du spielst, die ausgeklammerten Zauber, die behaltenen Ränge und der Talentplan gehören jedem Charakter selbst."
+        },
+        {
+          "q": "Wie öffne ich Wanderer Training?",
+          "a": "Über seinen Reiter in deinem Zauberbuch, das Menü von Wanderer, eine eigene Taste oder mit /wtraining. /wtraining talents öffnet den Planer."
+        },
+        {
+          "q": "Woher kommen seine Daten?",
+          "a": "Zauber, Folianten und Lehrer stammen aus What's Training (MIT-Lizenz), im Addon genannt. Wanderer Training ist freie Software unter der GPL 3.0."
+        }
+      ]
+    },
+    "outfits": {
+      "meta": {
+        "title": "Wanderer Outfits: Ausrüstung wechselt selbst (WoW Forever)",
+        "description": "Wanderer Outfits, kostenloses Addon für WoW Forever: die Karotte beim Reiten, der Anglerhut mit der Rute, Dungeonausrüstung drinnen, danach zurück."
+      },
+      "h1": "Das richtige Teil im richtigen Moment, und danach wieder ab",
+      "lead": "Wanderer Outfits ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Eine Karotte am Stiel, ein Anglerhut, ein Schmuckstück der Argentumdämmerung helfen nur in einem Moment, also bleiben sie in deinen Taschen: Du vergisst sie beim Aufsitzen und vergisst dann, sie vor dem Dungeon abzulegen. Outfits denkt für dich daran. Eine Ausrüstung kann nur aus ein paar Teilen bestehen, an einen Moment gebunden: Sie kommt, wenn der Moment kommt, und gibt zurück, was du getragen hast, wenn er endet. Ganze Ausrüstungen legst du ebenfalls mit einem Klick an.",
+      "sections": [
+        {
+          "id": "moments",
+          "h2": "Wie lege ich meine Karotte am Stiel beim Aufsitzen automatisch an?",
+          "paragraphs": [
+            "Binde eine Ausrüstung an einen Moment: auf einem Reittier, beim Angeln, in gewählten Zonen, in einem Dungeon oder Schlachtzug, in der Stadt oder im Gasthaus. Sie kommt, wenn der Moment kommt, und was sie geändert hat, kehrt zurück, wenn er endet: die Karotte beim Aufsitzen, dein übliches Schmuckstück beim Absitzen.",
+            "Nur die Plätze, die die Ausrüstung nimmt, werden berührt. Ein Teil, das du inzwischen selbst gewechselt hast, bleibt deins und wird nie zurückgenommen. Im Kampf ändert sich nichts, und gehaltenes Umschalt lässt einen Moment vorbeiziehen. Wenn eine Ausrüstung zum ersten Mal von selbst angelegt wird, sagt ein kleiner Hinweis, warum."
+          ]
+        },
+        {
+          "id": "keep",
+          "h2": "Wie mache ich eine Ausrüstung aus nur wenigen Teilen?",
+          "paragraphs": [
+            "Am schnellsten: Leg die Teile an, drück Für einen Moment und wähle den Moment. Die Ausrüstung nimmt die Teile, die dieser Moment meist braucht (Schmuck, Handschuhe und Stiefel auf dem Reittier; Hut, Handschuhe und Stiefel beim Angeln), und ihre Karte öffnet sich: Ein Klick auf ein Teil lässt es beiseite oder nimmt es wieder.",
+            "Trägst du ein Teil für einen Moment bei dir, etwa eine Karotte am Stiel, einen Glücksanglerhut, Nat Pagles Stiefel oder ein Schmuckstück der Argentumdämmerung, und keine Ausrüstung nimmt es bisher: Einmal pro Teil bietet ein Hinweis die passende Ausrüstung an. Ein Klick erstellt sie, und was du getragen hast, bekommst du sofort zurück."
+          ]
+        },
+        {
+          "id": "dungeon",
+          "h2": "Erinnert es mich, mein Reitschmuckstück vor einem Dungeon abzulegen?",
+          "paragraphs": [
+            "Ja. Beim Betreten eines Dungeons oder bei einer Bereitschaftsprüfung meldet ein kleiner Hinweis ein Teil für einen Moment, das du noch trägst, und ein Klick macht den Wechsel rückgängig. Eine an In einem Dungeon oder Schlachtzug gebundene Ausrüstung kommt beim Betreten.",
+            "Letzte Änderung rückgängig legt genau das zurück, was du vor dem letzten Ausrüstungswechsel getragen hast, egal woher er kam: eine Ausrüstung, ein Moment, die Angel. Noch einmal, und er wird wiederholt. Zwei Ringe oder zwei Schmuckstücke gleichen Namens werden an Verzauberung, Edelsteinen und Suffix unterschieden, damit das richtige Exemplar zurückkommt."
+          ]
+        },
+        {
+          "id": "wear",
+          "h2": "Kann ich meine ganze Ausrüstung speichern und mit einem Klick anlegen?",
+          "paragraphs": [
+            "Ja. Behalten, was ich trage speichert alles unter einem Namen: deine Dungeonausrüstung, deine Reisekleidung. Klick darauf, drück 1 bis 9 über dem Fenster oder nimm eine eigene Taste, die überall eine Auswahl unter der Maus öffnet. Ein Knopf Ausrüstungen wartet auf dem Charakterbogen.",
+            "Jede Ausrüstung zeigt auf einen Blick, ob sie getragen wird, welche Teile noch anzulegen sind, welche in der Bank warten und welche fehlen. Ein fehlendes Teil hält den Rest nie auf. Legst du von Hand ein besseres Teil an, bietet ein Hinweis an, es in die Ausrüstungen zu übernehmen, die das alte hatten."
+          ]
+        },
+        {
+          "id": "fishing",
+          "h2": "Kann meine Angel von selbst ein- und ausgewechselt werden?",
+          "paragraphs": [
+            "Mit einer Taste, dem Angel-Knopf im Fenster oder /woutfits pole kommt die Angel in die Hand und deine Waffen werden gemerkt; drückst du erneut, sind sie zurück. Eine an Beim Angeln gebundene Ausrüstung fügt deinen Hut und deine Stiefel hinzu, solange die Angel in der Hand ist.",
+            "Auf Wunsch bringt der Doppel-Rechtsklick von Wanderer auf das Wasser die Angel an einer Stelle, an der du schon geangelt hast, und deine Waffen kehren zurück, wenn du fertig bist: eine Weile keine Leine, weggegangen, aufgesessen, schwimmend, ein Kampf oder ein anderes Gebiet. Beide Angeloptionen sind aus, bis du sie einschaltest."
+          ]
+        },
+        {
+          "id": "bank",
+          "h2": "Kann ich ein Teil meiner Ausrüstungen aus Versehen verkaufen?",
+          "paragraphs": [
+            "Nein. Die Teile deiner Ausrüstungen werden in ihrem Tooltip genannt, nie als Plunder verkauft und nie von Wanderer Auction ins Auktionshaus gestellt. Mit Wanderer Bags bekommen sie einen eigenen Abschnitt, und beim Bankier nimmt die Karte einer Ausrüstung ihre Teile mit einem Klick aus der Bank."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Wechselt es meine Ausrüstung, wenn ich es nicht will?",
+          "a": "Nein. Nichts wird von selbst angelegt, bevor du eine Ausrüstung an einen Moment bindest, die Angeloptionen sind aus, im Kampf ändert sich nichts, und ein Kontrollkästchen schaltet alles aus. Mit ItemRack oder den automatischen Sets von Naowh Forever tritt Outfits zurück, damit dich nie zwei Addons gleichzeitig ankleiden."
+        },
+        {
+          "q": "Nutzt es den Ausrüstungsmanager des Spiels?",
+          "a": "Ja, wenn dein Client einen hat: Deine Ausrüstungen findest du dann auch im Fenster des Spiels. Sonst speichert Wanderer sie für jeden Charakter."
+        },
+        {
+          "q": "Teilen sich meine Charaktere die Ausrüstungen?",
+          "a": "Nein, jeder Charakter hat seine eigenen Ausrüstungen und seine eigenen Einstellungen."
+        },
+        {
+          "q": "Wie öffne ich Wanderer Outfits?",
+          "a": "Über das Menü von Wanderer, den Knopf auf dem Charakterbogen, eine eigene Taste in der Tastaturbelegung des Spiels oder mit /woutfits. /woutfits pole nimmt die Angel in die Hand, /woutfits undo macht die letzte Änderung rückgängig."
+        }
+      ]
+    },
+    "professions": {
+      "meta": {
+        "title": "Wanderer Professions: Werkbank für Rezepte (WoW Forever)",
+        "description": "Wanderer Professions, kostenloses Addon für WoW Forever: jedes Rezept mit Symbol, Reagenzien als Karten, Gunst des Händlers und eine Warteschlange."
+      },
+      "h1": "Deine Rezepte auf einer ruhigen Werkbank",
+      "lead": "Wanderer Professions ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Statt der langen grauen Tabelle des Spiels liegen deine Rezepte auf einer Werkbank: jedes Rezept mit Symbol, das gewählte groß, seine Reagenzien als Karten und nur die zwei oder drei Herstellungen, die sich als Nächstes lohnen. Es sagt, was es weiß und woher es das weiß. Das Fenster des Spiels bleibt einen Klick entfernt, und nichts wird ohne einen Klick von dir hergestellt.",
+      "sections": [
+        {
+          "id": "bench",
+          "h2": "Wie sehe ich alle meine Rezepte mit Symbolen in WoW Forever?",
+          "paragraphs": [
+            "Die Taste, die du schon für deine Berufe benutzt, öffnet die Werkbank. Deine herstellenden Berufe stehen auf einer Leiste, einen Klick voneinander entfernt. Rezepte erscheinen als Liste oder als Wand aus Symbolen: hell, wenn du sie herstellen kannst, grau, wenn nicht, die mögliche Anzahl in der Ecke. Du kannst nach Rezept oder Reagenz suchen. Mit dem Controller öffnet auch der Eintrag Berufe im Radialmenü die Werkbank.",
+            "Das gewählte Rezept wird groß gezeigt: das Teil an deinem Charakter, wenn das möglich ist, wie es gebunden wird und welche Rüstung es ist, und seine Fertigkeitsfarben auf einem Balken, auf dem deine Fertigkeit markiert ist."
+          ]
+        },
+        {
+          "id": "reagents",
+          "h2": "Welche Reagenzien fehlen mir, und wo sind sie?",
+          "paragraphs": [
+            "Reagenzien liegen als Karten aus: was deine Taschen enthalten, was in klaren Worten fehlt, was in der Bank wartet oder, mit Wanderer Bags, bei einem anderen Charakter. Ein Reagenz, das du selbst herstellen kannst, führt zu seinem Rezept oder erscheint als Baum.",
+            "Was deinen Taschen fehlt, geht mit einem Klick auf die Einkaufsliste von Wanderer Auction."
+          ]
+        },
+        {
+          "id": "craft",
+          "h2": "Kann ich Herstellungen einreihen und stoppen?",
+          "paragraphs": [
+            "Beim Herstellen zeigt ein Balken, was noch übrig ist und wie lange es dauert, mit einer Möglichkeit zum Anhalten. Was unterbrochen wurde, geht mit einem Klick weiter.",
+            "Eine Warteschlange hebt Herstellungen für später auf, und du startest sie selbst: Nichts wird ohne einen Klick von dir hergestellt."
+          ]
+        },
+        {
+          "id": "next",
+          "h2": "Was soll ich als Nächstes herstellen, um meine Fertigkeit zu steigern?",
+          "paragraphs": [
+            "Zwei oder drei Herstellungen für deine nächsten Punkte, nie eine ganze Route: zuerst die sichersten Punkte, dann, was du schon herstellen kannst. Ein Schieberegler zeigt die Farben und Vorschläge bei einer anderen Fertigkeit, und im Spiel ändert sich nichts.",
+            "Der nächste Rang nennt die verlangte Fertigkeit und Stufe, und du erfährst, wenn ein Lehrer ihn dir beibringen kann."
+          ]
+        },
+        {
+          "id": "sources",
+          "h2": "Woher kommen die Rezepte, und stimmen sie für Forever?",
+          "paragraphs": [
+            "Das Spiel geht vor. Jedes Rezept sagt, ob es im Spiel gesehen wurde, aus einer Datenbank der klassischen Welt stammt oder eine unbekannte Quelle hat. Forever kann ein Rezept geändert haben: Was aus der Datenbank kommt, sagt das, und nichts wird geraten.",
+            "Rezepte, die du noch lernen kannst, sagen, woher sie kommen, mit einem Weg dorthin über Wanderer Maps oder einer Nadel auf der Karte."
+          ]
+        },
+        {
+          "id": "favor",
+          "h2": "Wie plane ich meine Käufe mit der Gunst des Händlers?",
+          "paragraphs": [
+            "Jedes Rezept, das sie kauft, seine Kosten und der verlangte Ruf, was du jetzt bezahlen kannst, und ein Sparziel. Was ein Händler wirklich verlangt, ersetzt die Angabe aus den Daten."
+          ]
+        },
+        {
+          "id": "forever",
+          "h2": "Kennt es Lagerobjekte, Aufträge und Spezialisierungen?",
+          "paragraphs": [
+            "Lagerobjekte sind nach Stufe geordnet: die du kennst, die du jetzt herstellen kannst und der Bauplan, den jedes verlangt. Ein Auftrag in deinen Taschen sagt, was er verlangt, ob du ihn erfüllen kannst und, wenn bekannt, wo du ihn abgibst.",
+            "Bevor du dich spezialisierst, sagt jeder Weg, was er öffnet, mit einer klaren Warnung: Diese Wahl schließt die anderen aus."
+          ]
+        },
+        {
+          "id": "characters",
+          "h2": "Welcher meiner Charaktere kann das herstellen?",
+          "paragraphs": [
+            "Eine Seite versammelt die Berufe und Abklingzeiten deiner Charaktere, und „Wer kann das herstellen?“ sucht bei allen.",
+            "Handwerker der Gilde, wenn du möchtest: Das ist standardmäßig aus. Eingeschaltet fragst du mit einem Klick, wer ein Rezept herstellen kann, und nur Mitglieder, die es eingeschaltet haben, antworten."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Ersetzt es das Berufsfenster des Spiels?",
+          "a": "Es öffnet sich an seiner Stelle, und das Fenster des Spiels bleibt einen Klick entfernt. In den Optionen von Wanderer kannst du das Fenster des Spiels und deine Berufetaste so lassen, wie sie waren."
+        },
+        {
+          "q": "Stellt es für mich her?",
+          "a": "Nein. Nichts wird ohne einen Klick von dir hergestellt, und eine Warteschlange läuft nur, wenn du sie startest. Es schlägt zwei oder drei Herstellungen vor und plant nie eine Route."
+        },
+        {
+          "q": "Mit welchen Addons arbeitet es zusammen?",
+          "a": "Es benötigt Wanderer. Wanderer Bags, Wanderer Auction und Wanderer Maps sind freiwillig: Reagenzien deiner anderen Charaktere, die Einkaufsliste und der Weg zu einem Rezept, das du noch lernen kannst."
+        },
+        {
+          "q": "Woher stammen seine Daten?",
+          "a": "Aus den Tabellen des Spiels, der CMaNGOS-Datenbank (GPL v3) und pfQuest von Shagu (MIT, für Gebiete); Gunstkosten und andere Fakten zu Forever stammen aus öffentlichen Anleitungen. Wanderer Professions ist freie Software unter der GPL 3.0 oder neuer."
+        },
+        {
+          "q": "Wie öffne ich Wanderer Professions?",
+          "a": "Mit deiner Berufetaste, über das Menü von Wanderer oder mit /wprofessions. Die Einstellungen stehen in den Optionen von Wanderer."
+        }
+      ]
+    },
+    "chat": {
+      "meta": {
+        "title": "Wanderer Chat: ein ruhiger, klarer Chat für WoW Forever",
+        "description": "Wanderer Chat, kostenloses Addon für WoW Forever: ein gläserner Chat, der verblasst, dein Name in Gold, Hinweise, ruhigere Kanäle, Flüstern als Gespräche."
+      },
+      "h1": "Ein Chat, der ruhig bleibt und hervorhebt, was dich betrifft",
+      "lead": "Wanderer Chat ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Der Chat des Spiels wird wie Glas gestaltet: in Ruhe kein Rahmen, Zeilen auf einem leichten Schleier, die verblassen, alles zurück unter der Maus. Dein Name erscheint in Gold, deine Gilde und deine Gruppe heben sich ab, und eine kleine Karte kommt nur, wenn etwas wirklich für dich ist. Nichts wird je ohne deine eigene Eingabetaste verschickt.",
+      "sections": [
+        {
+          "id": "glass",
+          "h2": "Kann der Chat verblassen, wenn nichts passiert?",
+          "paragraphs": [
+            "Ja. In Ruhe hat der Chat keinen Rahmen, keine Reiter, keine Knöpfe: Jede Zeile liegt auf einem sanften Schleier und verblasst nach zwanzig Sekunden, nach ein oder zwei Minuten oder nie. Ruht die Maus darauf oder beginnst du zu tippen, kehren ein ruhiger Grund, die Reiter und eine schmale Bildlaufleiste zurück.",
+            "Jede Zeile liest sich auf einen Blick: die Uhrzeit in ihrer eigenen Spalte, der Chat als ein farbiger Buchstabe, der Name in seiner Farbe. Lange Kanalnamen werden kürzer, eine Schriftgröße gilt für jedes Chatfenster, und hast du hochgescrollt, bringt dich ein Klick zum Neuesten zurück."
+          ]
+        },
+        {
+          "id": "named",
+          "h2": "Woran merke ich, dass jemand meinen Namen sagt?",
+          "paragraphs": [
+            "Eine Zeile, die dich nennt, erscheint in Gold und bleibt eine Minute länger. Fiel sie dort, wo du sie nicht lesen konntest (in einem anderen Reiter, während der Chat verblasst war oder du beschäftigt warst), zeigt eine Karte neben dem Chat sie mit einem Knopf zum Antworten, und ein leiser Ton kann dich darauf hinweisen, höchstens einmal pro Minute.",
+            "Gib ihm auch deine anderen Namen, einen Spitznamen oder den deines Hauptcharakters: Sie erscheinen in Gold und melden sich wie dein eigener.",
+            "Grüßt jemand die Gilde oder verabschiedet sich, bietet eine Karte eine Antwort mit Namen an, passend zur Tageszeit, für dich geschrieben und nur mit deiner Eingabetaste verschickt. Ein Flüstern, auf das du nicht geantwortet hast, wartet in einer kleinen Zeile über dem Chat."
+          ]
+        },
+        {
+          "id": "channels",
+          "h2": "Kann es den Handels- und den allgemeinen Kanal beruhigen?",
+          "paragraphs": [
+            "Ja. Dieselben Worte, innerhalb einer Minute wiederholt, und offensichtlicher Goldverkauf werden aus den öffentlichen Kanälen herausgehalten, nie deine Zeilen, deine Freunde, deine Gilde, deine Gruppe oder dein Flüstern. Eine ruhige Zeile sagt, wie viele ausgeblendet wurden, und ein Klick zeigt sie.",
+            "Eigene Wörter können Zeilen ebenfalls aus den öffentlichen Kanälen heraushalten, und ein Fremder, der dir Gold zum Kauf flüstert, macht keinen Ton und öffnet kein Fenster. Alles Herausgehaltene wartet in einer Liste, zum Lesen oder Kopieren, nie verloren. Eine Nachricht, die das Spiel als möglicherweise unangemessen verschleiert, erscheint sofort mit ihren eigenen Worten, ohne Link zum Anklicken.",
+            "Auf Wunsch kommt eine Karte, wenn jemand Spieler für einen Dungeon deiner Stufe sucht, Kürzel wie RFC oder BRD inbegriffen, oder wenn eines deiner eigenen beobachteten Wörter fällt."
+          ]
+        },
+        {
+          "id": "tabs",
+          "h2": "Können meine Chatreiter zeigen, was ich verpasst habe?",
+          "paragraphs": [
+            "Gruppe, Gilde, Flüstern und Kanäle lassen sich mit einem Klick neben Allgemein setzen, jeder nur mit seinen eigenen Nachrichten. Eine kleine goldene Zahl sagt, was gesagt wurde, während ein Reiter verborgen war, ein goldener Punkt, wenn dich dort eine Zeile nennt. Jeder Reiter behält seine letzten Zeilen nach einem Neuladen, und deine gesendeten Nachrichten kommen mit den Pfeiltasten zurück.",
+            "Eine Suche findet Wörter in den Zeilen eines Reiters, jedes Ergebnis in Gold, Eingabe für das ältere. Im Menü eines Namens gibt Zeile kopieren genau diese Zeile, bereit zum Kopieren."
+          ]
+        },
+        {
+          "id": "people",
+          "h2": "Kann ich im Chat sehen, wer jemand ist?",
+          "paragraphs": [
+            "Lass die Maus auf einem Namen ruhen: Eine Karte zeigt Stufe, Klasse, Gebiet, Gilde und Rang, ob es ein Freund oder einer deiner Charaktere ist, und deine private Notiz zu ihm, nur aus dem, was das Spiel schon weiß. Das Menü des Namens bekommt Grüßen, Antworten und Diese Zeile zitieren."
+          ]
+        },
+        {
+          "id": "whispers",
+          "h2": "Kann sich Flüstern wie ein Gespräch lesen?",
+          "paragraphs": [
+            "Schaltest du es ein, wandert dein Flüstern in ein eigenes Fenster, ein Gespräch pro Person in Blasen, deine in Gold. Eine neue Nachricht öffnet es, ohne dir die Tastatur zu nehmen, nie während eines Kampfes. Ein Gespräch anheften, durchsuchen, einladen, als Freund hinzufügen: alles aus seinem Menü.",
+            "Begonnene Worte bleiben in ihrem Gespräch, wenn du zu einem anderen wechselst oder das Fenster schließt."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Ersetzt es den Chat des Spiels?",
+          "a": "Nein. Die Chat-Engine des Spiels bleibt, Wanderer Chat gestaltet sie nur und schreibt Zeilen um, nachdem das Spiel sie gebaut hat. Ein Kontrollkästchen gibt den Chat ganz dem Spiel zurück."
+        },
+        {
+          "q": "Funktioniert es mit ElvUI, Prat oder Chattynator?",
+          "a": "Ja. Gestaltet eines davon den Chat, tritt der Stil von Wanderer Chat zurück und behält nur, was sich nicht beißt. Mit WIM bleibt dein Flüstern bei WIM."
+        },
+        {
+          "q": "Verschickt es etwas von selbst?",
+          "a": "Nie. Grüße und Antworten werden in deine Chatzeile geschrieben und nur mit deiner Eingabetaste verschickt, und es macht nie von selbst ein /who."
+        },
+        {
+          "q": "Teilen sich meine Charaktere Einstellungen und Notizen?",
+          "a": "Nein. Einstellungen, Notizen, behaltene Zeilen und Gespräche gehören jedem Charakter selbst."
+        },
+        {
+          "q": "Wie öffne ich meine privaten Nachrichten?",
+          "a": "Über das Menü von Wanderer, eine eigene Taste oder mit /wchat."
+        }
+      ]
+    },
+    "bestiary": {
+      "meta": {
+        "title": "Wanderer Bestiary: Kreaturen und Jagdliste (WoW Forever)",
+        "description": "Wanderer Bestiary, ein kostenloses WoW Forever Addon: jede Kreatur mit 3D-Modell, Stärke, Zaubern und Revier, und deine Jagdliste je Charakter."
+      },
+      "h1": "Jede Kreatur der Welt, und deine Geschichte mit jeder",
+      "lead": "Wanderer Bestiary ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Die Kreaturen, denen du dich stellen kannst, von den Wölfen deiner ersten Schritte bis zu den Bossen der tiefsten Schlachtzüge, mehr als 3.600, versammeln sich in einem ruhigen Fenster, jede mit ihrer Karte: ihr 3D-Modell, ihre Stärke, ihre Zauber, wo sie lebt. Das Bestiarium füllt sich beim Spielen: Eine Kreatur, der du nie begegnet bist, bleibt im Schatten, bis du ihren Weg kreuzt. Es liest und erinnert sich, und kämpft oder zielt nie für dich.",
+      "sections": [
+        {
+          "id": "discover",
+          "h2": "Kann ich die Kreaturen entdecken, während ich ihnen begegne?",
+          "paragraphs": [
+            "Ja. Eine Kreatur, der du nie begegnet bist, ist ein Schatten und ein Fragezeichen. Einmal getroffen, als Ziel, unter der Maus oder über ihre Namensplakette, erscheinen ihr Modell und ihr Name. Einmal getötet, kannst du ihre Stärke, ihre Schläge und ihre Zauber lesen.",
+            "Die Überraschung wahren geht weiter, wenn du willst: Ein Boss, ein Seltener oder ein Elite, dem du nie begegnet bist, verbirgt seine Stufe und wo er lebt, und die Welt behält ihre Geheimnisse. Eine goldene Linie zeigt, wie viel der Welt du entdeckt hast, und Hier, wie viel deines Gebiets du getroffen und getötet hast."
+          ]
+        },
+        {
+          "id": "card",
+          "h2": "Was zeigt die Karte einer Kreatur?",
+          "paragraphs": [
+            "Ein Klick auf eine Kreatur öffnet ihre Karte neben dem Fenster, ohne es je zu verschieben. Ihr 3D-Modell dreht sich, wenn du es ziehst, und kommt mit dem Mausrad näher. Dann ihre Stufen, ihr Rang und ihre Art, ihre Gesundheit, Schläge und Rüstung, ihre Zauber, das Gold, das sie trägt, und ob sie gehäutet oder bestohlen werden kann.",
+            "Wo sie lebt, kommt mit ihren Gebieten, und ein Klick zeigt den Weg dorthin. Darunter deine eigene Geschichte mit ihr: wie viele du getötet hast, das erste und das letzte Mal, was du von ihr erbeutet hast und ob sie dich je getötet hat."
+          ]
+        },
+        {
+          "id": "log",
+          "h2": "Kann es für jeden Charakter eine Jagdliste führen?",
+          "paragraphs": [
+            "Ja. Jeder Charakter führt seine eigene: Siege, Tode, Beute, deine Serie seit deinem letzten Tod und deine beste. Ab dem ersten Einloggen übernimmt das Bestiarium, was das Spiel schon gezählt hat: deine Siege und Tode insgesamt, die Art, die du am meisten gejagt hast, jeden besiegten Boss aus Dungeons und Schlachtzügen und einige der Kreaturen, die dich getötet haben.",
+            "Jeder Sieg wird sorgfältig gezählt: nur eine Kreatur, die du oder dein Begleiter bekämpft und fallen gesehen habt, nie die eines anderen Spielers, nie zweimal dieselbe, und ein Tod durch einen Spieler wird nie einer Kreatur angelastet. In Dungeons und Schlachtzügen zählt jeder Boss am Ende seines Kampfes."
+          ]
+        },
+        {
+          "id": "records",
+          "h2": "Welche Rekorde hält es fest?",
+          "paragraphs": [
+            "Rekorde zählt deine Jagd: entdeckte und getötete Kreaturen, die am meisten gejagte, deine Nemesis, die höchste besiegte Stufe, dein erster Sieg, Seltene, Elite und Bosse, dein vollständigstes Gebiet und jede Art von Kreatur.",
+            "Eine kleine Meldung begrüßt einen ersten Elite, Seltenen oder Boss, und ein Klick öffnet seine Karte. Leise Meilensteine folgen: eine Kreatur 25, 100, 500 oder 1.000 Mal getötet, und deine Siege insgesamt. In der Liste sind runde Porträts in der Farbe ihres Rangs umrandet, Gold für Elite, Blau für Seltene, Rot für Bosse, deine Siege in Gold daneben."
+          ]
+        },
+        {
+          "id": "world",
+          "h2": "Sehe ich meine Zahl, wenn ich einer Kreatur begegne?",
+          "paragraphs": [
+            "Ja. Eine Zeile unter dem Namen einer Kreatur, im Etikett von Wanderer und im Tooltip des Spiels, sagt, wie oft du sie getötet hast, oder dass du ihr nie begegnet bist. Nie in einem Dungeon oder Schlachtzug.",
+            "Hier zeigt die Kreaturen des Gebiets, in dem du stehst, Alle jede einzelne, mit einer Suche und einer Art. Mit einem Controller führt das Steuerkreuz durch die Listen, links und rechts drehen das Modell und der rechte Stick holt es näher."
+          ]
+        },
+        {
+          "id": "together",
+          "h2": "Arbeitet es mit Wanderer Quests und Wanderer Maps zusammen?",
+          "paragraphs": [
+            "Hand in Hand. Mit Wanderer Quests öffnet eine auf dem Blatt einer Quest genannte Kreatur, die zu tötende oder die, die das Verlangte fallen lässt, ihre Karte neben dem Blatt. Mit Wanderer Maps werden die Kreaturen, die deine Quests auf einer Karte verlangen, im Atlas aufgelistet, und Im Atlas zeichnet den Lebensraum einer Kreatur als sanft rote Zonen, während der Rest der Karte zurücktritt.",
+            "Du kommst von KillTrack? Rekorde bietet an, deine Zahlen zu übernehmen, solange KillTrack geladen ist, zeigt zuerst, was sich ändern würde, senkt nie eine Zahl, und die Übernahme lässt sich zurücknehmen."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Kämpft oder zielt es für mich?",
+          "a": "Nie. Es liest und erinnert sich: kein gewähltes Ziel, kein Angriff, nichts gesendet. Dein Bestiarium ist ein Buch, keine Hilfe im Kampf."
+        },
+        {
+          "q": "Verlangsamt es mein Spiel?",
+          "a": "Nein. Die Kreaturen werden erst gelesen, wenn das Fenster sie braucht, und deine Beute bleibt kurz: zwölf Gegenstände pro Kreatur."
+        },
+        {
+          "q": "Wird meine Jagdliste zwischen Charakteren geteilt?",
+          "a": "Nein. Jeder Charakter behält seine eigene Liste, seine Rekorde und seine Einstellungen."
+        },
+        {
+          "q": "Wie öffne ich Wanderer Bestiary?",
+          "a": "Über die Leiste und das Menü von Wanderer, seine Optionsseite, eine eigene Taste in den Tastenbelegungen des Spiels oder mit /wbestiary."
+        },
+        {
+          "q": "Woher stammen seine Daten?",
+          "a": "Die Kreaturen, ihre Stärke, Zauber und Orte stammen aus der klassischen Datenbank von CMaNGOS und aus pfQuest, im Addon genannt. Wanderer Bestiary ist freie Software unter der GPL 3.0."
+        }
+      ]
+    }
+  }
+}

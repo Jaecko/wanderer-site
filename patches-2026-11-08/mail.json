@@ -1,0 +1,612 @@
+{
+  "en": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Mail: a quicker mailbox for WoW Forever",
+        "description": "Wanderer Mail, a free WoW Forever addon: your mailbox summed up, auction mail taken in one click, alts as recipients, letters about to expire."
+      },
+      "h1": "Your mailbox summed up, your letters taken in one click",
+      "lead": "Wanderer Mail is a free extension of Wanderer for World of Warcraft Forever. A card beside the game's mailbox says what it holds and takes the letters you choose; a small list fills the recipient when you write. It replaces nothing: the mail window stays the game's, and Wanderer Mail never deletes, sends or pays anything by itself.",
+      "sections": [
+        {
+          "id": "card",
+          "h2": "Can I see what my mailbox holds at a glance?",
+          "paragraphs": [
+            "Yes. A card beside the mailbox gives the number of letters, the gold inside, the letters to pay on delivery, your free bag slots and the first letter about to go back. The auction house's letters are sorted apart, sold, back to you, won, outbid, and when the server keeps more than fifty, the card says how many more wait. On each letter of the inbox, a small word says what happens when its days are over: back to its sender, or destroyed."
+          ]
+        },
+        {
+          "id": "take",
+          "h2": "How do I take all my auction mail at once?",
+          "paragraphs": [
+            "Each block has its own Take these button: the auction house's letters only, or the players' letters only. Take the gold takes just the gold. The button counts as it goes and stops with a click; afterwards the card says what was taken. Shift+click on a letter takes it alone; Ctrl+click on a player's letter sends it back, after a question.",
+            "Full bags no longer stop everything: an item joins a stack of its own kind when it can, one free slot is kept, and the rest waits in its letter while the gold still comes. Beyond fifty letters, once the server brings the next ones, one click goes on. A letter you would have to pay for is never taken."
+          ]
+        },
+        {
+          "id": "send",
+          "h2": "Can I send mail to my alts without typing their names?",
+          "paragraphs": [
+            "Yes. A small arrow at the end of the recipient field opens a list: your other characters of this realm and side, with their class color and level, then the last players you wrote to. One click writes the name; the field stays yours. Your friends and your guild members online are in the list too.",
+            "When gold or items go to a name you do not know, or when one of your own characters is asked to pay on delivery, a quiet word shows in the field. The game's Send button stays the only one that sends."
+          ]
+        },
+        {
+          "id": "expiry",
+          "h2": "Will I know when a letter is about to expire?",
+          "paragraphs": [
+            "Yes. At login, a quiet notice says when one of your other characters has a letter with gold or items leaving within three days, and Wanderer's characters window shows it on their line. A letter of yours going back within a day joins your reminders."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Does it work with Postal?",
+          "a": "Yes. When Postal or TradeSkillMaster's mailing is there, Wanderer Mail's take buttons step aside; the card and the recipient list stay."
+        },
+        {
+          "q": "Can it delete or send letters by itself?",
+          "a": "Never. It never deletes, sends or pays anything: every take starts from your click."
+        },
+        {
+          "q": "How do I check my mail from anywhere?",
+          "a": "Type /wmail: it says whether a letter waits for you."
+        }
+      ]
+    },
+    "card": {
+      "alt": "Wanderer Mail logo",
+      "tagline": "The mailbox",
+      "summary": "A card that sums up your mailbox, the letters you choose taken in one click, and your alts in the recipient list."
+    }
+  },
+  "fr": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Mail : un courrier plus rapide pour WoW Forever",
+        "description": "Wanderer Mail, addon gratuit pour WoW Forever : votre courrier résumé, les lettres de l'hôtel des ventes en un clic, vos personnages en destinataires."
+      },
+      "h1": "Votre courrier résumé, vos lettres prises en un clic",
+      "lead": "Wanderer Mail est une extension gratuite de Wanderer pour World of Warcraft Forever. Une carte à côté de la boîte aux lettres du jeu dit ce qu'elle contient et prend les lettres que vous choisissez ; une petite liste remplit le destinataire quand vous écrivez. Elle ne remplace rien : la fenêtre du courrier reste celle du jeu, et Wanderer Mail ne supprime, n'envoie et ne paie jamais rien tout seul.",
+      "sections": [
+        {
+          "id": "card",
+          "h2": "Puis-je voir d'un coup d'œil ce que contient ma boîte aux lettres ?",
+          "paragraphs": [
+            "Oui. Une carte à côté de la boîte aux lettres donne le nombre de lettres, l'or qu'elles contiennent, les lettres contre remboursement, vos emplacements de sac libres et la première lettre sur le point de repartir. Les lettres de l'hôtel des ventes sont triées à part (vendu, retourné, remporté, surenchéri), et quand le serveur en garde plus de cinquante, la carte dit combien attendent encore. Sur chaque lettre de la boîte, un petit mot dit ce qui arrive quand ses jours sont écoulés : retour à l'expéditeur, ou destruction."
+          ]
+        },
+        {
+          "id": "take",
+          "h2": "Comment prendre tout le courrier de l'hôtel des ventes d'un coup ?",
+          "paragraphs": [
+            "Chaque bloc a son propre bouton Prendre ceux-ci : les lettres de l'hôtel des ventes seulement, ou celles des joueurs seulement. Prendre l'or ne prend que l'or. Le bouton compte au fur et à mesure et s'arrête d'un clic ; ensuite, la carte dit ce qui a été pris. Maj+clic sur une lettre la prend seule ; Ctrl+clic sur la lettre d'un joueur la lui renvoie, après une question.",
+            "Des sacs pleins n'arrêtent plus tout : un objet rejoint une pile de sa sorte quand il le peut, une place libre est gardée, et le reste attend dans sa lettre pendant que l'or continue d'arriver. Au delà de cinquante lettres, quand le serveur apporte les suivantes, un clic continue. Une lettre que vous devriez payer n'est jamais prise."
+          ]
+        },
+        {
+          "id": "send",
+          "h2": "Puis-je écrire à mes autres personnages sans taper leur nom ?",
+          "paragraphs": [
+            "Oui. Une petite flèche au bout du champ du destinataire ouvre une liste : vos autres personnages de ce royaume et de ce camp, avec la couleur de leur classe et leur niveau, puis les derniers joueurs à qui vous avez écrit. Un clic écrit le nom ; le champ reste à vous. Vos amis et les membres de votre guilde en ligne sont aussi dans la liste.",
+            "Quand de l'or ou des objets partent vers un nom que vous ne connaissez pas, ou qu'un de vos propres personnages doit payer contre remboursement, un mot discret s'affiche dans le champ. Le bouton Envoyer du jeu reste le seul à envoyer."
+          ]
+        },
+        {
+          "id": "expiry",
+          "h2": "Saurai-je quand une lettre va expirer ?",
+          "paragraphs": [
+            "Oui. À la connexion, une notice discrète vous prévient quand l'un de vos autres personnages a une lettre avec de l'or ou des objets qui part dans les trois jours, et la fenêtre des personnages de Wanderer l'indique sur sa ligne. Une de vos lettres qui repart dans la journée rejoint votre pense-bête."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Est-ce compatible avec Postal ?",
+          "a": "Oui. Quand Postal ou le courrier de TradeSkillMaster est là, les boutons pour prendre de Wanderer Mail s'effacent ; la carte et la liste des destinataires restent."
+        },
+        {
+          "q": "Peut-il supprimer ou envoyer des lettres tout seul ?",
+          "a": "Jamais. Il ne supprime, n'envoie et ne paie jamais rien : chaque prise part de votre clic."
+        },
+        {
+          "q": "Comment vérifier mon courrier de n'importe où ?",
+          "a": "Tapez /wmail : il vous dit si une lettre vous attend."
+        }
+      ]
+    },
+    "card": {
+      "alt": "Logo de Wanderer Mail",
+      "tagline": "La boîte aux lettres",
+      "summary": "Une carte qui résume votre courrier, les lettres choisies prises en un clic, et vos autres personnages dans la liste des destinataires."
+    }
+  },
+  "de": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Mail: ein schnellerer Briefkasten für WoW Forever",
+        "description": "Wanderer Mail, kostenloses Addon für WoW Forever: dein Briefkasten zusammengefasst, Auktionspost mit einem Klick, Twinks als Empfänger, ablaufende Briefe."
+      },
+      "h1": "Dein Briefkasten zusammengefasst, deine Briefe mit einem Klick genommen",
+      "lead": "Wanderer Mail ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Eine Karte neben dem Briefkasten des Spiels sagt, was er enthält, und nimmt die Briefe, die du wählst; eine kleine Liste füllt den Empfänger, wenn du schreibst. Es ersetzt nichts: Das Postfenster bleibt das des Spiels, und Wanderer Mail löscht, verschickt oder bezahlt nie etwas von selbst.",
+      "sections": [
+        {
+          "id": "card",
+          "h2": "Kann ich auf einen Blick sehen, was mein Briefkasten enthält?",
+          "paragraphs": [
+            "Ja. Eine Karte neben dem Briefkasten nennt die Zahl der Briefe, das Gold darin, die Briefe per Nachnahme, deine freien Taschenplätze und den ersten Brief, der bald zurückgeht. Die Briefe des Auktionshauses werden getrennt sortiert (verkauft, an dich zurück, gewonnen, überboten), und hält der Server mehr als fünfzig zurück, sagt die Karte, wie viele noch warten. Auf jedem Brief des Postfachs sagt ein kleines Wort, was geschieht, wenn seine Tage um sind: zurück an den Absender oder vernichtet."
+          ]
+        },
+        {
+          "id": "take",
+          "h2": "Wie nehme ich meine ganze Auktionspost auf einmal?",
+          "paragraphs": [
+            "Jeder Block hat seinen eigenen Knopf Diese nehmen: nur die Briefe des Auktionshauses oder nur die Briefe der Spieler. Gold nehmen nimmt nur das Gold. Der Knopf zählt mit und hält mit einem Klick an; danach sagt die Karte, was genommen wurde. Umschalt+Klick auf einen Brief nimmt ihn allein; Strg+Klick auf den Brief eines Spielers schickt ihn nach einer Frage zurück.",
+            "Volle Taschen halten nicht mehr alles an: Ein Gegenstand kommt auf einen Stapel seiner Art, wenn es geht, ein freier Platz bleibt frei, und der Rest wartet in seinem Brief, während das Gold weiter kommt. Über fünfzig Briefe hinaus geht es mit einem Klick weiter, sobald der Server die nächsten bringt. Einen Brief, für den du bezahlen müsstest, nimmt es nie."
+          ]
+        },
+        {
+          "id": "send",
+          "h2": "Kann ich meinen Twinks Post schicken, ohne ihre Namen zu tippen?",
+          "paragraphs": [
+            "Ja. Ein kleiner Pfeil am Ende des Empfängerfelds öffnet eine Liste: deine anderen Charaktere dieses Realms und dieser Fraktion, mit Klassenfarbe und Stufe, dann die letzten Spieler, denen du geschrieben hast. Ein Klick schreibt den Namen; das Feld bleibt deins. Deine Freunde und die Mitglieder deiner Gilde, die online sind, stehen auch in der Liste.",
+            "Gehen Gold oder Gegenstände an einen Namen, den du nicht kennst, oder soll einer deiner eigenen Charaktere per Nachnahme bezahlen, erscheint ein dezenter Hinweis im Feld. Der Senden-Knopf des Spiels bleibt der einzige, der verschickt."
+          ]
+        },
+        {
+          "id": "expiry",
+          "h2": "Erfahre ich, wenn ein Brief bald abläuft?",
+          "paragraphs": [
+            "Ja. Beim Einloggen sagt ein dezenter Hinweis, wenn einer deiner anderen Charaktere einen Brief mit Gold oder Gegenständen hat, der innerhalb von drei Tagen verschwindet, und das Charakterfenster von Wanderer zeigt es in seiner Zeile. Ein eigener Brief, der innerhalb eines Tages zurückgeht, kommt auf deinen Merkzettel."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Funktioniert es mit Postal?",
+          "a": "Ja. Sind Postal oder die Postfunktionen von TradeSkillMaster da, treten die Nehmen-Knöpfe von Wanderer Mail zurück; die Karte und die Empfängerliste bleiben."
+        },
+        {
+          "q": "Kann es Briefe von selbst löschen oder verschicken?",
+          "a": "Nie. Es löscht, verschickt oder bezahlt nie etwas: Jedes Nehmen beginnt mit deinem Klick."
+        },
+        {
+          "q": "Wie sehe ich von überall nach meiner Post?",
+          "a": "Tippe /wmail: Es sagt dir, ob ein Brief auf dich wartet."
+        }
+      ]
+    },
+    "card": {
+      "alt": "Logo von Wanderer Mail",
+      "tagline": "Der Briefkasten",
+      "summary": "Eine Karte, die deinen Briefkasten zusammenfasst, die gewählten Briefe mit einem Klick genommen und deine Twinks in der Empfängerliste."
+    }
+  },
+  "es": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Mail: un buzón más ágil para WoW Forever",
+        "description": "Wanderer Mail, addon gratuito para WoW Forever: tu buzón resumido, el correo de subastas recogido con un clic, tus personajes como destinatarios."
+      },
+      "h1": "Tu buzón resumido, tus cartas recogidas con un clic",
+      "lead": "Wanderer Mail es una extensión gratuita de Wanderer para World of Warcraft Forever. Una tarjeta junto al buzón del juego dice lo que contiene y recoge las cartas que eliges; una pequeña lista rellena el destinatario cuando escribes. No sustituye nada: la ventana del correo sigue siendo la del juego, y Wanderer Mail nunca borra, envía ni paga nada por sí solo.",
+      "sections": [
+        {
+          "id": "card",
+          "h2": "¿Puedo ver de un vistazo lo que contiene mi buzón?",
+          "paragraphs": [
+            "Sí. Una tarjeta junto al buzón indica el número de cartas, el oro que contienen, las cartas a pagar contra reembolso, tus huecos libres en las bolsas y la primera carta a punto de ser devuelta. Las cartas de la casa de subastas se ordenan aparte (vendido, devuelto, ganado, puja superada), y cuando el servidor guarda más de cincuenta, la tarjeta dice cuántas más esperan. En cada carta del buzón, una palabra breve dice qué pasa cuando se acaban sus días: vuelve a su remitente o se destruye."
+          ]
+        },
+        {
+          "id": "take",
+          "h2": "¿Cómo recojo todo el correo de subastas de una vez?",
+          "paragraphs": [
+            "Cada bloque tiene su propio botón Recoger estas: solo las cartas de la casa de subastas, o solo las cartas de jugadores. Coger el oro coge solo el oro. El botón cuenta a medida que avanza y se detiene con un clic; después, la tarjeta dice lo que se ha recogido. Mayús+clic en una carta la recoge sola; Ctrl+clic en la carta de un jugador se la devuelve, tras una pregunta.",
+            "Las bolsas llenas ya no lo detienen todo: un objeto se une a una pila de su clase cuando puede, se guarda un hueco libre, y el resto espera en su carta mientras el oro sigue llegando. Más allá de cincuenta cartas, cuando el servidor trae las siguientes, un clic continúa. Nunca recoge una carta que tendrías que pagar."
+          ]
+        },
+        {
+          "id": "send",
+          "h2": "¿Puedo enviar correo a mis otros personajes sin escribir su nombre?",
+          "paragraphs": [
+            "Sí. Una pequeña flecha al final del campo del destinatario abre una lista: tus otros personajes de este reino y facción, con el color de su clase y su nivel, y después los últimos jugadores a los que escribiste. Un clic escribe el nombre; el campo sigue siendo tuyo. Tus amigos y los miembros de tu hermandad conectados también están en la lista.",
+            "Cuando el oro o los objetos van a un nombre que no conoces, o cuando a uno de tus propios personajes se le pide un pago contra reembolso, aparece un aviso discreto en el campo. El botón Enviar del juego sigue siendo el único que envía."
+          ]
+        },
+        {
+          "id": "expiry",
+          "h2": "¿Sabré cuándo una carta está a punto de caducar?",
+          "paragraphs": [
+            "Sí. Al conectarte, un aviso discreto indica cuándo uno de tus otros personajes tiene una carta con oro u objetos que caduca en menos de tres días, y la ventana de personajes de Wanderer lo muestra en su línea. Una carta tuya que se devuelve en menos de un día se suma a tus recordatorios."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿Funciona con Postal?",
+          "a": "Sí. Cuando están Postal o el correo de TradeSkillMaster, los botones de recogida de Wanderer Mail se apartan; la tarjeta y la lista de destinatarios se quedan."
+        },
+        {
+          "q": "¿Puede borrar o enviar cartas por sí solo?",
+          "a": "Nunca. Nunca borra, envía ni paga nada: cada recogida empieza con tu clic."
+        },
+        {
+          "q": "¿Cómo compruebo mi correo desde cualquier lugar?",
+          "a": "Escribe /wmail: te dice si te espera una carta."
+        }
+      ]
+    },
+    "card": {
+      "alt": "Logo de Wanderer Mail",
+      "tagline": "El buzón",
+      "summary": "Una tarjeta que resume tu buzón, las cartas que eliges recogidas con un clic y tus otros personajes en la lista de destinatarios."
+    }
+  },
+  "it": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Mail: una posta più rapida per WoW Forever",
+        "description": "Wanderer Mail, addon gratuito per WoW Forever: la posta riassunta, lettere d'asta prese con un clic, gli alt come destinatari, lettere in scadenza."
+      },
+      "h1": "La tua posta riassunta, le tue lettere prese con un clic",
+      "lead": "Wanderer Mail è un'estensione gratuita di Wanderer per World of Warcraft Forever. Una scheda accanto alla cassetta della posta del gioco dice cosa contiene e prende le lettere che scegli; un piccolo elenco compila il destinatario quando scrivi. Non sostituisce nulla: la finestra della posta resta quella del gioco, e Wanderer Mail non elimina, non invia e non paga mai nulla da solo.",
+      "sections": [
+        {
+          "id": "card",
+          "h2": "Posso vedere a colpo d'occhio cosa c'è nella mia posta?",
+          "paragraphs": [
+            "Sì. Una scheda accanto alla cassetta della posta indica il numero di lettere, l'oro che contengono, le lettere da pagare alla consegna, i posti liberi nelle borse e la prima lettera in procinto di tornare indietro. Le lettere della casa d'aste sono ordinate a parte (vendute, restituite, vinte, offerta superata), e quando il server ne trattiene più di cinquanta, la scheda dice quante altre aspettano. Su ogni lettera della posta, una piccola parola dice cosa succede quando i suoi giorni finiscono: torna al mittente o viene distrutta."
+          ]
+        },
+        {
+          "id": "take",
+          "h2": "Come prendo tutta la posta della casa d'aste in una volta?",
+          "paragraphs": [
+            "Ogni blocco ha il suo pulsante Prendi queste: solo le lettere della casa d'aste, o solo quelle dei giocatori. Prendi l'oro prende soltanto l'oro. Il pulsante conta man mano e si ferma con un clic; alla fine la scheda dice cosa è stato preso. Maiusc+clic su una lettera la prende da sola; Ctrl+clic sulla lettera di un giocatore gliela rimanda, dopo una domanda.",
+            "Le borse piene non fermano più tutto: un oggetto si unisce a una pila del suo tipo quando può, un posto libero resta tenuto, e il resto aspetta nella sua lettera mentre l'oro continua ad arrivare. Oltre le cinquanta lettere, quando il server porta le successive, un clic va avanti. Una lettera che dovresti pagare non viene mai presa."
+          ]
+        },
+        {
+          "id": "send",
+          "h2": "Posso scrivere ai miei alt senza digitare il loro nome?",
+          "paragraphs": [
+            "Sì. Una piccola freccia alla fine del campo del destinatario apre un elenco: gli altri tuoi personaggi di questo reame e di questa fazione, con il colore della classe e il livello, poi gli ultimi giocatori a cui hai scritto. Un clic scrive il nome; il campo resta tuo. Nell'elenco ci sono anche i tuoi amici e i membri della tua gilda in linea.",
+            "Quando oro o oggetti vanno a un nome che non conosci, o quando a uno dei tuoi personaggi viene chiesto un pagamento alla consegna, nel campo appare un avviso discreto. Il pulsante Invia del gioco resta l'unico che spedisce."
+          ]
+        },
+        {
+          "id": "expiry",
+          "h2": "Saprò quando una lettera sta per scadere?",
+          "paragraphs": [
+            "Sì. All'accesso, un avviso discreto dice quando uno degli altri tuoi personaggi ha una lettera con oro o oggetti che scade entro tre giorni, e la finestra dei personaggi di Wanderer lo mostra sulla sua riga. Una tua lettera che torna indietro entro un giorno si aggiunge ai promemoria."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Funziona con Postal?",
+          "a": "Sì. Quando c'è Postal o la posta di TradeSkillMaster, i pulsanti per prendere di Wanderer Mail si fanno da parte; la scheda e l'elenco dei destinatari restano."
+        },
+        {
+          "q": "Può eliminare o inviare lettere da solo?",
+          "a": "Mai. Non elimina, non invia e non paga mai nulla: ogni presa parte dal tuo clic."
+        },
+        {
+          "q": "Come controllo la posta da qualsiasi luogo?",
+          "a": "Scrivi /wmail: ti dice se una lettera ti aspetta."
+        }
+      ]
+    },
+    "card": {
+      "alt": "Logo di Wanderer Mail",
+      "tagline": "La cassetta della posta",
+      "summary": "Una scheda che riassume la tua posta, le lettere che scegli prese con un clic, e i tuoi alt nell'elenco dei destinatari."
+    }
+  },
+  "pt-br": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Mail: um correio mais ágil para WoW Forever",
+        "description": "Wanderer Mail, addon grátis para WoW Forever: seu correio resumido, cartas do leilão pegas em um clique, alts como destinatários, cartas a expirar."
+      },
+      "h1": "Sua caixa de correio resumida, suas cartas pegas em um clique",
+      "lead": "Wanderer Mail é uma extensão gratuita do Wanderer para World of Warcraft Forever. Um cartão ao lado da caixa de correio do jogo diz o que ela guarda e pega as cartas que você escolher; uma pequena lista preenche o destinatário quando você escreve. Ele não substitui nada: a janela do correio continua sendo a do jogo, e o Wanderer Mail nunca apaga, envia ou paga nada sozinho.",
+      "sections": [
+        {
+          "id": "card",
+          "h2": "Dá para ver num relance o que tem na minha caixa de correio?",
+          "paragraphs": [
+            "Sim. Um cartão ao lado da caixa de correio mostra o número de cartas, o ouro que elas trazem, as cartas a pagar na entrega, seus espaços livres nas bolsas e a primeira carta prestes a voltar. As cartas da casa de leilões ficam à parte (vendido, devolvido, arrematado, lance superado), e quando o servidor guarda mais de cinquenta, o cartão diz quantas ainda esperam. Em cada carta da caixa, uma palavrinha diz o que acontece quando os dias dela acabam: volta ao remetente ou é destruída."
+          ]
+        },
+        {
+          "id": "take",
+          "h2": "Como pegar todas as cartas do leilão de uma vez?",
+          "paragraphs": [
+            "Cada bloco tem o seu botão Pegar estas: só as cartas da casa de leilões, ou só as cartas dos jogadores. Pegar o ouro pega apenas o ouro. O botão conta enquanto trabalha e para com um clique; depois, o cartão diz o que foi pego. Shift+clique numa carta pega só ela; Ctrl+clique na carta de um jogador a devolve, depois de uma pergunta.",
+            "Bolsas cheias já não param tudo: um item se junta a uma pilha do mesmo tipo quando pode, um espaço livre é guardado, e o resto espera na carta enquanto o ouro continua vindo. Além de cinquenta cartas, quando o servidor traz as próximas, um clique continua. Uma carta que você teria de pagar nunca é pega."
+          ]
+        },
+        {
+          "id": "send",
+          "h2": "Posso enviar cartas aos meus alts sem digitar o nome deles?",
+          "paragraphs": [
+            "Sim. Uma pequena seta no fim do campo do destinatário abre uma lista: seus outros personagens deste reino e desta facção, com a cor da classe e o nível, depois os últimos jogadores para quem você escreveu. Um clique escreve o nome; o campo continua sendo seu. Seus amigos e os membros da sua guilda online também estão na lista.",
+            "Quando ouro ou itens vão para um nome que você não conhece, ou quando um dos seus próprios personagens precisa pagar na entrega, um aviso discreto aparece no campo. O botão Enviar do jogo continua sendo o único que envia."
+          ]
+        },
+        {
+          "id": "expiry",
+          "h2": "Vou saber quando uma carta está prestes a expirar?",
+          "paragraphs": [
+            "Sim. Ao entrar no jogo, um aviso discreto diz quando um dos seus outros personagens tem uma carta com ouro ou itens que vai sair em até três dias, e a janela de personagens do Wanderer mostra isso na linha dele. Uma carta sua que volta em menos de um dia entra nos seus lembretes."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Funciona com o Postal?",
+          "a": "Sim. Quando o Postal ou o correio do TradeSkillMaster está presente, os botões de pegar do Wanderer Mail saem da frente; o cartão e a lista de destinatários ficam."
+        },
+        {
+          "q": "Ele pode apagar ou enviar cartas sozinho?",
+          "a": "Nunca. Ele nunca apaga, envia ou paga nada: cada coleta começa com o seu clique."
+        },
+        {
+          "q": "Como ver meu correio de qualquer lugar?",
+          "a": "Digite /wmail: ele diz se alguma carta espera por você."
+        }
+      ]
+    },
+    "card": {
+      "alt": "Logo do Wanderer Mail",
+      "tagline": "A caixa de correio",
+      "summary": "Um cartão que resume sua caixa de correio, as cartas que você escolhe pegas em um clique, e seus alts na lista de destinatários."
+    }
+  },
+  "ru": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Mail: быстрый почтовый ящик для WoW Forever",
+        "description": "Wanderer Mail, бесплатный аддон для WoW Forever: сводка почты, письма аукциона в один щелчок, ваши персонажи в получателях, истекающие письма."
+      },
+      "h1": "Почтовый ящик в одной сводке, письма в один щелчок",
+      "lead": "Wanderer Mail это бесплатное расширение Wanderer для World of Warcraft Forever. Карточка рядом с игровым почтовым ящиком говорит, что в нём лежит, и забирает выбранные вами письма; небольшой список заполняет получателя, когда вы пишете. Он ничего не заменяет: окно почты остаётся игровым, а Wanderer Mail никогда сам ничего не удаляет, не отправляет и не оплачивает.",
+      "sections": [
+        {
+          "id": "card",
+          "h2": "Можно ли с первого взгляда увидеть, что в почтовом ящике?",
+          "paragraphs": [
+            "Да. Карточка рядом с почтовым ящиком показывает число писем, золото в них, письма с оплатой при получении, свободные ячейки в сумках и первое письмо, которое вот-вот вернётся отправителю. Письма аукциона разложены отдельно (продано, возвращено, выиграно, ставка перебита), а когда сервер держит больше пятидесяти, карточка говорит, сколько ещё ждёт. На каждом письме в ящике короткая пометка говорит, что будет, когда его дни выйдут: вернётся отправителю или будет уничтожено."
+          ]
+        },
+        {
+          "id": "take",
+          "h2": "Как забрать всю почту аукциона сразу?",
+          "paragraphs": [
+            "У каждого блока своя кнопка «Забрать эти»: только письма аукциона или только письма игроков. «Забрать золото» берёт только золото. Кнопка считает по ходу дела и останавливается щелчком; потом карточка говорит, что было взято. Shift+щелчок по письму забирает только его; Ctrl+щелчок по письму игрока возвращает его отправителю после вопроса.",
+            "Полные сумки больше не останавливают всё: предмет ложится в неполную стопку того же вида, если может, одно место остаётся свободным, а остальное ждёт в письме, пока золото продолжает приходить. Больше пятидесяти писем: когда сервер приносит следующие, один щелчок продолжает. Письмо, за которое пришлось бы платить, не забирается никогда."
+          ]
+        },
+        {
+          "id": "send",
+          "h2": "Можно ли писать своим персонажам, не набирая их имена?",
+          "paragraphs": [
+            "Да. Маленькая стрелка в конце поля получателя открывает список: другие ваши персонажи этого игрового мира и фракции, в цвете класса и с уровнем, затем последние игроки, которым вы писали. Один щелчок вписывает имя; поле остаётся в вашем распоряжении. Ваши друзья и члены вашей гильдии в сети тоже есть в списке.",
+            "Если золото или предметы уходят незнакомому вам имени или одного из ваших персонажей просят заплатить наложенным платежом, в поле появляется сдержанная пометка. Отправляет по-прежнему только кнопка «Отправить» самой игры."
+          ]
+        },
+        {
+          "id": "expiry",
+          "h2": "Узнаю ли я, что письмо скоро истечёт?",
+          "paragraphs": [
+            "Да. При входе неприметное уведомление сообщает, если у другого вашего персонажа есть письмо с золотом или предметами, которое уйдёт в ближайшие три дня, а окно персонажей Wanderer показывает это в его строке. Ваше письмо, которое вернётся в течение дня, попадает в памятку."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Работает ли он с Postal?",
+          "a": "Да. Когда есть Postal или почта TradeSkillMaster, кнопки «Забрать» Wanderer Mail отходят в сторону; карточка и список получателей остаются."
+        },
+        {
+          "q": "Может ли он сам удалять или отправлять письма?",
+          "a": "Никогда. Он ничего не удаляет, не отправляет и не оплачивает: каждое изъятие начинается с вашего щелчка."
+        },
+        {
+          "q": "Как проверить почту из любого места?",
+          "a": "Введите /wmail: он скажет, ждёт ли вас письмо."
+        }
+      ]
+    },
+    "card": {
+      "alt": "Логотип Wanderer Mail",
+      "tagline": "Почтовый ящик",
+      "summary": "Карточка со сводкой почтового ящика, выбранные письма забираются в один щелчок, а ваши персонажи в списке получателей."
+    }
+  },
+  "ko": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Mail: 더 빠른 우편함 (WoW Forever)",
+        "description": "무료 WoW Forever 애드온 Wanderer Mail: 한눈에 요약한 우편함, 경매장 우편을 클릭 한 번에, 받는 사람에 내 캐릭터, 곧 반송될 편지 알림."
+      },
+      "h1": "한눈에 요약한 우편함, 클릭 한 번에 받는 편지",
+      "lead": "Wanderer Mail은 World of Warcraft Forever용 Wanderer의 무료 확장입니다. 게임 우편함 옆의 카드가 무엇이 들어 있는지 알려 주고 고른 편지를 받아 줍니다. 편지를 쓸 때는 작은 목록이 받는 사람을 채워 줍니다. 아무것도 대체하지 않습니다. 우편 창은 게임의 것이며, Wanderer Mail은 저절로 무언가를 지우거나 보내거나 지불하지 않습니다.",
+      "sections": [
+        {
+          "id": "card",
+          "h2": "우편함에 무엇이 있는지 한눈에 볼 수 있나요?",
+          "paragraphs": [
+            "네. 우편함 옆의 카드가 편지 수, 들어 있는 골드, 대금 청구 편지, 남은 가방 칸, 가장 먼저 반송될 편지를 알려 줍니다. 경매장 편지는 판매됨, 반환됨, 낙찰, 상회 입찰됨으로 따로 정리되고, 서버가 50통 넘게 보관하고 있으면 몇 통이 더 기다리는지 알려 줍니다. 우편함의 편지마다 작은 글귀가 기한이 끝나면 어떻게 되는지 알려 줍니다: 보낸 사람에게 반송되거나 삭제됩니다."
+          ]
+        },
+        {
+          "id": "take",
+          "h2": "경매장 우편을 한 번에 모두 받으려면?",
+          "paragraphs": [
+            "블록마다 이것들 받기 버튼이 있습니다: 경매장 편지만, 또는 플레이어 편지만. 골드 받기는 골드만 받습니다. 버튼은 진행하며 수를 세고 클릭 한 번으로 멈추며, 끝나면 카드가 무엇을 받았는지 알려 줍니다. 편지를 Shift+클릭하면 그 편지만 받고, 플레이어의 편지를 Ctrl+클릭하면 한 번 물어본 뒤 반송합니다.",
+            "가방이 가득 차도 모든 것이 멈추지는 않습니다: 아이템은 가능하면 같은 종류의 묶음에 합쳐지고, 빈칸 하나는 남겨 두며, 나머지는 편지에 남아 기다리는 동안 골드는 계속 들어옵니다. 편지가 쉰 통을 넘으면 서버가 다음 편지를 가져온 뒤 클릭 한 번으로 이어 받습니다. 대금을 내야 하는 편지는 절대 받지 않습니다."
+          ]
+        },
+        {
+          "id": "send",
+          "h2": "이름을 입력하지 않고 내 다른 캐릭터에게 우편을 보낼 수 있나요?",
+          "paragraphs": [
+            "네. 받는 사람 칸 끝의 작은 화살표가 목록을 엽니다: 이 서버와 진영의 내 다른 캐릭터가 직업 색과 레벨과 함께 나오고, 이어서 최근에 편지를 보낸 플레이어가 나옵니다. 클릭 한 번으로 이름이 입력되며, 칸은 여전히 직접 고칠 수 있습니다. 친구와 접속 중인 길드원도 목록에 있습니다.",
+            "모르는 이름에게 골드나 아이템을 보내거나, 내 캐릭터에게 대금 청구를 걸면 칸에 조용한 안내가 나타납니다. 보내기는 여전히 게임의 보내기 버튼만 합니다."
+          ]
+        },
+        {
+          "id": "expiry",
+          "h2": "편지가 곧 만료되면 알 수 있나요?",
+          "paragraphs": [
+            "네. 접속할 때, 내 다른 캐릭터에게 골드나 아이템이 든 편지가 사흘 안에 사라질 예정이면 조용한 알림이 알려 주고, Wanderer의 캐릭터 창에도 그 캐릭터 줄에 표시됩니다. 지금 캐릭터의 편지가 하루 안에 반송될 예정이면 비망록에 추가됩니다."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Postal과 함께 쓸 수 있나요?",
+          "a": "네. Postal이나 TradeSkillMaster의 우편 기능이 있으면 Wanderer Mail의 받기 버튼은 물러나고, 카드와 받는 사람 목록은 그대로 남습니다."
+        },
+        {
+          "q": "저절로 편지를 지우거나 보내기도 하나요?",
+          "a": "절대 아닙니다. 아무것도 지우거나 보내거나 지불하지 않으며, 모든 받기는 직접 클릭해야 시작됩니다."
+        },
+        {
+          "q": "어디서든 우편을 확인하려면?",
+          "a": "/wmail을 입력하세요. 기다리는 편지가 있는지 알려 줍니다."
+        }
+      ]
+    },
+    "card": {
+      "alt": "Wanderer Mail 로고",
+      "tagline": "우편함",
+      "summary": "우편함을 요약하는 카드, 고른 편지를 클릭 한 번에 받기, 받는 사람 목록에 내 다른 캐릭터까지."
+    }
+  },
+  "zh-cn": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Mail：更快捷的邮箱 (WoW Forever)",
+        "description": "Wanderer Mail，免费 WoW Forever 插件：邮箱一目了然，拍卖行邮件一键收取，小号可直接选为收件人，提醒即将过期的信件。"
+      },
+      "h1": "邮箱一目了然，信件一键收取",
+      "lead": "Wanderer Mail 是 Wanderer 为 World of Warcraft Forever 推出的免费扩展。游戏邮箱旁的一张卡片会告诉你里面有什么，并收取你选中的信件；写信时，一个小列表帮你填写收件人。它不取代任何东西：邮件窗口仍是游戏原本的，Wanderer Mail 也绝不会自行删除、发送或支付任何东西。",
+      "sections": [
+        {
+          "id": "card",
+          "h2": "能一眼看出邮箱里有什么吗？",
+          "paragraphs": [
+            "能。邮箱旁的卡片显示信件数量、其中的金币、付款取信的信件、背包剩余空格，以及最先会被退回的那封信。拍卖行的信件单独归类：已售出、退回给你、竞拍成功、被出价超过；服务器保存超过五十封时，卡片会告诉你还有多少封在等候。收件箱的每封信上，都有一个小词说明期限到了会怎样：退回寄件人，或被销毁。"
+          ]
+        },
+        {
+          "id": "take",
+          "h2": "如何一次收取所有拍卖行邮件？",
+          "paragraphs": [
+            "每个区块都有自己的「收取这些」按钮：只收拍卖行的信件，或只收玩家的信件。「拿取金币」只拿金币。按钮会边收边计数，点击一下即可停止；结束后卡片会告诉你收到了什么。Shift+点击一封信只收取这一封；Ctrl+点击玩家的信，会先询问再退回给他。",
+            "背包满了也不会让一切停下：物品能叠进同类的未满堆叠时就叠进去，始终留出一个空位，其余的留在信中等待，金币则照常收取。超过五十封信时，等服务器送来后续信件，点击一下即可继续。需要付款的信件绝不会收取。"
+          ]
+        },
+        {
+          "id": "send",
+          "h2": "能不输入名字就给小号寄信吗？",
+          "paragraphs": [
+            "能。收件人栏末端的小箭头会打开一个列表：本服务器同阵营的其他角色，带职业颜色和等级，然后是你最近写过信的玩家。点击一下即可填入名字，输入栏仍由你自由修改。你的好友和在线的公会成员也在列表里。",
+            "当金币或物品要寄给你不认识的名字，或要向你自己的角色收取货到付款时，输入栏里会出现一句低调的提示。发送仍然只由游戏自己的发送按钮完成。"
+          ]
+        },
+        {
+          "id": "expiry",
+          "h2": "信件快过期时我会知道吗？",
+          "paragraphs": [
+            "会。登录时，如果你的其他角色有带金币或物品的信件将在三天内消失，一条低调的提示会告诉你，Wanderer 的角色窗口也会在该角色那一行标出。当前角色有信件将在一天内退回时，会加入你的备忘。"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "它能和 Postal 一起用吗？",
+          "a": "能。当 Postal 或 TradeSkillMaster 的邮件功能存在时，Wanderer Mail 的收取按钮会让开；卡片和收件人列表依然保留。"
+        },
+        {
+          "q": "它会自己删除或发送信件吗？",
+          "a": "绝不会。它从不删除、发送或支付任何东西：每次收取都由你的点击开始。"
+        },
+        {
+          "q": "如何随时随地查看有没有邮件？",
+          "a": "输入 /wmail：它会告诉你是否有信件在等你。"
+        }
+      ]
+    },
+    "card": {
+      "alt": "Wanderer Mail 标志",
+      "tagline": "邮箱",
+      "summary": "一张汇总邮箱的卡片，选中的信件一键收取，收件人列表里还有你的小号。"
+    }
+  },
+  "zh-tw": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Mail：更快捷的信箱 (WoW Forever)",
+        "description": "Wanderer Mail，免費 WoW Forever 插件：信箱一目了然，拍賣場郵件一鍵收取，分身可直接選為收件人，提醒即將過期的信件。"
+      },
+      "h1": "信箱一目了然，信件一鍵收取",
+      "lead": "Wanderer Mail 是 Wanderer 為 World of Warcraft Forever 推出的免費擴充。遊戲信箱旁的一張卡片會告訴你裡面有什麼，並收取你選取的信件；寫信時，一個小清單幫你填寫收件人。它不取代任何東西：郵件視窗仍是遊戲原本的，Wanderer Mail 也絕不會自行刪除、寄出或支付任何東西。",
+      "sections": [
+        {
+          "id": "card",
+          "h2": "能一眼看出信箱裡有什麼嗎？",
+          "paragraphs": [
+            "能。信箱旁的卡片顯示信件數量、其中的金幣、貨到付款的信件、背包剩餘空格，以及最先會被退回的那封信。拍賣場的信件單獨歸類：已售出、退回給你、得標、出價被超過；伺服器保存超過五十封時，卡片會告訴你還有多少封在等候。收件匣的每封信上，都有一個小詞說明期限到了會怎樣：退回寄件人，或被銷毀。"
+          ]
+        },
+        {
+          "id": "take",
+          "h2": "如何一次收取所有拍賣場郵件？",
+          "paragraphs": [
+            "每個區塊都有自己的「收取這些」按鈕：只收拍賣場的信件，或只收玩家的信件。「拿取金幣」只拿金幣。按鈕會邊收邊計數，點擊一下即可停止；結束後卡片會告訴你收到了什麼。Shift+點擊一封信只收取這一封；Ctrl+點擊玩家的信，會先詢問再退回給他。",
+            "背包滿了也不會讓一切停下：物品能疊進同類的未滿堆疊時就疊進去，始終留出一個空位，其餘的留在信中等待，金幣則照常收取。超過五十封信時，等伺服器送來後續信件，點擊一下即可繼續。需要付款的信件絕不會收取。"
+          ]
+        },
+        {
+          "id": "send",
+          "h2": "能不輸入名字就寄信給分身嗎？",
+          "paragraphs": [
+            "能。收件人欄末端的小箭頭會開啟一個清單：本伺服器同陣營的其他角色，附職業顏色和等級，接著是你最近寫過信的玩家。點擊一下即可填入名字，輸入欄仍由你自由修改。你的好友和線上的公會成員也在清單裡。",
+            "當金幣或物品要寄給你不認識的名字，或要向你自己的角色收取貨到付款時，輸入欄裡會出現一句低調的提示。寄送仍然只由遊戲自己的寄送按鈕完成。"
+          ]
+        },
+        {
+          "id": "expiry",
+          "h2": "信件快過期時我會知道嗎？",
+          "paragraphs": [
+            "會。登入時，如果你的其他角色有帶金幣或物品的信件將在三天內消失，一則低調的通知會告訴你，Wanderer 的角色視窗也會在該角色那一列標出。目前角色有信件將在一天內退回時，會加入你的備忘。"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "它能和 Postal 一起用嗎？",
+          "a": "能。當 Postal 或 TradeSkillMaster 的郵件功能存在時，Wanderer Mail 的收取按鈕會退開；卡片和收件人清單依然保留。"
+        },
+        {
+          "q": "它會自己刪除或寄出信件嗎？",
+          "a": "絕不會。它從不刪除、寄出或支付任何東西：每次收取都由你的點擊開始。"
+        },
+        {
+          "q": "如何隨時隨地查看有沒有郵件？",
+          "a": "輸入 /wmail：它會告訴你是否有信件在等你。"
+        }
+      ]
+    },
+    "card": {
+      "alt": "Wanderer Mail 標誌",
+      "tagline": "信箱",
+      "summary": "一張匯整信箱的卡片，選取的信件一鍵收取，收件人清單裡還有你的分身。"
+    }
+  }
+}

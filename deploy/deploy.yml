@@ -1,0 +1,59 @@
+# Puts the site online: each push on main sends the files to the OVH hosting by SFTP (encrypted).
+# Copied into the published files by site.sh (the build remakes dist/ every time).
+# Secrets of the repository: SFTP_USERNAME and SFTP_PASSWORD (entered on GitHub only).
+name: Put the site online
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: site-online
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      SFTP_USERNAME: ${{ secrets.SFTP_USERNAME }}
+      LFTP_PASSWORD: ${{ secrets.SFTP_PASSWORD }}
+      SERVER: ftp.cluster030.hosting.ovh.net
+      FOLDER: wanderer
+      # The server's public key: a server that answers with another one is refused.
+      SERVER_KEY: ftp.cluster030.hosting.ovh.net ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK+v6Lr/30gISPJk8ViZ/esm/PYi97Bqxhr5Fn9Yt1kI
+    steps:
+      - name: Are the secrets there?
+        id: ready
+        run: |
+          if [ -n "$SFTP_USERNAME" ] && [ -n "$LFTP_PASSWORD" ]; then
+            echo "go=yes" >> "$GITHUB_OUTPUT"
+          else
+            echo "::warning::Nothing sent: add SFTP_USERNAME and SFTP_PASSWORD in the repository's secrets."
+          fi
+
+      - name: Get the site
+        if: steps.ready.outputs.go == 'yes'
+        uses: actions/checkout@v4
+
+      - name: Send it to OVH
+        if: steps.ready.outputs.go == 'yes'
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq lftp
+          mkdir -p ~/.ssh
+          echo "$SERVER_KEY" >> ~/.ssh/known_hosts
+          lftp -c "
+            set cmd:fail-exit yes;
+            set net:max-retries 3;
+            set net:timeout 20;
+            set sftp:auto-confirm no;
+            set sftp:connect-program 'ssh -a -x -o StrictHostKeyChecking=yes';
+            open --env-password -u \"$SFTP_USERNAME\" sftp://$SERVER;
+            cd $FOLDER;
+            mirror --reverse --no-perms --parallel=4 --exclude '^\.git' --verbose . .;
+          "

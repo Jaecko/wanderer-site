@@ -1,0 +1,102 @@
+{
+	"home": {
+		"campfire": {
+			"alt": "Wanderer Campfire Game logo: a small campfire under the stars, an adventurer's pack and a map beside it",
+			"tagline": "A little game by the fire",
+			"paragraphs": [
+				"A small idle game in a Wanderer window: your campfire grows tier after tier, the last one without end, companions gather around it and set out on expeditions across Azeroth, in real time, even while you are away.",
+				"Your real journey feeds it: the zones you explore open new roads, your professions strengthen the camp and fill the quartermaster's orders, the dungeons you clear bring more for good."
+			]
+		},
+		"extensionsTitle": "Four companions for the road",
+		"extensionsAnswer": "Four free modules that add to Wanderer for World of Warcraft Forever. Wanderer Bags puts your bags and your bank in one window and keeps chosen items safe from any sale. Wanderer Auction brings the auction house into a Wanderer window, never sells below a merchant's price and keeps your shopping list. Wanderer Quests shows every quest of your class, your dungeons and your zones, in chains, and the best gear your quests can give. Wanderer Campfire Game is a little idle game fed by your real journey. Each needs Wanderer and has its own page on wanderer-addon.com.",
+		"faq": {
+			"q": "Is there a game in Wanderer?",
+			"a": "Yes, apart: Wanderer Campfire Game, a free extension. A campfire grows, companions go on expeditions across Azeroth in real time, and your real journey (zones explored, professions, dungeons cleared) makes the camp stronger. It gives nothing in the real game and runs nothing while its window is closed."
+		}
+	},
+	"page": {
+		"meta": {
+			"title": "Wanderer Campfire Game: an idle game by the fire (WoW Forever)",
+			"description": "Wanderer Campfire Game, a free WoW Forever addon: grow a campfire, send companions on real-time expeditions, and let your real journey strengthen the camp."
+		},
+		"h1": "A little game by the fire, fed by your journey",
+		"lead": "Wanderer Campfire Game is a free extension of Wanderer for World of Warcraft Forever. A campfire grows tier after tier, companions gather around it and set out on expeditions across Azeroth in real time. What you do in the game makes it stronger; what it gives stays in its own world.",
+		"sections": [
+			{
+				"id": "fire",
+				"h2": "How does the camp grow?",
+				"paragraphs": [
+					"The fire makes embers all the time, even while you are away (twelve hours, more with the ashes). Stoke it with a click, buy its producers and their upgrades. With embers and renown it grows through seven tiers, each bringing room for more companions and more expeditions at once; the seventh, the eternal blaze, never ends, each of its levels asking more.",
+					"Six buildings, each up to five levels: a kitchen for provisions, a forge for strength, an apothecary for wounds, tents for room, a storehouse for reserves, a watchtower for what comes back."
+				]
+			},
+			{
+				"id": "ashes",
+				"h2": "What is a new fire?",
+				"paragraphs": [
+					"Once a fire has grown, let it go out for its ashes. Only the fire begins again: the tier, the buildings, the companions, the expeditions and the resources stay. Each ash makes every fire after it stronger, for good, and between two fires, and only then, they are spent in the ashes' tree."
+				]
+			},
+			{
+				"id": "companions",
+				"h2": "Who are the companions?",
+				"paragraphs": [
+					"Adventurers in the colors of WoW's classes, each a protector, a healer or a fighter, with a trait of their own. They level up on the road, choose a talent at levels 20, 40 and 60, and wear the gear your forge makes them. Those who often go together work better together.",
+					"An exalted reputation brings a champion of that faction to your fire."
+				]
+			},
+			{
+				"id": "expeditions",
+				"h2": "How do the expeditions work?",
+				"paragraphs": [
+					"Choose a place, how long and who goes: forty zones, nineteen dungeons, seven raids. The odds, the provisions and what it should bring are said before you leave. A protector and a healer matter, in dungeons and raids above all.",
+					"They come back in real time, from fifteen minutes to a whole day, with renown, embers, supplies and sometimes a trophy. A short notice says when they are back. Now and then the road brings a choice back with it."
+				]
+			},
+			{
+				"id": "journey",
+				"h2": "How does my real journey count?",
+				"paragraphs": [
+					"A zone opens to expeditions when your character has its exploration achievement. Your level opens the fire's tiers and the dungeons. Your professions strengthen the camp, and the quartermaster asks for goods of your professions: have them in your bags or your bank, they stay yours.",
+					"Each quest you hand in brings renown, each fish caught and each dish cooked brings provisions. A boss you kill in a dungeon or a raid makes it lived: its expeditions bring a quarter more, for good."
+				]
+			},
+			{
+				"id": "nights",
+				"h2": "What happens by the fire?",
+				"paragraphs": [
+					"Every few hours something happens by the fire: a peddler, a storm, wolves, a bard. You choose, and live with it. Some stories go on over three nights.",
+					"Trophies to find in every place, feats of the camp, and champions of your exalted factions."
+				]
+			}
+		],
+		"faq": [
+			{
+				"q": "Does Wanderer Campfire Game give anything in the real game?",
+				"a": "No. It only reads what your character has done (achievements, level, professions, items in your bags); everything it gives stays in the game by the fire."
+			},
+			{
+				"q": "Does it slow down my game?",
+				"a": "No. Nothing runs while its window is closed: the time gone by is counted when you look, and one timer only waits for the next expedition to come back."
+			},
+			{
+				"q": "Is the camp shared between my characters?",
+				"a": "No. Each character has its own camp, fed by its own journey."
+			},
+			{
+				"q": "How do I open it?",
+				"a": "From Wanderer's menu, a key of yours in the game's key bindings, or /wcampfire."
+			}
+		]
+	},
+	"questsGear": {
+		"id": "gear",
+		"h2": "Which quests give better gear for me?",
+		"paragraphs": [
+			"The Gear tab shows two character sheets side by side: on the left what you wear, slot by slot, with your characteristics; on the right, for each slot, the best piece a quest can give you, up to three levels above yours, with how much better it is for the branch you play.",
+			"Under it, your characteristics if you wore them all. A click on a piece opens its quest's sheet: what to do, where, who gives it."
+		]
+	},
+	"requiresVersion": "0.43"
+}

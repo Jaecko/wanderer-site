@@ -1,0 +1,102 @@
+{
+	"home": {
+		"campfire": {
+			"alt": "Logo do Wanderer Campfire Game: uma pequena fogueira sob as estrelas, com uma mochila de aventureiro e um mapa ao lado",
+			"tagline": "Um joguinho à beira da fogueira",
+			"paragraphs": [
+				"Um pequeno jogo idle numa janela do Wanderer: sua fogueira cresce patamar após patamar, o último sem fim, companheiros se reúnem em volta dela e partem em expedições por Azeroth, em tempo real, mesmo enquanto você está fora.",
+				"Sua jornada de verdade a alimenta: as zonas que você explora abrem novos caminhos, suas profissões fortalecem o acampamento e atendem às encomendas do intendente, as masmorras que você conclui rendem mais para sempre."
+			]
+		},
+		"extensionsTitle": "Quatro companheiros de viagem",
+		"extensionsAnswer": "Quatro módulos gratuitos que completam o Wanderer para World of Warcraft Forever. O Wanderer Bags reúne suas bolsas e seu banco em uma janela e protege os itens escolhidos de qualquer venda. O Wanderer Auction leva a casa de leilões para uma janela do Wanderer, nunca vende abaixo do preço de um mercador e guarda sua lista de compras. O Wanderer Quests mostra todas as missões da sua classe, das suas masmorras e das suas zonas, em cadeias, e o melhor equipamento que suas missões podem dar. O Wanderer Campfire Game é um pequeno jogo idle alimentado pela sua jornada de verdade. Cada um precisa do Wanderer e tem sua própria página em wanderer-addon.com.",
+		"faq": {
+			"q": "Existe um jogo no Wanderer?",
+			"a": "Sim, à parte: o Wanderer Campfire Game, uma extensão gratuita. Uma fogueira cresce, companheiros partem em expedições por Azeroth em tempo real, e sua jornada de verdade (zonas exploradas, profissões, masmorras concluídas) fortalece o acampamento. Ele não dá nada no jogo de verdade e não roda nada enquanto sua janela está fechada."
+		}
+	},
+	"page": {
+		"meta": {
+			"title": "Wanderer Campfire Game: jogo idle junto à fogueira (WoW Forever)",
+			"description": "Wanderer Campfire Game, addon gratuito para WoW Forever: faça uma fogueira crescer, envie companheiros em expedições em tempo real e sua jornada a fortalece."
+		},
+		"h1": "Um joguinho à beira da fogueira, alimentado pela sua jornada",
+		"lead": "Wanderer Campfire Game é uma extensão gratuita do Wanderer para World of Warcraft Forever. Uma fogueira cresce patamar após patamar, companheiros se reúnem em volta dela e partem em expedições por Azeroth em tempo real. O que você faz no jogo a fortalece; o que ela dá fica no seu próprio mundo.",
+		"sections": [
+			{
+				"id": "fire",
+				"h2": "Como o acampamento cresce?",
+				"paragraphs": [
+					"A fogueira produz brasas o tempo todo, mesmo enquanto você está fora (doze horas, mais com as cinzas). Atice-a com um clique, compre seus produtores e as melhorias deles. Com brasas e renome ela cresce por sete patamares, cada um com espaço para mais companheiros e mais expedições ao mesmo tempo; o sétimo, o braseiro eterno, nunca termina, e cada um dos seus níveis pede mais.",
+					"Seis construções, cada uma até o nível cinco: uma cozinha para os mantimentos, uma forja para a força, uma botica para os ferimentos, tendas para o espaço, um armazém para as reservas, uma torre de vigia para o que volta."
+				]
+			},
+			{
+				"id": "ashes",
+				"h2": "O que é uma nova fogueira?",
+				"paragraphs": [
+					"Quando uma fogueira já cresceu, deixe-a apagar por suas cinzas. Só a fogueira recomeça: o patamar, os edifícios, os companheiros, as expedições e os recursos ficam. Cada cinza torna todas as fogueiras seguintes mais fortes, para sempre, e entre duas fogueiras, e só então, elas são gastas na árvore das cinzas."
+				]
+			},
+			{
+				"id": "companions",
+				"h2": "Quem são os companheiros?",
+				"paragraphs": [
+					"Aventureiros nas cores das classes de WoW, cada um protetor, curandeiro ou combatente, com um traço só seu. Eles sobem de nível na estrada, escolhem um talento nos níveis 20, 40 e 60 e usam o equipamento que sua forja faz para eles. Quem parte junto com frequência trabalha melhor junto.",
+					"Uma reputação Exaltado traz um campeão dessa facção para a sua fogueira."
+				]
+			},
+			{
+				"id": "expeditions",
+				"h2": "Como funcionam as expedições?",
+				"paragraphs": [
+					"Escolha um lugar, uma duração e quem vai: quarenta zonas, dezenove masmorras, sete raides. As chances, os mantimentos e o que ela deve trazer são informados antes da partida. Um protetor e um curandeiro fazem diferença, sobretudo em masmorras e raides.",
+					"Elas voltam em tempo real, de quinze minutos a um dia inteiro, com renome, brasas, suprimentos e às vezes um troféu. Um breve aviso diz quando voltaram. De vez em quando, a estrada traz uma escolha junto."
+				]
+			},
+			{
+				"id": "journey",
+				"h2": "Como minha jornada de verdade conta no jogo?",
+				"paragraphs": [
+					"Uma zona se abre para expedições quando seu personagem tem a conquista de exploração dela. Seu nível libera os estágios da fogueira e as masmorras. Suas profissões fortalecem o acampamento, e o intendente pede produtos das suas profissões: tenha-os nas bolsas ou no banco, eles continuam seus.",
+					"Cada missão entregue traz renome, cada peixe pescado e cada prato cozinhado trazem mantimentos. Um chefe que você derrota em uma masmorra ou raide a torna vivida: as expedições dela rendem um quarto a mais, para sempre."
+				]
+			},
+			{
+				"id": "nights",
+				"h2": "O que acontece à beira da fogueira?",
+				"paragraphs": [
+					"A cada poucas horas, algo acontece à beira da fogueira: um mascate, uma tempestade, lobos, um bardo. Você escolhe e convive com isso. Algumas histórias continuam por três noites.",
+					"Troféus a encontrar em cada lugar, façanhas do acampamento e os campeões das suas facções exaltadas."
+				]
+			}
+		],
+		"faq": [
+			{
+				"q": "O Wanderer Campfire Game dá alguma coisa no jogo de verdade?",
+				"a": "Não. Ele só lê o que seu personagem fez (conquistas, nível, profissões, itens nas bolsas); tudo o que ele dá fica no jogo à beira da fogueira."
+			},
+			{
+				"q": "Ele deixa meu jogo mais lento?",
+				"a": "Não. Nada roda enquanto a janela dele está fechada: o tempo passado é contado quando você olha, e um único temporizador espera a volta da próxima expedição."
+			},
+			{
+				"q": "O acampamento é compartilhado entre meus personagens?",
+				"a": "Não. Cada personagem tem seu próprio acampamento, alimentado pela sua própria jornada."
+			},
+			{
+				"q": "Como abrir?",
+				"a": "Pelo menu do Wanderer, por uma tecla sua nas teclas de atalho do jogo ou com /wcampfire."
+			}
+		]
+	},
+	"questsGear": {
+		"id": "gear",
+		"h2": "Quais missões me dão equipamento melhor?",
+		"paragraphs": [
+			"A aba Equipamento mostra duas fichas de personagem lado a lado: à esquerda o que você usa, compartimento por compartimento, com seus atributos; à direita, para cada compartimento, a melhor peça que uma missão pode dar, até três níveis acima do seu, com o quanto ela é melhor para o ramo que você joga.",
+			"Embaixo, seus atributos se você usasse tudo. Um clique em uma peça abre a ficha da missão dela: o que fazer, onde e quem a dá."
+		]
+	},
+	"requiresVersion": "0.43"
+}

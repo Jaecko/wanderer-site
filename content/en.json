@@ -1,0 +1,303 @@
+{
+  "lang": "en",
+  "hreflang": "en",
+  "ogLocale": "en_US",
+  "nativeName": "English",
+  "meta": {
+    "title": "Wanderer: immersion and comfort addons for WoW Forever",
+    "description": "Free WoW Forever addons: names hidden above heads, a label on hover, quests as quiet scenes, clean unit frames, and ten extensions."
+  },
+  "ui": {
+    "skip": "Skip to content",
+    "languages": "Language",
+    "play": "Play the trailer",
+    "videoTitle": "Wanderer trailer, an immersion addon for WoW Forever",
+    "videoDescription": "Forty seconds with Wanderer in WoW Forever: names hidden above heads, the label on hover, quests as quiet scenes and an interface that steps aside.",
+    "videoFallback": "Watch the trailer on YouTube",
+    "downloadOn": "Download on",
+    "screenshotSoon": "Screenshot coming soon",
+    "menu": "Menu",
+    "nav": "Pages",
+    "faq": "Questions",
+    "family": "The family",
+    "comingSoon": "Coming soon on CurseForge",
+    "soonBadge": "Coming soon"
+  },
+  "hero": {
+    "h1": "Live in Azeroth: immersion and comfort for WoW Forever",
+    "subtitle": "Wanderer",
+    "lead": "Wanderer is a free family of addons for World of Warcraft Forever. Names leave the heads of everyone around you, a label tells you who someone is when you look at them, conversations become quiet scenes, and the small comforts you would install a dozen addons for are gathered in one.",
+    "status": "Free, translated into 10 languages, in active development."
+  },
+  "download": {
+    "heading": "Download Wanderer",
+    "note": "Version {version}. The CurseForge app installs and updates it for you."
+  },
+  "core": {
+    "kicker": "Wanderer itself",
+    "title": "The heart of the family",
+    "intro": "Wanderer works on its own and holds what the extensions share: its look, its profiles, its settings window. Here is what it does for you, from the first minute."
+  },
+  "sections": [
+    {
+      "id": "immersion",
+      "h2": "How do I hide names above heads and play in immersion?",
+      "paragraphs": [
+        "Pick Full immersion and the names above heads go away: players, NPCs, enemies, pets, guilds and titles, each one can be set on its own, and each kind of place, the open world, cities, dungeons, raids, has its own choice. Hold a key and every name comes back for a moment, with any faded part of your interface.",
+        "Your group and your guild keep a small faint name in their color, and the players you know can keep theirs too. Enemies can show their name as you come near, faint then clear."
+      ],
+      "image": {
+        "file": "names-hidden-revealed",
+        "alt": "A Stormwind street at sunset, with no names floating above anyone"
+      }
+    },
+    {
+      "id": "label",
+      "h2": "How can I see who someone is without names everywhere?",
+      "paragraphs": [
+        "Hover a character and a label appears right above their head. You see their portrait, their level colored by difficulty, their role, your reputation with their faction, the spell they are casting and who they are looking at, in three levels of detail.",
+        "It also shows what matters right now: the quest they give or wait for, your objectives (3/8), what you can gather, skin or loot, and over a monster, roughly how many more like it you need to level. Hold Shift over a player for their talents and item level."
+      ],
+      "image": {
+        "file": "label-npc",
+        "alt": "The Wanderer label above a quest giver, with round portrait, level, role and quest objectives"
+      }
+    },
+    {
+      "id": "scenes",
+      "h2": "Can quests and dialogues play like quiet cinematic scenes?",
+      "paragraphs": [
+        "Talk to a character and the interface fades away, the camera comes closer, and their words appear page by page in a panel at the bottom of the screen. Elite and group quests are said before you accept, rewards show their rarity, and the one that sells for the most wears a coin.",
+        "Space continues, 1 to 9 choose, the wheel goes back to what was said. Books, plaques and letters open in a reading window that remembers your page. Hold Shift and you get the game's own window, whenever you want it. The choices you already read show dimmed, never hidden, and the panel goes where you like, its background as light or as dark as you want."
+      ],
+      "image": {
+        "file": "quest-scene",
+        "alt": "A quest shown as a scene: the interface faded, the camera close to the NPC, the quest text in a panel at the bottom of the screen"
+      }
+    },
+    {
+      "id": "frames",
+      "h2": "Can my unit frames and health bars look clean in WoW Forever?",
+      "paragraphs": [
+        "Your frame, your target, your group, your bosses and their cast bars take Wanderer's look: a square portrait with your level and rest, health and power beside it at exactly its height, the cast bar beneath. The game's code, its values and its Edit Mode sizes stay untouched, and three other looks are one choice away.",
+        "If you wish, a soft band shows what your damage over time will still deal, with a skull that fills as it covers what is left, and a deep green band what your heals over time will still heal. In a group, your threat sits on a quiet line."
+      ],
+      "image": {
+        "file": "frames",
+        "alt": "Wanderer unit frames: square portraits with level, health and power bars beside them, a heal band on yours and a damage band with a skull on the target"
+      }
+    },
+    {
+      "id": "items",
+      "h2": "Can I see at a glance whether an item is better for my spec?",
+      "paragraphs": [
+        "Over an item you could wear, one line tells how it compares with what you wear, for the way you play: a bear and a cat apart for a feral druid. The weights are worked out from your own gear and talents, or set by hand, and Pawn scales come in and out as Raidbots and the class guides give them.",
+        "Every tooltip says what a merchant would give, and a reagent says which professions use it, yours in gold."
+      ],
+      "image": {
+        "file": "items",
+        "alt": "An item tooltip in its quality color with a green line saying it is better for you, beside the stat weights window"
+      }
+    },
+    {
+      "id": "comfort",
+      "h2": "One addon to sell junk, repair, loot instantly and fish with a double click?",
+      "paragraphs": [
+        "Wanderer sells your junk and repairs at merchants, loots instantly with the game's Auto Loot, and lets you fish with a double right-click, the label over the bobber telling every catch. What you always rebuy, arrows, water, reagents, is offered again in one click, and trainers get a Learn all button.",
+        "Arriving in a town, one notice gathers what waits for you there: repairs, new spells, your shopping list, your mail. Anything that acts for you can be turned off, and holding Shift always keeps things manual."
+      ]
+    },
+    {
+      "id": "travel",
+      "h2": "Can the interface step aside while I travel or stay away?",
+      "paragraphs": [
+        "On a flight the interface fades, the camera steps back and a card names your destination. Away from the keyboard, the camera slowly circles you, sits you by the fire or pulls back over the landscape. Photo mode hides everything with one key. If camera movement bothers you, Calm movements keeps the camera where you put it and lets nothing slide on screen.",
+        "The minimap and the quest tracker can take Wanderer's quiet look, a slim bar gathers its menu and your addons' icons, and every game window opens where you left it, the last one clicked in front. Quests, the map and your messages stay on that bar; every other window waits in More, a card with each one's icon and count, where a star pins it to the bar, for each profile."
+      ],
+      "image": {
+        "file": "travel",
+        "alt": "A night sky over hills, the flight line with its stops and a glowing dot for the traveller"
+      }
+    },
+    {
+      "id": "group",
+      "h2": "Can Wanderer help in a group without playing for me?",
+      "paragraphs": [
+        "Hold a key over an enemy and the eight raid markers open around the cursor, without changing your target. Your blessings that fade on you or your group are said to be cast again, a monster that nobody has hit yet is pointed out, and in dungeons the tank hears when a monster leaves them.",
+        "Requests can be answered for you if you wish, groups from friends, summons, resurrections, but never a resurrection in a raid. Hold Shift and every request waits for your own answer. Everything stays information: no rotation help, no decision made in a fight."
+      ],
+      "image": {
+        "file": "group",
+        "alt": "The wheel of raid markers open around the mouse cursor, the skull chosen"
+      }
+    },
+    {
+      "id": "options",
+      "h2": "Can I set it up the way I play, and change anything after?",
+      "paragraphs": [
+        "A welcome by the fire offers six ways to play, the newcomer, the wanderer, the storyteller, the seasoned adventurer, the delver, the artisan, and sets what fits for this character only, with undo. Every setting is pre-set, and every setting can be changed.",
+        "One settings window holds the whole family, with a search, a What you changed page and profiles per character and per kind of place. Six styles dress the label and the tooltips alike. Turn Wanderer off and every game setting it changed is given back."
+      ],
+      "image": {
+        "file": "options-styles",
+        "alt": "Wanderer options in the game's settings, showing the predefined styles and the live label preview"
+      }
+    },
+    {
+      "id": "characters",
+      "h2": "Can it keep track of my characters and what I must not forget?",
+      "paragraphs": [
+        "A window lists every character of your account: level, rested experience even while they sleep, gold, professions and their cooldowns, letters about to leave the mailbox. Reminders keep what you must not forget, tied to a place if you like, and speak up when you come back there.",
+        "Roleplayers keep their Total RP 3 names, titles and status in the label, and with the Spoken addon, its voices play in the scenes."
+      ],
+      "image": {
+        "file": "characters",
+        "alt": "The characters window with faces in their class colors, levels, rested bars and gold, beside a reminders card"
+      }
+    },
+    {
+      "id": "controller",
+      "h2": "Can I play with a controller in WoW Forever?",
+      "paragraphs": [
+        "Yes. Wanderer leaves the game's own controller mode alone: the game's windows, bags, map and menus keep working as they always have. Every Wanderer window answers the controller too: the cross moves from button to button, a gold frame on your choice, the bottom button clicks, the right one closes, the top one is the right click and the right stick scrolls.",
+        "The triggers switch between the open windows, the game's included, and closing one brings you back where you were. Menus become cards, the touchpad button opens Wanderer's bar at the top of the screen, from which the whole family opens, and in a fight every button goes back to the game. Your action bars stay in view and fade only during conversations. Settings that need a mouse or a keyboard say so, and the words on screen follow at once when you switch between the mouse and the controller."
+      ]
+    }
+  ],
+  "faq": {
+    "heading": "Questions",
+    "items": [
+      {
+        "q": "How do I hide names above heads in WoW Forever?",
+        "a": "Install Wanderer and choose Full immersion, on the welcome screen or in the Names page of the options. Every name goes away. Hover someone to see who they are, or hold the reveal key."
+      },
+      {
+        "q": "Does it replace my quest window?",
+        "a": "Only while conversation scenes are on. Hold Shift when you talk to an NPC to get the game's window, or turn scenes off in the options."
+      },
+      {
+        "q": "Can I stop Wanderer from moving my camera?",
+        "a": "Yes. Turn on Calm movements in the options: the camera never moves for a scene, a flight or while you are away, and nothing slides on screen. In dungeons and raids the camera already stays still, and the first time it moves, a notice offers to leave it where it is."
+      },
+      {
+        "q": "Will it change my game settings forever?",
+        "a": "No. Turn Wanderer off, or type /wanderer off, and every setting it changed is given back."
+      },
+      {
+        "q": "Does it play for me?",
+        "a": "No. Wanderer is a comfort addon: nothing is bought, sent or spent without your click, holding Shift keeps every automation manual, and nothing decides for you in a fight."
+      },
+      {
+        "q": "Does it work with ElvUI, Questie or other addons?",
+        "a": "Yes. When another addon already does a job, ElvUI for unit frames, Questie, TomTom, Postal, Bagnon and many more, Wanderer steps aside for that job and its option says who does it."
+      },
+      {
+        "q": "Does it work with a controller?",
+        "a": "Yes, with the game's own controller mode, which Wanderer never touches. Every Wanderer window and every extension can be used with the cross, the buttons and the triggers, and in a fight every button goes back to the game."
+      },
+      {
+        "q": "Are my settings the same on all my characters?",
+        "a": "No, each character has its own profile, with its own profiles for the world, cities and dungeons. A shared profile is there if you want one, and a new character can start like your main."
+      },
+      {
+        "q": "What are Wanderer's extensions?",
+        "a": "Ten free addons that add to Wanderer: Bags, Auction, Mail, Quests, Maps, Training, Outfits, Professions, Chat and Bestiary. Take only the ones you want: each needs Wanderer, which works on its own without them, and each has its page on wanderer-addon.com."
+      },
+      {
+        "q": "Is Wanderer free?",
+        "a": "Yes, completely, and nothing leaves your game: no communication with other players or websites."
+      }
+    ]
+  },
+  "install": {
+    "heading": "Installing without an addon app",
+    "steps": [
+      "Download the zip file from CurseForge.",
+      "Open the WoW Forever folder, then Interface and AddOns (on most installs: World of Warcraft, _forever_, Interface, AddOns).",
+      "Extract the zip there, so that you get a Wanderer folder inside AddOns. Do the same for each extension you want.",
+      "Start the game, or type /reload if it is running. Type /wanderer to open the options."
+    ],
+    "changelog": "See what changed in each version"
+  },
+  "feedback": {
+    "heading": "Tell me what you think",
+    "text": "Wanderer is made by one player and grows with your feedback. A bug, an idea, a translation to fix: every message is read.",
+    "comments": "Comments on CurseForge",
+    "github": "The project on GitHub"
+  },
+  "footer": {
+    "text": "Wanderer is a free fan-made addon. World of Warcraft is a trademark of Blizzard Entertainment, which does not endorse this addon.",
+    "madeBy": "Made by {author}, on {curseforge} and {github}.",
+    "studio": "The site and the addons were created by {studio}."
+  },
+  "facts": {
+    "heading": "Wanderer at a glance",
+    "game": "Game",
+    "price": "Price",
+    "priceValue": "Free",
+    "languages": "Languages",
+    "languagesValue": "{count} languages",
+    "compatibility": "Works with",
+    "compatibilityValue": "ElvUI, Questie, Total RP 3",
+    "updated": "Last update",
+    "updatedValue": "{date}, version {version}",
+    "platforms": "Download",
+    "downloads": "Downloads",
+    "downloadsValue": "{count} on CurseForge"
+  },
+  "extensions": {
+    "kicker": "The family",
+    "title": "Ten companions for the road",
+    "intro": "Free addons that share Wanderer's look, its profiles and its settings window. Take only the ones you want: Wanderer works on its own, and the CurseForge app installs it with them."
+  },
+  "bags": {
+    "alt": "Wanderer Bags logo: an adventurer's leather backpack lit by a lantern at night",
+    "tagline": "Your bags and your bank",
+    "summary": "Every bag in one window sorted by kind, crafting by profession, what you keep never sold, your bank seen anywhere."
+  },
+  "auction": {
+    "alt": "Wanderer Auction logo",
+    "tagline": "The auction house",
+    "summary": "Sell, buy and follow in one window, a fair price offered, never below a merchant, and a shopping list anywhere."
+  },
+  "mail": {
+    "alt": "Wanderer Mail logo",
+    "tagline": "The mailbox",
+    "summary": "A card that sums up your mailbox, the letters you choose taken in one click, and your alts in the recipient list."
+  },
+  "quests": {
+    "alt": "Wanderer Quests logo: an old quest book with a golden compass rose glowing on its cover, a map pin beside it",
+    "tagline": "The quests the world hides",
+    "summary": "Every quest of your class, your dungeons and your zones, in chains, a sheet for each, and a calm list of the quests you follow."
+  },
+  "maps": {
+    "alt": "Wanderer Maps logo",
+    "tagline": "Your way across the world",
+    "summary": "The Atlas, a big map with your quests as zones, your notes and route, an arrow toward your next step, flights and boats counted."
+  },
+  "training": {
+    "alt": "Wanderer Training logo",
+    "tagline": "What your trainer holds",
+    "summary": "What your trainers still have for you and what it will cost, counted for the way you play, and your talents planned."
+  },
+  "outfits": {
+    "alt": "Wanderer Outfits logo",
+    "tagline": "The right piece, at the right moment",
+    "summary": "Your riding, fishing and dungeon pieces on at the right moment and off after, by themselves. Whole outfits in one click too."
+  },
+  "professions": {
+    "alt": "Wanderer Professions logo: a wooden workbench with an anvil, a spool of thread and a vial",
+    "tagline": "Your workbench",
+    "summary": "Every recipe with its icon, reagents as cards, the next crafts worth doing and a queue you start yourself."
+  },
+  "chat": {
+    "alt": "Wanderer Chat logo",
+    "tagline": "The chat, made calm",
+    "summary": "A glass chat that fades, your name in gold, a card when someone names you, quieter channels and whispers as conversations."
+  },
+  "bestiary": {
+    "alt": "Wanderer Bestiary emblem: an open tome with a wolf's head drawn in gold",
+    "tagline": "The creatures of the world",
+    "summary": "Every creature with its 3D model, strength and spells, revealed as you meet it, and your own hunting log."
+  }
+}

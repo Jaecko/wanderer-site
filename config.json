@@ -1,0 +1,69 @@
+{
+  "siteUrl": "https://wanderer-addon.com",
+  "links": {
+    "curseforge": "https://www.curseforge.com/wow/addons/wanderer",
+    "curseforgeComments": "https://www.curseforge.com/wow/addons/wanderer/comments",
+    "changelog": "https://www.curseforge.com/wow/addons/wanderer/files",
+    "github": "https://github.com/Jaecko/wanderer",
+    "githubRelease": "https://github.com/Jaecko/wanderer/releases/latest",
+    "bagsCurseforge": "https://www.curseforge.com/wow/addons/wanderer-bags",
+    "bagsGithub": "https://github.com/Jaecko/wanderer-bags",
+    "auctionCurseforge": "https://www.curseforge.com/wow/addons/wanderer-auction",
+    "auctionGithub": "https://github.com/Jaecko/wanderer-auction",
+    "questsCurseforge": "https://www.curseforge.com/wow/addons/wanderer-quests",
+    "questsGithub": "https://github.com/Jaecko/wanderer-quests",
+    "trainingCurseforge": "https://www.curseforge.com/wow/addons/wanderer-training",
+    "trainingGithub": "https://github.com/Jaecko/wanderer-training",
+    "chatCurseforge": "https://www.curseforge.com/wow/addons/wanderer-chat",
+    "chatGithub": "https://github.com/Jaecko/wanderer-chat",
+    "mailCurseforge": "https://www.curseforge.com/wow/addons/wanderer-mail",
+    "mailGithub": "https://github.com/Jaecko/wanderer-mail",
+    "mapsCurseforge": "https://www.curseforge.com/wow/addons/wanderer-maps",
+    "mapsGithub": "https://github.com/Jaecko/wanderer-maps",
+    "outfitsCurseforge": "https://www.curseforge.com/wow/addons/wanderer-outfits",
+    "outfitsGithub": "https://github.com/Jaecko/wanderer-outfits",
+    "professionsCurseforge": "https://www.curseforge.com/wow/addons/wanderer-professions",
+    "professionsGithub": "https://github.com/Jaecko/wanderer-professions",
+    "bestiaryCurseforge": "https://www.curseforge.com/wow/addons/wanderer-bestiary",
+    "bestiaryGithub": "https://github.com/Jaecko/wanderer-bestiary"
+  },
+  "video": {
+    "id": "iptaXzImWI4",
+    "uploadDate": "2026-10-03",
+    "duration": "PT41S"
+  },
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "es",
+    "it",
+    "pt-br",
+    "ru",
+    "ko",
+    "zh-cn",
+    "zh-tw"
+  ],
+  "defaultLanguage": "en",
+  "author": {
+    "name": "Jaekco",
+    "curseforge": "https://www.curseforge.com/members/jaekco",
+    "github": "https://github.com/Jaecko"
+  },
+  "addonGit": "C:/Users/jacks/.voile-tools/wanderer.git",
+  "addonToc": "C:/Users/jacks/.voile-tools/stage/Wanderer/Wanderer.toc",
+  "version": "0.43.0",
+  "downloads": {
+    "enabled": false,
+    "min": 500
+  },
+  "unreleased": [],
+  "comingSoon": [],
+  "removed": [
+    "campfire"
+  ],
+  "studio": {
+    "name": "OWL Concept",
+    "url": "https://owlconcept.be"
+  }
+}

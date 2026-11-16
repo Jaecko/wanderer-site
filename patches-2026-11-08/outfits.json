@@ -1,0 +1,822 @@
+{
+	"en": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Outfits: gear that changes by itself (WoW Forever)",
+				"description": "Wanderer Outfits, a free WoW Forever addon: your Carrot on a Stick on a mount, your fishing hat with the pole, your dungeon gear inside, and back after."
+			},
+			"h1": "The right piece on at the right moment, and off again after",
+			"lead": "Wanderer Outfits is a free extension of Wanderer for World of Warcraft Forever. A Carrot on a Stick, a fishing hat, an Argent Dawn trinket help only at one moment, so they stay in your bags: you forget them on the mount, then forget to take them off before the dungeon. Outfits remembers for you. An outfit can be just a few pieces tied to a moment: it goes on when the moment comes and gives back what you wore when it ends. Whole outfits are worn in one click too.",
+			"sections": [
+				{
+					"id": "moments",
+					"h2": "How do I wear my Carrot on a Stick automatically when I mount?",
+					"paragraphs": [
+						"Tie an outfit to a moment: on a mount, fishing, in chosen zones, in a dungeon or a raid, in town or at an inn. It goes on when the moment comes, and what it changed comes back when it ends: the Carrot on a Stick as you mount, your usual trinket as you dismount.",
+						"Only the slots the outfit takes are touched. A piece you changed yourself meanwhile stays yours, never taken back. Nothing changes during a fight, and Shift held as a moment comes lets it pass. The first time an outfit goes on by itself, a small notice says why."
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "How do I make an outfit of only a few pieces?",
+					"paragraphs": [
+						"The quickest way: wear the pieces, press For a moment and choose the moment. The outfit takes the pieces that moment usually wants (trinkets, gloves and boots on a mount; hat, gloves and boots for fishing), and its card opens: a click on a piece leaves it aside or takes it again.",
+						"Carry a piece made for a moment, such as a Carrot on a Stick, a Lucky Fishing Hat, Nat Pagle's boots or an Argent Dawn trinket, and no outfit takes it yet: once for each piece, a notice offers the outfit. One click makes it, and what you wore is given back at once."
+					]
+				},
+				{
+					"id": "dungeon",
+					"h2": "Can it remind me to take off my riding trinket before a dungeon?",
+					"paragraphs": [
+						"Yes. Entering a dungeon, or when a ready check comes, a piece made for a moment still on you is said in a small notice, and one click undoes the change. An outfit tied to In a dungeon or raid goes on as you enter.",
+						"Undo the last change puts back exactly what you wore before the last change of gear, whatever made it: an outfit, a moment, the pole. Again, and it is redone. Two rings or two trinkets of the same name are told apart by their enchant, gems and suffix, so the right copy goes back on."
+					]
+				},
+				{
+					"id": "wear",
+					"h2": "Can I save my whole gear and wear it in one click?",
+					"paragraphs": [
+						"Yes. Keep what I wear saves everything under a name: your dungeon gear, your travel clothes. Click it, press 1 to 9 over the window, or use a key of yours that opens a chooser at the mouse, anywhere. An Outfits button waits on the character sheet.",
+						"Each outfit says at a glance whether it is worn, which pieces are still to put on, which wait in the bank and which are missing. A missing piece never stops the rest. Put a better piece on by hand and a notice offers to put it in the outfits that took the old one."
+					]
+				},
+				{
+					"id": "fishing",
+					"h2": "Can my fishing pole swap in and out by itself?",
+					"paragraphs": [
+						"On a key, the window's pole button or /woutfits pole, the fishing pole comes in hand and your weapons are remembered; press again and they are back. An outfit tied to Fishing adds your hat and boots while the pole is in hand.",
+						"If you like, Wanderer's double right click on the water brings the pole at a spot you have fished from, and your weapons come back once you are done: no line for a while, walked away, mounted, swimming, a fight or another zone. Both fishing options are off until you turn them on."
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "Can I sell a piece of my outfits by mistake?",
+					"paragraphs": [
+						"No. Your outfits' pieces are named in their tooltip, never sold as junk and never put up for auction by Wanderer Auction. With Wanderer Bags they get a section of their own, and at the banker an outfit's card takes its pieces from the bank in one click."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Will it change my gear when I do not want it to?",
+					"a": "No. Nothing goes on by itself until you tie an outfit to a moment, the fishing options are off, nothing changes during a fight, and one checkbox turns it all off. With ItemRack or Naowh Forever's automatic gear sets, Outfits steps aside so two addons never dress you at the same moment."
+				},
+				{
+					"q": "Does it use the game's equipment manager?",
+					"a": "Yes, when your client has one: your outfits are found in the game's window too. Otherwise Wanderer keeps them for each character."
+				},
+				{
+					"q": "Are outfits shared between characters?",
+					"a": "No, each character has its own outfits and its own settings."
+				},
+				{
+					"q": "How do I open Wanderer Outfits?",
+					"a": "From Wanderer's menu, the button on the character sheet, a key of yours in the game's key bindings, or /woutfits. /woutfits pole takes the pole in hand, /woutfits undo undoes the last change."
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Outfits logo",
+			"tagline": "The right piece, at the right moment",
+			"summary": "Your riding, fishing and dungeon pieces on at the right moment and off after, by themselves. Whole outfits in one click too."
+		}
+	},
+	"fr": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Outfits : la tenue du bon moment (WoW Forever)",
+				"description": "Wanderer Outfits, addon gratuit pour WoW Forever : la carotte en monture, le chapeau de pêche avec la canne, la tenue de donjon dedans, puis retour."
+			},
+			"h1": "La bonne pièce au bon moment, et retirée après",
+			"lead": "Wanderer Outfits est une extension gratuite de Wanderer pour World of Warcraft Forever. Une carotte au bout d'un bâton, un chapeau de pêche, un bijou de l'Aube d'argent ne servent qu'à un moment, alors ils restent dans vos sacs : vous les oubliez en montant en selle, puis vous oubliez de les retirer avant le donjon. Outfits s'en souvient pour vous. Une tenue peut n'être que quelques pièces liées à un moment : elle se met quand le moment vient et rend ce que vous portiez quand il finit. Les tenues complètes se mettent aussi en un clic.",
+			"sections": [
+				{
+					"id": "moments",
+					"h2": "Comment mettre ma carotte au bout d'un bâton automatiquement en monture ?",
+					"paragraphs": [
+						"Liez une tenue à un moment : en monture, en pêchant, dans certaines zones, en donjon ou en raid, en ville ou à l'auberge. Elle se met quand le moment vient, et ce qu'elle a changé revient quand il finit : la carotte quand vous montez, votre bijou habituel quand vous descendez.",
+						"Seuls les emplacements que la tenue prend sont touchés. Une pièce que vous avez changée vous-même entre-temps reste la vôtre, jamais reprise. Rien ne change pendant un combat, et Maj maintenue quand un moment vient le laisse passer. La première fois qu'une tenue se met toute seule, une petite notice dit pourquoi."
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "Comment faire une tenue de quelques pièces seulement ?",
+					"paragraphs": [
+						"Le plus rapide : portez les pièces, appuyez sur Pour un moment et choisissez le moment. La tenue prend les pièces que ce moment demande d'habitude (bijoux, gants et bottes en monture ; chapeau, gants et bottes pour la pêche), et sa carte s'ouvre : un clic sur une pièce la laisse de côté ou la reprend.",
+						"Vous portez dans vos sacs une pièce faite pour un moment, comme une carotte au bout d'un bâton, un chapeau de pêche porte-bonheur, les bottes de Nat Pagle ou un bijou de l'Aube d'argent, et aucune tenue ne la prend encore : une fois pour chaque pièce, une notice propose la tenue. Un clic la fait, et ce que vous portiez vous est rendu aussitôt."
+					]
+				},
+				{
+					"id": "dungeon",
+					"h2": "Peut-elle me rappeler d'enlever mon bijou de monte avant un donjon ?",
+					"paragraphs": [
+						"Oui. En entrant dans un donjon, ou à l'appel de prêt, une pièce faite pour un moment encore portée est signalée par une petite notice, et un clic annule le changement. Une tenue liée à En donjon ou en raid se met quand vous entrez.",
+						"Annuler le dernier changement remet exactement ce que vous portiez avant le dernier changement d'équipement, quelle qu'en soit la cause : une tenue, un moment, la canne. Encore une fois, et il est refait. Deux bagues ou deux bijoux du même nom sont distingués par leur enchantement, leurs gemmes et leur suffixe : c'est le bon exemplaire qui revient."
+					]
+				},
+				{
+					"id": "wear",
+					"h2": "Puis-je garder tout mon équipement et le remettre en un clic ?",
+					"paragraphs": [
+						"Oui. Garder ce que je porte enregistre tout sous un nom : votre équipement de donjon, vos habits de voyage. Cliquez dessus, appuyez sur 1 à 9 au-dessus de la fenêtre, ou utilisez une touche à vous qui ouvre un sélecteur sous la souris, n'importe où. Un bouton Tenues attend sur la fiche du personnage.",
+						"Chaque tenue dit d'un coup d'œil si elle est portée, quelles pièces restent à enfiler, lesquelles attendent à la banque et lesquelles manquent. Une pièce manquante n'arrête jamais le reste. Mettez à la main une meilleure pièce et une notice propose de la mettre dans les tenues qui prenaient l'ancienne."
+					]
+				},
+				{
+					"id": "fishing",
+					"h2": "Ma canne à pêche peut-elle se mettre en main et se ranger toute seule ?",
+					"paragraphs": [
+						"D'une touche, avec le bouton de la canne dans la fenêtre ou /woutfits pole, la canne arrive en main et vos armes sont retenues ; appuyez de nouveau et elles reviennent. Une tenue liée à En pêchant ajoute votre chapeau et vos bottes tant que la canne est en main.",
+						"Si vous le souhaitez, le double clic droit de Wanderer sur l'eau apporte la canne à un endroit où vous avez déjà pêché, et vos armes reviennent quand vous avez fini : plus de ligne depuis un moment, éloigné, en monture, à la nage, un combat ou une autre zone. Les deux options de pêche sont désactivées tant que vous ne les activez pas."
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "Puis-je vendre par erreur une pièce de mes tenues ?",
+					"paragraphs": [
+						"Non. Les pièces de vos tenues sont nommées dans leur infobulle, jamais vendues avec la camelote et jamais mises aux enchères par Wanderer Auction. Avec Wanderer Bags, elles ont leur propre section, et chez le banquier la carte d'une tenue prend ses pièces à la banque en un clic."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Va-t-elle changer mon équipement quand je ne le veux pas ?",
+					"a": "Non. Rien ne se met tout seul tant que vous n'avez pas lié une tenue à un moment, les options de pêche sont désactivées, rien ne change pendant un combat, et une case désactive tout. Avec ItemRack ou les ensembles automatiques de Naowh Forever, Outfits s'efface pour que deux addons ne vous habillent jamais au même moment."
+				},
+				{
+					"q": "Utilise-t-elle le gestionnaire d'équipement du jeu ?",
+					"a": "Oui, quand votre client en a un : vos tenues se retrouvent aussi dans la fenêtre du jeu. Sinon, Wanderer les garde pour chaque personnage."
+				},
+				{
+					"q": "Les tenues sont-elles partagées entre personnages ?",
+					"a": "Non, chaque personnage a ses propres tenues et ses propres réglages."
+				},
+				{
+					"q": "Comment ouvrir Wanderer Outfits ?",
+					"a": "Depuis le menu de Wanderer, le bouton de la fiche du personnage, une touche à vous dans les raccourcis du jeu, ou /woutfits. /woutfits pole met la canne en main, /woutfits undo annule le dernier changement."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo de Wanderer Outfits",
+			"tagline": "La bonne pièce au bon moment",
+			"summary": "Vos pièces de monte, de pêche et de donjon mises au bon moment et retirées après, toutes seules. Et vos tenues complètes en un clic."
+		}
+	},
+	"de": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Outfits: Ausrüstung wechselt selbst (WoW Forever)",
+				"description": "Wanderer Outfits, kostenloses Addon für WoW Forever: die Karotte beim Reiten, der Anglerhut mit der Rute, Dungeonausrüstung drinnen, danach zurück."
+			},
+			"h1": "Das richtige Teil im richtigen Moment, und danach wieder ab",
+			"lead": "Wanderer Outfits ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Eine Karotte am Stiel, ein Anglerhut, ein Schmuckstück der Argentumdämmerung helfen nur in einem Moment, also bleiben sie in deinen Taschen: Du vergisst sie beim Aufsitzen und vergisst dann, sie vor dem Dungeon abzulegen. Outfits denkt für dich daran. Eine Ausrüstung kann nur aus ein paar Teilen bestehen, an einen Moment gebunden: Sie kommt, wenn der Moment kommt, und gibt zurück, was du getragen hast, wenn er endet. Ganze Ausrüstungen legst du ebenfalls mit einem Klick an.",
+			"sections": [
+				{
+					"id": "moments",
+					"h2": "Wie lege ich meine Karotte am Stiel beim Aufsitzen automatisch an?",
+					"paragraphs": [
+						"Binde eine Ausrüstung an einen Moment: auf einem Reittier, beim Angeln, in gewählten Zonen, in einem Dungeon oder Schlachtzug, in der Stadt oder im Gasthaus. Sie kommt, wenn der Moment kommt, und was sie geändert hat, kehrt zurück, wenn er endet: die Karotte beim Aufsitzen, dein übliches Schmuckstück beim Absitzen.",
+						"Nur die Plätze, die die Ausrüstung nimmt, werden berührt. Ein Teil, das du inzwischen selbst gewechselt hast, bleibt deins und wird nie zurückgenommen. Im Kampf ändert sich nichts, und gehaltenes Umschalt lässt einen Moment vorbeiziehen. Wenn eine Ausrüstung zum ersten Mal von selbst angelegt wird, sagt ein kleiner Hinweis, warum."
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "Wie mache ich eine Ausrüstung aus nur wenigen Teilen?",
+					"paragraphs": [
+						"Am schnellsten: Leg die Teile an, drück Für einen Moment und wähle den Moment. Die Ausrüstung nimmt die Teile, die dieser Moment meist braucht (Schmuck, Handschuhe und Stiefel auf dem Reittier; Hut, Handschuhe und Stiefel beim Angeln), und ihre Karte öffnet sich: Ein Klick auf ein Teil lässt es beiseite oder nimmt es wieder.",
+						"Trägst du ein Teil für einen Moment bei dir, etwa eine Karotte am Stiel, einen Glücksanglerhut, Nat Pagles Stiefel oder ein Schmuckstück der Argentumdämmerung, und keine Ausrüstung nimmt es bisher: Einmal pro Teil bietet ein Hinweis die passende Ausrüstung an. Ein Klick erstellt sie, und was du getragen hast, bekommst du sofort zurück."
+					]
+				},
+				{
+					"id": "dungeon",
+					"h2": "Erinnert es mich, mein Reitschmuckstück vor einem Dungeon abzulegen?",
+					"paragraphs": [
+						"Ja. Beim Betreten eines Dungeons oder bei einer Bereitschaftsprüfung meldet ein kleiner Hinweis ein Teil für einen Moment, das du noch trägst, und ein Klick macht den Wechsel rückgängig. Eine an In einem Dungeon oder Schlachtzug gebundene Ausrüstung kommt beim Betreten.",
+						"Letzte Änderung rückgängig legt genau das zurück, was du vor dem letzten Ausrüstungswechsel getragen hast, egal woher er kam: eine Ausrüstung, ein Moment, die Angel. Noch einmal, und er wird wiederholt. Zwei Ringe oder zwei Schmuckstücke gleichen Namens werden an Verzauberung, Edelsteinen und Suffix unterschieden, damit das richtige Exemplar zurückkommt."
+					]
+				},
+				{
+					"id": "wear",
+					"h2": "Kann ich meine ganze Ausrüstung speichern und mit einem Klick anlegen?",
+					"paragraphs": [
+						"Ja. Behalten, was ich trage speichert alles unter einem Namen: deine Dungeonausrüstung, deine Reisekleidung. Klick darauf, drück 1 bis 9 über dem Fenster oder nimm eine eigene Taste, die überall eine Auswahl unter der Maus öffnet. Ein Knopf Ausrüstungen wartet auf dem Charakterbogen.",
+						"Jede Ausrüstung zeigt auf einen Blick, ob sie getragen wird, welche Teile noch anzulegen sind, welche in der Bank warten und welche fehlen. Ein fehlendes Teil hält den Rest nie auf. Legst du von Hand ein besseres Teil an, bietet ein Hinweis an, es in die Ausrüstungen zu übernehmen, die das alte hatten."
+					]
+				},
+				{
+					"id": "fishing",
+					"h2": "Kann meine Angel von selbst ein- und ausgewechselt werden?",
+					"paragraphs": [
+						"Mit einer Taste, dem Angel-Knopf im Fenster oder /woutfits pole kommt die Angel in die Hand und deine Waffen werden gemerkt; drückst du erneut, sind sie zurück. Eine an Beim Angeln gebundene Ausrüstung fügt deinen Hut und deine Stiefel hinzu, solange die Angel in der Hand ist.",
+						"Auf Wunsch bringt der Doppel-Rechtsklick von Wanderer auf das Wasser die Angel an einer Stelle, an der du schon geangelt hast, und deine Waffen kehren zurück, wenn du fertig bist: eine Weile keine Leine, weggegangen, aufgesessen, schwimmend, ein Kampf oder ein anderes Gebiet. Beide Angeloptionen sind aus, bis du sie einschaltest."
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "Kann ich ein Teil meiner Ausrüstungen aus Versehen verkaufen?",
+					"paragraphs": [
+						"Nein. Die Teile deiner Ausrüstungen werden in ihrem Tooltip genannt, nie als Plunder verkauft und nie von Wanderer Auction ins Auktionshaus gestellt. Mit Wanderer Bags bekommen sie einen eigenen Abschnitt, und beim Bankier nimmt die Karte einer Ausrüstung ihre Teile mit einem Klick aus der Bank."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Wechselt es meine Ausrüstung, wenn ich es nicht will?",
+					"a": "Nein. Nichts wird von selbst angelegt, bevor du eine Ausrüstung an einen Moment bindest, die Angeloptionen sind aus, im Kampf ändert sich nichts, und ein Kontrollkästchen schaltet alles aus. Mit ItemRack oder den automatischen Sets von Naowh Forever tritt Outfits zurück, damit dich nie zwei Addons gleichzeitig ankleiden."
+				},
+				{
+					"q": "Nutzt es den Ausrüstungsmanager des Spiels?",
+					"a": "Ja, wenn dein Client einen hat: Deine Ausrüstungen findest du dann auch im Fenster des Spiels. Sonst speichert Wanderer sie für jeden Charakter."
+				},
+				{
+					"q": "Teilen sich meine Charaktere die Ausrüstungen?",
+					"a": "Nein, jeder Charakter hat seine eigenen Ausrüstungen und seine eigenen Einstellungen."
+				},
+				{
+					"q": "Wie öffne ich Wanderer Outfits?",
+					"a": "Über das Menü von Wanderer, den Knopf auf dem Charakterbogen, eine eigene Taste in der Tastaturbelegung des Spiels oder mit /woutfits. /woutfits pole nimmt die Angel in die Hand, /woutfits undo macht die letzte Änderung rückgängig."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo von Wanderer Outfits",
+			"tagline": "Das richtige Teil im richtigen Moment",
+			"summary": "Deine Reit-, Angel- und Dungeonteile im richtigen Moment angelegt und danach wieder abgelegt, von selbst. Ganze Ausrüstungen mit einem Klick."
+		}
+	},
+	"es": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Outfits: equipo que cambia solo (WoW Forever)",
+				"description": "Wanderer Outfits, addon gratuito para WoW Forever: la zanahoria en montura, el sombrero de pesca con la caña, el equipo de mazmorra dentro, y vuelta."
+			},
+			"h1": "La pieza justa en el momento justo, y quitada después",
+			"lead": "Wanderer Outfits es una extensión gratuita de Wanderer para World of Warcraft Forever. Una zanahoria en un palo, un sombrero de pesca, un abalorio del Alba Argenta solo sirven en un momento, así que se quedan en tus bolsas: los olvidas al montar y luego olvidas quitártelos antes de la mazmorra. Outfits se acuerda por ti. Un conjunto puede ser solo unas pocas piezas ligadas a un momento: se pone cuando llega el momento y te devuelve lo que llevabas cuando termina. Los conjuntos completos también se ponen con un clic.",
+			"sections": [
+				{
+					"id": "moments",
+					"h2": "¿Cómo me pongo la zanahoria en un palo automáticamente al montar?",
+					"paragraphs": [
+						"Liga un conjunto a un momento: en montura, pescando, en zonas elegidas, en mazmorra o banda, en ciudad o en la posada. Se pone cuando llega el momento, y lo que cambió vuelve cuando termina: la zanahoria al montar, tu abalorio de siempre al desmontar.",
+						"Solo se tocan las ranuras que toma el conjunto. Una pieza que cambiaste tú mientras tanto sigue siendo tuya, nunca se retira. Nada cambia durante un combate, y Mayús pulsada cuando llega un momento lo deja pasar. La primera vez que un conjunto se pone solo, un pequeño aviso dice por qué."
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "¿Cómo hago un conjunto de solo unas pocas piezas?",
+					"paragraphs": [
+						"Lo más rápido: ponte las piezas, pulsa Para un momento y elige el momento. El conjunto toma las piezas que ese momento suele pedir (abalorios, guantes y botas en montura; sombrero, guantes y botas para pescar), y se abre su ficha: un clic en una pieza la deja aparte o la vuelve a tomar.",
+						"Si llevas una pieza hecha para un momento, como una zanahoria en un palo, un sombrero de pesca de la suerte, las botas de Nat Pagle o un abalorio del Alba Argenta, y ningún conjunto la toma aún: una vez por pieza, un aviso ofrece el conjunto. Un clic lo crea, y lo que llevabas te es devuelto al momento."
+					]
+				},
+				{
+					"id": "dungeon",
+					"h2": "¿Puede recordarme quitarme el abalorio de montura antes de una mazmorra?",
+					"paragraphs": [
+						"Sí. Al entrar en una mazmorra, o con una comprobación de listos, un pequeño aviso señala una pieza hecha para un momento que aún llevas, y un clic deshace el cambio. Un conjunto ligado a En mazmorra o banda se pone al entrar.",
+						"Deshacer el último cambio devuelve exactamente lo que llevabas antes del último cambio de equipo, venga de donde venga: un conjunto, un momento, la caña. Otra vez, y se rehace. Dos anillos o dos abalorios del mismo nombre se distinguen por su encantamiento, sus gemas y su sufijo, así vuelve el ejemplar correcto."
+					]
+				},
+				{
+					"id": "wear",
+					"h2": "¿Puedo guardar todo mi equipo y ponérmelo con un clic?",
+					"paragraphs": [
+						"Sí. Guardar lo que llevo lo guarda todo con un nombre: tu equipo de mazmorra, tu ropa de viaje. Haz clic, pulsa 1 a 9 sobre la ventana o usa una tecla tuya que abre un selector junto al ratón, en cualquier lugar. Un botón Conjuntos espera en la ficha del personaje.",
+						"Cada conjunto dice de un vistazo si está puesto, qué piezas faltan por ponerse, cuáles esperan en el banco y cuáles faltan. Una pieza que falta nunca detiene el resto. Ponte a mano una pieza mejor y un aviso ofrece ponerla en los conjuntos que llevaban la antigua."
+					]
+				},
+				{
+					"id": "fishing",
+					"h2": "¿Puede mi caña de pescar ponerse y quitarse sola?",
+					"paragraphs": [
+						"Con una tecla, el botón de la caña en la ventana o /woutfits pole, la caña llega a tu mano y tus armas quedan recordadas; pulsa otra vez y vuelven. Un conjunto ligado a Pescando añade tu sombrero y tus botas mientras la caña está en la mano.",
+						"Si quieres, el doble clic derecho de Wanderer sobre el agua trae la caña en un sitio donde ya pescaste, y tus armas vuelven cuando terminas: un rato sin sedal, te alejaste, montaste, nadando, un combate u otra zona. Las dos opciones de pesca están desactivadas hasta que las activas."
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "¿Puedo vender por error una pieza de mis conjuntos?",
+					"paragraphs": [
+						"No. Las piezas de tus conjuntos se nombran en su descripción emergente, nunca se venden como basura y Wanderer Auction nunca las pone en subasta. Con Wanderer Bags tienen su propia sección, y en el banquero la ficha de un conjunto saca sus piezas del banco con un clic."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "¿Cambiará mi equipo cuando no quiero?",
+					"a": "No. Nada se pone solo hasta que ligas un conjunto a un momento, las opciones de pesca están desactivadas, nada cambia durante un combate y una casilla lo desactiva todo. Con ItemRack o los conjuntos automáticos de Naowh Forever, Outfits se aparta para que dos addons nunca te vistan a la vez."
+				},
+				{
+					"q": "¿Usa el gestor de equipo del juego?",
+					"a": "Sí, cuando tu cliente tiene uno: tus conjuntos también aparecen en la ventana del juego. Si no, Wanderer los guarda para cada personaje."
+				},
+				{
+					"q": "¿Los conjuntos se comparten entre personajes?",
+					"a": "No, cada personaje tiene sus propios conjuntos y sus propios ajustes."
+				},
+				{
+					"q": "¿Cómo abro Wanderer Outfits?",
+					"a": "Desde el menú de Wanderer, el botón de la ficha del personaje, una tecla tuya en los atajos del juego, o /woutfits. /woutfits pole pone la caña en la mano, /woutfits undo deshace el último cambio."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo de Wanderer Outfits",
+			"tagline": "La pieza justa en el momento justo",
+			"summary": "Tus piezas de montura, pesca y mazmorra puestas en el momento justo y quitadas después, solas. Y conjuntos completos con un clic."
+		}
+	},
+	"it": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Outfits: completi che cambiano soli (WoW Forever)",
+				"description": "Wanderer Outfits, addon gratuito per WoW Forever: la carota in sella, il cappello da pesca con la canna, il completo da spedizione dentro, poi indietro."
+			},
+			"h1": "Il pezzo giusto al momento giusto, e tolto dopo",
+			"lead": "Wanderer Outfits è un'estensione gratuita di Wanderer per World of Warcraft Forever. Una carota su un bastone, un cappello da pesca, un monile dell'Alba d'Argento servono solo in un momento, quindi restano nelle borse: li dimentichi quando monti in sella, poi dimentichi di toglierli prima della spedizione. Outfits se ne ricorda per te. Un completo può essere solo qualche pezzo legato a un momento: si indossa quando il momento arriva e ti restituisce ciò che portavi quando finisce. Anche i completi interi si indossano con un clic.",
+			"sections": [
+				{
+					"id": "moments",
+					"h2": "Come indosso la carota su un bastone in automatico quando monto?",
+					"paragraphs": [
+						"Lega un completo a un momento: in sella, pescando, in zone scelte, in spedizione o incursione, in città o in locanda. Si indossa quando il momento arriva, e ciò che ha cambiato torna quando finisce: la carota quando monti, il tuo monile abituale quando scendi.",
+						"Vengono toccati solo gli spazi che il completo prende. Un pezzo che hai cambiato tu nel frattempo resta tuo, mai ripreso. Nulla cambia in combattimento, e Maiusc tenuto quando arriva un momento lo lascia passare. La prima volta che un completo si indossa da solo, un piccolo avviso dice perché."
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "Come creo un completo di pochi pezzi?",
+					"paragraphs": [
+						"Il modo più rapido: indossa i pezzi, premi Per un momento e scegli il momento. Il completo prende i pezzi che quel momento di solito vuole (monili, guanti e stivali in sella; cappello, guanti e stivali per la pesca), e la sua scheda si apre: un clic su un pezzo lo lascia da parte o lo riprende.",
+						"Se porti un pezzo fatto per un momento, come una carota su un bastone, un cappello da pesca fortunato, gli stivali di Nat Pagle o un monile dell'Alba d'Argento, e nessun completo lo prende ancora: una volta per pezzo, un avviso propone il completo. Un clic lo crea, e ciò che portavi ti viene subito restituito."
+					]
+				},
+				{
+					"id": "dungeon",
+					"h2": "Può ricordarmi di togliere il monile da cavalcatura prima di una spedizione?",
+					"paragraphs": [
+						"Sì. Entrando in una spedizione, o a un appello di pronti, un piccolo avviso segnala un pezzo fatto per un momento che porti ancora, e un clic annulla il cambio. Un completo legato a In spedizione o incursione si indossa quando entri.",
+						"Annulla l'ultima modifica rimette esattamente ciò che portavi prima dell'ultimo cambio di equipaggiamento, qualunque ne sia la causa: un completo, un momento, la canna. Ancora una volta, e viene rifatto. Due anelli o due monili con lo stesso nome sono distinti da incantamento, gemme e suffisso, così torna l'esemplare giusto."
+					]
+				},
+				{
+					"id": "wear",
+					"h2": "Posso salvare tutto il mio equipaggiamento e indossarlo con un clic?",
+					"paragraphs": [
+						"Sì. Tieni ciò che indosso salva tutto sotto un nome: l'equipaggiamento da spedizione, gli abiti da viaggio. Cliccalo, premi da 1 a 9 sopra la finestra o usa un tasto tuo che apre un selettore sotto il mouse, ovunque. Un pulsante Completi ti aspetta sulla scheda del personaggio.",
+						"Ogni completo dice a colpo d'occhio se è indossato, quali pezzi restano da mettere, quali aspettano in banca e quali mancano. Un pezzo mancante non ferma mai il resto. Metti a mano un pezzo migliore e un avviso propone di inserirlo nei completi che avevano il vecchio."
+					]
+				},
+				{
+					"id": "fishing",
+					"h2": "La canna da pesca può entrare e uscire da sola?",
+					"paragraphs": [
+						"Con un tasto, il pulsante della canna nella finestra o /woutfits pole, la canna ti arriva in mano e le tue armi vengono ricordate; premi di nuovo e tornano. Un completo legato a Pescando aggiunge cappello e stivali finché la canna è in mano.",
+						"Se vuoi, il doppio clic destro di Wanderer sull'acqua porta la canna in un punto dove hai già pescato, e le tue armi tornano quando hai finito: nessuna lenza per un po', ti sei allontanato, in sella, a nuoto, un combattimento o un'altra zona. Le due opzioni di pesca sono spente finché non le accendi."
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "Posso vendere per errore un pezzo dei miei completi?",
+					"paragraphs": [
+						"No. I pezzi dei tuoi completi sono nominati nel loro riquadro informativo, mai venduti come cianfrusaglie e mai messi all'asta da Wanderer Auction. Con Wanderer Bags hanno una sezione tutta loro, e dal banchiere la scheda di un completo prende i suoi pezzi dalla banca con un clic."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Cambierà il mio equipaggiamento quando non voglio?",
+					"a": "No. Nulla si indossa da solo finché non leghi un completo a un momento, le opzioni di pesca sono spente, nulla cambia in combattimento e una casella disattiva tutto. Con ItemRack o i set automatici di Naowh Forever, Outfits si fa da parte perché due addon non ti vestano mai nello stesso momento."
+				},
+				{
+					"q": "Usa il gestore dell'equipaggiamento del gioco?",
+					"a": "Sì, quando il tuo client ne ha uno: ritrovi i tuoi completi anche nella finestra del gioco. Altrimenti Wanderer li conserva per ogni personaggio."
+				},
+				{
+					"q": "I completi sono condivisi tra i personaggi?",
+					"a": "No, ogni personaggio ha i propri completi e le proprie impostazioni."
+				},
+				{
+					"q": "Come apro Wanderer Outfits?",
+					"a": "Dal menu di Wanderer, il pulsante sulla scheda del personaggio, un tasto tuo nelle assegnazioni dei tasti del gioco, oppure /woutfits. /woutfits pole mette la canna in mano, /woutfits undo annulla l'ultima modifica."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo di Wanderer Outfits",
+			"tagline": "Il pezzo giusto al momento giusto",
+			"summary": "I tuoi pezzi da cavalcatura, da pesca e da spedizione indossati al momento giusto e tolti dopo, da soli. E completi interi con un clic."
+		}
+	},
+	"pt-br": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Outfits: trajes que trocam sozinhos (WoW Forever)",
+				"description": "Wanderer Outfits, addon grátis para WoW Forever: a cenoura na montaria, o chapéu de pesca com a vara, o traje de masmorra lá dentro, e de volta depois."
+			},
+			"h1": "A peça certa na hora certa, e tirada depois",
+			"lead": "Wanderer Outfits é uma extensão grátis do Wanderer para World of Warcraft Forever. Uma cenoura num palito, um chapéu de pesca, um berloque da Aurora Argêntea só servem em um momento, então ficam nas suas bolsas: você esquece deles ao montar e depois esquece de tirá-los antes da masmorra. O Outfits lembra por você. Um traje pode ser só algumas peças ligadas a um momento: ele é vestido quando o momento chega e devolve o que você usava quando termina. Trajes completos também são vestidos em um clique.",
+			"sections": [
+				{
+					"id": "moments",
+					"h2": "Como vestir minha cenoura num palito automaticamente ao montar?",
+					"paragraphs": [
+						"Ligue um traje a um momento: em montaria, pescando, em zonas escolhidas, em masmorra ou raide, na cidade ou na estalagem. Ele é vestido quando o momento chega, e o que ele trocou volta quando termina: a cenoura ao montar, seu berloque de sempre ao desmontar.",
+						"Só os espaços que o traje usa são mexidos. Uma peça que você mesmo trocou nesse meio tempo continua sua, nunca é retirada. Nada muda durante um combate, e Shift pressionado quando um momento chega o deixa passar. Na primeira vez que um traje é vestido sozinho, um pequeno aviso diz por quê."
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "Como faço um traje de só algumas peças?",
+					"paragraphs": [
+						"O jeito mais rápido: vista as peças, aperte Para um momento e escolha o momento. O traje usa as peças que esse momento costuma pedir (berloques, luvas e botas na montaria; chapéu, luvas e botas para pescar), e o cartão dele abre: um clique numa peça a deixa de lado ou a pega de novo.",
+						"Se você carrega uma peça feita para um momento, como uma cenoura num palito, um chapéu de pesca da sorte, as botas de Nat Pagle ou um berloque da Aurora Argêntea, e nenhum traje a usa ainda: uma vez por peça, um aviso oferece o traje. Um clique o cria, e o que você usava é devolvido na hora."
+					]
+				},
+				{
+					"id": "dungeon",
+					"h2": "Ele pode me lembrar de tirar o berloque de montaria antes de uma masmorra?",
+					"paragraphs": [
+						"Sim. Ao entrar numa masmorra, ou numa verificação de prontidão, um pequeno aviso aponta uma peça feita para um momento que você ainda veste, e um clique desfaz a troca. Um traje ligado a Em masmorra ou raide é vestido quando você entra.",
+						"Desfazer a última troca devolve exatamente o que você vestia antes da última troca de equipamento, seja qual for a causa: um traje, um momento, a vara. De novo, e ela é refeita. Dois anéis ou dois berloques com o mesmo nome são diferenciados pelo encantamento, gemas e sufixo, então volta o exemplar certo."
+					]
+				},
+				{
+					"id": "wear",
+					"h2": "Posso guardar todo o meu equipamento e vesti-lo em um clique?",
+					"paragraphs": [
+						"Sim. Guardar o que visto salva tudo com um nome: seu equipamento de masmorra, suas roupas de viagem. Clique nele, aperte 1 a 9 sobre a janela ou use uma tecla sua que abre um seletor junto ao mouse, em qualquer lugar. Um botão Trajes espera na ficha do personagem.",
+						"Cada traje diz num relance se está vestido, quais peças faltam vestir, quais esperam no banco e quais estão faltando. Uma peça faltando nunca impede o resto. Vista à mão uma peça melhor e um aviso oferece colocá-la nos trajes que usavam a antiga."
+					]
+				},
+				{
+					"id": "fishing",
+					"h2": "Minha vara de pescar pode entrar e sair sozinha?",
+					"paragraphs": [
+						"Com uma tecla, o botão da vara na janela ou /woutfits pole, a vara vem para a mão e suas armas são lembradas; aperte de novo e elas voltam. Um traje ligado a Pescando acrescenta seu chapéu e suas botas enquanto a vara está na mão.",
+						"Se quiser, o duplo clique direito do Wanderer na água traz a vara num lugar onde você já pescou, e suas armas voltam quando você termina: um tempo sem linha, se afastou, montou, nadando, um combate ou outra zona. As duas opções de pesca ficam desligadas até você ligar."
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "Posso vender por engano uma peça dos meus trajes?",
+					"paragraphs": [
+						"Não. As peças dos seus trajes aparecem na dica delas, nunca são vendidas como sucata e o Wanderer Auction nunca as põe em leilão. Com o Wanderer Bags elas têm uma seção própria, e no banqueiro o cartão de um traje tira as peças dele do banco em um clique."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Ele vai trocar meu equipamento quando eu não quiser?",
+					"a": "Não. Nada é vestido sozinho até você ligar um traje a um momento, as opções de pesca ficam desligadas, nada muda durante um combate e uma caixa de seleção desliga tudo. Com ItemRack ou os conjuntos automáticos do Naowh Forever, o Outfits se afasta para que dois addons nunca vistam você ao mesmo tempo."
+				},
+				{
+					"q": "Ele usa o gerenciador de equipamento do jogo?",
+					"a": "Sim, quando seu cliente tem um: seus trajes aparecem também na janela do jogo. Senão, o Wanderer os guarda para cada personagem."
+				},
+				{
+					"q": "Os trajes são compartilhados entre personagens?",
+					"a": "Não, cada personagem tem seus próprios trajes e suas próprias configurações."
+				},
+				{
+					"q": "Como abro o Wanderer Outfits?",
+					"a": "Pelo menu do Wanderer, pelo botão na ficha do personagem, por uma tecla sua nos atalhos do jogo, ou com /woutfits. /woutfits pole põe a vara na mão, /woutfits undo desfaz a última troca."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo do Wanderer Outfits",
+			"tagline": "A peça certa na hora certa",
+			"summary": "Suas peças de montaria, pesca e masmorra vestidas na hora certa e tiradas depois, sozinhas. E trajes completos em um clique."
+		}
+	},
+	"ru": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Outfits: снаряжение меняется само (WoW Forever)",
+				"description": "Wanderer Outfits, бесплатный аддон для WoW Forever: морковка верхом, рыбацкая шляпа с удочкой, снаряжение для подземелья внутри, а потом всё обратно."
+			},
+			"h1": "Нужная вещь в нужный момент, и снята после",
+			"lead": "Wanderer Outfits это бесплатное расширение Wanderer для World of Warcraft Forever. Морковка на палочке, рыбацкая шляпа, аксессуар Серебряного Рассвета полезны лишь в один момент, поэтому они лежат в сумках: вы забываете надеть их, садясь верхом, а потом забываете снять перед подземельем. Outfits помнит за вас. Комплект может состоять всего из нескольких вещей, привязанных к моменту: он надевается, когда момент наступает, и возвращает то, что было на вас, когда он заканчивается. Целые комплекты тоже надеваются в один щелчок.",
+			"sections": [
+				{
+					"id": "moments",
+					"h2": "Как автоматически надевать морковку на палочке, садясь верхом?",
+					"paragraphs": [
+						"Привяжите комплект к моменту: верхом, на рыбалке, в выбранных зонах, в подземелье или рейде, в городе или таверне. Он надевается, когда момент наступает, а то, что он сменил, возвращается, когда момент заканчивается: морковка, когда вы садитесь верхом, привычный аксессуар, когда спешиваетесь.",
+						"Затрагиваются только ячейки, которые берёт комплект. Вещь, которую вы тем временем сменили сами, остаётся вашей и никогда не забирается. Во время боя ничего не меняется, а зажатый Shift в момент наступления пропускает его. Когда комплект впервые надевается сам, небольшое уведомление объясняет почему."
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "Как сделать комплект всего из нескольких вещей?",
+					"paragraphs": [
+						"Быстрее всего: наденьте вещи, нажмите «Для момента» и выберите момент. Комплект берёт вещи, которые обычно нужны этому моменту (аксессуары, перчатки и сапоги верхом; шляпа, перчатки и сапоги на рыбалке), и открывается его карточка: щелчок по вещи откладывает её в сторону или берёт снова.",
+						"Если у вас есть вещь для определённого момента, например морковка на палочке, счастливая рыбацкая шляпа, сапоги Ната Пэгла или аксессуар Серебряного Рассвета, и ни один комплект её ещё не берёт: один раз для каждой вещи уведомление предложит комплект. Один щелчок создаёт его, а то, что было на вас, сразу возвращается."
+					]
+				},
+				{
+					"id": "dungeon",
+					"h2": "Может ли он напомнить снять аксессуар для езды перед подземельем?",
+					"paragraphs": [
+						"Да. При входе в подземелье или при проверке готовности небольшое уведомление сообщит о вещи для момента, которая всё ещё на вас, и один щелчок отменит смену. Комплект, привязанный к «В подземелье или рейде», надевается при входе.",
+						"«Отменить последнее изменение» возвращает ровно то, что было на вас до последней смены снаряжения, чем бы она ни была вызвана: комплектом, моментом, удочкой. Ещё раз, и смена повторяется. Два кольца или два аксессуара с одинаковым названием различаются по чарам, камням и суффиксу, поэтому возвращается нужный экземпляр."
+					]
+				},
+				{
+					"id": "wear",
+					"h2": "Можно ли сохранить всё снаряжение и надевать его одним щелчком?",
+					"paragraphs": [
+						"Да. «Сохранить то, что надето» сохраняет всё под именем: снаряжение для подземелий, дорожную одежду. Щёлкните по нему, нажмите клавиши от 1 до 9 над окном или используйте свою клавишу, которая открывает выбор у курсора где угодно. Кнопка «Комплекты» ждёт на окне персонажа.",
+						"Каждый комплект с одного взгляда показывает, надет ли он, какие вещи ещё надеть, какие ждут в банке и каких нет. Недостающая вещь никогда не останавливает остальное. Наденьте вручную вещь получше, и уведомление предложит поставить её в комплекты, где была старая."
+					]
+				},
+				{
+					"id": "fishing",
+					"h2": "Может ли удочка сама браться в руки и убираться?",
+					"paragraphs": [
+						"Клавишей, кнопкой удочки в окне или командой /woutfits pole удочка оказывается в руках, а ваше оружие запоминается; нажмите снова, и оно вернётся. Комплект, привязанный к «На рыбалке», добавляет шляпу и сапоги, пока удочка в руках.",
+						"По желанию двойной щелчок правой кнопкой Wanderer по воде даёт удочку в месте, где вы уже рыбачили, а оружие возвращается, когда вы закончили: какое-то время без лески, ушли, сели верхом, плывёте, бой или другая зона. Обе настройки рыбалки выключены, пока вы их не включите."
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "Могу ли я по ошибке продать вещь из комплекта?",
+					"paragraphs": [
+						"Нет. Вещи ваших комплектов отмечены в подсказке, никогда не продаются как хлам и никогда не выставляются на аукцион Wanderer Auction. С Wanderer Bags у них свой раздел, а у банкира карточка комплекта забирает его вещи из банка одним щелчком."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Будет ли он менять снаряжение, когда я этого не хочу?",
+					"a": "Нет. Ничего не надевается само, пока вы не привяжете комплект к моменту, настройки рыбалки выключены, во время боя ничего не меняется, а один флажок выключает всё. С ItemRack или автоматическими наборами Naowh Forever Outfits уступает, чтобы два аддона никогда не одевали вас одновременно."
+				},
+				{
+					"q": "Использует ли он менеджер экипировки игры?",
+					"a": "Да, если он есть в вашем клиенте: ваши комплекты видны и в окне игры. Иначе Wanderer хранит их для каждого персонажа."
+				},
+				{
+					"q": "Общие ли комплекты для всех персонажей?",
+					"a": "Нет, у каждого персонажа свои комплекты и свои настройки."
+				},
+				{
+					"q": "Как открыть Wanderer Outfits?",
+					"a": "Из меню Wanderer, кнопкой на окне персонажа, своей клавишей в назначениях клавиш игры или командой /woutfits. /woutfits pole берёт удочку в руки, /woutfits undo отменяет последнее изменение."
+				}
+			]
+		},
+		"card": {
+			"alt": "Логотип Wanderer Outfits",
+			"tagline": "Нужная вещь в нужный момент",
+			"summary": "Вещи для езды, рыбалки и подземелий надеваются в нужный момент и снимаются после, сами. И целые комплекты в один щелчок."
+		}
+	},
+	"ko": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Outfits: 저절로 바뀌는 장비 (WoW Forever)",
+				"description": "무료 WoW Forever 애드온 Wanderer Outfits: 탈것에는 당근, 낚싯대와 함께 낚시 모자, 던전 안에서는 던전 장비, 끝나면 원래대로."
+			},
+			"h1": "알맞은 순간에 알맞은 장비, 끝나면 다시 원래대로",
+			"lead": "Wanderer Outfits는 World of Warcraft Forever용 Wanderer의 무료 확장입니다. 당근 매달린 막대, 낚시 모자, 은빛 여명회 장신구는 한순간에만 쓸모가 있어서 가방에 머물러 있습니다. 탈것에 오를 때 잊고, 던전 전에 벗는 것도 잊지요. Outfits가 대신 기억합니다. 복장은 순간에 묶인 몇 가지 장비만으로도 충분합니다. 그 순간이 오면 입고, 끝나면 입고 있던 것을 돌려줍니다. 전체 복장도 클릭 한 번에 입습니다.",
+			"sections": [
+				{
+					"id": "moments",
+					"h2": "탈것에 오를 때 당근 매달린 막대를 자동으로 착용하려면?",
+					"paragraphs": [
+						"복장을 순간에 묶으세요: 탈것을 탔을 때, 낚시할 때, 선택한 지역에서, 던전이나 공격대에서, 도시나 여관에서. 그 순간이 오면 입고, 끝나면 바꾼 것이 돌아옵니다. 탈 때는 당근, 내릴 때는 평소 장신구.",
+						"복장이 차지하는 칸만 건드립니다. 그사이 직접 바꾼 장비는 그대로 당신 것이며 다시 가져가지 않습니다. 전투 중에는 아무것도 바뀌지 않고, 순간이 올 때 Shift를 누르고 있으면 그냥 지나갑니다. 복장이 처음 저절로 입혀질 때 작은 알림이 이유를 알려 줍니다."
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "장비 몇 개만으로 복장을 만들려면?",
+					"paragraphs": [
+						"가장 빠른 방법: 장비를 입고 순간에 맞춰를 눌러 순간을 고르세요. 복장은 그 순간에 보통 필요한 장비를 가져가고(탈것에는 장신구, 장갑, 장화; 낚시에는 모자, 장갑, 장화) 카드가 열립니다. 장비를 클릭하면 빼거나 다시 넣습니다.",
+						"당근 매달린 막대, 행운의 낚시 모자, 내트 페이글의 장화, 은빛 여명회 장신구처럼 특정 순간용 장비를 가지고 있는데 아직 어떤 복장에도 없다면, 장비마다 한 번 알림이 복장을 제안합니다. 클릭 한 번이면 만들어지고, 입고 있던 것은 곧바로 돌아옵니다."
+					]
+				},
+				{
+					"id": "dungeon",
+					"h2": "던전 전에 승마용 장신구를 벗으라고 알려 줄 수 있나요?",
+					"paragraphs": [
+						"네. 던전에 들어가거나 전투 준비 확인이 오면, 아직 착용 중인 순간용 장비를 작은 알림이 알려 주고 클릭 한 번으로 변경을 되돌립니다. 던전이나 공격대에서에 묶인 복장은 들어갈 때 입혀집니다.",
+						"마지막 변경 되돌리기는 마지막 장비 변경 전에 입고 있던 것을 그대로 되돌립니다. 복장, 순간, 낚싯대 무엇 때문이든 상관없습니다. 한 번 더 누르면 다시 적용됩니다. 이름이 같은 반지나 장신구 두 개는 마법부여, 보석, 접미사로 구별하므로 맞는 것이 돌아옵니다."
+					]
+				},
+				{
+					"id": "wear",
+					"h2": "장비 전체를 저장해서 클릭 한 번에 입을 수 있나요?",
+					"paragraphs": [
+						"네. 지금 입은 것 저장은 모든 장비를 이름으로 저장합니다: 던전 장비, 여행 복장. 클릭하거나, 창 위에서 1부터 9까지 누르거나, 어디서든 마우스 옆에 선택 창을 여는 나만의 키를 쓰세요. 캐릭터 창에도 복장 버튼이 있습니다.",
+						"각 복장은 착용 중인지, 아직 입을 장비, 은행에 있는 장비, 없는 장비를 한눈에 보여 줍니다. 없는 장비가 있어도 나머지는 멈추지 않습니다. 더 좋은 장비를 직접 입으면, 예전 장비가 있던 복장에 넣을지 알림이 묻습니다."
+					]
+				},
+				{
+					"id": "fishing",
+					"h2": "낚싯대를 저절로 들고 넣을 수 있나요?",
+					"paragraphs": [
+						"키, 창의 낚싯대 버튼, 또는 /woutfits pole로 낚싯대가 손에 오고 무기는 기억됩니다. 다시 누르면 무기가 돌아옵니다. 낚시할 때에 묶인 복장은 낚싯대를 든 동안 모자와 장화를 더합니다.",
+						"원하면 물 위에서 Wanderer의 오른쪽 더블 클릭이 낚시해 본 곳에서 낚싯대를 가져오고, 끝나면 무기가 돌아옵니다: 한동안 낚싯줄 없음, 멀리 이동, 탈것 탑승, 수영, 전투, 다른 지역. 두 낚시 옵션은 직접 켜기 전까지 꺼져 있습니다."
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "복장의 장비를 실수로 팔 수 있나요?",
+					"paragraphs": [
+						"아니요. 복장의 장비는 툴팁에 표시되고, 잡동사니로 팔리지 않으며, Wanderer Auction이 경매에 올리지도 않습니다. Wanderer Bags와 함께라면 자기만의 구역이 생기고, 은행원 앞에서 복장 카드가 장비를 클릭 한 번에 은행에서 꺼냅니다."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "원하지 않을 때 장비를 바꾸나요?",
+					"a": "아니요. 복장을 순간에 묶기 전에는 아무것도 저절로 입혀지지 않고, 낚시 옵션은 꺼져 있으며, 전투 중에는 아무것도 바뀌지 않고, 체크 상자 하나로 모두 끌 수 있습니다. ItemRack이나 Naowh Forever의 자동 장비 세트가 있으면 Outfits가 물러나서 두 애드온이 동시에 옷을 입히는 일이 없습니다."
+				},
+				{
+					"q": "게임의 장비 관리자를 쓰나요?",
+					"a": "네, 클라이언트에 있다면 그렇습니다. 복장이 게임 창에서도 보입니다. 없으면 Wanderer가 캐릭터마다 보관합니다."
+				},
+				{
+					"q": "복장은 캐릭터끼리 공유되나요?",
+					"a": "아니요, 캐릭터마다 자기 복장과 자기 설정이 있습니다."
+				},
+				{
+					"q": "Wanderer Outfits는 어떻게 여나요?",
+					"a": "Wanderer 메뉴, 캐릭터 창의 버튼, 게임 단축키 설정의 나만의 키, 또는 /woutfits. /woutfits pole은 낚싯대를 손에 들고, /woutfits undo는 마지막 변경을 되돌립니다."
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Outfits 로고",
+			"tagline": "알맞은 순간에 알맞은 장비",
+			"summary": "탈것, 낚시, 던전용 장비를 알맞은 순간에 입고 끝나면 저절로 벗습니다. 전체 복장도 클릭 한 번에."
+		}
+	},
+	"zh-cn": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Outfits：自动更换的装备 (WoW Forever)",
+				"description": "Wanderer Outfits，免费 WoW Forever 插件：骑乘时戴上胡萝卜，拿鱼竿时戴上钓鱼帽，进地下城穿上副本装备，结束后换回。"
+			},
+			"h1": "合适的时刻穿上合适的装备，之后再换回",
+			"lead": "Wanderer Outfits 是 Wanderer 的免费扩展，为 World of Warcraft Forever 打造。棍子上的胡萝卜、钓鱼帽、银色黎明饰品只在某个时刻有用，所以一直躺在背包里：上坐骑时忘了戴，进地下城前又忘了摘。Outfits 替你记着。一套装备可以只是绑定到某个时刻的几件物品：时刻到来时穿上，结束时还你原来的装备。整套装备也能一键换上。",
+			"sections": [
+				{
+					"id": "moments",
+					"h2": "怎样在上坐骑时自动戴上棍子上的胡萝卜？",
+					"paragraphs": [
+						"把一套装备绑定到某个时刻：骑乘时、钓鱼时、在选定区域、在地下城或团队副本、在城市或旅店。时刻到来时它会穿上，结束时换掉的东西会回来：上坐骑时戴上胡萝卜，下坐骑时换回平常的饰品。",
+						"只动这套装备占用的栏位。期间你亲手换过的装备仍归你，绝不会被拿走。战斗中什么都不换，时刻到来时按住 Shift 即可跳过。一套装备第一次自动穿上时，会有一条小提示说明原因。"
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "怎样做一套只有几件物品的装备？",
+					"paragraphs": [
+						"最快的方法：穿上这些物品，点“为某个时刻”，选择时刻。这套装备会带上该时刻通常需要的物品（骑乘：饰品、手套和靴子；钓鱼：帽子、手套和靴子），并打开它的卡片：点一下某件物品可将其排除或重新加入。",
+						"如果你带着为某个时刻准备的物品，比如棍子上的胡萝卜、幸运钓鱼帽、纳特·帕格的靴子或银色黎明饰品，而还没有套装用到它：每件物品一次，会有提示建议对应的套装。点一下即可创建，原来穿的装备立刻还给你。"
+					]
+				},
+				{
+					"id": "dungeon",
+					"h2": "能在进地下城前提醒我摘下骑乘饰品吗？",
+					"paragraphs": [
+						"能。进入地下城或团队确认时，如果你还穿着为某个时刻准备的物品，会有一条小提示告诉你，点一下即可撤销更换。绑定到“在地下城或团队副本”的套装会在进入时穿上。",
+						"“撤销上次更换”会完全换回上次更换装备之前你穿的东西，不论是套装、时刻还是鱼竿造成的。再点一次就重做。同名的两枚戒指或两件饰品会按附魔、宝石和后缀区分，换回的是正确的那一件。"
+					]
+				},
+				{
+					"id": "wear",
+					"h2": "能保存全身装备并一键穿上吗？",
+					"paragraphs": [
+						"能。“保存当前装备”会以一个名字保存全部装备：地下城装备、旅行服装。点击它，在窗口上按 1 到 9，或用你自己的按键在鼠标处打开选择框，随时随地。角色面板上也有一个套装按钮。",
+						"每套装备一眼就能看出是否已穿上、还有哪些要换、哪些在银行、哪些缺失。缺一件不会耽误其余部分。亲手换上更好的物品时，会有提示建议把它放进原来用旧物品的套装。"
+					]
+				},
+				{
+					"id": "fishing",
+					"h2": "鱼竿能自动拿出和收起吗？",
+					"paragraphs": [
+						"用按键、窗口里的鱼竿按钮或 /woutfits pole，鱼竿就会到手，武器会被记住；再按一次，武器回来。绑定到“钓鱼时”的套装会在鱼竿在手时加上你的帽子和靴子。",
+						"如果你愿意，Wanderer 在水面上的右键双击会在你钓过鱼的地方拿出鱼竿，结束后武器自动回来：一段时间没有抛竿、走开、上坐骑、游泳、战斗或换了区域。两个钓鱼选项在你开启前都是关闭的。"
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "会不会误卖套装里的物品？",
+					"paragraphs": [
+						"不会。套装里的物品会在鼠标提示中标出，绝不会当作垃圾卖掉，Wanderer Auction 也绝不会把它们拿去拍卖。配合 Wanderer Bags 时它们有自己的分区，在银行职员处，套装卡片一键即可从银行取出所需物品。"
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "它会在我不想要时更换装备吗？",
+					"a": "不会。在你把套装绑定到某个时刻之前，什么都不会自动穿上，钓鱼选项是关闭的，战斗中什么都不换，取消一个勾选即可全部关闭。有 ItemRack 或 Naowh Forever 的自动装备方案时，Outfits 会让开，两个插件绝不会同时给你换装。"
+				},
+				{
+					"q": "它使用游戏的装备管理器吗？",
+					"a": "是的，只要你的客户端有：你的套装也会出现在游戏窗口里。否则由 Wanderer 为每个角色保存。"
+				},
+				{
+					"q": "套装在角色之间共享吗？",
+					"a": "不，每个角色有自己的套装和自己的设置。"
+				},
+				{
+					"q": "怎样打开 Wanderer Outfits？",
+					"a": "通过 Wanderer 菜单、角色面板上的按钮、游戏按键设置里你自己的按键，或输入 /woutfits。/woutfits pole 拿出鱼竿，/woutfits undo 撤销上次更换。"
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Outfits 标志",
+			"tagline": "合适的时刻，合适的装备",
+			"summary": "骑乘、钓鱼和地下城用的装备在合适时刻自动穿上，结束后自动换回。整套装备也能一键换上。"
+		}
+	},
+	"zh-tw": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Outfits：自動更換的裝備 (WoW Forever)",
+				"description": "Wanderer Outfits，免費 WoW Forever 插件：騎乘時戴上胡蘿蔔，拿魚竿時戴上釣魚帽，進地城穿上副本裝備，結束後換回。"
+			},
+			"h1": "合適的時刻穿上合適的裝備，之後再換回",
+			"lead": "Wanderer Outfits 是 Wanderer 的免費擴充，為 World of Warcraft Forever 打造。棍子上的胡蘿蔔、釣魚帽、銀色黎明飾品只在某個時刻有用，所以一直躺在背包裡：上坐騎時忘了戴，進地城前又忘了摘。Outfits 替你記著。一套裝備可以只是綁定到某個時刻的幾件物品：時刻到來時穿上，結束時還你原來的裝備。整套裝備也能一鍵換上。",
+			"sections": [
+				{
+					"id": "moments",
+					"h2": "怎樣在上坐騎時自動戴上棍子上的胡蘿蔔？",
+					"paragraphs": [
+						"把一套裝備綁定到某個時刻：騎乘時、釣魚時、在選定區域、在地城或團隊副本、在城市或旅店。時刻到來時它會穿上，結束時換掉的東西會回來：上坐騎時戴上胡蘿蔔，下坐騎時換回平常的飾品。",
+						"只動這套裝備佔用的欄位。期間你親手換過的裝備仍歸你，絕不會被拿走。戰鬥中什麼都不換，時刻到來時按住 Shift 即可跳過。一套裝備第一次自動穿上時，會有一則小提示說明原因。"
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "怎樣做一套只有幾件物品的裝備？",
+					"paragraphs": [
+						"最快的方法：穿上這些物品，點「為某個時刻」，選擇時刻。這套裝備會帶上該時刻通常需要的物品（騎乘：飾品、手套和靴子；釣魚：帽子、手套和靴子），並打開它的卡片：點一下某件物品可將其排除或重新加入。",
+						"如果你帶著為某個時刻準備的物品，例如棍子上的胡蘿蔔、幸運釣魚帽、納特·帕格的靴子或銀色黎明飾品，而還沒有套裝用到它：每件物品一次，會有提示建議對應的套裝。點一下即可建立，原來穿的裝備立刻還給你。"
+					]
+				},
+				{
+					"id": "dungeon",
+					"h2": "能在進地城前提醒我摘下騎乘飾品嗎？",
+					"paragraphs": [
+						"能。進入地城或團隊確認時，如果你還穿著為某個時刻準備的物品，會有一則小提示告訴你，點一下即可復原更換。綁定到「在地城或團隊副本」的套裝會在進入時穿上。",
+						"「復原上次更換」會完全換回上次更換裝備之前你穿的東西，不論是套裝、時刻還是魚竿造成的。再點一次就重做。同名的兩枚戒指或兩件飾品會依附魔、寶石和字尾區分，換回的是正確的那一件。"
+					]
+				},
+				{
+					"id": "wear",
+					"h2": "能保存全身裝備並一鍵穿上嗎？",
+					"paragraphs": [
+						"能。「保存目前裝備」會以一個名字保存全部裝備：地城裝備、旅行服裝。點擊它，在視窗上按 1 到 9，或用你自己的按鍵在滑鼠處打開選擇框，隨時隨地。角色面板上也有一個套裝按鈕。",
+						"每套裝備一眼就能看出是否已穿上、還有哪些要換、哪些在銀行、哪些缺少。缺一件不會耽誤其餘部分。親手換上更好的物品時，會有提示建議把它放進原來用舊物品的套裝。"
+					]
+				},
+				{
+					"id": "fishing",
+					"h2": "魚竿能自動拿出和收起嗎？",
+					"paragraphs": [
+						"用按鍵、視窗裡的魚竿按鈕或 /woutfits pole，魚竿就會到手，武器會被記住；再按一次，武器回來。綁定到「釣魚時」的套裝會在魚竿在手時加上你的帽子和靴子。",
+						"如果你願意，Wanderer 在水面上的右鍵雙擊會在你釣過魚的地方拿出魚竿，結束後武器自動回來：一段時間沒有拋竿、走開、上坐騎、游泳、戰鬥或換了區域。兩個釣魚選項在你開啟前都是關閉的。"
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "會不會誤賣套裝裡的物品？",
+					"paragraphs": [
+						"不會。套裝裡的物品會在滑鼠提示中標出，絕不會當作垃圾賣掉，Wanderer Auction 也絕不會把它們拿去拍賣。搭配 Wanderer Bags 時它們有自己的分區，在銀行行員處，套裝卡片一鍵即可從銀行取出所需物品。"
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "它會在我不想要時更換裝備嗎？",
+					"a": "不會。在你把套裝綁定到某個時刻之前，什麼都不會自動穿上，釣魚選項是關閉的，戰鬥中什麼都不換，取消一個勾選即可全部關閉。有 ItemRack 或 Naowh Forever 的自動裝備方案時，Outfits 會讓開，兩個插件絕不會同時幫你換裝。"
+				},
+				{
+					"q": "它使用遊戲的裝備管理員嗎？",
+					"a": "是的，只要你的用戶端有：你的套裝也會出現在遊戲視窗裡。否則由 Wanderer 為每個角色保存。"
+				},
+				{
+					"q": "套裝在角色之間共享嗎？",
+					"a": "不，每個角色有自己的套裝和自己的設定。"
+				},
+				{
+					"q": "怎樣打開 Wanderer Outfits？",
+					"a": "透過 Wanderer 選單、角色面板上的按鈕、遊戲按鍵設定裡你自己的按鍵，或輸入 /woutfits。/woutfits pole 拿出魚竿，/woutfits undo 復原上次更換。"
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Outfits 標誌",
+			"tagline": "合適的時刻，合適的裝備",
+			"summary": "騎乘、釣魚和地城用的裝備在合適時刻自動穿上，結束後自動換回。整套裝備也能一鍵換上。"
+		}
+	}
+}

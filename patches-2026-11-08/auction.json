@@ -1,0 +1,922 @@
+{
+	"en": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Auction: a calm auction house addon (WoW Forever)",
+				"description": "Wanderer Auction, a free WoW Forever addon: sell, buy and follow in one window, a fair price offered, never below a merchant, a shopping list."
+			},
+			"h1": "The auction house in one quiet window, never below a merchant",
+			"lead": "Wanderer Auction is a free extension of Wanderer for World of Warcraft Forever. It brings the game's own auction house into a single Wanderer window, to sell, buy, follow your auctions and read the prices of the last days, and adds a shopping list you can open anywhere. One rule above all: you never sell for less than a merchant would give you.",
+			"sections": [
+				{
+					"id": "sell",
+					"h2": "How does it choose a selling price?",
+					"paragraphs": [
+						"Choose an item and its price is looked up at once. The optimized price sits just under the first credible offer, weighed against the last fourteen days; bait offers far too low to be real are left out, and a line says why that price. Sell fast or the market's price are one choice away.",
+						"Type a price as you like, 1.5 or 1g50s or 75s. A price under half of an item's usual value, or over three times, shows in red and is asked before posting, and \"Keep as your price\" makes yours the least ever offered for that item. What you set aside in Wanderer Bags comes first, identical items are posted together, and Sell everything lines up all that brings more here than at a merchant: Space posts the next one."
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "Will it ever sell below a merchant's price?",
+					"paragraphs": [
+						"Never. The auction house takes a cut on every sale, so Wanderer Auction compares what you would really receive with what a merchant gives. A price that would bring less is raised to the merchant's, and said. A deposit larger than your gain is pointed out.",
+						"With Wanderer Bags, an item set aside for the auction house that is surely worth more at a merchant becomes junk. Items the server refuses to post are remembered and no longer offered."
+					]
+				},
+				{
+					"id": "buy",
+					"h2": "How do I search and buy?",
+					"paragraphs": [
+						"Search by name within the game's categories, with rarity, levels, usable items only and your favorites; your last searches wait under the search box. A price shows in green when it is well under its usual price, in red when well over. Commodities are bought by quantity with their total said first, items by buyout or bid, and every purchase and bid is confirmed."
+					]
+				},
+				{
+					"id": "follow",
+					"h2": "How do I follow my auctions and bids?",
+					"paragraphs": [
+						"The Following tab gathers your auctions and your bids: cheaper elsewhere, the cheapest, sold and on its way by mail, outbid. One action per row: cancel with its cost asked first, bid again at the least possible, or buy out. Take back the undercut gathers the auctions worth reposting in one card, each canceled with its own click, the deposit lost said first."
+					]
+				},
+				{
+					"id": "history",
+					"h2": "Is now a good time to sell?",
+					"paragraphs": [
+						"The History tab shows an item's prices over the last fourteen days in a small chart, with its market value and today's cheapest, and says it plainly: a good time to sell, the usual price, better to wait, or better at a merchant. Away from the auction house, the last price seen shows in the item's tooltip."
+					]
+				},
+				{
+					"id": "shopping",
+					"h2": "Can I keep a shopping list?",
+					"paragraphs": [
+						"Yes, and it opens anywhere. Add an item from your bags, your quests, your reminders or a profession's window, which sends the reagents you lack and says what the recipe costs against what it sells for. A line can be for once, or always on you with a count: arrows, food, reagents. At the auction house the whole list is searched at once, cheapest first.",
+						"At a merchant who sells it, a +N link buys exactly what is missing. If you wish, it is bought on arrival, for gold only and under a cap per visit, and the banker can hand over what your bank holds first. Hold Shift to skip both."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Does Wanderer Auction replace Auctionator?",
+					"a": "It is not meant to. It works beside Auctionator or TradeSkillMaster: when one of them is installed, the game's window stays until you choose Wanderer's, and the tooltip price is left to Auctionator."
+				},
+				{
+					"q": "Does Wanderer Auction buy or sell anything by itself?",
+					"a": "No. Every sale needs your gesture, every purchase, bid and cancel is confirmed first. At a merchant, nothing is bought unless you click +N or turn on buying on arrival, capped per visit."
+				},
+				{
+					"q": "What if I type a wrong price by mistake?",
+					"a": "A price under half of the item's usual value, or over three times, shows in red and is asked again before it is posted, when selling everything too. And no price is ever offered below what a merchant gives."
+				},
+				{
+					"q": "Why are prices in whole silver?",
+					"a": "Because WoW Forever's server refuses copper in auction prices. Wanderer Auction writes every price in whole silver so no sale is refused."
+				},
+				{
+					"q": "Do I need Wanderer Bags for Wanderer Auction?",
+					"a": "No, only Wanderer. With Wanderer Bags, your marks guide what is offered and the shopping list is an Alt+click away."
+				},
+				{
+					"q": "Can I keep the game's auction house window?",
+					"a": "Yes. An option keeps the game's window, and a link beside it opens Wanderer's whenever you want."
+				},
+				{
+					"q": "Is my shopping list shared between characters?",
+					"a": "The list belongs to each character. The prices you have seen are shared by all of them."
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Auction logo",
+			"tagline": "The auction house",
+			"summary": "Sell, buy and follow in one window, a fair price offered, never below a merchant, and a shopping list anywhere."
+		}
+	},
+	"fr": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Auction : l'hôtel des ventes serein (WoW Forever)",
+				"description": "Wanderer Auction, addon gratuit pour WoW Forever : vendre, acheter et suivre dans une fenêtre, un prix juste, jamais sous un marchand, une liste d'achats."
+			},
+			"h1": "L'hôtel des ventes dans une fenêtre sobre, jamais sous un marchand",
+			"lead": "Wanderer Auction est une extension gratuite de Wanderer pour World of Warcraft Forever. Elle met l'hôtel des ventes du jeu dans une seule fenêtre Wanderer, pour vendre, acheter, suivre vos ventes et lire les prix des derniers jours, et ajoute une liste d'achats que vous ouvrez partout. Une règle avant tout : vous ne vendez jamais moins cher que ce qu'un marchand vous donnerait.",
+			"sections": [
+				{
+					"id": "sell",
+					"h2": "Comment choisit-il un prix de vente ?",
+					"paragraphs": [
+						"Choisissez un objet : son prix est recherché aussitôt. Le prix optimisé se place juste sous la première offre crédible et se mesure aux quatorze derniers jours ; les offres appâts, bien trop basses pour être réelles, sont écartées, et une ligne explique ce prix. Vendre vite ou Au prix du marché sont à un choix de distance.",
+						"Tapez un prix comme vous voulez, 1.5 ou 1g50s ou 75s. Un prix sous la moitié de la valeur habituelle d'un objet, ou au-dessus de trois fois, s'affiche en rouge et vous est demandé avant la mise en vente, et « Retenir comme votre prix » en fait le prix le plus bas jamais proposé pour cet objet. Ce que vous réservez dans Wanderer Bags passe en tête, les objets identiques partent ensemble, et Tout vendre aligne tout ce qui rapporte plus ici que chez un marchand : Espace met en vente le suivant."
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "Peut-il vendre sous le prix d'un marchand ?",
+					"paragraphs": [
+						"Jamais. L'hôtel des ventes prend une commission sur chaque vente : Wanderer Auction compare donc ce que vous recevriez vraiment à ce que donne un marchand. Un prix qui rapporterait moins est relevé à celui du marchand, et vous le dit. Un dépôt plus élevé que votre gain vous est signalé.",
+						"Avec Wanderer Bags, un objet réservé à l'hôtel des ventes qui vaut sûrement plus chez un marchand passe en camelote. Les objets que le serveur refuse de mettre en vente sont retenus et ne sont plus proposés."
+					]
+				},
+				{
+					"id": "buy",
+					"h2": "Comment chercher et acheter ?",
+					"paragraphs": [
+						"Cherchez par nom dans les catégories du jeu, avec la rareté, les niveaux, les objets utilisables seulement et vos favoris ; vos dernières recherches attendent sous le champ de recherche. Un prix s'affiche en vert quand il est bien sous son prix habituel, en rouge quand il est bien au-dessus. Les marchandises s'achètent à la quantité, leur coût total annoncé d'abord, les objets au rachat ou à l'enchère, et chaque achat et chaque enchère est confirmé."
+					]
+				},
+				{
+					"id": "follow",
+					"h2": "Comment suivre ses ventes et ses enchères ?",
+					"paragraphs": [
+						"L'onglet Suivi réunit vos ventes et vos enchères : moins cher ailleurs, le moins cher, vendu et en route par courrier, surenchéri. Une action par ligne : annuler, son coût demandé d'abord, enchérir de nouveau au plus juste, ou racheter. « Reprendre les dépassées » réunit dans une carte les ventes qui valent d'être remises en vente, chacune annulée d'un clic, le dépôt perdu annoncé d'abord."
+					]
+				},
+				{
+					"id": "history",
+					"h2": "Est-ce le bon moment pour vendre ?",
+					"paragraphs": [
+						"L'onglet Historique montre les prix d'un objet sur les quatorze derniers jours dans un petit graphique, avec sa valeur de marché et l'offre la moins chère du jour, et le dit simplement : bon moment pour vendre, prix habituel, mieux vaut attendre, ou mieux chez un marchand. Loin de l'hôtel des ventes, le dernier prix vu s'affiche dans l'infobulle de l'objet."
+					]
+				},
+				{
+					"id": "shopping",
+					"h2": "Puis-je tenir une liste d'achats ?",
+					"paragraphs": [
+						"Oui, et elle s'ouvre partout. Ajoutez un objet depuis vos sacs, vos quêtes, votre pense-bête ou la fenêtre d'un métier, qui envoie les composants qui vous manquent et dit ce que coûte la recette face à ce qu'elle rapporte. Une ligne peut valoir pour une fois, ou toujours sur vous avec un nombre : flèches, nourriture, composants. À l'hôtel des ventes, toute la liste est cherchée d'un coup, le moins cher d'abord.",
+						"Chez un marchand qui le vend, un lien +N achète exactement ce qui manque. Si vous le souhaitez, l'achat se fait à l'arrivée, en or uniquement et sous un plafond par visite, et le banquier peut d'abord vous remettre ce que votre banque contient. Maintenez Maj pour éviter les deux."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Wanderer Auction remplace-t-il Auctionator ?",
+					"a": "Ce n'est pas son but. Il fonctionne à côté d'Auctionator ou de TradeSkillMaster : quand l'un d'eux est installé, la fenêtre du jeu reste en place jusqu'à ce que vous choisissiez celle de Wanderer, et le prix dans l'infobulle est laissé à Auctionator."
+				},
+				{
+					"q": "Wanderer Auction achète-t-il ou vend-il quelque chose tout seul ?",
+					"a": "Non. Chaque vente demande votre geste, chaque achat, enchère et annulation est confirmé d'abord. Chez un marchand, rien n'est acheté sauf si vous cliquez sur +N ou activez l'achat à l'arrivée, plafonné par visite."
+				},
+				{
+					"q": "Et si je tape un mauvais prix par erreur ?",
+					"a": "Un prix sous la moitié de la valeur habituelle de l'objet, ou au-dessus de trois fois, s'affiche en rouge et vous est redemandé avant la mise en vente, aussi dans Tout vendre. Et aucun prix n'est jamais proposé sous ce que donne un marchand."
+				},
+				{
+					"q": "Pourquoi les prix sont-ils en pièces d'argent entières ?",
+					"a": "Parce que le serveur de WoW Forever refuse le cuivre dans les prix de l'hôtel des ventes. Wanderer Auction écrit chaque prix en pièces d'argent entières pour qu'aucune vente ne soit refusée."
+				},
+				{
+					"q": "Faut-il Wanderer Bags pour Wanderer Auction ?",
+					"a": "Non, seulement Wanderer. Avec Wanderer Bags, vos marques guident ce qui est proposé et la liste d'achats est à un Alt+clic."
+				},
+				{
+					"q": "Peut-on garder la fenêtre de l'hôtel des ventes du jeu ?",
+					"a": "Oui. Une option garde la fenêtre du jeu, et un lien à côté ouvre celle de Wanderer quand vous le voulez."
+				},
+				{
+					"q": "Ma liste d'achats est-elle partagée entre personnages ?",
+					"a": "La liste est propre à chaque personnage. Les prix que vous avez vus sont partagés par tous."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo de Wanderer Auction",
+			"tagline": "L'hôtel des ventes",
+			"summary": "Vendre, acheter et suivre dans une fenêtre, un prix juste proposé, jamais sous un marchand, et une liste d'achats partout."
+		}
+	},
+	"de": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Auction: ruhiges Auktionshaus-Addon (WoW Forever)",
+				"description": "Wanderer Auction, kostenloses Addon für WoW Forever: verkaufen, kaufen, verfolgen, ein fairer Preis, nie unter dem Händlerpreis, eine Einkaufsliste."
+			},
+			"h1": "Das Auktionshaus in einem ruhigen Fenster, nie unter dem Händlerpreis",
+			"lead": "Wanderer Auction ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Es holt das Auktionshaus des Spiels in ein einziges Wanderer-Fenster, um zu verkaufen, zu kaufen, deine Auktionen zu verfolgen und die Preise der letzten Tage zu lesen, und fügt eine Einkaufsliste hinzu, die du überall öffnen kannst. Eine Regel vor allem: Du verkaufst nie für weniger, als dir ein Händler geben würde.",
+			"sections": [
+				{
+					"id": "sell",
+					"h2": "Wie wird der Verkaufspreis festgelegt?",
+					"paragraphs": [
+						"Wähle einen Gegenstand, und sein Preis wird sofort gesucht. Der optimierte Preis liegt knapp unter dem ersten glaubwürdigen Angebot, gemessen an den letzten vierzehn Tagen; Lockangebote, viel zu niedrig, um echt zu sein, bleiben außen vor, und eine Zeile erklärt, warum dieser Preis. Schnell verkaufen oder der Marktpreis sind nur eine Wahl entfernt.",
+						"Gib einen Preis ein, wie du magst: 1.5, 1g50s oder 75s. Ein Preis unter der Hälfte des üblichen Werts eines Gegenstands oder über dem Dreifachen erscheint rot und wird vor dem Einstellen erfragt, und „Als deinen Preis merken“ macht deinen zum niedrigsten, der für diesen Gegenstand je angeboten wird. Was du in Wanderer Bags beiseitegelegt hast, kommt zuerst, gleiche Gegenstände werden zusammen eingestellt, und Alles verkaufen reiht alles auf, was hier mehr bringt als beim Händler: Die Leertaste stellt den nächsten ein."
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "Verkauft es jemals unter dem Händlerpreis?",
+					"paragraphs": [
+						"Nie. Das Auktionshaus behält bei jedem Verkauf einen Anteil ein, daher vergleicht Wanderer Auction, was du wirklich erhalten würdest, mit dem, was ein Händler zahlt. Ein Preis, der weniger einbringen würde, wird auf den Händlerpreis angehoben, und das wird gesagt. Eine Anzahlung, die höher ist als dein Gewinn, wird angezeigt.",
+						"Mit Wanderer Bags wird ein fürs Auktionshaus beiseitegelegter Gegenstand, der beim Händler sicher mehr wert ist, zu Plunder. Gegenstände, deren Einstellen der Server verweigert, werden gemerkt und nicht mehr angeboten."
+					]
+				},
+				{
+					"id": "buy",
+					"h2": "Wie suche und kaufe ich?",
+					"paragraphs": [
+						"Suche nach Name in den Kategorien des Spiels, mit Seltenheit, Stufen, nur benutzbaren Gegenständen und deinen Favoriten; deine letzten Suchen warten unter dem Suchfeld. Ein Preis erscheint in Grün, wenn er deutlich unter seinem üblichen Preis liegt, in Rot, wenn deutlich darüber. Waren kaufst du nach Menge, die Gesamtkosten werden zuerst genannt, Gegenstände per Sofortkauf oder Gebot, und jeder Kauf und jedes Gebot wird bestätigt."
+					]
+				},
+				{
+					"id": "follow",
+					"h2": "Wie verfolge ich meine Auktionen und Gebote?",
+					"paragraphs": [
+						"Der Reiter Laufend vereint deine Auktionen und deine Gebote: anderswo günstiger, das günstigste, verkauft und per Post unterwegs, überboten. Eine Aktion pro Zeile: abbrechen, die Kosten zuerst erfragt, mit dem kleinstmöglichen Betrag erneut bieten oder sofort kaufen. „Unterbotene zurücknehmen“ sammelt die Auktionen, die ein neues Einstellen lohnen, in einer Karte, jede mit einem eigenen Klick abgebrochen, die verlorene Anzahlung zuerst genannt."
+					]
+				},
+				{
+					"id": "history",
+					"h2": "Ist jetzt ein guter Zeitpunkt zum Verkaufen?",
+					"paragraphs": [
+						"Der Reiter Verlauf zeigt die Preise eines Gegenstands der letzten vierzehn Tage in einem kleinen Diagramm, mit seinem Marktwert und dem günstigsten Angebot des Tages, und sagt es klar: ein guter Zeitpunkt zum Verkaufen, der übliche Preis, besser warten oder besser beim Händler. Fern vom Auktionshaus erscheint der zuletzt gesehene Preis im Tooltip des Gegenstands."
+					]
+				},
+				{
+					"id": "shopping",
+					"h2": "Kann ich eine Einkaufsliste führen?",
+					"paragraphs": [
+						"Ja, und sie öffnet sich überall. Füge einen Gegenstand aus deinen Taschen, deinen Quests, deinem Merkzettel oder dem Fenster eines Berufs hinzu, das die Reagenzien schickt, die dir fehlen, und sagt, was das Rezept kostet und was es einbringt. Eine Zeile kann einmalig sein oder mit einer Anzahl immer dabei: Pfeile, Essen, Reagenzien. Im Auktionshaus wird die ganze Liste auf einmal gesucht, das Günstigste zuerst.",
+						"Bei einem Händler, der ihn verkauft, kauft ein Link +N genau das Fehlende. Auf Wunsch wird es beim Eintreffen gekauft, nur für Gold und unter einer Grenze pro Besuch, und der Bankier kann zuerst herausgeben, was deine Bank enthält. Halte Umschalt, um beides zu überspringen."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Ersetzt Wanderer Auction Auctionator?",
+					"a": "Das soll es nicht. Es arbeitet neben Auctionator oder TradeSkillMaster: Ist eines davon installiert, bleibt das Fenster des Spiels, bis du das von Wanderer wählst, und der Preis im Tooltip bleibt Auctionator überlassen."
+				},
+				{
+					"q": "Kauft oder verkauft Wanderer Auction etwas von selbst?",
+					"a": "Nein. Jeder Verkauf braucht deine Geste, jeder Kauf, jedes Gebot und jeder Abbruch wird vorher bestätigt. Beim Händler wird nichts gekauft, außer du klickst auf +N oder schaltest den Kauf beim Eintreffen ein, mit einer Grenze pro Besuch."
+				},
+				{
+					"q": "Was, wenn ich aus Versehen einen falschen Preis eingebe?",
+					"a": "Ein Preis unter der Hälfte des üblichen Werts oder über dem Dreifachen erscheint rot und wird vor dem Einstellen noch einmal erfragt, auch bei Alles verkaufen. Und nie wird ein Preis unter dem angeboten, was ein Händler gibt."
+				},
+				{
+					"q": "Warum gibt es nur ganze Silberbeträge?",
+					"a": "Weil der Server von WoW Forever Kupfer in Auktionspreisen verweigert. Wanderer Auction schreibt jeden Preis in ganzen Silbermünzen, damit kein Verkauf abgelehnt wird."
+				},
+				{
+					"q": "Brauche ich Wanderer Bags für Wanderer Auction?",
+					"a": "Nein, nur Wanderer. Mit Wanderer Bags lenken deine Markierungen, was angeboten wird, und die Einkaufsliste ist nur einen Alt+Klick entfernt."
+				},
+				{
+					"q": "Kann ich das Auktionshausfenster des Spiels behalten?",
+					"a": "Ja. Eine Option behält das Fenster des Spiels, und ein Link daneben öffnet das von Wanderer, wann immer du willst."
+				},
+				{
+					"q": "Teilen sich meine Charaktere die Einkaufsliste?",
+					"a": "Die Liste gehört jedem Charakter selbst. Die Preise, die du gesehen hast, teilen sich alle."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo von Wanderer Auction",
+			"tagline": "Das Auktionshaus",
+			"summary": "Verkaufen, kaufen und verfolgen in einem Fenster, ein fairer Preis vorgeschlagen, nie unter dem Händlerpreis, und eine Einkaufsliste überall."
+		}
+	},
+	"es": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Auction: casa de subastas tranquila (WoW Forever)",
+				"description": "Wanderer Auction, addon gratuito para WoW Forever: vende, compra y sigue en una ventana, precio justo, nunca bajo el mercader, y lista de la compra."
+			},
+			"h1": "La casa de subastas en una ventana tranquila, nunca por debajo del mercader",
+			"lead": "Wanderer Auction es una extensión gratuita de Wanderer para World of Warcraft Forever. Lleva la casa de subastas del propio juego a una sola ventana de Wanderer, para vender, comprar, seguir tus subastas y leer los precios de los últimos días, y añade una lista de la compra que puedes abrir en cualquier parte. Una regla por encima de todo: nunca vendes por menos de lo que te daría un mercader.",
+			"sections": [
+				{
+					"id": "sell",
+					"h2": "¿Cómo elige el precio de venta?",
+					"paragraphs": [
+						"Elige un objeto y su precio se busca al momento. El precio optimizado queda justo por debajo de la primera oferta creíble, medido con los últimos catorce días; las ofertas cebo, demasiado bajas para ser reales, quedan fuera, y una línea explica por qué ese precio. Vender rápido o el precio de mercado están a una elección.",
+						"Escribe el precio como quieras: 1.5, 1g50s o 75s. Un precio por debajo de la mitad del valor habitual de un objeto, o por encima del triple, se muestra en rojo y se pregunta antes de publicarlo, y «Guardar como tu precio» lo convierte en el mínimo que se ofrecerá nunca para ese objeto. Lo que apartas en Wanderer Bags va primero, los objetos idénticos se publican juntos, y Venderlo todo pone en fila todo lo que rinde más aquí que en un mercader: Espacio publica el siguiente."
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "¿Venderá alguna vez por debajo del precio del mercader?",
+					"paragraphs": [
+						"Nunca. La casa de subastas se queda una comisión en cada venta, así que Wanderer Auction compara lo que recibirías de verdad con lo que da un mercader. Un precio que reportaría menos se sube al del mercader, y se indica. Se avisa de un depósito mayor que tu ganancia.",
+						"Con Wanderer Bags, un objeto apartado para la casa de subastas que sin duda vale más en un mercader pasa a ser chatarra. Los objetos que el servidor se niega a publicar se recuerdan y ya no se ofrecen."
+					]
+				},
+				{
+					"id": "buy",
+					"h2": "¿Cómo buscar y comprar?",
+					"paragraphs": [
+						"Busca por nombre dentro de las categorías del juego, con rareza, niveles, solo objetos utilizables y tus favoritos; tus últimas búsquedas esperan bajo el campo de búsqueda. Un precio aparece en verde cuando está muy por debajo de lo habitual, en rojo cuando está muy por encima. Los artículos de comercio se compran por cantidad, con el total indicado primero; los objetos, por precio de compra o por puja, y cada compra y cada puja se confirman."
+					]
+				},
+				{
+					"id": "follow",
+					"h2": "¿Cómo seguir mis subastas y pujas?",
+					"paragraphs": [
+						"La pestaña En curso reúne tus subastas y tus pujas: más barato en otra parte, la más barata, vendida y en camino por correo, puja superada. Una acción por línea: cancelar con su coste preguntado antes, volver a pujar lo mínimo posible o comprar al precio de compra. «Retirar las superadas» reúne en una tarjeta las subastas que vale la pena volver a publicar, cada una cancelada con su propio clic, el depósito perdido indicado antes."
+					]
+				},
+				{
+					"id": "history",
+					"h2": "¿Es buen momento para vender?",
+					"paragraphs": [
+						"La pestaña Historial muestra los precios de un objeto en los últimos catorce días en un pequeño gráfico, con su valor de mercado y la oferta más barata del día, y lo dice claramente: buen momento para vender, el precio habitual, mejor esperar o mejor en un mercader. Lejos de la casa de subastas, el último precio visto aparece en la descripción del objeto."
+					]
+				},
+				{
+					"id": "shopping",
+					"h2": "¿Puedo llevar una lista de la compra?",
+					"paragraphs": [
+						"Sí, y se abre en cualquier parte. Añade un objeto desde tus bolsas, tus misiones, tus recordatorios o la ventana de una profesión, que envía los componentes que te faltan y dice lo que cuesta la receta frente a lo que se vende. Una línea puede ser para una vez, o «siempre encima» con una cantidad: flechas, comida, componentes. En la casa de subastas, toda la lista se busca de una vez, lo más barato primero.",
+						"En un mercader que lo vende, un enlace +N compra exactamente lo que falta. Si quieres, se compra al llegar, solo con oro y con un límite por visita, y el banquero puede entregarte primero lo que guarda tu banco. Mantén Mayús para evitar ambas cosas."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "¿Wanderer Auction sustituye a Auctionator?",
+					"a": "No es su intención. Funciona junto a Auctionator o TradeSkillMaster: cuando uno de ellos está instalado, la ventana del juego se queda hasta que eliges la de Wanderer, y el precio en la descripción se deja a Auctionator."
+				},
+				{
+					"q": "¿Wanderer Auction compra o vende algo por sí solo?",
+					"a": "No. Cada venta necesita un gesto tuyo, y cada compra, puja y cancelación se confirma antes. En un mercader no se compra nada salvo que pulses +N o actives la compra al llegar, con un límite por visita."
+				},
+				{
+					"q": "¿Y si escribo un precio equivocado por error?",
+					"a": "Un precio por debajo de la mitad del valor habitual del objeto, o por encima del triple, se muestra en rojo y se vuelve a preguntar antes de publicarlo, también en Venderlo todo. Y nunca se ofrece un precio por debajo de lo que da un mercader."
+				},
+				{
+					"q": "¿Por qué los precios van en platas enteras?",
+					"a": "Porque el servidor de WoW Forever rechaza el cobre en los precios de subasta. Wanderer Auction escribe cada precio en platas enteras para que ninguna venta sea rechazada."
+				},
+				{
+					"q": "¿Necesito Wanderer Bags para usar Wanderer Auction?",
+					"a": "No, solo Wanderer. Con Wanderer Bags, tus marcas guían lo que se ofrece y la lista de la compra está a un Alt+clic."
+				},
+				{
+					"q": "¿Puedo conservar la ventana de la casa de subastas del juego?",
+					"a": "Sí. Una opción conserva la ventana del juego, y un enlace a su lado abre la de Wanderer cuando quieras."
+				},
+				{
+					"q": "¿Mi lista de la compra se comparte entre personajes?",
+					"a": "La lista es propia de cada personaje. Los precios que has visto se comparten entre todos."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo de Wanderer Auction",
+			"tagline": "La casa de subastas",
+			"summary": "Vende, compra y sigue tus subastas en una ventana, con un precio justo propuesto, nunca por debajo del mercader, y una lista de la compra en cualquier parte."
+		}
+	},
+	"it": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Auction: casa d'aste in tutta calma (WoW Forever)",
+				"description": "Wanderer Auction, addon gratuito per WoW Forever: vendi, compra e segui in una finestra, un prezzo giusto, mai sotto un mercante, una lista della spesa."
+			},
+			"h1": "La casa d'aste in un'unica finestra tranquilla, mai sotto il prezzo del mercante",
+			"lead": "Wanderer Auction è un'estensione gratuita di Wanderer per World of Warcraft Forever. Porta la casa d'aste del gioco in un'unica finestra di Wanderer, per vendere, comprare, seguire le tue aste e leggere i prezzi degli ultimi giorni, e aggiunge una lista della spesa che puoi aprire ovunque. Una regola sopra tutte: non vendi mai per meno di quanto ti darebbe un mercante.",
+			"sections": [
+				{
+					"id": "sell",
+					"h2": "Come sceglie il prezzo di vendita?",
+					"paragraphs": [
+						"Scegli un oggetto e il suo prezzo viene cercato subito. Il prezzo ottimizzato sta appena sotto la prima offerta credibile, misurato sugli ultimi quattordici giorni; le offerte esca, troppo basse per essere vere, sono escluse, e una riga spiega il perché di quel prezzo. Vendita rapida o prezzo di mercato sono a una scelta di distanza.",
+						"Scrivi un prezzo come preferisci: 1.5, 1g50s o 75s. Un prezzo sotto la metà del valore abituale di un oggetto, o sopra il triplo, appare in rosso e viene chiesto prima di metterlo all'asta, e «Tieni come tuo prezzo» lo rende il minimo mai proposto per quell'oggetto. Ciò che metti da parte in Wanderer Bags viene per primo, gli oggetti identici vengono messi all'asta insieme, e Vendi tutto mette in fila tutto ciò che qui rende più che da un mercante: Spazio mette all'asta il successivo."
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "Venderà mai sotto il prezzo del mercante?",
+					"paragraphs": [
+						"Mai. La casa d'aste trattiene una percentuale su ogni vendita, quindi Wanderer Auction confronta ciò che riceveresti davvero con ciò che dà un mercante. Un prezzo che renderebbe meno viene alzato a quello del mercante, e te lo dice. Un deposito più alto del tuo guadagno viene segnalato.",
+						"Con Wanderer Bags, un oggetto messo da parte per la casa d'aste che vale sicuramente di più da un mercante diventa cianfrusaglia. Gli oggetti che il server rifiuta di mettere all'asta vengono ricordati e non più proposti."
+					]
+				},
+				{
+					"id": "buy",
+					"h2": "Come cercare e comprare alla casa d'aste?",
+					"paragraphs": [
+						"Cerca per nome nelle categorie del gioco, con rarità, livelli, solo oggetti utilizzabili e i tuoi preferiti; le tue ultime ricerche ti aspettano sotto il campo di ricerca. Un prezzo appare in verde quando è ben sotto il suo prezzo abituale, in rosso quando è ben sopra. Le merci si comprano a quantità con il totale indicato prima, gli oggetti a prezzo di acquisto o con un'offerta, e ogni acquisto e ogni offerta vengono confermati."
+					]
+				},
+				{
+					"id": "follow",
+					"h2": "Come seguire le mie aste e offerte?",
+					"paragraphs": [
+						"La scheda In corso riunisce le tue aste e le tue offerte: più economico altrove, il più economico, venduto e in arrivo per posta, offerta superata. Un'azione per riga: annullare con il costo chiesto prima, rilanciare al minimo possibile o comprare subito. «Riprendi le superate» raccoglie in una scheda le aste che conviene rimettere in vendita, ciascuna annullata con il suo clic, il deposito perso indicato prima."
+					]
+				},
+				{
+					"id": "history",
+					"h2": "È il momento giusto per vendere?",
+					"paragraphs": [
+						"La scheda Cronologia mostra i prezzi di un oggetto negli ultimi quattordici giorni in un piccolo grafico, con il valore di mercato e l'offerta più bassa del giorno, e lo dice chiaramente: buon momento per vendere, prezzo abituale, meglio aspettare o meglio da un mercante. Lontano dalla casa d'aste, l'ultimo prezzo visto appare nella descrizione dell'oggetto."
+					]
+				},
+				{
+					"id": "shopping",
+					"h2": "Posso tenere una lista della spesa?",
+					"paragraphs": [
+						"Sì, e si apre ovunque. Aggiungi un oggetto dalle tue borse, dalle missioni, dai promemoria o dalla finestra di una professione, che invia i reagenti che ti mancano e dice quanto costa la ricetta rispetto a quanto rende. Una riga può valere una volta, o sempre con te con un numero: frecce, cibo, reagenti. Alla casa d'aste, tutta la lista viene cercata in una volta, il più economico prima.",
+						"Da un mercante che lo vende, un collegamento +N compra esattamente ciò che manca. Se vuoi, viene comprato all'arrivo, solo con oro e sotto un limite per visita, e il banchiere può darti prima ciò che la tua banca contiene. Tieni premuto Maiusc per evitare entrambe le cose."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Wanderer Auction sostituisce Auctionator?",
+					"a": "Non è il suo scopo. Funziona accanto ad Auctionator o TradeSkillMaster: quando uno dei due è installato, la finestra del gioco resta finché non scegli quella di Wanderer, e il prezzo nella descrizione è lasciato ad Auctionator."
+				},
+				{
+					"q": "Wanderer Auction compra o vende qualcosa da solo?",
+					"a": "No. Ogni vendita richiede un tuo gesto, ogni acquisto, offerta e annullamento viene confermato prima. Da un mercante, nulla viene comprato se non clicchi +N o non attivi l'acquisto all'arrivo, con un limite per visita."
+				},
+				{
+					"q": "E se scrivo un prezzo sbagliato per errore?",
+					"a": "Un prezzo sotto la metà del valore abituale dell'oggetto, o sopra il triplo, appare in rosso e viene chiesto di nuovo prima di metterlo all'asta, anche con Vendi tutto. E nessun prezzo viene mai proposto sotto ciò che dà un mercante."
+				},
+				{
+					"q": "Perché i prezzi sono in argento intero?",
+					"a": "Perché il server di WoW Forever rifiuta il rame nei prezzi d'asta. Wanderer Auction scrive ogni prezzo in argento intero, così nessuna vendita viene rifiutata."
+				},
+				{
+					"q": "Serve Wanderer Bags per usare Wanderer Auction?",
+					"a": "No, solo Wanderer. Con Wanderer Bags, i tuoi segni guidano ciò che viene proposto e la lista della spesa è a un Alt+clic."
+				},
+				{
+					"q": "Posso tenere la finestra della casa d'aste del gioco?",
+					"a": "Sì. Un'opzione mantiene la finestra del gioco, e un collegamento accanto apre quella di Wanderer quando vuoi."
+				},
+				{
+					"q": "La lista della spesa è condivisa tra i personaggi?",
+					"a": "La lista appartiene a ogni personaggio. I prezzi che hai visto sono condivisi da tutti."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo di Wanderer Auction",
+			"tagline": "La casa d'aste",
+			"summary": "Vendi, compra e segui le aste in una finestra, con un prezzo giusto proposto, mai sotto un mercante, e una lista della spesa ovunque."
+		}
+	},
+	"pt-br": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Auction: casa de leilões tranquila (WoW Forever)",
+				"description": "Wanderer Auction, addon grátis para WoW Forever: venda, compre e acompanhe numa janela, preço justo, nunca abaixo do mercador, lista de compras."
+			},
+			"h1": "A casa de leilões em uma janela tranquila, nunca abaixo do mercador",
+			"lead": "Wanderer Auction é uma extensão gratuita do Wanderer para World of Warcraft Forever. Ela traz a casa de leilões do próprio jogo para uma única janela do Wanderer, para vender, comprar, acompanhar seus leilões e ler os preços dos últimos dias, e acrescenta uma lista de compras que você abre em qualquer lugar. Uma regra acima de tudo: você nunca vende por menos do que um mercador pagaria.",
+			"sections": [
+				{
+					"id": "sell",
+					"h2": "Como ele escolhe o preço de venda?",
+					"paragraphs": [
+						"Escolha um item e seu preço é buscado na hora. O preço otimizado fica logo abaixo da primeira oferta confiável, comparado aos últimos catorze dias; as ofertas-isca baixas demais para serem reais ficam de fora, e uma linha explica o porquê desse preço. Vender rápido ou o preço de mercado estão a uma escolha de distância.",
+						"Digite o preço como quiser: 1.5, 1g50s ou 75s. Um preço abaixo da metade do valor habitual de um item, ou acima do triplo, aparece em vermelho e é perguntado antes de anunciar, e «Guardar como seu preço» faz dele o menor já oferecido para esse item. O que você separa no Wanderer Bags vem primeiro, itens idênticos são anunciados juntos, e Vender tudo enfileira tudo o que rende mais aqui do que num mercador: Espaço anuncia o próximo."
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "Ele vende abaixo do preço do mercador?",
+					"paragraphs": [
+						"Nunca. A casa de leilões fica com uma parte de cada venda, então o Wanderer Auction compara o que você realmente receberia com o que um mercador paga. Um preço que renderia menos é elevado ao do mercador, e isso é informado. Um depósito maior que o seu ganho é apontado.",
+						"Com o Wanderer Bags, um item separado para a casa de leilões que com certeza vale mais num mercador vira lixo. Os itens que o servidor recusa anunciar são lembrados e não são mais oferecidos."
+					]
+				},
+				{
+					"id": "buy",
+					"h2": "Como buscar e comprar?",
+					"paragraphs": [
+						"Busque por nome dentro das categorias do jogo, com raridade, níveis, só itens utilizáveis e seus favoritos; suas últimas buscas esperam embaixo do campo de busca. Um preço aparece em verde quando está bem abaixo do habitual, em vermelho quando está bem acima. Mercadorias são compradas por quantidade, com o total informado antes, itens por arremate ou por lance, e cada compra e cada lance é confirmado."
+					]
+				},
+				{
+					"id": "follow",
+					"h2": "Como acompanhar meus leilões e lances?",
+					"paragraphs": [
+						"A aba Em andamento reúne seus leilões e seus lances: mais barato em outro lugar, o mais barato, vendido e a caminho pelo correio, lance superado. Uma ação por linha: cancelar, com o custo informado antes, dar um novo lance com o mínimo possível, ou arrematar. «Retirar as superadas» junta num cartão os leilões que valem ser anunciados de novo, cada um cancelado com o seu próprio clique, o depósito perdido informado antes."
+					]
+				},
+				{
+					"id": "history",
+					"h2": "Agora é um bom momento para vender?",
+					"paragraphs": [
+						"A aba Histórico mostra os preços de um item nos últimos catorze dias num pequeno gráfico, com o valor de mercado e a oferta mais barata do dia, e diz com clareza: bom momento para vender, o preço de costume, melhor esperar ou melhor num mercador. Longe da casa de leilões, o último preço visto aparece na dica do item."
+					]
+				},
+				{
+					"id": "shopping",
+					"h2": "Posso manter uma lista de compras?",
+					"paragraphs": [
+						"Sim, e ela abre em qualquer lugar. Adicione um item a partir das suas bolsas, das suas missões, dos seus lembretes ou da janela de uma profissão, que envia os reagentes que faltam e diz quanto a receita custa diante do que ela rende. Uma linha pode valer uma vez só, ou ficar sempre com você com uma quantidade: flechas, comida, reagentes. Na casa de leilões, a lista inteira é buscada de uma vez, o mais barato primeiro.",
+						"Num mercador que o vende, um link +N compra exatamente o que falta. Se quiser, a compra acontece ao chegar, só com ouro e dentro de um limite por visita, e o banqueiro pode entregar primeiro o que o seu banco tem. Segure Shift para pular os dois."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "O Wanderer Auction substitui o Auctionator?",
+					"a": "Não é essa a ideia. Ele funciona ao lado do Auctionator ou do TradeSkillMaster: quando um deles está instalado, a janela do jogo continua até você escolher a do Wanderer, e o preço na dica fica com o Auctionator."
+				},
+				{
+					"q": "O Wanderer Auction compra ou vende alguma coisa sozinho?",
+					"a": "Não. Cada venda precisa de um gesto seu, e cada compra, lance e cancelamento é confirmado antes. Num mercador, nada é comprado a menos que você clique em +N ou ligue a compra ao chegar, com limite por visita."
+				},
+				{
+					"q": "E se eu digitar um preço errado sem querer?",
+					"a": "Um preço abaixo da metade do valor habitual do item, ou acima do triplo, aparece em vermelho e é perguntado de novo antes de anunciar, também em Vender tudo. E nenhum preço é oferecido abaixo do que um mercador paga."
+				},
+				{
+					"q": "Por que os preços são em pratas inteiras?",
+					"a": "Porque o servidor do WoW Forever recusa cobre nos preços de leilão. O Wanderer Auction escreve cada preço em pratas inteiras para que nenhuma venda seja recusada."
+				},
+				{
+					"q": "Preciso do Wanderer Bags para usar o Wanderer Auction?",
+					"a": "Não, só do Wanderer. Com o Wanderer Bags, as suas marcas orientam o que é oferecido e a lista de compras fica a um Alt+clique."
+				},
+				{
+					"q": "Posso manter a janela da casa de leilões do jogo?",
+					"a": "Sim. Uma opção mantém a janela do jogo, e um link ao lado dela abre a do Wanderer quando você quiser."
+				},
+				{
+					"q": "Minha lista de compras é compartilhada entre personagens?",
+					"a": "A lista é de cada personagem. Os preços que você viu são compartilhados por todos eles."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo do Wanderer Auction",
+			"tagline": "A casa de leilões",
+			"summary": "Vender, comprar e acompanhar numa janela, um preço justo sugerido, nunca abaixo de um mercador, e uma lista de compras em qualquer lugar."
+		}
+	},
+	"ru": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Auction: спокойный аддон аукциона (WoW Forever)",
+				"description": "Wanderer Auction, бесплатный аддон для WoW Forever: продажа, покупка и лоты в одном окне, честная цена, никогда ниже торговца, список покупок."
+			},
+			"h1": "Аукцион в одном спокойном окне, никогда ниже цены торговца",
+			"lead": "Wanderer Auction это бесплатное расширение Wanderer для World of Warcraft Forever. Оно переносит игровой аукцион в одно окно Wanderer, чтобы продавать, покупать, следить за лотами и читать цены последних дней, и добавляет список покупок, который открывается где угодно. Главное правило: вы никогда не продаёте дешевле, чем дал бы торговец.",
+			"sections": [
+				{
+					"id": "sell",
+					"h2": "Как выбирается цена продажи?",
+					"paragraphs": [
+						"Выберите предмет, и его цена сразу ищется. Оптимальная цена стоит чуть ниже первого правдоподобного предложения и сверяется с последними четырнадцатью днями; приманки, слишком дешёвые, чтобы быть настоящими, отбрасываются, а строка объясняет, почему именно эта цена. «Продать быстро» или рыночная цена в одном выборе.",
+						"Вводите цену как удобно: 1.5, 1g50s или 75s. Цена ниже половины обычной стоимости предмета или выше тройной показывается красным и уточняется перед выставлением, а «Запомнить как вашу цену» делает её самой низкой, какая будет предложена для этого предмета. Отложенное в Wanderer Bags идёт первым, одинаковые предметы выставляются вместе, а «Продать всё» выстраивает всё, что здесь дороже, чем у торговца: пробел выставляет следующий лот."
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "Продаст ли он когда-нибудь дешевле цены торговца?",
+					"paragraphs": [
+						"Никогда. Аукцион берёт комиссию с каждой продажи, поэтому Wanderer Auction сравнивает то, что вы реально получите, с тем, что даёт торговец. Цена, которая принесла бы меньше, поднимается до цены торговца, и об этом сказано. Залог больше вашей выгоды тоже указывается.",
+						"С Wanderer Bags предмет, отложенный для аукциона, который у торговца наверняка стоит больше, становится хламом. Предметы, которые сервер отказывается выставлять, запоминаются и больше не предлагаются."
+					]
+				},
+				{
+					"id": "buy",
+					"h2": "Как искать и покупать?",
+					"paragraphs": [
+						"Ищите по названию в игровых категориях, с редкостью, уровнями, только используемыми предметами и вашим избранным; ваши последние поиски ждут под полем поиска. Цена зелёная, когда она заметно ниже обычной, и красная, когда заметно выше. Товары покупаются по количеству, и общая стоимость называется заранее, предметы за выкуп или по ставке, а каждая покупка и ставка подтверждается."
+					]
+				},
+				{
+					"id": "follow",
+					"h2": "Как следить за своими лотами и ставками?",
+					"paragraphs": [
+						"Вкладка «Мои лоты» собирает ваши лоты и ставки: дешевле у других, самый дешёвый, продан и идёт почтой, ставка перебита. Одно действие на строку: отменить, сначала узнав стоимость, снова поставить минимально возможное или выкупить. «Снять перебитые» собирает в одной карточке лоты, которые стоит выставить заново, каждый снимается своим щелчком, а потерянный залог называется заранее."
+					]
+				},
+				{
+					"id": "history",
+					"h2": "Сейчас удачное время для продажи?",
+					"paragraphs": [
+						"Вкладка «История» показывает цены предмета за последние четырнадцать дней на небольшом графике, его рыночную стоимость и самое дешёвое предложение сегодня, и говорит прямо: удачное время для продажи, обычная цена, лучше подождать или лучше продать торговцу. Вдали от аукциона последняя увиденная цена видна в подсказке предмета."
+					]
+				},
+				{
+					"id": "shopping",
+					"h2": "Можно ли вести список покупок?",
+					"paragraphs": [
+						"Да, и он открывается где угодно. Добавляйте предметы из сумок, заданий, памятки или окна профессии, которое отправляет недостающие реагенты и говорит, сколько стоит рецепт и сколько за него выручить. Строка может быть разовой или «всегда при себе» с количеством: стрелы, еда, реагенты. На аукционе весь список ищется сразу, сначала самое дешёвое.",
+						"У торговца, который его продаёт, ссылка +N покупает ровно недостающее. Если хотите, оно покупается при подходе, только за золото и не выше лимита за визит, а банкир может сначала выдать то, что лежит в банке. Удерживайте Shift, чтобы пропустить и то, и другое."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Заменяет ли Wanderer Auction Auctionator?",
+					"a": "Он для этого не задуман. Он работает рядом с Auctionator или TradeSkillMaster: когда один из них установлен, остаётся игровое окно, пока вы не выберете окно Wanderer, а цена в подсказке остаётся за Auctionator."
+				},
+				{
+					"q": "Покупает или продаёт ли Wanderer Auction что-то сам?",
+					"a": "Нет. Каждая продажа требует вашего действия, каждая покупка, ставка и отмена сначала подтверждается. У торговца ничего не покупается, пока вы не нажмёте +N или не включите покупку при подходе, с лимитом за визит."
+				},
+				{
+					"q": "А если я по ошибке введу неверную цену?",
+					"a": "Цена ниже половины обычной стоимости предмета или выше тройной показывается красным и ещё раз уточняется перед выставлением, и в «Продать всё» тоже. А цена ниже той, что даёт торговец, не предлагается никогда."
+				},
+				{
+					"q": "Почему цены в целом серебре?",
+					"a": "Потому что сервер WoW Forever отказывает в медяках в ценах аукциона. Wanderer Auction пишет каждую цену в целом серебре, чтобы ни одна продажа не была отклонена."
+				},
+				{
+					"q": "Нужен ли Wanderer Bags для Wanderer Auction?",
+					"a": "Нет, только Wanderer. С Wanderer Bags ваши пометки определяют, что предлагается, а список покупок в одном Alt+щелчке."
+				},
+				{
+					"q": "Можно ли оставить игровое окно аукциона?",
+					"a": "Да. Параметр оставляет игровое окно, а ссылка рядом с ним открывает окно Wanderer, когда захотите."
+				},
+				{
+					"q": "Общий ли список покупок у моих персонажей?",
+					"a": "Список свой у каждого персонажа. Увиденные цены общие для всех."
+				}
+			]
+		},
+		"card": {
+			"alt": "Логотип Wanderer Auction",
+			"tagline": "Аукцион",
+			"summary": "Продажа, покупка и ваши лоты в одном окне, честная цена, никогда ниже торговца, и список покупок где угодно."
+		}
+	},
+	"ko": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Auction: 차분한 경매장 애드온 (WoW Forever)",
+				"description": "무료 WoW Forever 애드온 Wanderer Auction: 판매, 구매, 관리를 한 창에서, 적정 가격 제안, 상인가 아래로는 절대 판매 안 함, 구매 목록."
+			},
+			"h1": "하나의 차분한 창에 담긴 경매장, 상인가 아래로는 절대 팔지 않습니다",
+			"lead": "Wanderer Auction은 World of Warcraft Forever용 Wanderer의 무료 확장입니다. 게임 본래의 경매장을 하나의 Wanderer 창으로 옮겨 판매, 구매, 내 경매 관리, 최근 며칠의 가격 확인을 할 수 있게 하고, 어디서나 여는 구매 목록을 더합니다. 무엇보다 한 가지 원칙을 지킵니다. 상인이 주는 가격보다 싸게 파는 일은 절대 없습니다.",
+			"sections": [
+				{
+					"id": "sell",
+					"h2": "판매 가격은 어떻게 정해지나요?",
+					"paragraphs": [
+						"물건을 고르면 바로 가격을 찾습니다. 최적화 가격은 처음 나오는 믿을 만한 매물 바로 아래에 놓이며 최근 14일과 비교됩니다. 진짜라기엔 지나치게 싼 미끼 매물은 제외되고, 한 줄이 왜 그 가격인지 설명합니다. 빨리 팔기나 시세대로도 선택 하나면 됩니다.",
+						"가격은 1.5, 1g50s, 75s처럼 편한 대로 입력하세요. 평소 가치의 절반보다 낮거나 세 배보다 높은 가격은 빨간색으로 표시되고 등록 전에 한 번 더 묻습니다. '내 가격으로 기억'을 누르면 그 가격이 해당 아이템에 제시될 최저가가 됩니다. Wanderer Bags에서 따로 둔 물건이 먼저 오고, 같은 아이템은 함께 등록되며, 모두 판매는 상인보다 여기서 더 받는 물건을 모두 줄 세웁니다. 스페이스로 다음 물건을 등록합니다."
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "상인 판매가보다 싸게 팔릴 일이 있나요?",
+					"paragraphs": [
+						"절대 없습니다. 경매장은 판매할 때마다 수수료를 떼므로, Wanderer Auction은 실제로 받게 될 금액을 상인이 주는 금액과 비교합니다. 그보다 적게 받는 가격은 상인가로 올리고 그 사실을 알려 줍니다. 얻을 금액보다 큰 보증금도 짚어 줍니다.",
+						"Wanderer Bags와 함께라면, 경매장용으로 따로 둔 물건이 상인에게 파는 편이 확실히 낫다면 잡동사니가 됩니다. 서버가 등록을 거부한 아이템은 기억해 두고 더 이상 제안하지 않습니다."
+					]
+				},
+				{
+					"id": "buy",
+					"h2": "검색과 구매는 어떻게 하나요?",
+					"paragraphs": [
+						"게임의 분류 안에서 이름으로 검색하고, 희귀도, 레벨, 사용 가능한 아이템만, 즐겨찾기로 좁힙니다. 최근 검색어는 검색창 아래에 남아 있습니다. 평소 가격보다 훨씬 싸면 초록색, 훨씬 비싸면 빨간색으로 표시됩니다. 일반 상품은 수량 단위로 총비용을 먼저 보여 주고 구매하며, 아이템은 즉시 구매가나 입찰로 구매하고, 모든 구매와 입찰은 확인을 거칩니다."
+					]
+				},
+				{
+					"id": "follow",
+					"h2": "내 경매와 입찰을 관리하려면?",
+					"paragraphs": [
+						"진행 중 탭이 내 경매와 입찰을 모읍니다: 다른 곳이 더 쌈, 최저가, 판매되어 우편으로 오는 중, 상회 입찰됨. 줄마다 행동은 하나입니다. 비용을 먼저 확인받는 취소, 가능한 최소 금액으로 다시 입찰, 또는 즉시 구매. '밀린 경매 회수'는 다시 올릴 가치가 있는 경매를 카드 하나에 모으고, 잃는 보증금을 먼저 알려 준 뒤 클릭 한 번에 하나씩 취소합니다."
+					]
+				},
+				{
+					"id": "history",
+					"h2": "지금 팔기 좋은 때인가요?",
+					"paragraphs": [
+						"기록 탭은 아이템의 최근 14일 가격을 작은 그래프로 보여 주고, 시장 가치와 오늘의 최저가를 알려 주며, 분명하게 말해 줍니다: 팔기 좋은 때, 평소 가격, 기다리는 편이 나음, 상인에게 파는 편이 나음. 경매장 밖에서는 마지막으로 본 가격이 아이템 툴팁에 표시됩니다."
+					]
+				},
+				{
+					"id": "shopping",
+					"h2": "구매 목록을 둘 수 있나요?",
+					"paragraphs": [
+						"네, 어디서나 열립니다. 가방, 퀘스트, 비망록, 전문 기술 창에서 아이템을 추가하세요. 전문 기술 창은 부족한 재료를 보내 주고, 제작법의 재료비와 판매 금액도 알려 줍니다. 한 줄은 한 번만 살 수도 있고, 화살, 음식, 재료처럼 수량을 정해 항상 지닐 수도 있습니다. 경매장에서는 목록 전체를 한 번에 검색하며 가장 싼 것부터 보여 줍니다.",
+						"그 아이템을 파는 상인에게서는 +N 링크가 부족한 만큼만 삽니다. 원하면 도착할 때 자동으로 사며, 골드로만, 방문당 한도 안에서만 삽니다. 은행원은 은행에 있는 것을 먼저 꺼내 줄 수 있습니다. 둘 다 건너뛰려면 Shift를 누르세요."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Wanderer Auction이 Auctionator를 대체하나요?",
+					"a": "그런 목적이 아닙니다. Auctionator나 TradeSkillMaster와 함께 동작합니다. 둘 중 하나가 설치되어 있으면 Wanderer 창을 고를 때까지 게임 창이 유지되고, 툴팁의 가격 표시는 Auctionator에 맡깁니다."
+				},
+				{
+					"q": "Wanderer Auction이 저절로 사거나 팔기도 하나요?",
+					"a": "아니요. 모든 판매에는 직접 조작이 필요하고, 모든 구매, 입찰, 취소는 먼저 확인을 받습니다. 상인에게서는 +N을 클릭하거나 방문당 한도가 있는 도착 시 구매를 켜지 않는 한 아무것도 사지 않습니다."
+				},
+				{
+					"q": "실수로 가격을 잘못 입력하면요?",
+					"a": "평소 가치의 절반보다 낮거나 세 배보다 높은 가격은 빨간색으로 표시되고, 모두 판매 중에도 등록 전에 다시 묻습니다. 그리고 상인이 주는 금액보다 낮은 가격은 절대 제시되지 않습니다."
+				},
+				{
+					"q": "왜 가격이 실버 단위인가요?",
+					"a": "WoW Forever 서버가 경매 가격의 코퍼 단위를 거부하기 때문입니다. Wanderer Auction은 판매가 거부되지 않도록 모든 가격을 실버 단위로 씁니다."
+				},
+				{
+					"q": "Wanderer Auction을 쓰려면 Wanderer Bags가 필요한가요?",
+					"a": "아니요, Wanderer만 있으면 됩니다. Wanderer Bags와 함께라면 내 표시가 제안할 물건을 정하고, 구매 목록은 Alt+클릭 한 번이면 됩니다."
+				},
+				{
+					"q": "게임의 경매장 창을 그대로 쓸 수 있나요?",
+					"a": "네. 옵션 하나로 게임 창을 유지하고, 그 옆의 링크로 언제든 Wanderer 창을 엽니다."
+				},
+				{
+					"q": "구매 목록은 캐릭터끼리 공유되나요?",
+					"a": "목록은 캐릭터마다 따로입니다. 확인한 가격은 모든 캐릭터가 함께 씁니다."
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Auction 로고",
+			"tagline": "경매장",
+			"summary": "판매, 구매, 관리를 한 창에서. 적정 가격을 제안하되 상인가 아래로는 절대 팔지 않고, 구매 목록은 어디서나."
+		}
+	},
+	"zh-cn": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Auction：安静的拍卖行插件 (WoW Forever)",
+				"description": "Wanderer Auction，免费 WoW Forever 插件：一个窗口完成出售、购买与跟踪，给出合理价格，绝不低于商人收购价，附购物清单。"
+			},
+			"h1": "拍卖行尽在一个安静的窗口，绝不低于商人价格",
+			"lead": "Wanderer Auction 是 Wanderer 为 World of Warcraft Forever 推出的免费扩展。它把游戏原本的拍卖行带入一个 Wanderer 窗口，用来出售、购买、跟踪你的拍卖并查看最近几天的价格，还增加了一份随处可开的购物清单。最重要的一条原则：你卖出的价格绝不会低于商人给你的价格。",
+			"sections": [
+				{
+					"id": "sell",
+					"h2": "出售价格是如何决定的？",
+					"paragraphs": [
+						"选择一件物品，立即查找它的价格。优化价格略低于第一个可信报价，并对照最近十四天的行情；低得不像真的诱饵报价会被排除，还有一行文字说明为什么是这个价格。「快速出售」或「按市价」也只需一次选择。",
+						"价格随你输入，1.5、1g50s 或 75s 都可以。低于物品平常价值一半或高于三倍的价格会显示为红色，并在上架前询问你；「记为你的价格」会让它成为该物品今后报出的最低价。你在 Wanderer Bags 中预留的物品排在最前，相同物品一起上架，「全部出售」会排好所有在这里比卖给商人更值钱的物品：按空格上架下一件。"
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "会不会以低于商人收购价的价格卖出？",
+					"paragraphs": [
+						"绝不会。拍卖行每笔交易都会抽成，因此 Wanderer Auction 会把你实际到手的金额与商人给出的价格比较。到手更少的价格会被提高到商人价，并告诉你。保证金高于你的收益时也会提醒。",
+						"配合 Wanderer Bags，预留给拍卖行但显然卖给商人更值钱的物品会变成垃圾。服务器拒绝上架的物品会被记住，不再提议出售。"
+					]
+				},
+				{
+					"id": "buy",
+					"h2": "如何搜索和购买？",
+					"paragraphs": [
+						"在游戏的分类中按名称搜索，可筛选品质、等级、仅可用物品以及你的收藏；最近的搜索留在搜索框下方。价格远低于平常时显示为绿色，远高于平常时显示为红色。商品按数量购买并先显示总价，物品通过一口价或竞拍购买，每次购买和竞拍都需确认。"
+					]
+				},
+				{
+					"id": "follow",
+					"h2": "如何跟踪我的拍卖和竞拍？",
+					"paragraphs": [
+						"「进行中」标签汇集你的拍卖和竞拍：别处更便宜、当前最低价、已售出正通过邮件寄来、已被出价超过。每行一个操作：取消（先告知费用）、以最低加价再次竞拍，或一口价买下。「收回被压价的拍卖」把值得重新上架的拍卖集中到一张卡片里，每次点击取消一件，并先告知会损失的保证金。"
+					]
+				},
+				{
+					"id": "history",
+					"h2": "现在适合出售吗？",
+					"paragraphs": [
+						"「历史」标签以小图表显示物品最近十四天的价格、它的市场价值和今天的最低价，并直接告诉你：现在适合出售、正常价格、最好再等等，或者卖给商人更划算。离开拍卖行后，最后看到的价格会显示在物品的鼠标提示中。"
+					]
+				},
+				{
+					"id": "shopping",
+					"h2": "我可以保留一份购物清单吗？",
+					"paragraphs": [
+						"可以，而且随处都能打开。可以从背包、任务、备忘或专业窗口添加物品，专业窗口会送来你缺少的材料，并告诉你配方的材料成本和成品售价。每一行可以只买一次，也可以设定数量始终随身：箭、食物、材料。在拍卖行，整份清单一次搜索，最便宜的在前。",
+						"在出售它的商人处，+N 链接会正好买下所缺的数量。如果你愿意，也可以在抵达时自动购买，仅限金币，且每次光顾都有上限；银行职员也可以先取出你银行里已有的。按住 Shift 两者都会跳过。"
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Wanderer Auction 会取代 Auctionator 吗？",
+					"a": "这不是它的目的。它可以与 Auctionator 或 TradeSkillMaster 并存：安装了其中之一时，会保留游戏窗口，直到你选择 Wanderer 的窗口，鼠标提示中的价格则交给 Auctionator。"
+				},
+				{
+					"q": "Wanderer Auction 会自己买卖东西吗？",
+					"a": "不会。每次出售都需要你亲自操作，每次购买、竞拍和取消都会先确认。在商人处，除非你点击 +N 或开启有单次上限的抵达时购买，否则什么都不会买。"
+				},
+				{
+					"q": "如果我不小心输错了价格怎么办？",
+					"a": "低于物品平常价值一半或高于三倍的价格会显示为红色，并在上架前再次询问，「全部出售」时也一样。而且绝不会报出低于商人收购价的价格。"
+				},
+				{
+					"q": "为什么价格都是整银？",
+					"a": "因为 WoW Forever 的服务器拒绝拍卖价格中带铜币。Wanderer Auction 把所有价格写成整银，这样就不会有出售被拒绝。"
+				},
+				{
+					"q": "使用 Wanderer Auction 需要 Wanderer Bags 吗？",
+					"a": "不需要，只需要 Wanderer。配合 Wanderer Bags，你的标记会决定提议出售的物品，购物清单也只需 Alt+点击。"
+				},
+				{
+					"q": "可以保留游戏自带的拍卖行窗口吗？",
+					"a": "可以。一个选项可以保留游戏窗口，旁边的链接随时能打开 Wanderer 的窗口。"
+				},
+				{
+					"q": "购物清单在角色之间共享吗？",
+					"a": "清单归每个角色各自所有。你看到过的价格则所有角色共享。"
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Auction 标志",
+			"tagline": "拍卖行",
+			"summary": "一个窗口完成出售、购买和跟踪，给出合理价格，绝不低于商人收购价，购物清单随处可开。"
+		}
+	},
+	"zh-tw": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Auction：安靜的拍賣場插件 (WoW Forever)",
+				"description": "Wanderer Auction，免費 WoW Forever 插件：一個視窗完成出售、購買與追蹤，給出合理價格，絕不低於商人收購價，附購物清單。"
+			},
+			"h1": "拍賣場盡在一個安靜的視窗，絕不低於商人價格",
+			"lead": "Wanderer Auction 是 Wanderer 為 World of Warcraft Forever 推出的免費擴充。它把遊戲原本的拍賣場帶入一個 Wanderer 視窗，用來出售、購買、追蹤你的拍賣並查看最近幾天的價格，還增加了一份隨處可開的購物清單。最重要的一條原則：你賣出的價格絕不會低於商人給你的價格。",
+			"sections": [
+				{
+					"id": "sell",
+					"h2": "出售價格是如何決定的？",
+					"paragraphs": [
+						"選擇一件物品，立即查找它的價格。最佳化價格略低於第一個可信報價，並對照最近十四天的行情；低得不像真的誘餌報價會被排除，還有一行文字說明為什麼是這個價格。「快速出售」或「依市價」也只需一次選擇。",
+						"價格隨你輸入，1.5、1g50s 或 75s 都可以。低於物品平常價值一半或高於三倍的價格會顯示為紅色，並在上架前詢問你；「記為你的價格」會讓它成為該物品今後報出的最低價。你在 Wanderer Bags 中預留的物品排在最前，相同物品一起上架，「全部出售」會排好所有在這裡比賣給商人更值錢的物品：按空白鍵上架下一件。"
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "會不會以低於商人收購價的價格賣出？",
+					"paragraphs": [
+						"絕不會。拍賣場每筆交易都會抽成，因此 Wanderer Auction 會把你實際到手的金額與商人給的價格比較。到手更少的價格會被提高到商人價，並告訴你。保證金高於你的收益時也會提醒。",
+						"搭配 Wanderer Bags，預留給拍賣場但顯然賣給商人更值錢的物品會變成垃圾。伺服器拒絕上架的物品會被記住，不再提議出售。"
+					]
+				},
+				{
+					"id": "buy",
+					"h2": "如何搜尋和購買？",
+					"paragraphs": [
+						"在遊戲的分類中依名稱搜尋，可篩選品質、等級、僅可用物品以及你的最愛；最近的搜尋留在搜尋框下方。價格遠低於平常時顯示為綠色，遠高於平常時顯示為紅色。商品依數量購買並先顯示總價，物品透過直購價或競標購買，每次購買和競標都需確認。"
+					]
+				},
+				{
+					"id": "follow",
+					"h2": "如何追蹤我的拍賣和競標？",
+					"paragraphs": [
+						"「進行中」分頁匯集你的拍賣和競標：別處更便宜、目前最低價、已售出正透過郵件寄來、出價已被超過。每列一個操作：取消（先告知費用）、以最低加價再次競標，或直購買下。「收回被壓價的拍賣」把值得重新上架的拍賣集中到一張卡片裡，每次點擊取消一件，並先告知會損失的保證金。"
+					]
+				},
+				{
+					"id": "history",
+					"h2": "現在適合出售嗎？",
+					"paragraphs": [
+						"「歷史」分頁以小圖表顯示物品最近十四天的價格、它的市場價值和今天的最低價，並直接告訴你：現在適合出售、正常價格、最好再等等，或者賣給商人更划算。離開拍賣場後，最後看到的價格會顯示在物品的滑鼠提示中。"
+					]
+				},
+				{
+					"id": "shopping",
+					"h2": "我可以保留一份購物清單嗎？",
+					"paragraphs": [
+						"可以，而且隨處都能開啟。可以從背包、任務、備忘或專業視窗新增物品，專業視窗會送來你缺少的材料，並告訴你配方的材料成本和成品售價。每一行可以只買一次，也可以設定數量始終隨身：箭、食物、材料。在拍賣場，整份清單一次搜尋，最便宜的在前。",
+						"在出售它的商人處，+N 連結會正好買下所缺的數量。如果你願意，也可以在抵達時自動購買，僅限金幣，且每次造訪都有上限；銀行員也可以先取出你銀行裡已有的。按住 Shift 兩者都會略過。"
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Wanderer Auction 會取代 Auctionator 嗎？",
+					"a": "這不是它的目的。它可以與 Auctionator 或 TradeSkillMaster 並存：安裝了其中之一時，會保留遊戲視窗，直到你選擇 Wanderer 的視窗，滑鼠提示中的價格則交給 Auctionator。"
+				},
+				{
+					"q": "Wanderer Auction 會自己買賣東西嗎？",
+					"a": "不會。每次出售都需要你親自操作，每次購買、競標和取消都會先確認。在商人處，除非你點擊 +N 或開啟有單次上限的抵達時購買，否則什麼都不會買。"
+				},
+				{
+					"q": "如果我不小心輸錯了價格怎麼辦？",
+					"a": "低於物品平常價值一半或高於三倍的價格會顯示為紅色，並在上架前再次詢問，「全部出售」時也一樣。而且絕不會報出低於商人收購價的價格。"
+				},
+				{
+					"q": "為什麼價格都是整銀？",
+					"a": "因為 WoW Forever 的伺服器拒絕拍賣價格中帶銅幣。Wanderer Auction 把所有價格寫成整銀，這樣就不會有出售被拒絕。"
+				},
+				{
+					"q": "使用 Wanderer Auction 需要 Wanderer Bags 嗎？",
+					"a": "不需要，只需要 Wanderer。搭配 Wanderer Bags，你的標記會決定提議出售的物品，購物清單也只需 Alt+點擊。"
+				},
+				{
+					"q": "可以保留遊戲內建的拍賣場視窗嗎？",
+					"a": "可以。一個選項可以保留遊戲視窗，旁邊的連結隨時能開啟 Wanderer 的視窗。"
+				},
+				{
+					"q": "購物清單在角色之間共用嗎？",
+					"a": "清單歸每個角色各自所有。你看過的價格則所有角色共用。"
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Auction 標誌",
+			"tagline": "拍賣場",
+			"summary": "一個視窗完成出售、購買和追蹤，給出合理價格，絕不低於商人收購價，購物清單隨處可開。"
+		}
+	}
+}

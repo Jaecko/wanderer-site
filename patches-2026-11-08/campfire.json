@@ -1,0 +1,952 @@
+{
+	"en": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Campfire Game: an idle game by the fire",
+				"description": "Wanderer Campfire Game, a free WoW Forever addon: grow a campfire, send companions on real-time expeditions, and let your real journey strengthen the camp."
+			},
+			"h1": "A little game by the fire, fed by your journey",
+			"lead": "Wanderer Campfire Game is a free extension of Wanderer for World of Warcraft Forever. A campfire grows tier after tier, companions gather around it and set out on expeditions across Azeroth in real time. What you do in the game makes it stronger; what it gives stays in its own world.",
+			"sections": [
+				{
+					"id": "fire",
+					"h2": "How does the camp grow?",
+					"paragraphs": [
+						"The fire makes embers all the time, even while you are away (twelve hours, more with the ashes). Stoke it with a click, buy its producers and their upgrades. With embers and renown it grows through seven tiers, each bringing room for more companions and more expeditions at once; the seventh, the eternal blaze, never ends, each of its levels asking more.",
+						"Six buildings, each up to five levels: a kitchen for provisions, a forge for strength, an apothecary for wounds, tents for room, a storehouse for reserves, a watchtower for what comes back."
+					]
+				},
+				{
+					"id": "ashes",
+					"h2": "What is a new fire?",
+					"paragraphs": [
+						"Once a fire has grown, let it go out for its ashes. Only the fire begins again: the tier, the buildings, the companions, the expeditions and the resources stay. Each ash makes every fire after it stronger, for good, and between two fires, and only then, they are spent in the ashes' tree."
+					]
+				},
+				{
+					"id": "companions",
+					"h2": "Who are the companions?",
+					"paragraphs": [
+						"Each companion is an NPC of the game, of a race of your faction their class allows, ringed in their class color: a protector, a healer or a fighter, with a trait of their own. Their sheet shows them standing in 3D between seven pieces of real game gear, with their strength, statistics, talents and journey.",
+						"They level up on the road, choose a talent at levels 20, 40 and 60, come in three rarities, and a faithful companion is promoted in time. Won expeditions bring gear: uncommon in zones, rare in dungeons, epic in raids. An exalted reputation brings a champion of that faction to your fire."
+					]
+				},
+				{
+					"id": "expeditions",
+					"h2": "How do the expeditions work?",
+					"paragraphs": [
+						"Choose a place, how long and who goes: forty-four zones, twenty-three dungeons and seven raids, WoW Forever's own among them. The odds, the provisions, what it should bring and what each companion would learn are said before you leave. Each place holds its threats, and companions who know a spell of their class to counter them raise the odds; one click picks the best party.",
+						"Contracts on the board offer a road with its own reward, and one you have seen stays until you take it. A standing order, Set out again on each return, sends the same party down the same road each time it comes back, until someone is hurt or provisions run short. Each party's face moves along the map of the roads."
+					]
+				},
+				{
+					"id": "return",
+					"h2": "What happens when my companions come back?",
+					"paragraphs": [
+						"One card greets you at the camp: what the fire made and the expeditions back, collected in one click or read one by one. Each report shows the place, victory or defeat, the experience gained, the spoils and the gear found, and tells the story of the road: which companion held off which threat, with what spell, and why a lost road was lost.",
+						"A long absence is not wasted. An absence longer than the fire burns leaves a rested camp, and the next roads teach half as much again. Last week's chest waits for you, and the notice of a return waits until you are out of a fight or a dungeon."
+					]
+				},
+				{
+					"id": "journey",
+					"h2": "How does my real journey count?",
+					"paragraphs": [
+						"A zone opens to expeditions when your character has its exploration achievement. Your level opens the fire's tiers and the dungeons. Your professions strengthen the camp, and the quartermaster asks for goods of your professions: have them in your bags or your bank, they stay yours.",
+						"Each quest you hand in brings renown, each fish caught and each dish cooked brings provisions. A boss you kill in a dungeon or a raid makes it lived: its expeditions bring a quarter more, for good.",
+						"Sit by a real campfire of the game and everything the camp makes grows by half while you stay there."
+					]
+				},
+				{
+					"id": "nights",
+					"h2": "What happens by the fire?",
+					"paragraphs": [
+						"Every few hours something happens by the fire: a peddler, a storm, wolves, a bard. You choose, and live with it. Some stories go on over three nights.",
+						"Trophies to find in every place, feats of the camp, and champions of your exalted factions."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Does Wanderer Campfire Game give anything in the real game?",
+					"a": "No. It only reads what your character has done (achievements, level, professions, items in your bags); everything it gives stays in the game by the fire."
+				},
+				{
+					"q": "Does it slow down my game?",
+					"a": "No. Nothing runs while its window is closed: the time gone by is counted when you look, and one timer only waits for the next expedition to come back."
+				},
+				{
+					"q": "Do I need to log in often?",
+					"a": "No. Expeditions last from fifteen minutes to a whole day, a standing order sends a party out again by itself, contracts you have seen stay on the board, and a long absence leaves a rested camp. Come back when you like."
+				},
+				{
+					"q": "Is the camp shared between my characters?",
+					"a": "No. Each character has its own camp, fed by its own journey."
+				},
+				{
+					"q": "How do I open it?",
+					"a": "From Wanderer's menu, a key of yours in the game's key bindings, or /wcampfire."
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Campfire Game logo: a small campfire under the stars, an adventurer's pack and a map beside it",
+			"tagline": "A little game by the fire",
+			"summary": "A small idle game by the fire: companions on real-time expeditions, and your real journey makes the camp stronger."
+		}
+	},
+	"fr": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Campfire Game : un jeu idle au coin du feu",
+				"description": "Wanderer Campfire Game, addon gratuit pour WoW Forever : un feu de camp qui grandit, des expéditions en temps réel, un camp renforcé par votre voyage."
+			},
+			"h1": "Un petit jeu au coin du feu, nourri par votre voyage",
+			"lead": "Wanderer Campfire Game est une extension gratuite de Wanderer pour World of Warcraft Forever. Un feu de camp grandit palier après palier, des compagnons s'y réunissent et partent en expédition à travers Azeroth en temps réel. Ce que vous faites dans le jeu le renforce ; ce qu'il donne reste dans son propre monde.",
+			"sections": [
+				{
+					"id": "fire",
+					"h2": "Comment le camp grandit-il ?",
+					"paragraphs": [
+						"Le feu produit des braises sans cesse, même pendant votre absence (douze heures, davantage avec les cendres). Tisonnez-le d'un clic, achetez ses producteurs et leurs améliorations. Avec les braises et la renommée, il grandit en sept paliers, chacun apportant de la place pour plus de compagnons et plus d'expéditions à la fois ; le septième, le brasier éternel, ne finit jamais, chacun de ses niveaux demandant davantage.",
+						"Six bâtiments, chacun jusqu'à cinq niveaux : une cuisine pour les provisions, une forge pour la force, une apothicairerie pour les blessures, des tentes pour la place, une réserve pour les stocks, une tour de guet pour ce qui revient."
+					]
+				},
+				{
+					"id": "ashes",
+					"h2": "Qu'est-ce qu'un nouveau feu ?",
+					"paragraphs": [
+						"Quand un feu a bien grandi, laissez-le s'éteindre pour ses cendres. Seul le feu recommence : le palier, les bâtiments, les compagnons, les expéditions et les ressources restent. Chaque cendre rend tous les feux suivants plus forts, pour de bon, et c'est entre deux feux, et seulement alors, qu'elles se dépensent dans l'arbre des cendres."
+					]
+				},
+				{
+					"id": "companions",
+					"h2": "Qui sont les compagnons ?",
+					"paragraphs": [
+						"Chaque compagnon est un PNJ du jeu, d'une race de votre faction que sa classe permet, cerclé de la couleur de sa classe : un protecteur, un soigneur ou un combattant, avec un trait bien à lui. Sa fiche le montre debout en 3D entre sept pièces d'équipement réel du jeu, avec sa force, ses statistiques, ses talents et son parcours.",
+						"Ils montent de niveau sur la route, choisissent un talent aux niveaux 20, 40 et 60, existent en trois raretés, et un compagnon fidèle finit par être promu. Les expéditions gagnées rapportent de l'équipement : inhabituel dans les zones, rare dans les donjons, épique dans les raids. Une réputation exaltée amène à votre feu un champion de cette faction."
+					]
+				},
+				{
+					"id": "expeditions",
+					"h2": "Comment fonctionnent les expéditions ?",
+					"paragraphs": [
+						"Choisissez un lieu, une durée et qui part : quarante-quatre zones, vingt-trois donjons et sept raids, dont ceux de WoW Forever. Les chances, les provisions, ce que la route devrait rapporter et ce que chaque compagnon y apprendrait sont dits avant le départ. Chaque lieu a ses menaces, et les compagnons qui connaissent un sort de leur classe pour les contrer font monter les chances ; un clic choisit le meilleur groupe.",
+						"Les contrats du tableau proposent une route avec sa propre récompense, et un contrat que vous avez vu reste jusqu'à ce que vous le preniez. Un ordre permanent, Repartir à chaque retour, renvoie le même groupe sur la même route à chacun de ses retours, jusqu'à ce que quelqu'un soit blessé ou que les provisions manquent. Le visage de chaque groupe avance sur la carte des routes."
+					]
+				},
+				{
+					"id": "return",
+					"h2": "Que se passe-t-il au retour de mes compagnons ?",
+					"paragraphs": [
+						"Une seule carte vous accueille au camp : ce que le feu a produit et les expéditions revenues, tout reçu d'un clic ou lu rapport par rapport. Chaque rapport montre le lieu, la victoire ou la défaite, l'expérience gagnée, le butin et l'équipement trouvé, et raconte la route : quel compagnon a tenu tête à quelle menace, avec quel sort, et pourquoi une route perdue l'a été.",
+						"Une longue absence n'est pas perdue. Une absence plus longue que le feu ne brûle laisse un camp reposé, et les routes suivantes apprennent moitié plus. Le coffre de la semaine passée vous attend, et la notice d'un retour attend que vous soyez sorti d'un combat ou d'un donjon."
+					]
+				},
+				{
+					"id": "journey",
+					"h2": "Comment mon vrai voyage compte-t-il ?",
+					"paragraphs": [
+						"Une zone s'ouvre aux expéditions quand votre personnage a son haut fait d'exploration. Votre niveau ouvre les paliers du feu et les donjons. Vos métiers renforcent le camp, et le quartier-maître demande des marchandises de vos métiers : ayez-les dans vos sacs ou votre banque, elles restent à vous.",
+						"Chaque quête rendue apporte de la renommée, chaque poisson pêché et chaque plat cuisiné des provisions. Un boss que vous tuez dans un donjon ou un raid le rend vécu : ses expéditions rapportent un quart de plus, pour de bon.",
+						"Asseyez-vous près d'un vrai feu de camp du jeu et tout ce que produit le camp augmente de moitié tant que vous y restez."
+					]
+				},
+				{
+					"id": "nights",
+					"h2": "Que se passe-t-il au coin du feu ?",
+					"paragraphs": [
+						"Toutes les quelques heures, il se passe quelque chose au coin du feu : un colporteur, un orage, des loups, un barde. Vous choisissez, et vous faites avec. Certaines histoires se poursuivent sur trois nuits.",
+						"Des trophées à trouver en chaque lieu, des hauts faits du camp, et les champions de vos factions exaltées."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Wanderer Campfire Game donne-t-il quelque chose dans le vrai jeu ?",
+					"a": "Non. Il lit seulement ce que votre personnage a fait (hauts faits, niveau, métiers, objets dans vos sacs) ; tout ce qu'il donne reste dans le jeu au coin du feu."
+				},
+				{
+					"q": "Ralentit-il mon jeu ?",
+					"a": "Non. Rien ne tourne quand sa fenêtre est fermée : le temps écoulé est compté quand vous regardez, et un seul minuteur attend le retour de la prochaine expédition."
+				},
+				{
+					"q": "Faut-il se connecter souvent ?",
+					"a": "Non. Les expéditions durent d'un quart d'heure à une journée entière, un ordre permanent fait repartir un groupe de lui-même, les contrats que vous avez vus restent au tableau, et une longue absence laisse un camp reposé. Revenez quand vous voulez."
+				},
+				{
+					"q": "Le camp est-il partagé entre mes personnages ?",
+					"a": "Non. Chaque personnage a son propre camp, nourri par son propre voyage."
+				},
+				{
+					"q": "Comment l'ouvrir ?",
+					"a": "Depuis le menu de Wanderer, une touche à vous dans les raccourcis du jeu, ou /wcampfire."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo de Wanderer Campfire Game : un petit feu de camp sous les étoiles, un sac d'aventurier et une carte à côté",
+			"tagline": "Un petit jeu au coin du feu",
+			"summary": "Un petit jeu idle au coin du feu : des compagnons en expédition en temps réel, et votre vrai voyage renforce le camp."
+		}
+	},
+	"de": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Campfire Game: ein Idle-Spiel am Feuer",
+				"description": "Wanderer Campfire Game, kostenloses Addon für WoW Forever: Lass ein Lagerfeuer wachsen, schick Gefährten auf Expeditionen, deine echte Reise stärkt es."
+			},
+			"h1": "Ein kleines Spiel am Feuer, genährt von deiner Reise",
+			"lead": "Wanderer Campfire Game ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Ein Lagerfeuer wächst Stufe um Stufe, Gefährten versammeln sich daran und ziehen in Echtzeit auf Expeditionen durch Azeroth. Was du im Spiel tust, macht es stärker; was es gibt, bleibt in seiner eigenen Welt.",
+			"sections": [
+				{
+					"id": "fire",
+					"h2": "Wie wächst das Lager?",
+					"paragraphs": [
+						"Das Feuer erzeugt ständig Glut, auch während du fort bist (zwölf Stunden, mit der Asche mehr). Schür es mit einem Klick, kauf seine Erzeuger und ihre Verbesserungen. Mit Glut und Ruhm wächst es durch sieben Stufen, jede mit Platz für mehr Gefährten und mehr Expeditionen zugleich; die siebte, die ewige Glut, endet nie, und jede ihrer Stufen verlangt mehr.",
+						"Sechs Gebäude, jedes bis Stufe fünf: eine Küche für Proviant, eine Schmiede für Stärke, eine Apotheke für Wunden, Zelte für Platz, ein Lagerhaus für Reserven, ein Wachturm für das, was zurückkommt."
+					]
+				},
+				{
+					"id": "ashes",
+					"h2": "Was ist ein neues Feuer?",
+					"paragraphs": [
+						"Ist ein Feuer gewachsen, lass es für seine Asche erlöschen. Nur das Feuer beginnt von vorn: Stufe, Gebäude, Gefährten, Expeditionen und Ressourcen bleiben. Jede Asche macht alle folgenden Feuer stärker, für immer, und zwischen zwei Feuern, und nur dann, wird sie im Aschebaum ausgegeben."
+					]
+				},
+				{
+					"id": "companions",
+					"h2": "Wer sind die Gefährten?",
+					"paragraphs": [
+						"Jeder Gefährte ist ein NPC des Spiels, von einem Volk deiner Fraktion, das seine Klasse erlaubt, umrandet in seiner Klassenfarbe: ein Beschützer, ein Heiler oder ein Kämpfer, mit einem eigenen Wesenszug. Sein Blatt zeigt ihn stehend in 3D zwischen sieben Stücken echter Ausrüstung des Spiels, mit Stärke, Werten, Talenten und Werdegang.",
+						"Sie steigen unterwegs auf, wählen auf Stufe 20, 40 und 60 ein Talent, gibt es in drei Seltenheiten, und ein treuer Gefährte wird mit der Zeit befördert. Gewonnene Expeditionen bringen Ausrüstung: ungewöhnlich in Gebieten, selten in Dungeons, episch in Schlachtzügen. Ein ehrfürchtiger Ruf bringt einen Champion dieser Fraktion an dein Feuer."
+					]
+				},
+				{
+					"id": "expeditions",
+					"h2": "Wie funktionieren die Expeditionen?",
+					"paragraphs": [
+						"Wähle einen Ort, eine Dauer und wer aufbricht: vierundvierzig Gebiete, dreiundzwanzig Dungeons und sieben Schlachtzüge, auch die von WoW Forever. Die Chancen, der Proviant, was es bringen sollte und was jeder Gefährte lernen würde, stehen vor dem Aufbruch da. Jeder Ort hat seine Bedrohungen, und Gefährten, die einen Zauber ihrer Klasse dagegen kennen, heben die Chancen; ein Klick wählt die beste Gruppe.",
+						"Aufträge am Brett bieten einen Weg mit eigener Belohnung, und ein Auftrag, den du gesehen hast, bleibt, bis du ihn nimmst. Ein Dauerauftrag, Bei jeder Rückkehr erneut aufbrechen, schickt dieselbe Gruppe bei jeder Rückkehr denselben Weg, bis jemand verletzt ist oder der Proviant knapp wird. Das Gesicht jeder Gruppe zieht über die Karte der Wege."
+					]
+				},
+				{
+					"id": "return",
+					"h2": "Was passiert, wenn meine Gefährten zurückkommen?",
+					"paragraphs": [
+						"Eine einzige Karte empfängt dich im Lager: was das Feuer gemacht hat und die zurückgekehrten Expeditionen, alles mit einem Klick erhalten oder Bericht für Bericht gelesen. Jeder Bericht zeigt den Ort, Sieg oder Niederlage, die gewonnene Erfahrung, die Beute und die gefundene Ausrüstung, und erzählt den Weg: welcher Gefährte welcher Bedrohung standhielt, mit welchem Zauber, und warum ein verlorener Weg verloren ging.",
+						"Eine lange Abwesenheit ist nicht vergeudet. Eine Abwesenheit, länger als das Feuer brennt, hinterlässt ein ausgeruhtes Lager, und die nächsten Wege lehren die Hälfte mehr. Die Truhe der letzten Woche wartet auf dich, und die Nachricht einer Rückkehr wartet, bis du aus einem Kampf oder einem Dungeon heraus bist."
+					]
+				},
+				{
+					"id": "journey",
+					"h2": "Wie zählt meine echte Reise?",
+					"paragraphs": [
+						"Ein Gebiet öffnet sich für Expeditionen, sobald dein Charakter dessen Erkundungserfolg hat. Deine Stufe schaltet die Stufen des Feuers und die Dungeons frei. Deine Berufe stärken das Lager, und der Quartiermeister verlangt Waren deiner Berufe: Halte sie in deinen Taschen oder deiner Bank bereit, sie bleiben deine.",
+						"Jede abgegebene Quest bringt Ruhm, jeder gefangene Fisch und jedes gekochte Gericht bringt Proviant. Ein Boss, den du in einem Dungeon oder Schlachtzug besiegst, macht diesen Ort erlebt: Seine Expeditionen bringen dauerhaft ein Viertel mehr.",
+						"Setz dich an ein echtes Lagerfeuer des Spiels, und alles, was das Lager erzeugt, wächst um die Hälfte, solange du dort bleibst."
+					]
+				},
+				{
+					"id": "nights",
+					"h2": "Was geschieht am Feuer?",
+					"paragraphs": [
+						"Alle paar Stunden geschieht etwas am Feuer: ein Hausierer, ein Sturm, Wölfe, ein Barde. Du entscheidest und lebst damit. Manche Geschichten gehen über drei Nächte weiter.",
+						"Trophäen an jedem Ort, Heldentaten des Lagers und die Champions deiner ehrfürchtigen Fraktionen."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Bringt Wanderer Campfire Game etwas im echten Spiel?",
+					"a": "Nein. Es liest nur, was dein Charakter getan hat (Erfolge, Stufe, Berufe, Gegenstände in deinen Taschen); alles, was es gibt, bleibt im Spiel am Feuer."
+				},
+				{
+					"q": "Verlangsamt es mein Spiel?",
+					"a": "Nein. Solange sein Fenster geschlossen ist, läuft nichts: Die vergangene Zeit wird gezählt, wenn du hinschaust, und ein einziger Timer wartet nur auf die Rückkehr der nächsten Expedition."
+				},
+				{
+					"q": "Muss ich mich oft einloggen?",
+					"a": "Nein. Expeditionen dauern von einer Viertelstunde bis zu einem ganzen Tag, ein Dauerauftrag schickt eine Gruppe von selbst wieder los, gesehene Aufträge bleiben am Brett, und eine lange Abwesenheit hinterlässt ein ausgeruhtes Lager. Komm zurück, wann du willst."
+				},
+				{
+					"q": "Teilen sich meine Charaktere das Lager?",
+					"a": "Nein. Jeder Charakter hat sein eigenes Lager, genährt von seiner eigenen Reise."
+				},
+				{
+					"q": "Wie öffne ich es?",
+					"a": "Über das Menü von Wanderer, eine eigene Taste in der Tastaturbelegung des Spiels oder /wcampfire."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo von Wanderer Campfire Game: ein kleines Lagerfeuer unter den Sternen, daneben ein Abenteurerrucksack und eine Karte",
+			"tagline": "Ein kleines Spiel am Feuer",
+			"summary": "Ein kleines Idle-Spiel am Feuer: Gefährten auf Expeditionen in Echtzeit, und deine echte Reise macht das Lager stärker."
+		}
+	},
+	"es": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Campfire Game: un juego idle junto al fuego",
+				"description": "Wanderer Campfire Game, addon gratuito para WoW Forever: haz crecer una hoguera, envía compañeros de expedición en tiempo real, y tu viaje la fortalece."
+			},
+			"h1": "Un pequeño juego junto al fuego, alimentado por tu viaje",
+			"lead": "Wanderer Campfire Game es una extensión gratuita de Wanderer para World of Warcraft Forever. Una hoguera crece categoría tras categoría, los compañeros se reúnen a su alrededor y parten de expedición por Azeroth en tiempo real. Lo que haces en el juego la fortalece; lo que da se queda en su propio mundo.",
+			"sections": [
+				{
+					"id": "fire",
+					"h2": "¿Cómo crece el campamento?",
+					"paragraphs": [
+						"El fuego produce brasas sin parar, incluso mientras no estás (doce horas, más con las cenizas). Avívalo con un clic, compra sus productores y sus mejoras. Con brasas y renombre crece por siete categorías, cada una con sitio para más compañeros y más expediciones a la vez; la séptima, la hoguera eterna, nunca termina, y cada uno de sus niveles pide más.",
+						"Seis edificios, cada uno hasta nivel cinco: una cocina para los víveres, una forja para la fuerza, una botica para las heridas, tiendas para el espacio, un almacén para las reservas, una atalaya para lo que vuelve."
+					]
+				},
+				{
+					"id": "ashes",
+					"h2": "¿Qué es un fuego nuevo?",
+					"paragraphs": [
+						"Cuando un fuego ha crecido, déjalo apagarse por sus cenizas. Solo el fuego vuelve a empezar: la categoría, los edificios, los compañeros, las expediciones y los recursos se quedan. Cada ceniza hace más fuertes todos los fuegos siguientes, para siempre, y entre dos fuegos, y solo entonces, se gastan en el árbol de las cenizas."
+					]
+				},
+				{
+					"id": "companions",
+					"h2": "¿Quiénes son los compañeros?",
+					"paragraphs": [
+						"Cada compañero es un PNJ del juego, de una raza de tu facción que su clase permite, rodeado del color de su clase: un protector, un sanador o un combatiente, con un rasgo propio. Su ficha lo muestra de pie en 3D entre siete piezas de equipo real del juego, con su fuerza, estadísticas, talentos y trayectoria.",
+						"Suben de nivel en el camino, eligen un talento en los niveles 20, 40 y 60, tienen tres rarezas, y un compañero fiel acaba siendo ascendido. Las expediciones ganadas traen equipo: poco común en zonas, raro en mazmorras, épico en bandas. Una reputación exaltada trae a tu fuego un campeón de esa facción."
+					]
+				},
+				{
+					"id": "expeditions",
+					"h2": "¿Cómo funcionan las expediciones?",
+					"paragraphs": [
+						"Elige un lugar, una duración y quién parte: cuarenta y cuatro zonas, veintitrés mazmorras y siete bandas, entre ellas las de WoW Forever. Las probabilidades, las provisiones, lo que debería traer y lo que aprendería cada compañero se dicen antes de partir. Cada lugar tiene sus amenazas, y los compañeros que conocen un hechizo de su clase para contrarrestarlas suben las probabilidades; un clic elige el mejor grupo.",
+						"Los contratos del tablón ofrecen un camino con su propia recompensa, y uno que ya viste se queda hasta que lo tomes. Una orden permanente, Volver a partir en cada regreso, envía al mismo grupo por el mismo camino cada vez que regresa, hasta que alguien vuelva herido o falten provisiones. La cara de cada grupo avanza por el mapa de los caminos."
+					]
+				},
+				{
+					"id": "return",
+					"h2": "¿Qué pasa cuando vuelven mis compañeros?",
+					"paragraphs": [
+						"Una sola carta te recibe en el campamento: lo que hizo el fuego y las expediciones de vuelta, recibido todo en un clic o leído informe por informe. Cada informe muestra el lugar, la victoria o la derrota, la experiencia ganada, el botín y el equipo hallado, y cuenta el camino: qué compañero contuvo qué amenaza, con qué hechizo, y por qué se perdió un camino perdido.",
+						"Una larga ausencia no se desperdicia. Una ausencia más larga de lo que arde el fuego deja un campamento descansado, y los caminos siguientes enseñan la mitad más. El cofre de la semana pasada te espera, y el aviso de un regreso espera a que salgas de un combate o de una mazmorra."
+					]
+				},
+				{
+					"id": "journey",
+					"h2": "¿Cómo cuenta mi viaje real?",
+					"paragraphs": [
+						"Una zona se abre a las expediciones cuando tu personaje tiene su logro de exploración. Tu nivel abre las categorías del fuego y las mazmorras. Tus profesiones fortalecen el campamento, y el intendente pide bienes de tus profesiones: tenlos en tus bolsas o en tu banco, siguen siendo tuyos.",
+						"Cada misión entregada trae renombre, cada pez pescado y cada plato cocinado traen víveres. Un jefe que derrotas en una mazmorra o una banda la vuelve vivida: sus expediciones traen una cuarta parte más, para siempre.",
+						"Siéntate junto a una hoguera real del juego y todo lo que produce el campamento crece a la mitad más mientras te quedas allí."
+					]
+				},
+				{
+					"id": "nights",
+					"h2": "¿Qué pasa junto al fuego?",
+					"paragraphs": [
+						"Cada pocas horas pasa algo junto al fuego: un buhonero, una tormenta, lobos, un bardo. Tú eliges, y vives con ello. Algunas historias continúan durante tres noches.",
+						"Trofeos por encontrar en cada lugar, gestas del campamento y los campeones de tus facciones exaltadas."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "¿Wanderer Campfire Game da algo en el juego real?",
+					"a": "No. Solo lee lo que tu personaje ha hecho (logros, nivel, profesiones, objetos en tus bolsas); todo lo que da se queda en el juego junto al fuego."
+				},
+				{
+					"q": "¿Ralentiza mi juego?",
+					"a": "No. Nada funciona mientras su ventana está cerrada: el tiempo pasado se cuenta cuando miras, y un único temporizador espera el regreso de la próxima expedición."
+				},
+				{
+					"q": "¿Tengo que conectarme a menudo?",
+					"a": "No. Las expediciones duran de quince minutos a un día entero, una orden permanente hace partir de nuevo a un grupo por sí sola, los contratos que viste se quedan en el tablón, y una larga ausencia deja un campamento descansado. Vuelve cuando quieras."
+				},
+				{
+					"q": "¿El campamento se comparte entre mis personajes?",
+					"a": "No. Cada personaje tiene su propio campamento, alimentado por su propio viaje."
+				},
+				{
+					"q": "¿Cómo lo abro?",
+					"a": "Desde el menú de Wanderer, una tecla tuya en las asignaciones de teclas del juego, o /wcampfire."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo de Wanderer Campfire Game: una pequeña hoguera bajo las estrellas, con una mochila de aventurero y un mapa al lado",
+			"tagline": "Un pequeño juego junto al fuego",
+			"summary": "Un pequeño juego idle junto al fuego: compañeros en expediciones en tiempo real, y tu viaje real fortalece el campamento."
+		}
+	},
+	"it": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Campfire Game: un gioco idle accanto al fuoco",
+				"description": "Wanderer Campfire Game, addon gratuito per WoW Forever: fai crescere un fuoco, compagni in spedizione in tempo reale, e il tuo viaggio rafforza il campo."
+			},
+			"h1": "Un piccolo gioco accanto al fuoco, alimentato dal tuo viaggio",
+			"lead": "Wanderer Campfire Game è un'estensione gratuita di Wanderer per World of Warcraft Forever. Un fuoco da campo cresce grado dopo grado, i compagni vi si riuniscono e partono in spedizione per Azeroth in tempo reale. Ciò che fai nel gioco lo rafforza; ciò che dà resta nel suo mondo.",
+			"sections": [
+				{
+					"id": "fire",
+					"h2": "Come cresce l'accampamento?",
+					"paragraphs": [
+						"Il fuoco produce braci di continuo, anche mentre sei via (dodici ore, di più con le ceneri). Attizzalo con un clic, compra i suoi produttori e i loro potenziamenti. Con braci e fama cresce per sette gradi, ognuno con posto per più compagni e più spedizioni insieme; il settimo, il braciere eterno, non finisce mai, e ogni suo livello chiede di più.",
+						"Sei edifici, ognuno fino al livello cinque: una cucina per le provviste, una forgia per la forza, uno speziale per le ferite, tende per lo spazio, un magazzino per le scorte, una torre di guardia per ciò che torna."
+					]
+				},
+				{
+					"id": "ashes",
+					"h2": "Che cos'è un nuovo fuoco?",
+					"paragraphs": [
+						"Quando un fuoco è cresciuto, lascialo spegnere per le sue ceneri. Solo il fuoco ricomincia: il grado, gli edifici, i compagni, le spedizioni e le risorse restano. Ogni cenere rende più forti tutti i fuochi seguenti, per sempre, e tra due fuochi, e solo allora, si spendono nell'albero delle ceneri."
+					]
+				},
+				{
+					"id": "companions",
+					"h2": "Chi sono i compagni?",
+					"paragraphs": [
+						"Ogni compagno è un PNG del gioco, di una razza della tua fazione che la sua classe permette, cerchiato del colore della sua classe: un protettore, un guaritore o un combattente, con un tratto tutto suo. La sua scheda lo mostra in piedi in 3D tra sette pezzi di equipaggiamento reale del gioco, con forza, statistiche, talenti e percorso.",
+						"Salgono di livello sulla strada, scelgono un talento ai livelli 20, 40 e 60, hanno tre rarità, e un compagno fedele col tempo viene promosso. Le spedizioni vinte portano equipaggiamento: non comune nelle zone, raro nelle spedizioni, epico nelle incursioni. Una reputazione osannata porta al tuo fuoco un campione di quella fazione."
+					]
+				},
+				{
+					"id": "expeditions",
+					"h2": "Come funzionano le spedizioni?",
+					"paragraphs": [
+						"Scegli un luogo, una durata e chi parte: quarantaquattro zone, ventitré spedizioni e sette incursioni, tra cui quelle di WoW Forever. Le probabilità, le provviste, cosa dovrebbe portare e cosa imparerebbe ogni compagno sono dette prima di partire. Ogni luogo ha le sue minacce, e i compagni che conoscono un incantesimo della loro classe per contrastarle alzano le probabilità; un clic sceglie il gruppo migliore.",
+						"I contratti in bacheca offrono una strada con la sua ricompensa, e uno che hai visto resta finché non lo prendi. Un ordine permanente, Ripartire a ogni ritorno, rimanda lo stesso gruppo sulla stessa strada a ogni ritorno, finché qualcuno non torna ferito o mancano le provviste. Il volto di ogni gruppo avanza sulla mappa delle strade."
+					]
+				},
+				{
+					"id": "return",
+					"h2": "Cosa succede quando tornano i miei compagni?",
+					"paragraphs": [
+						"Una sola carta ti accoglie al campo: ciò che il fuoco ha prodotto e le spedizioni tornate, ricevuto tutto con un clic o letto rapporto per rapporto. Ogni rapporto mostra il luogo, la vittoria o la sconfitta, l'esperienza guadagnata, il bottino e l'equipaggiamento trovato, e racconta la strada: quale compagno ha tenuto testa a quale minaccia, con quale incantesimo, e perché una strada persa è andata persa.",
+						"Una lunga assenza non va sprecata. Un'assenza più lunga di quanto arda il fuoco lascia un accampamento riposato, e le strade seguenti insegnano la metà in più. Il forziere della settimana scorsa ti aspetta, e l'avviso di un ritorno aspetta che tu esca da un combattimento o da una spedizione."
+					]
+				},
+				{
+					"id": "journey",
+					"h2": "Come conta il mio vero viaggio nel gioco?",
+					"paragraphs": [
+						"Una zona si apre alle spedizioni quando il tuo personaggio ha la sua impresa di esplorazione. Il tuo livello apre i gradi del fuoco e i dungeon. Le tue professioni rafforzano l'accampamento, e il quartiermastro chiede merci delle tue professioni: tienile nelle borse o in banca, restano tue.",
+						"Ogni missione consegnata porta fama, ogni pesce pescato e ogni piatto cucinato portano provviste. Un boss che sconfiggi in un dungeon o in un'incursione lo rende vissuto: le sue spedizioni riportano un quarto in più, per sempre.",
+						"Siediti accanto a un vero fuoco da campo del gioco e tutto ciò che produce l'accampamento cresce della metà finché resti lì."
+					]
+				},
+				{
+					"id": "nights",
+					"h2": "Cosa succede accanto al fuoco?",
+					"paragraphs": [
+						"Ogni poche ore succede qualcosa accanto al fuoco: un venditore ambulante, una tempesta, dei lupi, un bardo. Scegli tu, e ne vivi le conseguenze. Alcune storie continuano per tre notti.",
+						"Trofei da trovare in ogni luogo, imprese del campo e i campioni delle tue fazioni osannate."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Wanderer Campfire Game dà qualcosa nel gioco vero?",
+					"a": "No. Legge solo ciò che il tuo personaggio ha fatto (imprese, livello, professioni, oggetti nelle borse); tutto ciò che dà resta nel gioco accanto al fuoco."
+				},
+				{
+					"q": "Rallenta il mio gioco?",
+					"a": "No. Non gira nulla quando la sua finestra è chiusa: il tempo trascorso viene contato quando guardi, e un solo timer aspetta il ritorno della prossima spedizione."
+				},
+				{
+					"q": "Devo collegarmi spesso?",
+					"a": "No. Le spedizioni durano da quindici minuti a un giorno intero, un ordine permanente fa ripartire un gruppo da solo, i contratti che hai visto restano in bacheca, e una lunga assenza lascia un accampamento riposato. Torna quando vuoi."
+				},
+				{
+					"q": "L'accampamento è condiviso tra i miei personaggi?",
+					"a": "No. Ogni personaggio ha il suo accampamento, alimentato dal suo viaggio."
+				},
+				{
+					"q": "Come si apre?",
+					"a": "Dal menu di Wanderer, con un tasto tuo nelle assegnazioni dei tasti del gioco, oppure con /wcampfire."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo di Wanderer Campfire Game: un piccolo fuoco da campo sotto le stelle, accanto uno zaino da avventuriero e una mappa",
+			"tagline": "Un piccolo gioco accanto al fuoco",
+			"summary": "Un piccolo gioco idle accanto al fuoco: compagni in spedizione in tempo reale, e il tuo vero viaggio rende più forte l'accampamento."
+		}
+	},
+	"pt-br": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Campfire Game: jogo idle junto à fogueira",
+				"description": "Wanderer Campfire Game, addon grátis para WoW Forever: faça a fogueira crescer, envie companheiros em expedições e sua jornada fortalece o acampamento."
+			},
+			"h1": "Um joguinho à beira da fogueira, alimentado pela sua jornada",
+			"lead": "Wanderer Campfire Game é uma extensão gratuita do Wanderer para World of Warcraft Forever. Uma fogueira cresce patamar após patamar, companheiros se reúnem em volta dela e partem em expedições por Azeroth em tempo real. O que você faz no jogo a fortalece; o que ela dá fica no seu próprio mundo.",
+			"sections": [
+				{
+					"id": "fire",
+					"h2": "Como o acampamento cresce?",
+					"paragraphs": [
+						"A fogueira produz brasas o tempo todo, mesmo enquanto você está fora (doze horas, mais com as cinzas). Atice-a com um clique, compre seus produtores e as melhorias deles. Com brasas e renome ela cresce por sete patamares, cada um com espaço para mais companheiros e mais expedições ao mesmo tempo; o sétimo, o braseiro eterno, nunca termina, e cada um dos seus níveis pede mais.",
+						"Seis construções, cada uma até o nível cinco: uma cozinha para os mantimentos, uma forja para a força, uma botica para os ferimentos, tendas para o espaço, um armazém para as reservas, uma torre de vigia para o que volta."
+					]
+				},
+				{
+					"id": "ashes",
+					"h2": "O que é uma nova fogueira?",
+					"paragraphs": [
+						"Quando uma fogueira já cresceu, deixe-a apagar por suas cinzas. Só a fogueira recomeça: o patamar, as construções, os companheiros, as expedições e os recursos ficam. Cada cinza torna todas as fogueiras seguintes mais fortes, para sempre, e entre duas fogueiras, e só então, elas são gastas na árvore das cinzas."
+					]
+				},
+				{
+					"id": "companions",
+					"h2": "Quem são os companheiros?",
+					"paragraphs": [
+						"Cada companheiro é um PNJ do jogo, de uma raça da sua facção que a classe dele permite, contornado pela cor da classe: um protetor, um curandeiro ou um combatente, com um traço próprio. A ficha mostra o companheiro de pé em 3D entre sete peças de equipamento real do jogo, com força, atributos, talentos e trajetória.",
+						"Eles sobem de nível na estrada, escolhem um talento nos níveis 20, 40 e 60, têm três raridades, e um companheiro fiel acaba promovido. As expedições vencidas trazem equipamento: incomum nas zonas, raro nas masmorras, épico nas raides. Uma reputação exaltada traz à sua fogueira um campeão dessa facção."
+					]
+				},
+				{
+					"id": "expeditions",
+					"h2": "Como funcionam as expedições?",
+					"paragraphs": [
+						"Escolha um lugar, uma duração e quem vai: quarenta e quatro zonas, vinte e três masmorras e sete raides, entre elas as do WoW Forever. As chances, as provisões, o que deve trazer e o que cada companheiro aprenderia são ditos antes da partida. Cada lugar tem suas ameaças, e os companheiros que conhecem um feitiço da classe para combatê-las aumentam as chances; um clique escolhe o melhor grupo.",
+						"Os contratos do quadro oferecem uma estrada com recompensa própria, e um que você já viu fica até você pegá-lo. Uma ordem permanente, Partir de novo a cada retorno, manda o mesmo grupo pela mesma estrada a cada volta, até alguém voltar ferido ou faltarem provisões. O rosto de cada grupo avança pelo mapa das estradas."
+					]
+				},
+				{
+					"id": "return",
+					"h2": "O que acontece quando meus companheiros voltam?",
+					"paragraphs": [
+						"Um único cartão recebe você no acampamento: o que a fogueira produziu e as expedições de volta, tudo recebido com um clique ou lido relatório por relatório. Cada relatório mostra o lugar, a vitória ou a derrota, a experiência ganha, o espólio e o equipamento encontrado, e conta a estrada: qual companheiro segurou qual ameaça, com qual feitiço, e por que uma estrada perdida foi perdida.",
+						"Uma longa ausência não é desperdiçada. Uma ausência mais longa do que a fogueira queima deixa um acampamento descansado, e as próximas estradas ensinam metade a mais. O baú da semana passada espera por você, e o aviso de um retorno espera você sair de um combate ou de uma masmorra."
+					]
+				},
+				{
+					"id": "journey",
+					"h2": "Como minha jornada de verdade conta no jogo?",
+					"paragraphs": [
+						"Uma zona se abre para expedições quando seu personagem tem a conquista de exploração dela. Seu nível libera os patamares da fogueira e as masmorras. Suas profissões fortalecem o acampamento, e o intendente pede produtos das suas profissões: tenha-os nas bolsas ou no banco, eles continuam seus.",
+						"Cada missão entregue traz renome, cada peixe pescado e cada prato cozinhado trazem mantimentos. Um chefe que você derrota em uma masmorra ou raide a torna vivida: as expedições dela rendem um quarto a mais, para sempre.",
+						"Sente-se junto a uma fogueira de verdade do jogo e tudo o que o acampamento produz cresce pela metade enquanto você fica ali."
+					]
+				},
+				{
+					"id": "nights",
+					"h2": "O que acontece à beira da fogueira?",
+					"paragraphs": [
+						"A cada poucas horas, algo acontece à beira da fogueira: um mascate, uma tempestade, lobos, um bardo. Você escolhe e convive com isso. Algumas histórias continuam por três noites.",
+						"Troféus a encontrar em cada lugar, façanhas do acampamento e os campeões das suas facções exaltadas."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "O Wanderer Campfire Game dá alguma coisa no jogo de verdade?",
+					"a": "Não. Ele só lê o que seu personagem fez (conquistas, nível, profissões, itens nas bolsas); tudo o que ele dá fica no jogo à beira da fogueira."
+				},
+				{
+					"q": "Ele deixa meu jogo mais lento?",
+					"a": "Não. Nada roda enquanto a janela dele está fechada: o tempo passado é contado quando você olha, e um único temporizador espera a volta da próxima expedição."
+				},
+				{
+					"q": "Preciso entrar no jogo com frequência?",
+					"a": "Não. As expedições duram de quinze minutos a um dia inteiro, uma ordem permanente faz um grupo partir de novo sozinho, os contratos que você viu ficam no quadro, e uma longa ausência deixa um acampamento descansado. Volte quando quiser."
+				},
+				{
+					"q": "O acampamento é compartilhado entre meus personagens?",
+					"a": "Não. Cada personagem tem seu próprio acampamento, alimentado pela sua própria jornada."
+				},
+				{
+					"q": "Como abrir?",
+					"a": "Pelo menu do Wanderer, por uma tecla sua nas teclas de atalho do jogo ou com /wcampfire."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo do Wanderer Campfire Game: uma pequena fogueira sob as estrelas, com uma mochila de aventureiro e um mapa ao lado",
+			"tagline": "Um joguinho à beira da fogueira",
+			"summary": "Um pequeno jogo idle à beira da fogueira: companheiros em expedições em tempo real, e sua jornada de verdade fortalece o acampamento."
+		}
+	},
+	"ru": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Campfire Game: idle-игра у костра",
+				"description": "Wanderer Campfire Game, бесплатный аддон для WoW Forever: разведите костёр, отправляйте спутников в походы в реальном времени, ваш путь укрепит лагерь."
+			},
+			"h1": "Небольшая игра у костра, которую питает ваше странствие",
+			"lead": "Wanderer Campfire Game это бесплатное расширение Wanderer для World of Warcraft Forever. Костёр растёт ступень за ступенью, спутники собираются вокруг и отправляются в походы по Азероту в реальном времени. То, что вы делаете в игре, делает его сильнее; то, что он даёт, остаётся в его собственном мире.",
+			"sections": [
+				{
+					"id": "fire",
+					"h2": "Как растёт лагерь?",
+					"paragraphs": [
+						"Костёр всё время даёт угли, даже пока вас нет (двенадцать часов, больше с пеплом). Раздувайте его щелчком, покупайте источники и их улучшения. С углями и славой он растёт через семь ступеней, каждая даёт место для новых спутников и походов одновременно; седьмая, вечное пламя, не кончается никогда, и каждый её уровень требует больше.",
+						"Шесть построек, у каждой до пяти уровней: кухня для провизии, кузня для силы, аптека для ран, шатры для места, склад для запасов, дозорная башня для того, что приносят обратно."
+					]
+				},
+				{
+					"id": "ashes",
+					"h2": "Что такое новый костёр?",
+					"paragraphs": [
+						"Когда костёр разгорелся, дайте ему погаснуть ради пепла. Заново начинается только костёр: ступень, постройки, спутники, походы и ресурсы остаются. Каждая частица пепла навсегда делает сильнее все следующие костры, а тратится пепел в древе пепла между двумя кострами, и только тогда."
+					]
+				},
+				{
+					"id": "companions",
+					"h2": "Кто такие спутники?",
+					"paragraphs": [
+						"Каждый спутник это NPC игры, из расы вашей фракции, доступной его классу, в кольце цвета своего класса: защитник, лекарь или боец, со своей чертой. Его карточка показывает его в полный рост в 3D среди семи предметов настоящей экипировки игры, с силой, характеристиками, талантами и путём.",
+						"Спутники растут в уровне в пути, выбирают талант на 20, 40 и 60 уровнях, бывают трёх редкостей, а верного спутника со временем повышают. Выигранные походы приносят экипировку: необычную в зонах, редкую в подземельях, эпическую в рейдах. Превознесение у фракции приводит к вашему костру её чемпиона."
+					]
+				},
+				{
+					"id": "expeditions",
+					"h2": "Как работают походы?",
+					"paragraphs": [
+						"Выберите место, длительность и кто идёт: сорок четыре зоны, двадцать три подземелья и семь рейдов, в том числе места WoW Forever. Шансы, припасы, ожидаемая добыча и чему научится каждый спутник сказаны до выхода. У каждого места свои угрозы, и спутники, знающие заклинание своего класса против них, повышают шансы; один щелчок подбирает лучший отряд.",
+						"Контракты на доске предлагают путь со своей наградой, и увиденный контракт остаётся, пока вы его не возьмёте. Постоянный приказ, Снова выходить при каждом возвращении, отправляет тот же отряд тем же путём при каждом возвращении, пока кто-то не ранен или не кончились припасы. Лицо каждого отряда движется по карте дорог."
+					]
+				},
+				{
+					"id": "return",
+					"h2": "Что происходит, когда спутники возвращаются?",
+					"paragraphs": [
+						"В лагере вас встречает одна карточка: что сделал костёр и вернувшиеся походы, всё получено одним щелчком или прочитано отчёт за отчётом. Каждый отчёт показывает место, победу или поражение, полученный опыт, добычу и найденную экипировку и рассказывает о пути: какой спутник сдержал какую угрозу, каким заклинанием, и почему проигранный путь был проигран.",
+						"Долгое отсутствие не пропадает даром. Отсутствие дольше, чем горит костёр, оставляет отдохнувший лагерь, и следующие пути дают в полтора раза больше опыта. Сундук прошлой недели ждёт вас, а сообщение о возвращении ждёт, пока вы не выйдете из боя или подземелья."
+					]
+				},
+				{
+					"id": "journey",
+					"h2": "Как учитывается моё настоящее странствие?",
+					"paragraphs": [
+						"Зона открывается для походов, когда у вашего персонажа есть её достижение за исследование. Ваш уровень открывает ступени костра и подземелья. Профессии укрепляют лагерь, а интендант просит товары ваших профессий: держите их в сумках или в банке, они останутся у вас.",
+						"Каждое сданное задание приносит славу, каждая пойманная рыба и каждое приготовленное блюдо приносят провизию. Босс, убитый вами в подземелье или рейде, делает это место пройденным лично: его походы навсегда приносят на четверть больше.",
+						"Сядьте у настоящего костра в игре, и всё, что производит лагерь, растёт наполовину, пока вы там остаётесь."
+					]
+				},
+				{
+					"id": "nights",
+					"h2": "Что происходит у костра?",
+					"paragraphs": [
+						"Каждые несколько часов у костра что-то случается: бродячий торговец, буря, волки, бард. Вы выбираете, и с этим придётся жить. Некоторые истории длятся три ночи.",
+						"Трофеи в каждом месте, подвиги лагеря и защитники ваших превознесённых фракций."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Даёт ли Wanderer Campfire Game что-нибудь в самой игре?",
+					"a": "Нет. Он лишь читает, что сделал ваш персонаж (достижения, уровень, профессии, предметы в сумках); всё, что он даёт, остаётся в игре у костра."
+				},
+				{
+					"q": "Замедляет ли он игру?",
+					"a": "Нет. Пока его окно закрыто, ничего не работает: прошедшее время подсчитывается, когда вы смотрите, и лишь один таймер ждёт возвращения следующего похода."
+				},
+				{
+					"q": "Нужно ли часто заходить в игру?",
+					"a": "Нет. Походы длятся от пятнадцати минут до целого дня, постоянный приказ сам отправляет отряд снова, увиденные контракты остаются на доске, а долгое отсутствие оставляет отдохнувший лагерь. Возвращайтесь, когда захотите."
+				},
+				{
+					"q": "Общий ли лагерь у моих персонажей?",
+					"a": "Нет. У каждого персонажа свой лагерь, который питает его собственное странствие."
+				},
+				{
+					"q": "Как его открыть?",
+					"a": "Из меню Wanderer, своей клавишей в назначении клавиш игры или командой /wcampfire."
+				}
+			]
+		},
+		"card": {
+			"alt": "Логотип Wanderer Campfire Game: небольшой костёр под звёздами, рядом рюкзак искателя приключений и карта",
+			"tagline": "Небольшая игра у костра",
+			"summary": "Небольшая idle-игра у костра: спутники в походах в реальном времени, а ваше настоящее странствие укрепляет лагерь."
+		}
+	},
+	"ko": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Campfire Game: 모닥불 곁의 방치형 게임",
+				"description": "무료 WoW Forever 애드온 Wanderer Campfire Game: 모닥불을 키우고, 동료를 실시간 원정에 보내며, 실제 여정으로 야영지를 강하게 만드세요."
+			},
+			"h1": "실제 여정으로 자라는, 모닥불 곁의 작은 게임",
+			"lead": "Wanderer Campfire Game은 World of Warcraft Forever용 Wanderer의 무료 확장입니다. 모닥불이 단계를 거듭하며 커지고, 동료들이 모여 아제로스 곳곳으로 실시간 원정을 떠납니다. 게임에서 하는 일이 야영지를 강하게 하고, 야영지가 주는 것은 그 세계 안에 머뭅니다.",
+			"sections": [
+				{
+					"id": "fire",
+					"h2": "야영지는 어떻게 성장하나요?",
+					"paragraphs": [
+						"불은 자리를 비운 동안에도 계속 불씨를 만듭니다(12시간, 재가 있으면 더 길게). 클릭으로 불을 지피고 생산자와 그 강화를 사세요. 불씨와 명성으로 일곱 단계를 거쳐 커지며, 단계마다 더 많은 동료와 동시 원정을 위한 자리가 생깁니다. 7단계 영원한 화염은 끝이 없고, 레벨마다 더 많은 것을 요구합니다.",
+						"건물은 여섯 개, 각각 최대 5레벨입니다: 식량을 위한 주방, 힘을 위한 대장간, 부상을 위한 약제실, 자리를 위한 천막, 비축을 위한 창고, 돌아오는 것을 위한 감시탑."
+					]
+				},
+				{
+					"id": "ashes",
+					"h2": "새 불이란 무엇인가요?",
+					"paragraphs": [
+						"불이 충분히 커지면 재를 얻기 위해 꺼지게 두세요. 불만 다시 시작됩니다. 단계, 건물, 동료, 원정, 자원은 그대로입니다. 재 하나하나가 이후의 모든 불을 영원히 강하게 하며, 재는 두 불 사이에만, 그때만 재의 나무에서 사용합니다."
+					]
+				},
+				{
+					"id": "companions",
+					"h2": "동료는 누구인가요?",
+					"paragraphs": [
+						"동료는 모두 게임 속 NPC로, 직업이 허용하는 내 진영의 종족이며 직업 색 테두리를 두릅니다. 방어 전담, 치유사, 공격 전담 중 하나이고 저마다 고유한 특성이 있습니다. 상세 정보에는 실제 게임 장비 일곱 부위 사이에 3D로 서 있는 모습과 함께 힘, 능력치, 특성, 여정이 나옵니다.",
+						"동료는 길 위에서 레벨이 오르고, 20, 40, 60레벨에 특성을 고르며, 세 가지 희귀도가 있고, 충실한 동료는 때가 되면 승급합니다. 승리한 원정은 장비를 가져옵니다. 지역에서는 고급, 던전에서는 희귀, 공격대에서는 영웅 장비입니다. 진영 평판이 확고한 동맹이 되면 그 진영의 용사가 모닥불에 찾아옵니다."
+					]
+				},
+				{
+					"id": "expeditions",
+					"h2": "원정은 어떻게 진행되나요?",
+					"paragraphs": [
+						"장소, 기간, 갈 동료를 고릅니다. 44개 지역, 23개 던전, 7개 공격대가 있고 WoW Forever만의 장소도 포함됩니다. 성공 확률, 식량, 가져올 것, 각 동료가 배울 것을 출발 전에 알려 줍니다. 장소마다 위협이 있고, 이를 막는 직업 주문을 아는 동료가 확률을 높입니다. 클릭 한 번으로 최고의 파티를 고릅니다.",
+						"게시판의 계약은 고유한 보상이 걸린 길을 제안하며, 한 번 본 계약은 받을 때까지 남아 있습니다. 상시 명령인 돌아올 때마다 다시 출발은 같은 파티를 돌아올 때마다 같은 길로 보내며, 누가 다치거나 식량이 모자라면 멈춥니다. 각 파티의 얼굴이 길 지도 위를 움직입니다."
+					]
+				},
+				{
+					"id": "return",
+					"h2": "동료가 돌아오면 무슨 일이 일어나나요?",
+					"paragraphs": [
+						"야영지에서 카드 한 장이 맞이합니다. 모닥불이 만든 것과 돌아온 원정을 클릭 한 번으로 모두 받거나 보고서를 하나씩 읽을 수 있습니다. 보고서마다 장소, 승패, 얻은 경험치, 전리품, 찾은 장비가 나오고, 어떤 동료가 어떤 주문으로 어떤 위협을 막았는지, 진 길은 왜 졌는지 길 이야기를 들려줍니다.",
+						"오래 비운 시간도 헛되지 않습니다. 모닥불이 타는 시간보다 오래 비우면 야영지가 휴식 상태가 되어 다음 길에서 경험치를 절반 더 얻습니다. 지난주 상자는 기다려 주고, 귀환 알림은 전투나 던전에서 나올 때까지 기다립니다."
+					]
+				},
+				{
+					"id": "journey",
+					"h2": "실제 여정은 어떻게 반영되나요?",
+					"paragraphs": [
+						"캐릭터가 지역 탐험 업적을 달성하면 그 지역이 원정에 열립니다. 레벨에 따라 모닥불 단계와 던전이 열립니다. 전문 기술은 야영지를 강하게 하고, 병참장교는 내 전문 기술의 물품을 요청합니다. 가방이나 은행에 가지고 있기만 하면 되고, 물품은 그대로 내 것입니다.",
+						"퀘스트를 완료할 때마다 명성을, 물고기를 낚거나 요리를 할 때마다 식량을 얻습니다. 던전이나 공격대에서 우두머리를 처치하면 그곳은 직접 겪은 장소가 되어, 그곳 원정의 보상이 영구히 4분의 1 늘어납니다.",
+						"게임 속 진짜 모닥불 곁에 앉으면, 그곳에 머무는 동안 야영지가 만드는 모든 것이 절반 더 늘어납니다."
+					]
+				},
+				{
+					"id": "nights",
+					"h2": "모닥불 곁에서는 무슨 일이 일어나나요?",
+					"paragraphs": [
+						"몇 시간마다 모닥불 곁에 무슨 일이 생깁니다: 행상인, 폭풍, 늑대, 음유시인. 선택은 내 몫이고, 결과도 감수해야 합니다. 어떤 이야기는 사흘 밤에 걸쳐 이어집니다.",
+						"장소마다 찾을 전리품, 야영지의 업적, 그리고 확고한 동맹 진영의 용사들."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Wanderer Campfire Game이 실제 게임에서 무언가를 주나요?",
+					"a": "아니요. 캐릭터가 한 일(업적, 레벨, 전문 기술, 가방 속 아이템)을 읽기만 하며, 주는 것은 모두 모닥불 곁의 게임 안에 머뭅니다."
+				},
+				{
+					"q": "게임이 느려지나요?",
+					"a": "아니요. 창이 닫혀 있는 동안에는 아무것도 실행하지 않습니다. 지난 시간은 창을 볼 때 계산되고, 타이머 하나만 다음 원정대의 귀환을 기다립니다."
+				},
+				{
+					"q": "자주 접속해야 하나요?",
+					"a": "아니요. 원정은 15분에서 하루까지 걸리고, 상시 명령은 파티를 알아서 다시 보내며, 본 계약은 게시판에 남고, 오래 비우면 야영지가 휴식 상태가 됩니다. 원할 때 돌아오세요."
+				},
+				{
+					"q": "야영지는 캐릭터끼리 공유되나요?",
+					"a": "아니요. 캐릭터마다 자기 여정으로 키우는 자기 야영지가 있습니다."
+				},
+				{
+					"q": "어떻게 여나요?",
+					"a": "Wanderer 메뉴, 게임의 단축키 설정에서 정한 키, 또는 /wcampfire로 엽니다."
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Campfire Game 로고: 별빛 아래의 작은 모닥불, 그 곁의 모험가 배낭과 지도",
+			"tagline": "모닥불 곁의 작은 게임",
+			"summary": "모닥불 곁의 작은 방치형 게임: 동료들이 실시간 원정을 떠나고, 실제 여정이 야영지를 강하게 합니다."
+		}
+	},
+	"zh-cn": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Campfire Game：篝火旁的放置小游戏",
+				"description": "Wanderer Campfire Game，WoW Forever 免费插件：让篝火成长，派同伴实时远征，让你真实的旅程壮大营地。"
+			},
+			"h1": "篝火旁的小游戏，由你的旅程滋养",
+			"lead": "Wanderer Campfire Game 是 Wanderer 为 World of Warcraft Forever 推出的免费扩展。篝火一阶一阶地壮大，同伴们围聚在旁，踏上穿越艾泽拉斯的实时远征。你在游戏中的行动让它更强；它给予的一切只留在它自己的世界里。",
+			"sections": [
+				{
+					"id": "fire",
+					"h2": "营地如何成长？",
+					"paragraphs": [
+						"篝火不停地产出余烬，即使你不在也一样（十二小时，有灰烬时更久）。点击拨旺它，购买它的产出者及其强化。凭借余烬和名望，它会经历七个阶段，每一阶都能容纳更多同伴、同时进行更多远征；第七阶永恒烈焰永无止境，每一级的要求都更高。",
+						"六座建筑，每座最高五级：厨房提供口粮，铁匠铺增强力量，药剂房医治伤势，帐篷提供空间，仓库增加储量，瞭望塔让带回的收获更多。"
+					]
+				},
+				{
+					"id": "ashes",
+					"h2": "什么是新的篝火？",
+					"paragraphs": [
+						"当一堆篝火足够壮大时，让它熄灭以换取灰烬。只有篝火重新开始：阶段、建筑、同伴、远征和资源全部保留。每一份灰烬都会永久增强之后的所有篝火，而且只有在两堆篝火之间，才能在灰烬之树中使用它们。"
+					]
+				},
+				{
+					"id": "companions",
+					"h2": "同伴是谁？",
+					"paragraphs": [
+						"每位同伴都是游戏中的 NPC，种族来自你的阵营且为其职业所允许，外圈是其职业颜色：守护者、治疗者或斗士，各有自己的特质。详情中，同伴以 3D 形象站在七件真实游戏装备之间，并显示力量、属性、天赋和经历。",
+						"他们在路上升级，在 20、40 和 60 级选择天赋，分三种稀有度，忠诚的同伴终会晋升。获胜的远征会带回装备：区域中为优秀，地下城中为精良，团队副本中为史诗。崇拜的阵营声望会把该阵营的勇士带到你的篝火旁。"
+					]
+				},
+				{
+					"id": "expeditions",
+					"h2": "远征如何进行？",
+					"paragraphs": [
+						"选择地点、时长和出发的同伴：四十四个区域、二十三个地下城和七个团队副本，其中包括 WoW Forever 自己的地点。成功率、补给、预期收获以及每位同伴能学到什么，出发前都会说明。每个地点都有威胁，掌握本职业克制法术的同伴会提高成功率；一键即可选出最佳队伍。",
+						"布告板上的契约提供带有专属奖励的路线，你看过的契约会一直保留到你接下。常驻命令“每次归来后再次出发”会让同一支队伍每次归来后再走同一条路，直到有人受伤或补给不足。每支队伍的头像会在路线地图上移动。"
+					]
+				},
+				{
+					"id": "return",
+					"h2": "同伴归来时会发生什么？",
+					"paragraphs": [
+						"营地里有一张卡片迎接你：篝火的产出和归来的远征，一键全部领取，或逐份阅读报告。每份报告显示地点、胜负、获得的经验、战利品和找到的装备，并讲述路途见闻：哪位同伴用什么法术挡住了哪种威胁，以及失败的路线为何失败。",
+						"长时间离开也不会白费。离开时间超过篝火燃烧的时长，营地会进入休整状态，之后的路线多获得一半经验。上周的宝箱会等着你，归来通知会等你离开战斗或地下城后再出现。"
+					]
+				},
+				{
+					"id": "journey",
+					"h2": "我真实的旅程如何计入？",
+					"paragraphs": [
+						"当你的角色获得某个区域的探索成就，该区域就会向远征开放。你的等级解锁篝火的阶段和地下城。你的专业让营地更强大，军需官也会索要你专业相关的物品：只要放在背包或银行里即可，物品仍归你所有。",
+						"每交一个任务都会带来名望，每钓一条鱼、每做一道菜都会带来口粮。你在地下城或团队副本中击杀的首领，会让那里成为亲历之地：那里的远征永久多带回四分之一。",
+						"坐在游戏中真实的篝火旁，只要你待在那里，营地产出的一切都会增加一半。"
+					]
+				},
+				{
+					"id": "nights",
+					"h2": "篝火旁会发生什么？",
+					"paragraphs": [
+						"每隔几个小时，篝火旁就会发生一些事：小贩、暴风雨、狼群、吟游诗人。由你做出选择，并承担后果。有些故事会延续三个夜晚。",
+						"每个地点都有战利品可寻，还有营地的功绩，以及你崇拜阵营的勇士。"
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Wanderer Campfire Game 会在真正的游戏中给予什么吗？",
+					"a": "不会。它只读取你的角色做过的事（成就、等级、专业、背包中的物品）；它给予的一切都只留在篝火旁的小游戏里。"
+				},
+				{
+					"q": "它会拖慢我的游戏吗？",
+					"a": "不会。窗口关闭时什么都不运行：流逝的时间在你查看时才计算，只有一个计时器在等待下一支远征队归来。"
+				},
+				{
+					"q": "需要经常上线吗？",
+					"a": "不需要。远征从十五分钟到一整天不等，常驻命令会让队伍自行再次出发，看过的契约会留在布告板上，长时间离开会让营地进入休整状态。想回来时再回来就好。"
+				},
+				{
+					"q": "营地在我的角色之间共享吗？",
+					"a": "不共享。每个角色都有自己的营地，由自己的旅程滋养。"
+				},
+				{
+					"q": "如何打开它？",
+					"a": "通过 Wanderer 的菜单、在游戏按键设置中为它绑定的按键，或输入 /wcampfire。"
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Campfire Game 标志：星空下的一小堆篝火，旁边是冒险者的行囊和一张地图",
+			"tagline": "篝火旁的小游戏",
+			"summary": "篝火旁的放置小游戏：同伴们踏上实时远征，你真实的旅程让营地更强大。"
+		}
+	},
+	"zh-tw": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Campfire Game：營火旁的放置小遊戲",
+				"description": "Wanderer Campfire Game，WoW Forever 免費插件：讓營火成長，派夥伴即時遠征，讓你真實的旅程壯大營地。"
+			},
+			"h1": "營火旁的小遊戲，由你的旅程滋養",
+			"lead": "Wanderer Campfire Game 是 Wanderer 為 World of Warcraft Forever 推出的免費擴充。營火一階一階地壯大，夥伴們圍聚在旁，踏上穿越艾澤拉斯的即時遠征。你在遊戲中的行動讓它更強；它給予的一切只留在它自己的世界裡。",
+			"sections": [
+				{
+					"id": "fire",
+					"h2": "營地如何成長？",
+					"paragraphs": [
+						"營火不停地產出餘燼，即使你不在也一樣（十二小時，有灰燼時更久）。點擊撥旺它，購買它的產出者及其強化。憑藉餘燼和名望，它會經歷七個階段，每一階都能容納更多夥伴、同時進行更多遠征；第七階永恆烈焰永無止境，每一級的要求都更高。",
+						"六座建築，每座最高五級：廚房提供口糧，鐵匠鋪增強力量，藥劑房醫治傷勢，帳篷提供空間，倉庫增加儲量，瞭望塔讓帶回的收穫更多。"
+					]
+				},
+				{
+					"id": "ashes",
+					"h2": "什麼是新的營火？",
+					"paragraphs": [
+						"當一堆營火足夠壯大時，讓它熄滅以換取灰燼。只有營火重新開始：階段、建築、夥伴、遠征和資源全部保留。每一份灰燼都會永久增強之後的所有營火，而且只有在兩堆營火之間，才能在灰燼之樹中使用它們。"
+					]
+				},
+				{
+					"id": "companions",
+					"h2": "夥伴是誰？",
+					"paragraphs": [
+						"每位同伴都是遊戲中的 NPC，種族來自你的陣營且為其職業所允許，外圈是其職業顏色：守護者、治療者或鬥士，各有自己的特質。詳情中，同伴以 3D 形象站在七件真實遊戲裝備之間，並顯示力量、屬性、天賦和經歷。",
+						"他們在路上升級，在 20、40 和 60 級選擇天賦，分三種稀有度，忠誠的同伴終會晉升。獲勝的遠征會帶回裝備：區域中為優秀，地城中為精良，團隊副本中為史詩。崇拜的陣營聲望會把該陣營的勇士帶到你的營火旁。"
+					]
+				},
+				{
+					"id": "expeditions",
+					"h2": "遠征如何進行？",
+					"paragraphs": [
+						"選擇地點、時長和出發的同伴：四十四個區域、二十三個地城和七個團隊副本，其中包括 WoW Forever 自己的地點。成功率、補給、預期收穫以及每位同伴能學到什麼，出發前都會說明。每個地點都有威脅，掌握本職業克制法術的同伴會提高成功率；一鍵即可選出最佳隊伍。",
+						"佈告欄上的契約提供帶有專屬獎勵的路線，你看過的契約會一直保留到你接下。常駐命令「每次歸來後再次出發」會讓同一支隊伍每次歸來後再走同一條路，直到有人受傷或補給不足。每支隊伍的頭像會在路線地圖上移動。"
+					]
+				},
+				{
+					"id": "return",
+					"h2": "同伴歸來時會發生什麼？",
+					"paragraphs": [
+						"營地裡有一張卡片迎接你：營火的產出和歸來的遠征，一鍵全部領取，或逐份閱讀報告。每份報告顯示地點、勝負、獲得的經驗、戰利品和找到的裝備，並講述路途見聞：哪位同伴用什麼法術擋住了哪種威脅，以及失敗的路線為何失敗。",
+						"長時間離開也不會白費。離開時間超過營火燃燒的時長，營地會進入休整狀態，之後的路線多獲得一半經驗。上週的寶箱會等著你，歸來通知會等你離開戰鬥或地城後再出現。"
+					]
+				},
+				{
+					"id": "journey",
+					"h2": "我真實的旅程如何計入？",
+					"paragraphs": [
+						"當你的角色獲得某個區域的探索成就，該區域就會向遠征開放。你的等級解鎖營火的階段和地城。你的專業讓營地更強大，軍需官也會索取你專業相關的物品：只要放在背包或銀行裡即可，物品仍歸你所有。",
+						"每交一個任務都會帶來名望，每釣一條魚、每做一道菜都會帶來口糧。你在地城或團隊副本中擊殺的首領，會讓那裡成為親歷之地：那裡的遠征永久多帶回四分之一。",
+						"坐在遊戲中真正的營火旁，只要你待在那裡，營地產出的一切都會增加一半。"
+					]
+				},
+				{
+					"id": "nights",
+					"h2": "營火旁會發生什麼？",
+					"paragraphs": [
+						"每隔幾個小時，營火旁就會發生一些事：小販、暴風雨、狼群、吟遊詩人。由你做出選擇，並承擔後果。有些故事會延續三個夜晚。",
+						"每個地點都有戰利品可尋，還有營地的功績，以及你崇拜陣營的勇士。"
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Wanderer Campfire Game 會在真正的遊戲中給予什麼嗎？",
+					"a": "不會。它只讀取你的角色做過的事（成就、等級、專業、背包中的物品）；它給予的一切都只留在營火旁的小遊戲裡。"
+				},
+				{
+					"q": "它會拖慢我的遊戲嗎？",
+					"a": "不會。視窗關閉時什麼都不執行：流逝的時間在你查看時才計算，只有一個計時器在等待下一支遠征隊歸來。"
+				},
+				{
+					"q": "需要經常上線嗎？",
+					"a": "不需要。遠征從十五分鐘到一整天不等，常駐命令會讓隊伍自行再次出發，看過的契約會留在佈告欄上，長時間離開會讓營地進入休整狀態。想回來時再回來就好。"
+				},
+				{
+					"q": "營地在我的角色之間共用嗎？",
+					"a": "不共用。每個角色都有自己的營地，由自己的旅程滋養。"
+				},
+				{
+					"q": "如何開啟它？",
+					"a": "透過 Wanderer 的選單、在遊戲按鍵設定中為它綁定的按鍵，或輸入 /wcampfire。"
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Campfire Game 標誌：星空下的一小堆營火，旁邊是冒險者的行囊和一張地圖",
+			"tagline": "營火旁的小遊戲",
+			"summary": "營火旁的放置小遊戲：夥伴們踏上即時遠征，你真實的旅程讓營地更強大。"
+		}
+	}
+}

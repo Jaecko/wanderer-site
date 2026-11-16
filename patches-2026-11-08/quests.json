@@ -1,0 +1,1052 @@
+{
+	"en": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Quests: every quest and its chain (WoW Forever)",
+				"description": "Wanderer Quests, a free WoW Forever addon: every quest of your class, dungeons and zones in chains, a sheet for each, and a calm list of followed quests."
+			},
+			"h1": "The quests the world hides from you, in one quiet window",
+			"lead": "Wanderer Quests is a free extension of Wanderer for World of Warcraft Forever. Every quest of your class, of every dungeon and raid and of every zone, each with the quests that lead to it, and where you stand with each. Click one and its sheet tells you what to do, who gives it, who takes it back and what it brings you. On your screen, a calm list of the quests you follow, in your own order, with one quest in front. No other quest database is needed: everything ships with it.",
+			"sections": [
+				{
+					"id": "tabs",
+					"h2": "Which quests does Wanderer Quests show?",
+					"paragraphs": [
+						"Five tabs: your class, by bands of levels; dungeons and raids, with every quest that leads to them; zones, the one you stand in chosen first; the libraries' books; and your gear. Only what is for you: your race, your class, your side.",
+						"Each place sums itself up with its levels and its counts: to take, in your log, done. A search box finds any quest by name in every tab at once, and the done ones can step aside."
+					]
+				},
+				{
+					"id": "chains",
+					"h2": "How do I see a quest chain?",
+					"paragraphs": [
+						"A place's quests are drawn as a tree: the quests that open others above them, wherever they start, in the colors of their difficulty for you. The quest that opens a dungeon chain, the class quest no one tells you about, the one you skipped three zones ago: they are all there.",
+						"Each says where you stand: done, in your log, to take, after another, another choice taken, too high for now, or passed when the game let you skip it."
+					]
+				},
+				{
+					"id": "sheet",
+					"h2": "What does a quest's sheet show?",
+					"paragraphs": [
+						"A click on a quest opens its sheet beside the window: its step in the chain, a Ready line (your level, the quests before, what you carry), what it asks with how many you already have and the creatures that drop it, who gives it and who takes it back.",
+						"One main button follows where you stand: go to the giver, go to the objective, go hand it in. The rewards are the ones Forever really gives, learned as you see them, with a green arrow when one is better for you. If you like, the story of a quest you have not taken stays folded, so you hear it from its giver first."
+					]
+				},
+				{
+					"id": "tracker",
+					"h2": "Can I reorder my tracked quests and focus on one?",
+					"paragraphs": [
+						"Yes. Wanderer Quests can take the place of the game's list of followed quests. One quest stands in front, at the top: bigger, with a star and its objectives always shown. A click puts a quest in front, a click again lets it go, and nothing else ever changes it. The game follows that quest on its map, even when one of its objectives changes.",
+						"The others follow in your own order: drag one by its handle or move it from its right click, and Arrange now orders the list once, by level, by distance or ready to hand in first. The zone you stand in comes first, the dungeons apart, each zone folded as you left it. A quest ready says to whom it goes, its item waits on its line, and the list stays faded at rest and quieter in a fight."
+					]
+				},
+				{
+					"id": "map",
+					"h2": "Can it show the quests I can take on the world map?",
+					"paragraphs": [
+						"Yes. The game's own \"!\" appears at each giver with a quest you could take now, from three levels below yours to three above, and the older ones too if you wish, greyed. Every giver, objective and ender is a click away: followed by the arrow of Wanderer Maps, or the game's own pin.",
+						"Every dungeon and raid has a button to pin its entrance on your map, at the door itself, even where the game gives none. Near a dungeon, a quiet notice can say how many of its quests you could still take first."
+					]
+				},
+				{
+					"id": "gear",
+					"h2": "Which quests give better gear for me?",
+					"paragraphs": [
+						"The Gear tab sets two character sheets side by side: what you wear, and for each slot the best piece a quest can give you, judged for the way you play, with its gain and your characteristics if you wore them all. A click on a piece opens its quest."
+					]
+				},
+				{
+					"id": "books",
+					"h2": "Can it help with the library books of WoW Forever?",
+					"paragraphs": [
+						"Yes. The Books tab lists every library book: where it lies, whether it waits in your bags or your bank, whether it is handed in, and the next reward. With Wanderer Maps, one button makes a route through every book still to find, and reading a book in Wanderer's reader says who takes it."
+					]
+				},
+				{
+					"id": "together",
+					"h2": "Does it work with the other Wanderer addons?",
+					"paragraphs": [
+						"With Wanderer Maps, one button makes a quest route through the givers of what you may take and the enders of what you carry, each the nearest from the last, and each step ticks itself. What a quest asks goes to Wanderer's reminders in one click, its items to the shopping list of Wanderer Auction.",
+						"Wanderer's label marks the creatures that drop an item one of your quests asks for, and an Open in Quests line waits in the game's quest log and objective tracker."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Do I need Questie or another quest addon?",
+					"a": "No. Everything Wanderer Quests knows comes with it. If you use Questie or Kaliel's Tracker anyway, Quests steps aside: its marks leave the map to Questie's givers, and its list of followed quests leaves the screen to their tracker."
+				},
+				{
+					"q": "Does it know the quests added by WoW Forever?",
+					"a": "Yes, as you meet them: a quest Forever added is kept as soon as you see its giver, then shows in the lists and the search like the others. Rewards are learned the same way, so what the game shows always wins."
+				},
+				{
+					"q": "Does Wanderer Quests slow down my game?",
+					"a": "No. Its data is read only when you first open the window, only English and your language are loaded, and nothing is drawn on the map during a fight."
+				},
+				{
+					"q": "Does it accept or turn in quests for me?",
+					"a": "No. It shows and guides, it never plays: no automatic accept, no turn in, and a map link only ever goes to your chat box, never sent."
+				},
+				{
+					"q": "How do I open Wanderer Quests?",
+					"a": "From Wanderer's menu, its options page, a key of yours in the game's key bindings, or by typing /wquests."
+				},
+				{
+					"q": "Where does its data come from?",
+					"a": "From the CMaNGOS classic database and pfQuest, dungeon doors from Endless Map, library books from Wowdee, all credited. Wanderer Quests is free software under the GPL 3.0."
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Quests logo: an old quest book with a golden compass rose glowing on its cover, a map pin beside it",
+			"tagline": "The quests the world hides",
+			"summary": "Every quest of your class, your dungeons and your zones, in chains, a sheet for each, and a calm list of the quests you follow."
+		}
+	},
+	"fr": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Quests : chaque quête et sa chaîne (WoW Forever)",
+				"description": "Wanderer Quests, addon gratuit pour WoW Forever : quêtes de classe, de donjon et de zone en chaînes, une fiche pour chacune, et une liste calme des quêtes suivies."
+			},
+			"h1": "Les quêtes que le monde vous cache, dans une fenêtre discrète",
+			"lead": "Wanderer Quests est une extension gratuite de Wanderer pour World of Warcraft Forever. Toutes les quêtes de votre classe, de chaque donjon et raid et de chaque zone, chacune avec celles qui y mènent, et où vous en êtes avec chacune. Cliquez sur l'une d'elles et sa fiche vous dit quoi faire, qui la donne, à qui la rendre et ce qu'elle vous rapporte. À l'écran, une liste calme des quêtes que vous suivez, dans votre ordre, avec une quête mise en avant. Aucune autre base de quêtes n'est nécessaire : tout est livré avec elle.",
+			"sections": [
+				{
+					"id": "tabs",
+					"h2": "Quelles quêtes Wanderer Quests montre-t-elle ?",
+					"paragraphs": [
+						"Cinq onglets : votre classe, par tranches de niveaux ; donjons et raids, avec toutes les quêtes qui y mènent ; zones, celle où vous êtes choisie d'abord ; les livres des bibliothèques ; et votre équipement. Seulement ce qui est pour vous : votre race, votre classe, votre camp.",
+						"Chaque lieu se résume avec ses niveaux et ses comptes : à prendre, dans votre journal, faites. Un champ de recherche trouve n'importe quelle quête par son nom dans tous les onglets à la fois, et celles déjà faites peuvent se mettre en retrait."
+					]
+				},
+				{
+					"id": "chains",
+					"h2": "Comment voir une chaîne de quêtes ?",
+					"paragraphs": [
+						"Les quêtes d'un lieu forment un arbre : celles qui en ouvrent d'autres au-dessus, où qu'elles commencent, dans les couleurs de leur difficulté pour vous. La quête qui ouvre une chaîne de donjon, la quête de classe dont personne ne parle, celle sautée trois zones plus tôt : toutes y sont.",
+						"Chacune dit où vous en êtes : faite, dans votre journal, à prendre, après une autre, un autre choix fait, trop haute pour l'instant, ou passée quand le jeu vous a laissé la sauter."
+					]
+				},
+				{
+					"id": "sheet",
+					"h2": "Que montre la fiche d'une quête ?",
+					"paragraphs": [
+						"Un clic sur une quête ouvre sa fiche à côté de la fenêtre : son étape dans la chaîne, une ligne Prête (votre niveau, les quêtes d'avant, ce que vous portez), ce qu'elle demande avec combien vous en avez déjà et les créatures qui le donnent, qui la donne et à qui la rendre.",
+						"Un bouton principal suit où vous en êtes : aller au donneur, aller à l'objectif, aller la rendre. Les récompenses sont celles que Forever donne vraiment, apprises quand vous les voyez, avec une flèche verte quand l'une est meilleure pour vous. Si vous le souhaitez, l'histoire d'une quête que vous n'avez pas prise reste repliée, pour que vous l'entendiez d'abord de la bouche de son donneur."
+					]
+				},
+				{
+					"id": "tracker",
+					"h2": "Peut-on réordonner les quêtes suivies et en mettre une en avant ?",
+					"paragraphs": [
+						"Oui. Wanderer Quests peut prendre la place de la liste des quêtes suivies du jeu. Une quête se tient en avant, tout en haut : plus grande, avec une étoile et ses objectifs toujours affichés. Un clic met une quête en avant, un nouveau clic la retire, et rien d'autre ne la change jamais. Le jeu suit cette quête sur sa carte, même quand l'un de ses objectifs change.",
+						"Les autres suivent dans votre ordre : glissez l'une d'elles par sa poignée ou déplacez-la depuis son clic droit, et Ranger maintenant range la liste une fois, par niveau, par distance ou prêtes à rendre d'abord. La zone où vous êtes vient en premier, les donjons à part, chaque zone repliée comme vous l'avez laissée. Une quête prête dit à qui la rendre, son objet attend sur sa ligne, et la liste reste atténuée au repos et plus discrète en combat."
+					]
+				},
+				{
+					"id": "map",
+					"h2": "Peut-il montrer sur la carte du monde les quêtes que je peux prendre ?",
+					"paragraphs": [
+						"Oui. Le « ! » du jeu apparaît sur chaque donneur qui a une quête que vous pourriez prendre maintenant, de trois niveaux sous le vôtre à trois au-dessus, et les plus anciennes aussi si vous le souhaitez, grisées. Chaque donneur, objectif et destinataire est à un clic : suivi par la flèche de Wanderer Maps, ou par l'épingle du jeu.",
+						"Chaque donjon et raid a un bouton qui épingle son entrée sur votre carte, à la porte même, y compris là où le jeu n'en donne pas. Près d'un donjon, une notice discrète peut dire combien de ses quêtes vous pourriez encore prendre avant."
+					]
+				},
+				{
+					"id": "gear",
+					"h2": "Quelles quêtes me donnent un meilleur équipement ?",
+					"paragraphs": [
+						"L'onglet Équipement place deux fiches de personnage côte à côte : ce que vous portez et, pour chaque emplacement, la meilleure pièce qu'une quête peut vous donner, jugée pour votre façon de jouer, avec son gain et vos caractéristiques si vous portiez tout. Un clic sur une pièce ouvre sa quête."
+					]
+				},
+				{
+					"id": "books",
+					"h2": "Peut-il aider pour les livres des bibliothèques de WoW Forever ?",
+					"paragraphs": [
+						"Oui. L'onglet Livres liste chaque livre des bibliothèques : où il se trouve, s'il attend dans vos sacs ou votre banque, s'il a été rendu, et la prochaine récompense. Avec Wanderer Maps, un bouton trace un trajet par tous les livres encore à trouver, et lire un livre dans le lecteur de Wanderer dit à qui le rendre."
+					]
+				},
+				{
+					"id": "together",
+					"h2": "Fonctionne-t-elle avec les autres addons Wanderer ?",
+					"paragraphs": [
+						"Avec Wanderer Maps, un bouton trace un trajet des quêtes par les donneurs de celles que vous pouvez prendre et par ceux qui reprennent celles que vous portez, chacun le plus proche du précédent, et chaque étape se coche toute seule. Ce qu'une quête demande va au pense-bête de Wanderer en un clic, ses objets à la liste d'achats de Wanderer Auction.",
+						"L'étiquette de Wanderer marque les créatures qui donnent un objet demandé par l'une de vos quêtes, et une ligne Ouvrir dans Quêtes attend dans le journal de quêtes et le suivi des objectifs du jeu."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Ai-je besoin de Questie ou d'un autre addon de quêtes ?",
+					"a": "Non. Tout ce que sait Wanderer Quests est livré avec elle. Si vous utilisez quand même Questie ou Kaliel's Tracker, Quests s'efface : ses marques laissent la carte aux donneurs de Questie, et sa liste des quêtes suivies laisse l'écran à leur suivi."
+				},
+				{
+					"q": "Connaît-elle les quêtes ajoutées par WoW Forever ?",
+					"a": "Oui, à mesure que vous les rencontrez : une quête ajoutée par Forever est retenue dès que vous voyez son donneur, puis apparaît dans les listes et la recherche comme les autres. Les récompenses s'apprennent de la même façon, si bien que ce que montre le jeu l'emporte toujours."
+				},
+				{
+					"q": "Wanderer Quests ralentit-elle mon jeu ?",
+					"a": "Non. Ses données ne sont lues qu'à la première ouverture de la fenêtre, seuls l'anglais et votre langue sont chargés, et rien n'est dessiné sur la carte pendant un combat."
+				},
+				{
+					"q": "Accepte-t-elle ou rend-elle les quêtes à ma place ?",
+					"a": "Non. Elle montre et guide, elle ne joue jamais : aucune acceptation automatique, aucune quête rendue, et un lien de carte ne va jamais que dans votre zone de saisie, jamais envoyé."
+				},
+				{
+					"q": "Comment ouvrir Wanderer Quests ?",
+					"a": "Depuis le menu de Wanderer, sa page d'options, une touche à vous dans les raccourcis du jeu, ou en tapant /wquests."
+				},
+				{
+					"q": "D'où viennent ses données ?",
+					"a": "De la base CMaNGOS classic et de pfQuest, les portes des donjons d'Endless Map, les livres des bibliothèques de Wowdee, tous crédités. Wanderer Quests est un logiciel libre sous GPL 3.0."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo de Wanderer Quests : un vieux livre de quêtes dont la couverture porte une rose des vents dorée et lumineuse, une punaise de carte à côté",
+			"tagline": "Les quêtes que le monde vous cache",
+			"summary": "Les quêtes de votre classe, de vos donjons et de vos zones, en chaînes, une fiche pour chacune, et une liste calme des quêtes suivies."
+		}
+	},
+	"de": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Quests: jede Quest und ihre Reihe (WoW Forever)",
+				"description": "Wanderer Quests, kostenloses Addon für WoW Forever: Quests deiner Klasse, Dungeons und Gebiete in Reihen, ein Blatt für jede und eine ruhige Liste verfolgter Quests."
+			},
+			"h1": "Die Quests, die dir die Welt verbirgt, in einem ruhigen Fenster",
+			"lead": "Wanderer Quests ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Alle Quests deiner Klasse, jedes Dungeons und Schlachtzugs und jedes Gebiets, jede mit den Quests, die zu ihr führen, und wo du bei jeder stehst. Klick eine an, und ihr Blatt sagt dir, was zu tun ist, wer sie vergibt, wer sie annimmt und was sie dir bringt. Auf dem Bildschirm eine ruhige Liste der Quests, die du verfolgst, in deiner eigenen Reihenfolge, mit einer Quest vorne. Keine andere Questdatenbank ist nötig: Alles ist dabei.",
+			"sections": [
+				{
+					"id": "tabs",
+					"h2": "Welche Quests zeigt Wanderer Quests?",
+					"paragraphs": [
+						"Fünf Reiter: deine Klasse, nach Stufenbereichen; Dungeons und Schlachtzüge, mit allen Quests, die zu ihnen führen; Gebiete, das, in dem du stehst, zuerst gewählt; die Bücher der Bibliotheken; und deine Ausrüstung. Nur, was für dich bestimmt ist: dein Volk, deine Klasse, deine Fraktion.",
+						"Jeder Ort fasst sich mit seinen Stufen und seinen Zahlen zusammen: annehmbar, im Questlog, erledigt. Ein Suchfeld findet jede Quest nach Name in allen Reitern zugleich, und die erledigten können zurücktreten."
+					]
+				},
+				{
+					"id": "chains",
+					"h2": "Wie sehe ich eine Questreihe?",
+					"paragraphs": [
+						"Die Quests eines Ortes werden als Baum gezeichnet: die Quests, die andere freischalten, darüber, wo auch immer sie beginnen, in den Farben ihrer Schwierigkeit für dich. Die Quest, die eine Dungeon-Reihe öffnet, die Klassenquest, von der dir niemand erzählt, die eine, die du drei Gebiete zuvor übersprungen hast: Sie sind alle da.",
+						"Jede sagt, wo du stehst: erledigt, im Questlog, annehmbar, nach einer anderen, durch eine andere Wahl entfallen, vorerst zu hoch oder übergangen, wenn das Spiel dich sie überspringen ließ."
+					]
+				},
+				{
+					"id": "sheet",
+					"h2": "Was zeigt das Blatt einer Quest?",
+					"paragraphs": [
+						"Ein Klick auf eine Quest öffnet ihr Blatt neben dem Fenster: ihr Schritt in der Reihe, eine Zeile Bereit (deine Stufe, die Quests davor, was du trägst), was sie verlangt, samt der Anzahl, die du schon hast, und den Kreaturen, die es fallen lassen, wer sie vergibt und wer sie annimmt.",
+						"Ein Hauptknopf folgt deinem Stand: zum Questgeber, zum Ziel, zur Abgabe. Die Belohnungen sind die, die Forever wirklich gibt, gelernt, sobald du sie siehst, mit einem grünen Pfeil, wenn eine für dich besser ist. Auf Wunsch bleibt die Geschichte einer Quest, die du noch nicht angenommen hast, zugeklappt, damit du sie zuerst von ihrem Questgeber hörst."
+					]
+				},
+				{
+					"id": "tracker",
+					"h2": "Kann ich verfolgte Quests umsortieren und eine nach vorne stellen?",
+					"paragraphs": [
+						"Ja. Wanderer Quests kann den Platz der Questliste des Spiels einnehmen. Eine Quest steht vorne, ganz oben: größer, mit einem Stern und immer sichtbaren Zielen. Ein Klick stellt eine Quest nach vorne, ein weiterer Klick nimmt sie zurück, und nichts anderes ändert das je. Das Spiel verfolgt diese Quest auf seiner Karte, auch wenn sich eines ihrer Ziele ändert.",
+						"Die anderen folgen in deiner Reihenfolge: Zieh eine an ihrem Griff oder verschieb sie per Rechtsklick, und Jetzt ordnen sortiert die Liste einmal, nach Stufe, nach Entfernung oder abgabebereite zuerst. Das Gebiet, in dem du stehst, kommt zuerst, die Dungeons getrennt, jedes Gebiet so eingeklappt, wie du es gelassen hast. Eine fertige Quest sagt, bei wem sie abzugeben ist, ihr Gegenstand wartet in ihrer Zeile, und die Liste bleibt in Ruhe gedämpft und im Kampf zurückhaltend."
+					]
+				},
+				{
+					"id": "map",
+					"h2": "Kann es die annehmbaren Quests auf der Weltkarte zeigen?",
+					"paragraphs": [
+						"Ja. Das „!“ des Spiels erscheint bei jedem Questgeber mit einer Quest, die du jetzt annehmen könntest, von drei Stufen unter deiner bis drei darüber, und auf Wunsch auch die älteren, ausgegraut. Jeder Questgeber, jedes Ziel und jede Abgabe ist einen Klick entfernt: verfolgt vom Pfeil von Wanderer Maps oder mit der Nadel des Spiels.",
+						"Jeder Dungeon und Schlachtzug hat einen Knopf, der seinen Eingang auf deiner Karte markiert, direkt an der Tür, auch wo das Spiel keinen nennt. In der Nähe eines Dungeons kann ein dezenter Hinweis sagen, wie viele seiner Quests du vorher noch annehmen könntest."
+					]
+				},
+				{
+					"id": "gear",
+					"h2": "Welche Quests geben mir bessere Ausrüstung?",
+					"paragraphs": [
+						"Der Reiter Ausrüstung stellt zwei Charakterbögen nebeneinander: was du trägst, und für jeden Platz das beste Teil, das dir eine Quest geben kann, beurteilt für deine Spielweise, mit seinem Gewinn und deinen Werten, wenn du alles tragen würdest. Ein Klick auf ein Teil öffnet seine Quest."
+					]
+				},
+				{
+					"id": "books",
+					"h2": "Hilft es bei den Bibliotheksbüchern von WoW Forever?",
+					"paragraphs": [
+						"Ja. Der Reiter Bücher listet jedes Bibliotheksbuch: wo es liegt, ob es in deinen Taschen oder deiner Bank wartet, ob es abgegeben ist, und die nächste Belohnung. Mit Wanderer Maps legt ein Knopf eine Route durch alle Bücher, die noch zu finden sind, und liest du ein Buch im Lesefenster von Wanderer, erfährst du, wer es annimmt."
+					]
+				},
+				{
+					"id": "together",
+					"h2": "Funktioniert es mit den anderen Wanderer-Addons?",
+					"paragraphs": [
+						"Mit Wanderer Maps legt ein Knopf eine Questroute durch die Questgeber dessen, was du annehmen kannst, und die Abgabestellen dessen, was du trägst, jeweils die nächste ab der letzten, und jeder Schritt hakt sich selbst ab. Was eine Quest verlangt, kommt mit einem Klick auf den Merkzettel von Wanderer, ihre Gegenstände auf die Einkaufsliste von Wanderer Auction.",
+						"Das Schildchen von Wanderer markiert die Kreaturen, die einen Gegenstand fallen lassen, den eine deiner Quests verlangt, und eine Zeile In Quests öffnen wartet im Questlog und in der Zielverfolgung des Spiels."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Brauche ich Questie oder ein anderes Quest-Addon?",
+					"a": "Nein. Alles, was Wanderer Quests weiß, bringt es selbst mit. Nutzt du trotzdem Questie oder Kaliel's Tracker, tritt Quests zurück: Seine Markierungen überlassen die Karte den Questgebern von Questie, und seine Liste verfolgter Quests überlässt den Bildschirm deren Tracker."
+				},
+				{
+					"q": "Kennt es die von WoW Forever hinzugefügten Quests?",
+					"a": "Ja, sobald du ihnen begegnest: Eine von Forever hinzugefügte Quest wird gespeichert, sobald du ihren Questgeber siehst, und erscheint dann wie die anderen in den Listen und der Suche. Belohnungen werden genauso gelernt, sodass immer gilt, was das Spiel zeigt."
+				},
+				{
+					"q": "Verlangsamt Wanderer Quests mein Spiel?",
+					"a": "Nein. Seine Daten werden erst beim ersten Öffnen des Fensters gelesen, nur Englisch und deine Sprache werden geladen, und im Kampf wird nichts auf die Karte gezeichnet."
+				},
+				{
+					"q": "Nimmt es Quests für mich an oder gibt sie ab?",
+					"a": "Nein. Es zeigt und führt, es spielt nie: kein automatisches Annehmen, kein Abgeben, und ein Kartenlink landet immer nur in deiner Chatzeile, nie verschickt."
+				},
+				{
+					"q": "Wie öffne ich Wanderer Quests?",
+					"a": "Über das Menü von Wanderer, seine Optionsseite, eine eigene Taste in der Tastaturbelegung des Spiels oder mit /wquests."
+				},
+				{
+					"q": "Woher kommen seine Daten?",
+					"a": "Aus der klassischen Datenbank von CMaNGOS und aus pfQuest, die Dungeoneingänge aus Endless Map, die Bibliotheksbücher von Wowdee, alle genannt. Wanderer Quests ist freie Software unter der GPL 3.0."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo von Wanderer Quests: ein altes Questbuch mit einer leuchtenden goldenen Kompassrose auf dem Einband, daneben eine Kartennadel",
+			"tagline": "Die Quests, die die Welt verbirgt",
+			"summary": "Die Quests deiner Klasse, deiner Dungeons und Gebiete in Reihen, ein Blatt für jede und eine ruhige Liste deiner verfolgten Quests."
+		}
+	},
+	"es": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Quests: cada misión y su cadena (WoW Forever)",
+				"description": "Wanderer Quests, addon gratuito para WoW Forever: misiones de tu clase, mazmorras y zonas en cadenas, una ficha para cada una y una lista tranquila de seguidas."
+			},
+			"h1": "Las misiones que el mundo te esconde, en una ventana tranquila",
+			"lead": "Wanderer Quests es una extensión gratuita de Wanderer para World of Warcraft Forever. Todas las misiones de tu clase, de cada mazmorra y banda y de cada zona, cada una con las que llevan a ella, y en qué punto estás con cada una. Haz clic en una y su ficha te dice qué hacer, quién la da, a quién entregarla y qué te aporta. En pantalla, una lista tranquila de las misiones que sigues, en tu propio orden, con una misión destacada. No hace falta ninguna otra base de misiones: todo viene incluido.",
+			"sections": [
+				{
+					"id": "tabs",
+					"h2": "¿Qué misiones muestra Wanderer Quests?",
+					"paragraphs": [
+						"Cinco pestañas: tu clase, por tramos de niveles; mazmorras y bandas, con todas las misiones que conducen a ellas; zonas, con la tuya elegida primero; los libros de las bibliotecas; y tu equipo. Solo lo que es para ti: tu raza, tu clase, tu facción.",
+						"Cada lugar se resume con sus niveles y sus recuentos: disponibles, en tu registro, completadas. Un buscador encuentra cualquier misión por su nombre en todas las pestañas a la vez, y las completadas pueden apartarse."
+					]
+				},
+				{
+					"id": "chains",
+					"h2": "¿Cómo ver una cadena de misiones?",
+					"paragraphs": [
+						"Las misiones de un lugar se dibujan como un árbol: las que abren otras, encima, empiecen donde empiecen, en los colores de su dificultad para ti. La misión que abre la cadena de una mazmorra, la misión de clase de la que nadie te habla, la que te saltaste tres zonas atrás: todas están ahí.",
+						"Cada una indica en qué punto estás: completada, en tu registro, disponible, después de otra, descartada por otra elección, aún demasiado alta, o superada cuando el juego te dejó saltarla."
+					]
+				},
+				{
+					"id": "sheet",
+					"h2": "¿Qué muestra la ficha de una misión?",
+					"paragraphs": [
+						"Un clic en una misión abre su ficha junto a la ventana: su etapa en la cadena, una línea Lista (tu nivel, las misiones previas, lo que llevas), lo que pide con cuántos tienes ya y las criaturas que lo sueltan, quién la da y a quién entregarla.",
+						"Un botón principal sigue tu progreso: ir a quien la da, ir al objetivo, ir a entregarla. Las recompensas son las que Forever da de verdad, aprendidas a medida que las ves, con una flecha verde cuando una es mejor para ti. Si quieres, la historia de una misión que no has tomado queda plegada, para que la oigas primero de boca de quien la da."
+					]
+				},
+				{
+					"id": "tracker",
+					"h2": "¿Puedo reordenar las misiones seguidas y destacar una?",
+					"paragraphs": [
+						"Sí. Wanderer Quests puede ocupar el lugar de la lista de misiones seguidas del juego. Una misión queda destacada, arriba del todo: más grande, con una estrella y sus objetivos siempre visibles. Un clic destaca una misión, otro clic la retira, y nada más la cambia nunca. El juego sigue esa misión en su mapa, incluso cuando cambia uno de sus objetivos.",
+						"Las demás siguen en tu orden: arrastra una por su asa o muévela desde su clic derecho, y Ordenar ahora ordena la lista una vez, por nivel, por distancia o primero las listas para entregar. La zona donde estás va primero, las mazmorras aparte, cada zona plegada como la dejaste. Una misión lista dice a quién entregarla, su objeto espera en su línea, y la lista queda atenuada en reposo y más discreta en combate."
+					]
+				},
+				{
+					"id": "map",
+					"h2": "¿Puede mostrar en el mapa del mundo las misiones que puedo tomar?",
+					"paragraphs": [
+						"Sí. El propio «!» del juego aparece en cada personaje con una misión que podrías tomar ahora, desde tres niveles por debajo del tuyo hasta tres por encima, y también las más antiguas si quieres, en gris. Cada personaje que la da, cada objetivo y cada destinatario está a un clic: seguido por la flecha de Wanderer Maps o por el propio marcador del juego.",
+						"Cada mazmorra y banda tiene un botón para marcar su entrada en tu mapa, en la misma puerta, incluso donde el juego no la da. Cerca de una mazmorra, un aviso discreto puede decirte cuántas de sus misiones podrías tomar aún antes."
+					]
+				},
+				{
+					"id": "gear",
+					"h2": "¿Qué misiones me dan mejor equipo?",
+					"paragraphs": [
+						"La pestaña Equipo pone dos fichas de personaje una al lado de la otra: lo que llevas y, para cada ranura, la mejor pieza que una misión puede darte, juzgada según cómo juegas, con su mejora y tus características si lo llevaras todo. Un clic en una pieza abre su misión."
+					]
+				},
+				{
+					"id": "books",
+					"h2": "¿Ayuda con los libros de las bibliotecas de WoW Forever?",
+					"paragraphs": [
+						"Sí. La pestaña Libros lista todos los libros de biblioteca: dónde está cada uno, si espera en tus bolsas o en tu banco, si ya se ha entregado, y la próxima recompensa. Con Wanderer Maps, un botón traza una ruta por todos los libros que quedan por encontrar, y leer un libro en el lector de Wanderer te dice quién lo recibe."
+					]
+				},
+				{
+					"id": "together",
+					"h2": "¿Funciona con los demás addons de Wanderer?",
+					"paragraphs": [
+						"Con Wanderer Maps, un botón traza una ruta de misiones por quienes dan lo que puedes tomar y quienes reciben lo que llevas, cada uno el más cercano al anterior, y cada etapa se marca sola. Lo que pide una misión pasa a los recordatorios de Wanderer con un clic, y sus objetos a la lista de la compra de Wanderer Auction.",
+						"La etiqueta de Wanderer marca las criaturas que sueltan un objeto que pide una de tus misiones, y una línea Abrir en Misiones espera en el registro de misiones y en el seguimiento de objetivos del juego."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "¿Necesito Questie u otro addon de misiones?",
+					"a": "No. Todo lo que sabe Wanderer Quests viene incluido. Si aun así usas Questie o Kaliel's Tracker, Quests se aparta: sus marcas dejan el mapa a los dadores de Questie, y su lista de misiones seguidas deja la pantalla a su seguimiento."
+				},
+				{
+					"q": "¿Conoce las misiones añadidas por WoW Forever?",
+					"a": "Sí, a medida que las encuentras: una misión añadida por Forever se guarda en cuanto ves a quien la da, y luego aparece en las listas y en la búsqueda como las demás. Las recompensas se aprenden igual, así que lo que muestra el juego siempre prevalece."
+				},
+				{
+					"q": "¿Wanderer Quests ralentiza el juego?",
+					"a": "No. Sus datos solo se leen la primera vez que abres la ventana, solo se cargan el inglés y tu idioma, y nada se dibuja en el mapa durante un combate."
+				},
+				{
+					"q": "¿Acepta o entrega misiones por mí?",
+					"a": "No. Muestra y guía, nunca juega: no acepta ni entrega nada automáticamente, y un enlace de mapa solo va a tu caja de chat, nunca se envía."
+				},
+				{
+					"q": "¿Cómo abrir Wanderer Quests?",
+					"a": "Desde el menú de Wanderer, su página de opciones, una tecla tuya en las asignaciones de teclas del juego, o escribiendo /wquests."
+				},
+				{
+					"q": "¿De dónde vienen sus datos?",
+					"a": "De la base de datos clásica de CMaNGOS y de pfQuest, las puertas de las mazmorras de Endless Map, los libros de biblioteca de Wowdee, todos acreditados. Wanderer Quests es software libre bajo GPL 3.0."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo de Wanderer Quests: un viejo libro de misiones con una rosa de los vientos dorada y luminosa en la cubierta, y una chincheta de mapa a su lado",
+			"tagline": "Las misiones que el mundo esconde",
+			"summary": "Las misiones de tu clase, tus mazmorras y tus zonas, en cadenas, una ficha para cada una y una lista tranquila de las que sigues."
+		}
+	},
+	"it": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Quests: ogni missione e la sua catena (WoW Forever)",
+				"description": "Wanderer Quests, addon gratuito per WoW Forever: missioni della tua classe, spedizioni e zone in catene, una scheda per ognuna e un elenco calmo delle seguite."
+			},
+			"h1": "Le missioni che il mondo ti nasconde, in una finestra discreta",
+			"lead": "Wanderer Quests è un'estensione gratuita di Wanderer per World of Warcraft Forever. Tutte le missioni della tua classe, di ogni spedizione e incursione e di ogni zona, ognuna con quelle che vi conducono, e a che punto sei con ciascuna. Fai clic su una e la sua scheda ti dice cosa fare, chi la dà, a chi consegnarla e cosa ti porta. Sullo schermo, un elenco calmo delle missioni che segui, nel tuo ordine, con una missione in evidenza. Non serve nessun altro database di missioni: è tutto incluso.",
+			"sections": [
+				{
+					"id": "tabs",
+					"h2": "Quali missioni mostra Wanderer Quests?",
+					"paragraphs": [
+						"Cinque schede: la tua classe, per fasce di livello; spedizioni e incursioni, con tutte le missioni che vi conducono; zone, quella in cui ti trovi scelta per prima; i libri delle biblioteche; e il tuo equipaggiamento. Solo ciò che è per te: la tua razza, la tua classe, la tua fazione.",
+						"Ogni luogo si riassume con i suoi livelli e i suoi conteggi: da prendere, nel registro, completate. Una casella di ricerca trova qualsiasi missione per nome in tutte le schede insieme, e quelle completate possono farsi da parte."
+					]
+				},
+				{
+					"id": "chains",
+					"h2": "Come vedere una catena di missioni?",
+					"paragraphs": [
+						"Le missioni di un luogo sono disegnate ad albero: quelle che ne aprono altre stanno sopra, ovunque inizino, nei colori della loro difficoltà per te. La missione che apre la catena di una spedizione, la missione di classe di cui nessuno ti parla, quella saltata tre zone fa: ci sono tutte.",
+						"Ognuna dice a che punto sei: completata, nel registro, da prendere, dopo un'altra, esclusa da un'altra scelta, ancora troppo alta, o superata quando il gioco te l'ha lasciata saltare."
+					]
+				},
+				{
+					"id": "sheet",
+					"h2": "Cosa mostra la scheda di una missione?",
+					"paragraphs": [
+						"Un clic su una missione apre la sua scheda accanto alla finestra: il suo passo nella catena, una riga Pronta (il tuo livello, le missioni precedenti, ciò che porti), cosa chiede con quanti ne hai già e le creature che lo lasciano, chi la assegna e a chi riconsegnarla.",
+						"Un pulsante principale segue il tuo avanzamento: vai dal datore, vai all'obiettivo, vai a consegnarla. Le ricompense sono quelle che Forever dà davvero, imparate man mano che le vedi, con una freccia verde quando una è migliore per te. Se vuoi, la storia di una missione che non hai ancora preso resta chiusa, così la senti prima dal suo datore."
+					]
+				},
+				{
+					"id": "tracker",
+					"h2": "Posso riordinare le missioni seguite e metterne una in evidenza?",
+					"paragraphs": [
+						"Sì. Wanderer Quests può prendere il posto dell'elenco delle missioni seguite del gioco. Una missione sta in evidenza, in cima: più grande, con una stella e i suoi obiettivi sempre visibili. Un clic mette in evidenza una missione, un altro clic la toglie, e nient'altro la cambia mai. Il gioco segue quella missione sulla sua mappa, anche quando cambia uno dei suoi obiettivi.",
+						"Le altre seguono nel tuo ordine: trascinane una dalla sua maniglia o spostala dal clic destro, e Ordina ora ordina l'elenco una volta, per livello, per distanza o prima quelle pronte da consegnare. La zona in cui ti trovi viene prima, le spedizioni a parte, ogni zona chiusa come l'hai lasciata. Una missione pronta dice a chi consegnarla, il suo oggetto aspetta sulla sua riga, e l'elenco resta attenuato a riposo e più discreto in combattimento."
+					]
+				},
+				{
+					"id": "map",
+					"h2": "Può mostrare sulla mappa del mondo le missioni che posso prendere?",
+					"paragraphs": [
+						"Sì. Il «!» del gioco appare su ogni datore con una missione che potresti prendere ora, da tre livelli sotto il tuo a tre sopra, e se vuoi anche le più vecchie, in grigio. Ogni datore, obiettivo e destinatario è a un clic: seguito dalla freccia di Wanderer Maps, o dal segnaposto del gioco.",
+						"Ogni spedizione e incursione ha un pulsante che fissa il suo ingresso sulla mappa, proprio alla porta, anche dove il gioco non lo indica. Vicino a una spedizione, un avviso discreto può dirti quante delle sue missioni potresti ancora prendere prima."
+					]
+				},
+				{
+					"id": "gear",
+					"h2": "Quali missioni mi danno un equipaggiamento migliore?",
+					"paragraphs": [
+						"La scheda Equipaggiamento mette due schede personaggio affiancate: ciò che indossi e, per ogni slot, il pezzo migliore che una missione può darti, valutato per come giochi, con il suo guadagno e le tue caratteristiche se li indossassi tutti. Un clic su un pezzo apre la sua missione."
+					]
+				},
+				{
+					"id": "books",
+					"h2": "Può aiutarmi con i libri delle biblioteche di WoW Forever?",
+					"paragraphs": [
+						"Sì. La scheda Libri elenca ogni libro delle biblioteche: dove si trova, se ti aspetta nelle borse o in banca, se è stato consegnato, e la prossima ricompensa. Con Wanderer Maps, un pulsante traccia un percorso tra tutti i libri ancora da trovare, e leggere un libro nel lettore di Wanderer dice chi lo riceve."
+					]
+				},
+				{
+					"id": "together",
+					"h2": "Funziona con gli altri addon di Wanderer?",
+					"paragraphs": [
+						"Con Wanderer Maps, un pulsante traccia un percorso tra i datori di ciò che puoi prendere e i destinatari di ciò che porti, ognuno il più vicino al precedente, e ogni tappa si spunta da sola. Ciò che una missione chiede passa ai promemoria di Wanderer con un clic, i suoi oggetti alla lista della spesa di Wanderer Auction.",
+						"L'etichetta di Wanderer segnala le creature che lasciano un oggetto chiesto da una delle tue missioni, e una riga Apri in Quests attende nel registro delle missioni del gioco e nel tracciamento degli obiettivi."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Mi serve Questie o un altro addon per le missioni?",
+					"a": "No. Tutto ciò che Wanderer Quests sa è incluso. Se usi comunque Questie o Kaliel's Tracker, Quests si fa da parte: i suoi segni lasciano la mappa ai datori di Questie, e il suo elenco delle missioni seguite lascia lo schermo al loro tracker."
+				},
+				{
+					"q": "Conosce le missioni aggiunte da WoW Forever?",
+					"a": "Sì, man mano che le incontri: una missione aggiunta da Forever viene conservata appena vedi il suo datore, poi compare negli elenchi e nella ricerca come le altre. Le ricompense si imparano allo stesso modo, così ciò che mostra il gioco ha sempre l'ultima parola."
+				},
+				{
+					"q": "Wanderer Quests rallenta il gioco?",
+					"a": "No. I suoi dati vengono letti solo alla prima apertura della finestra, vengono caricati solo l'inglese e la tua lingua, e nulla viene disegnato sulla mappa durante un combattimento."
+				},
+				{
+					"q": "Accetta o consegna missioni al posto mio?",
+					"a": "No. Mostra e guida, non gioca mai: nessuna accettazione automatica, nessuna consegna, e un collegamento della mappa va solo nella tua riga della chat, mai inviato."
+				},
+				{
+					"q": "Come aprire Wanderer Quests?",
+					"a": "Dal menu di Wanderer, dalla sua pagina delle opzioni, con un tasto tuo nelle assegnazioni dei tasti del gioco, o digitando /wquests."
+				},
+				{
+					"q": "Da dove vengono i suoi dati?",
+					"a": "Dal database classico di CMaNGOS e da pfQuest, le porte delle spedizioni da Endless Map, i libri delle biblioteche da Wowdee, tutti citati. Wanderer Quests è software libero sotto GPL 3.0."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo di Wanderer Quests: un vecchio libro di missioni con una rosa dei venti dorata e luminosa sulla copertina, accanto una puntina da mappa",
+			"tagline": "Le missioni che il mondo nasconde",
+			"summary": "Le missioni della tua classe, delle tue spedizioni e zone, in catene, una scheda per ognuna e un elenco calmo di quelle che segui."
+		}
+	},
+	"pt-br": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Quests: cada missão e sua cadeia (WoW Forever)",
+				"description": "Wanderer Quests, addon gratuito para WoW Forever: missões da sua classe, masmorras e zonas em cadeias, uma ficha para cada e uma lista calma das acompanhadas."
+			},
+			"h1": "As missões que o mundo esconde de você, em uma janela tranquila",
+			"lead": "Wanderer Quests é uma extensão gratuita do Wanderer para World of Warcraft Forever. Todas as missões da sua classe, de cada masmorra e raide e de cada zona, cada uma com as que levam a ela, e onde você está em cada uma. Clique em uma e a ficha dela diz o que fazer, quem a dá, a quem entregar e o que ela traz para você. Na tela, uma lista calma das missões que você acompanha, na sua própria ordem, com uma missão em destaque. Nenhum outro banco de missões é necessário: tudo vem junto.",
+			"sections": [
+				{
+					"id": "tabs",
+					"h2": "Quais missões o Wanderer Quests mostra?",
+					"paragraphs": [
+						"Cinco abas: a sua classe, por faixas de nível; masmorras e raides, com todas as missões que levam a elas; zonas, a sua escolhida primeiro; os livros das bibliotecas; e o seu equipamento. Só o que é para você: sua raça, sua classe, sua facção.",
+						"Cada lugar se resume com seus níveis e suas contagens: a pegar, no registro, concluídas. Uma caixa de busca encontra qualquer missão pelo nome em todas as abas de uma vez, e as concluídas podem sair da frente."
+					]
+				},
+				{
+					"id": "chains",
+					"h2": "Como ver uma cadeia de missões?",
+					"paragraphs": [
+						"As missões de um lugar são desenhadas como uma árvore: as que abrem outras ficam acima, onde quer que comecem, nas cores da dificuldade delas para você. A missão que abre a cadeia de uma masmorra, a missão de classe de que ninguém fala, aquela que você pulou três zonas atrás: estão todas ali.",
+						"Cada uma diz em que ponto você está: concluída, no registro, a pegar, depois de outra, outra escolha feita, alta demais por enquanto, ou superada quando o jogo deixou você pulá-la."
+					]
+				},
+				{
+					"id": "sheet",
+					"h2": "O que a ficha de uma missão mostra?",
+					"paragraphs": [
+						"Um clique em uma missão abre a ficha dela ao lado da janela: sua etapa na cadeia, uma linha Pronto (seu nível, as missões anteriores, o que você carrega), o que ela pede com quantos você já tem e as criaturas que derrubam o item, quem a dá e a quem devolvê-la.",
+						"Um botão principal acompanha o seu progresso: ir até quem dá, ir ao objetivo, ir entregar. As recompensas são as que o Forever realmente dá, aprendidas à medida que você as vê, com uma seta verde quando uma é melhor para você. Se quiser, a história de uma missão que você ainda não pegou fica recolhida, para ouvi-la primeiro de quem a dá."
+					]
+				},
+				{
+					"id": "tracker",
+					"h2": "Posso reordenar as missões acompanhadas e destacar uma?",
+					"paragraphs": [
+						"Sim. O Wanderer Quests pode tomar o lugar da lista de missões acompanhadas do jogo. Uma missão fica em destaque, no topo: maior, com uma estrela e os objetivos sempre à vista. Um clique destaca uma missão, outro clique a retira, e nada mais a muda. O jogo acompanha essa missão no mapa dele, mesmo quando um dos objetivos muda.",
+						"As outras seguem na sua ordem: arraste uma pela alça ou mova-a pelo clique direito, e Organizar agora ordena a lista uma vez, por nível, por distância ou prontas para entregar primeiro. A zona onde você está vem primeiro, as masmorras à parte, cada zona recolhida como você deixou. Uma missão pronta diz a quem entregar, o item dela espera na linha, e a lista fica atenuada em repouso e mais discreta em combate."
+					]
+				},
+				{
+					"id": "map",
+					"h2": "Ele mostra no mapa-múndi as missões que posso pegar?",
+					"paragraphs": [
+						"Sim. O próprio \"!\" do jogo aparece em cada personagem com uma missão que você poderia pegar agora, de três níveis abaixo do seu até três acima, e as mais antigas também, em cinza, se quiser. Quem dá, cada objetivo e quem recebe estão a um clique: seguidos pela seta do Wanderer Maps, ou pelo marcador do próprio jogo.",
+						"Cada masmorra e raide tem um botão que marca a entrada no seu mapa, na própria porta, mesmo onde o jogo não a mostra. Perto de uma masmorra, um aviso discreto pode dizer quantas missões dela você ainda poderia pegar antes."
+					]
+				},
+				{
+					"id": "gear",
+					"h2": "Quais missões me dão equipamento melhor?",
+					"paragraphs": [
+						"A aba Equipamento coloca duas fichas de personagem lado a lado: o que você usa e, para cada compartimento, a melhor peça que uma missão pode dar, avaliada para o seu jeito de jogar, com o ganho e os seus atributos se você usasse tudo. Um clique em uma peça abre a missão dela."
+					]
+				},
+				{
+					"id": "books",
+					"h2": "Ele ajuda com os livros das bibliotecas do WoW Forever?",
+					"paragraphs": [
+						"Sim. A aba Livros lista cada livro de biblioteca: onde ele está, se espera nas suas bolsas ou no seu banco, se já foi entregue, e a próxima recompensa. Com o Wanderer Maps, um botão traça uma rota por todos os livros que faltam encontrar, e ler um livro no leitor do Wanderer diz quem o recebe."
+					]
+				},
+				{
+					"id": "together",
+					"h2": "Funciona com os outros addons do Wanderer?",
+					"paragraphs": [
+						"Com o Wanderer Maps, um botão traça uma rota de missões passando por quem dá o que você pode pegar e por quem recebe o que você carrega, cada um o mais próximo do anterior, e cada etapa se marca sozinha. O que uma missão pede vai para os lembretes do Wanderer em um clique, e os itens dela para a lista de compras do Wanderer Auction.",
+						"A etiqueta do Wanderer marca as criaturas que derrubam um item pedido por uma das suas missões, e uma linha Abrir em Missões espera no registro de missões do jogo e no rastreador de objetivos."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Preciso do Questie ou de outro addon de missões?",
+					"a": "Não. Tudo o que o Wanderer Quests sabe vem com ele. Se você usar Questie ou Kaliel's Tracker mesmo assim, o Quests se afasta: as marcas dele deixam o mapa para os doadores do Questie, e a lista de missões acompanhadas deixa a tela para o rastreador deles."
+				},
+				{
+					"q": "Ele conhece as missões adicionadas pelo WoW Forever?",
+					"a": "Sim, à medida que você as encontra: uma missão adicionada pelo Forever é guardada assim que você vê quem a dá, e depois aparece nas listas e na busca como as outras. As recompensas são aprendidas do mesmo jeito, então o que o jogo mostra sempre prevalece."
+				},
+				{
+					"q": "O Wanderer Quests deixa o jogo mais lento?",
+					"a": "Não. Os dados só são lidos na primeira vez que você abre a janela, só o inglês e o seu idioma são carregados, e nada é desenhado no mapa durante um combate."
+				},
+				{
+					"q": "Ele aceita ou entrega missões por mim?",
+					"a": "Não. Ele mostra e orienta, nunca joga: nada de aceitar ou entregar automaticamente, e um link de mapa só vai para a sua caixa de chat, nunca é enviado."
+				},
+				{
+					"q": "Como abrir o Wanderer Quests?",
+					"a": "Pelo menu do Wanderer, pela página de opções, por uma tecla sua nas teclas de atalho do jogo ou digitando /wquests."
+				},
+				{
+					"q": "De onde vêm os dados dele?",
+					"a": "Do banco de dados clássico do CMaNGOS e do pfQuest, as portas das masmorras do Endless Map e os livros das bibliotecas do Wowdee, todos creditados. Wanderer Quests é software livre sob a GPL 3.0."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo do Wanderer Quests: um velho livro de missões com uma rosa dos ventos dourada e luminosa na capa, e um alfinete de mapa ao lado",
+			"tagline": "As missões que o mundo esconde",
+			"summary": "As missões da sua classe, das suas masmorras e zonas, em cadeias, uma ficha para cada e uma lista calma das que você acompanha."
+		}
+	},
+	"ru": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Quests: каждое задание и его цепочка (WoW Forever)",
+				"description": "Wanderer Quests, бесплатный аддон для WoW Forever: задания класса, подземелий и зон цепочками, карточка для каждого и спокойный список отслеживаемых."
+			},
+			"h1": "Задания, которые мир скрывает от вас, в одном спокойном окне",
+			"lead": "Wanderer Quests это бесплатное расширение Wanderer для World of Warcraft Forever. Все задания вашего класса, каждого подземелья и рейда и каждой зоны, каждое вместе с заданиями, которые к нему ведут, и где вы находитесь с каждым. Щёлкните по заданию, и его карточка скажет, что делать, кто его выдаёт, кому сдать и что оно принесёт. На экране спокойный список отслеживаемых заданий, в вашем порядке, с одним заданием впереди. Никакая другая база заданий не нужна: всё уже внутри.",
+			"sections": [
+				{
+					"id": "tabs",
+					"h2": "Какие задания показывает Wanderer Quests?",
+					"paragraphs": [
+						"Пять вкладок: ваш класс по диапазонам уровней; подземелья и рейды со всеми заданиями, которые к ним ведут; зоны, причём та, где вы находитесь, выбрана первой; книги библиотек; и ваше снаряжение. Только то, что для вас: ваша раса, ваш класс, ваша фракция.",
+						"Каждое место подводит итог своими уровнями и счётом: доступно, в журнале, выполнено. Поле поиска находит любое задание по названию сразу во всех вкладках, а выполненные могут отойти в сторону."
+					]
+				},
+				{
+					"id": "chains",
+					"h2": "Как увидеть цепочку заданий?",
+					"paragraphs": [
+						"Задания места рисуются деревом: те, что открывают другие, стоят выше, где бы они ни начинались, в цветах своей сложности для вас. Задание, открывающее цепочку подземелья, классовое задание, о котором вам никто не скажет, то, что вы пропустили три зоны назад: все они здесь.",
+						"У каждого указано, где вы находитесь: выполнено, в журнале, доступно, после другого, закрыто другим выбором, пока слишком высокого уровня или пройдено, если игра позволила его пропустить."
+					]
+				},
+				{
+					"id": "sheet",
+					"h2": "Что показывает карточка задания?",
+					"paragraphs": [
+						"Щелчок по заданию открывает его карточку рядом с окном: его шаг в цепочке, строку «Готово» (ваш уровень, предыдущие задания, что у вас с собой), что оно требует, сколько у вас уже есть и какие существа это роняют, кто его выдаёт и кому его сдать.",
+						"Одна главная кнопка следует за вашим прогрессом: к тому, кто выдаёт, к цели, сдать задание. Награды те, что Forever действительно даёт, запоминаются, когда вы их видите, с зелёной стрелкой, если одна лучше для вас. Если хотите, история ещё не взятого задания остаётся свёрнутой, чтобы сначала вы услышали её от того, кто его выдаёт."
+					]
+				},
+				{
+					"id": "tracker",
+					"h2": "Можно ли переставить отслеживаемые задания и вывести одно вперёд?",
+					"paragraphs": [
+						"Да. Wanderer Quests может занять место списка отслеживаемых заданий игры. Одно задание стоит впереди, наверху: крупнее, со звездой, его цели всегда видны. Щелчок выводит задание вперёд, повторный щелчок убирает его, и больше ничто его не меняет. Игра следит за этим заданием на своей карте, даже когда меняется одна из его целей.",
+						"Остальные идут в вашем порядке: перетащите задание за ручку или переместите через правый щелчок, а Упорядочить сейчас один раз упорядочит список по уровню, по расстоянию или сначала готовые к сдаче. Зона, где вы находитесь, идёт первой, подземелья отдельно, каждая зона свёрнута так, как вы её оставили. Готовое задание говорит, кому его сдать, его предмет ждёт в строке, а список приглушён в покое и сдержаннее в бою."
+					]
+				},
+				{
+					"id": "map",
+					"h2": "Может ли он показать доступные задания на карте мира?",
+					"paragraphs": [
+						"Да. Игровой знак «!» появляется у каждого, кто выдаёт задание, которое вы можете взять сейчас, от трёх уровней ниже вашего до трёх выше, а при желании и более старые, серым. Каждый, кто выдаёт задание, каждая цель и каждый, кому его сдать, в одном щелчке: со стрелкой Wanderer Maps или игровой булавкой.",
+						"У каждого подземелья и рейда есть кнопка, отмечающая вход на карте, у самой двери, даже там, где игра его не указывает. Рядом с подземельем неприметное уведомление может сказать, сколько его заданий вы ещё можете сначала взять."
+					]
+				},
+				{
+					"id": "gear",
+					"h2": "Какие задания дают мне снаряжение получше?",
+					"paragraphs": [
+						"Вкладка «Снаряжение» ставит две карточки персонажа рядом: то, что надето на вас, и для каждой ячейки лучший предмет, который может дать задание, оценённый для вашего стиля игры, с приростом и вашими характеристиками, если надеть всё это. Щелчок по предмету открывает его задание."
+					]
+				},
+				{
+					"id": "books",
+					"h2": "Поможет ли он с библиотечными книгами WoW Forever?",
+					"paragraphs": [
+						"Да. Вкладка «Книги» перечисляет все библиотечные книги: где она лежит, ждёт ли в ваших сумках или в банке, сдана ли, и следующую награду. С Wanderer Maps одна кнопка прокладывает маршрут через все ещё не найденные книги, а при чтении книги в окне чтения Wanderer сказано, кто её принимает."
+					]
+				},
+				{
+					"id": "together",
+					"h2": "Работает ли он с другими аддонами Wanderer?",
+					"paragraphs": [
+						"С Wanderer Maps одна кнопка прокладывает маршрут заданий через тех, кто выдаёт доступные вам задания, и тех, кому сдавать взятые, каждый ближайший к предыдущему, а каждый шаг отмечается сам. То, что требует задание, одним щелчком попадает в памятку Wanderer, а его предметы в список покупок Wanderer Auction.",
+						"Метка Wanderer отмечает существ, с которых падает предмет, нужный одному из ваших заданий, а строка «Открыть в Quests» ждёт в журнале заданий и отслеживании целей игры."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Нужен ли Questie или другой аддон заданий?",
+					"a": "Нет. Всё, что знает Wanderer Quests, уже внутри. Если вы всё же пользуетесь Questie или Kaliel's Tracker, Quests уступает: его отметки оставляют карту квестодателям Questie, а его список отслеживаемых заданий оставляет экран их трекеру."
+				},
+				{
+					"q": "Знает ли он задания, добавленные в WoW Forever?",
+					"a": "Да, по мере встречи: задание, добавленное Forever, запоминается, как только вы видите того, кто его выдаёт, а затем появляется в списках и поиске, как и остальные. Награды запоминаются так же, поэтому то, что показывает игра, всегда важнее."
+				},
+				{
+					"q": "Замедляет ли Wanderer Quests игру?",
+					"a": "Нет. Его данные читаются только при первом открытии окна, загружаются только английский и ваш язык, а во время боя на карте ничего не рисуется."
+				},
+				{
+					"q": "Принимает или сдаёт ли он задания за меня?",
+					"a": "Нет. Он показывает и направляет, но никогда не играет: никакого автоматического принятия или сдачи, а ссылка на карту только вставляется в строку чата и никогда не отправляется."
+				},
+				{
+					"q": "Как открыть Wanderer Quests?",
+					"a": "Из меню Wanderer, со страницы его настроек, своей клавишей в назначении клавиш игры или командой /wquests."
+				},
+				{
+					"q": "Откуда его данные?",
+					"a": "Из классической базы CMaNGOS и pfQuest, двери подземелий из Endless Map, библиотечные книги из Wowdee, все с указанием авторства. Wanderer Quests это свободное ПО под лицензией GPL 3.0."
+				}
+			]
+		},
+		"card": {
+			"alt": "Логотип Wanderer Quests: старая книга заданий со светящейся золотой розой ветров на обложке, рядом булавка для карты",
+			"tagline": "Задания, которые скрывает мир",
+			"summary": "Задания вашего класса, подземелий и зон цепочками, карточка для каждого и спокойный список отслеживаемых заданий."
+		}
+	},
+	"ko": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Quests: 모든 퀘스트와 그 연계 (WoW Forever)",
+				"description": "Wanderer Quests, WoW Forever 무료 애드온: 직업, 던전, 지역 퀘스트를 연계로, 퀘스트마다 상세 정보, 차분한 추적 퀘스트 목록까지."
+			},
+			"h1": "세상이 감춘 퀘스트를 하나의 차분한 창에",
+			"lead": "Wanderer Quests는 World of Warcraft Forever용 Wanderer의 무료 확장입니다. 내 직업, 모든 던전과 공격대, 모든 지역의 퀘스트를 그 퀘스트로 이어지는 퀘스트와 함께 보여 주고, 각각 어디까지 진행했는지 알려 줍니다. 퀘스트를 클릭하면 상세 정보가 할 일, 주는 사람, 완료할 곳, 보상을 알려 줍니다. 화면에는 추적 중인 퀘스트가 내가 정한 순서로 차분하게 표시되고, 퀘스트 하나를 앞에 둘 수 있습니다. 다른 퀘스트 데이터베이스는 필요 없습니다. 모두 함께 들어 있습니다.",
+			"sections": [
+				{
+					"id": "tabs",
+					"h2": "Wanderer Quests는 어떤 퀘스트를 보여 주나요?",
+					"paragraphs": [
+						"다섯 개의 탭이 있습니다: 레벨 구간별 내 직업, 이어지는 모든 퀘스트를 포함한 던전과 공격대, 현재 있는 지역이 먼저 선택되는 지역, 도서관의 책, 그리고 내 장비. 내 종족, 내 직업, 내 진영에 해당하는 것만 표시합니다.",
+						"장소마다 레벨 범위와 수치가 요약됩니다: 수락 가능, 퀘스트 목록에 있음, 완료. 검색창은 모든 탭에서 한꺼번에 이름으로 퀘스트를 찾고, 완료한 퀘스트는 숨길 수 있습니다."
+					]
+				},
+				{
+					"id": "chains",
+					"h2": "퀘스트 연계는 어떻게 보나요?",
+					"paragraphs": [
+						"한 장소의 퀘스트는 나무 형태로 그려집니다. 다른 퀘스트를 여는 퀘스트는 시작 장소와 상관없이 위쪽에, 나에게 맞는 난이도 색상으로 표시됩니다. 던전 연계를 여는 퀘스트, 아무도 알려 주지 않는 직업 퀘스트, 세 지역 전에 놓친 퀘스트까지 모두 여기에 있습니다.",
+						"각 퀘스트는 현재 상태를 알려 줍니다: 완료, 진행 중, 수락 가능, 다른 퀘스트 이후, 다른 선택으로 제외, 아직 레벨이 높음, 또는 게임이 건너뛰게 해 준 경우 지나감."
+					]
+				},
+				{
+					"id": "sheet",
+					"h2": "퀘스트 상세 정보에는 무엇이 표시되나요?",
+					"paragraphs": [
+						"퀘스트를 클릭하면 창 옆에 상세 정보가 열립니다: 연계 속 단계, 준비 줄(내 레벨, 선행 퀘스트, 가진 물건), 요구하는 것과 이미 가진 수량, 그것을 떨어뜨리는 몬스터, 퀘스트를 주는 NPC와 완료할 NPC.",
+						"주 버튼 하나가 현재 상태를 따라갑니다: 퀘스트 주는 NPC에게 가기, 목표로 가기, 완료하러 가기. 보상은 Forever가 실제로 주는 것으로, 볼 때마다 기억하며, 나에게 더 좋은 것에는 초록 화살표가 붙습니다. 원하면 아직 수락하지 않은 퀘스트의 이야기를 접어 두어, 퀘스트를 주는 NPC에게서 먼저 들을 수 있습니다."
+					]
+				},
+				{
+					"id": "tracker",
+					"h2": "추적 퀘스트 순서를 바꾸고 하나를 앞에 둘 수 있나요?",
+					"paragraphs": [
+						"네. Wanderer Quests는 게임의 추적 퀘스트 목록을 대신할 수 있습니다. 퀘스트 하나가 맨 위 앞에 놓입니다. 더 크게, 별과 함께, 목표가 항상 보입니다. 클릭하면 퀘스트를 앞에 두고, 다시 클릭하면 내려놓으며, 그 밖의 어떤 것도 이를 바꾸지 않습니다. 목표 하나가 바뀌어도 게임은 지도에서 이 퀘스트를 계속 따라갑니다.",
+						"나머지는 내가 정한 순서를 따릅니다. 손잡이로 끌거나 오른쪽 클릭으로 옮기고, 지금 정렬로 목록을 한 번 레벨순, 거리순, 또는 완료 가능한 것부터 정렬합니다. 지금 있는 지역이 먼저, 던전은 따로, 각 지역은 접어 둔 그대로입니다. 완료한 퀘스트는 누구에게 가져갈지 알려 주고, 퀘스트 아이템은 그 줄에 있으며, 목록은 쉴 때 흐려지고 전투 중에는 조용해집니다."
+					]
+				},
+				{
+					"id": "map",
+					"h2": "수락할 수 있는 퀘스트를 세계 지도에 보여 주나요?",
+					"paragraphs": [
+						"네. 지금 수락할 수 있는 퀘스트가 있는 NPC마다 게임 본래의 \"!\"가 나타납니다. 내 레벨보다 3레벨 낮은 것부터 3레벨 높은 것까지이며, 원하면 더 낮은 퀘스트도 회색으로 보여 줍니다. 퀘스트를 주는 NPC, 목표, 완료할 NPC 모두 클릭 한 번이면 Wanderer Maps의 화살표나 게임 본래의 핀으로 따라갈 수 있습니다.",
+						"모든 던전과 공격대에는 입구 바로 앞에 지도 핀을 꽂는 버튼이 있으며, 게임이 입구를 알려 주지 않는 곳에서도 쓸 수 있습니다. 던전 근처에서는 조용한 알림이 아직 먼저 받을 수 있는 퀘스트 수를 알려 줄 수 있습니다."
+					]
+				},
+				{
+					"id": "gear",
+					"h2": "어떤 퀘스트가 나에게 더 좋은 장비를 주나요?",
+					"paragraphs": [
+						"장비 탭은 캐릭터 창 두 개를 나란히 보여 줍니다. 지금 착용한 것, 그리고 부위마다 퀘스트로 얻을 수 있는 최고의 장비를 내 플레이 방식 기준으로 평가해, 얼마나 좋아지는지와 모두 착용했을 때의 능력치까지 보여 줍니다. 장비를 클릭하면 해당 퀘스트가 열립니다."
+					]
+				},
+				{
+					"id": "books",
+					"h2": "WoW Forever의 도서관 책도 도와주나요?",
+					"paragraphs": [
+						"네. 책 탭은 모든 도서관 책을 보여 줍니다: 어디에 있는지, 가방이나 은행에 있는지, 이미 반납했는지, 다음 보상은 무엇인지. Wanderer Maps와 함께라면 버튼 하나로 아직 찾을 책을 모두 도는 경로를 만들고, Wanderer의 읽기 창에서 책을 읽으면 누구에게 가져가야 하는지 알려 줍니다."
+					]
+				},
+				{
+					"id": "together",
+					"h2": "다른 Wanderer 애드온과 함께 작동하나요?",
+					"paragraphs": [
+						"Wanderer Maps와 함께라면 버튼 하나로 퀘스트 경로를 만듭니다. 수락할 수 있는 퀘스트를 주는 NPC와 진행 중인 퀘스트를 완료할 NPC를, 매번 직전 지점에서 가장 가까운 곳 순으로 이으며, 각 단계는 저절로 체크됩니다. 퀘스트에 필요한 것은 클릭 한 번으로 Wanderer의 비망록에, 그 아이템은 Wanderer Auction의 구매 목록에 들어갑니다.",
+						"Wanderer의 라벨은 내 퀘스트에 필요한 아이템을 떨어뜨리는 몬스터를 표시하고, 게임의 퀘스트 목록과 목표 추적기에는 퀘스트에서 열기 줄이 있습니다."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Questie 같은 다른 퀘스트 애드온이 필요한가요?",
+					"a": "아니요. Wanderer Quests가 아는 모든 것이 함께 들어 있습니다. 그래도 Questie나 Kaliel's Tracker를 쓴다면 Quests가 물러납니다. 지도 표시는 Questie의 퀘스트 제공자에게, 추적 퀘스트 목록은 그 추적기에게 자리를 내줍니다."
+				},
+				{
+					"q": "WoW Forever가 추가한 퀘스트도 아나요?",
+					"a": "네, 만나는 대로 압니다. Forever가 추가한 퀘스트는 퀘스트 주는 NPC를 보는 순간 기억되고, 이후 다른 퀘스트처럼 목록과 검색에 나옵니다. 보상도 같은 방식으로 배우므로, 언제나 게임이 보여 주는 것이 우선합니다."
+				},
+				{
+					"q": "Wanderer Quests 때문에 게임이 느려지나요?",
+					"a": "아니요. 데이터는 창을 처음 열 때만 읽고, 영어와 내 언어만 불러오며, 전투 중에는 지도에 아무것도 그리지 않습니다."
+				},
+				{
+					"q": "퀘스트를 대신 수락하거나 완료하나요?",
+					"a": "아니요. 보여 주고 안내할 뿐 대신 플레이하지 않습니다. 자동 수락도 자동 완료도 없고, 지도 링크는 대화 입력창에만 들어갈 뿐 절대 전송되지 않습니다."
+				},
+				{
+					"q": "Wanderer Quests는 어떻게 여나요?",
+					"a": "Wanderer 메뉴, 옵션 페이지, 게임의 단축키 설정에서 정한 키, 또는 /wquests 입력으로 엽니다."
+				},
+				{
+					"q": "데이터는 어디서 왔나요?",
+					"a": "CMaNGOS 클래식 데이터베이스와 pfQuest에서, 던전 입구는 Endless Map에서, 도서관 책은 Wowdee에서 왔으며 모두 출처를 밝힙니다. Wanderer Quests는 GPL 3.0 자유 소프트웨어입니다."
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Quests 로고: 표지에 금빛 나침반 장미가 빛나는 오래된 퀘스트 책과 그 옆의 지도 핀",
+			"tagline": "세상이 감춘 퀘스트",
+			"summary": "내 직업, 던전, 지역의 퀘스트를 연계로, 퀘스트마다 상세 정보, 그리고 차분한 추적 퀘스트 목록."
+		}
+	},
+	"zh-cn": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Quests：每个任务及其任务链 (WoW Forever)",
+				"description": "Wanderer Quests，WoW Forever 免费插件：按任务链展示职业、地下城和区域的任务，每个任务都有详情，还有一份安静的追踪任务列表。"
+			},
+			"h1": "世界向你隐藏的任务，尽在一个安静的窗口",
+			"lead": "Wanderer Quests 是 Wanderer 为 World of Warcraft Forever 推出的免费扩展。你的职业、每个地下城和团队副本以及每个区域的所有任务，每个都连同通往它的前置任务，并标明你在每个任务上的进度。点击一个任务，详情会告诉你要做什么、由谁发布、交给谁，以及能得到什么。屏幕上是一份安静的追踪任务列表，按你自己的顺序排列，并有一个置前的任务。无需其他任务数据库：一切都已内置。",
+			"sections": [
+				{
+					"id": "tabs",
+					"h2": "Wanderer Quests 会显示哪些任务？",
+					"paragraphs": [
+						"五个标签页：你的职业，按等级段列出；地下城与团队副本，连同所有通往它们的任务；区域，优先选中你所在的区域；图书馆的书籍；以及你的装备。只显示与你相关的内容：你的种族、你的职业、你的阵营。",
+						"每个地点都会汇总等级范围和数量：可接取、在任务日志中、已完成。搜索框可在所有标签页中按名称查找任务，已完成的任务可以隐藏。"
+					]
+				},
+				{
+					"id": "chains",
+					"h2": "如何查看任务链？",
+					"paragraphs": [
+						"一个地点的任务以树状呈现：开启其他任务的前置任务位于上方，无论从哪里开始，并以对你而言的难度颜色显示。开启地下城任务链的任务、没人告诉你的职业任务、三个区域之前错过的那个任务：全都在这里。",
+						"每个任务都会标明你的进度：已完成、在任务日志中、可接取、需先完成其他任务、因其他选择而排除、暂时等级过高，或在游戏允许你跳过时标为已略过。"
+					]
+				},
+				{
+					"id": "sheet",
+					"h2": "任务详情会显示什么？",
+					"paragraphs": [
+						"点击任务即可在窗口旁打开详情：它在任务链中的位置，一行「可交付」条件（你的等级、前置任务、携带的物品），任务要求及你已有的数量，掉落所需物品的生物，由谁发布、交给谁。",
+						"一个主按钮会跟随你的进度：去找任务发布者、前往目标、回去交任务。奖励是 Forever 实际给出的，在你看到时记下，对你更好的奖励带有绿色箭头。如果你喜欢，尚未接取的任务的故事可以先折叠起来，让你先从发布者口中听到。"
+					]
+				},
+				{
+					"id": "tracker",
+					"h2": "能重新排列追踪的任务并把一个任务置前吗？",
+					"paragraphs": [
+						"可以。Wanderer Quests 可以取代游戏自带的追踪任务列表。一个任务置于最上方：字更大，带一颗星，目标始终显示。点击即可将任务置前，再次点击即取消，其他任何事都不会改变它。即使它的某个目标发生变化，游戏也会在地图上继续追踪这个任务。",
+						"其他任务按你的顺序排列：拖动手柄，或在右键菜单中移动；立即整理会按等级、按距离或可交付优先整理一次列表。你所在的区域排在最前，地下城单独列出，每个区域保持你上次折叠的样子。可交付的任务会告诉你交给谁，任务物品就在它那一行，列表在空闲时变淡，战斗中更安静。"
+					]
+				},
+				{
+					"id": "map",
+					"h2": "能在世界地图上显示我可接的任务吗？",
+					"paragraphs": [
+						"能。每个有你现在可接任务的发布者处都会出现游戏原本的「!」，范围从比你低三级到高三级，如果你愿意，更低级的任务也会以灰色显示。每个发布者、目标和交任务的人都只需一次点击：用 Wanderer Maps 的箭头前往，或使用游戏原本的图钉。",
+						"每个地下城和团队副本都有一个按钮，可在地图上把入口标在门口，即使游戏没有给出。在地下城附近，一条低调的提示可以告诉你还能先接它的多少个任务。"
+					]
+				},
+				{
+					"id": "gear",
+					"h2": "哪些任务能给我更好的装备？",
+					"paragraphs": [
+						"装备标签页并排显示两张角色面板：你身上的装备，以及每个部位上任务能给你的最佳装备，按你的玩法评估，附带提升幅度和全部穿上后的属性。点击一件装备即可打开对应任务。"
+					]
+				},
+				{
+					"id": "books",
+					"h2": "它能帮我收集 WoW Forever 的图书馆书籍吗？",
+					"paragraphs": [
+						"能。书籍标签页列出所有图书馆书籍：它在哪里、是否在你的背包或银行里、是否已上交，以及下一个奖励。配合 Wanderer Maps，一个按钮就能规划一条经过所有待寻书籍的路线；在 Wanderer 的阅读窗口中读书时，会告诉你该交给谁。"
+					]
+				},
+				{
+					"id": "together",
+					"h2": "能与其他 Wanderer 插件配合使用吗？",
+					"paragraphs": [
+						"配合 Wanderer Maps，一个按钮就能规划任务路线：依次经过可接任务的发布者和进行中任务的交付人，每一站都选离上一站最近的，每一步完成后自动勾选。任务所需的东西一键加入 Wanderer 的备忘，所需物品一键加入 Wanderer Auction 的购物清单。",
+						"Wanderer 的标签会标出掉落你任务所需物品的生物，游戏的任务日志和目标追踪中也有一行「在任务中打开」。"
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "我需要 Questie 或其他任务插件吗？",
+					"a": "不需要。Wanderer Quests 所知道的一切都已内置。如果你仍在使用 Questie 或 Kaliel's Tracker，Quests 会让开：它的地图标记让给 Questie 的任务发布者，它的追踪任务列表让给它们的追踪器。"
+				},
+				{
+					"q": "它知道 WoW Forever 新增的任务吗？",
+					"a": "知道，随你遇到而记录：Forever 新增的任务在你看到其发布者时就会记下，之后会像其他任务一样出现在列表和搜索中。奖励也以同样方式记录，所以始终以游戏显示的为准。"
+				},
+				{
+					"q": "Wanderer Quests 会拖慢我的游戏吗？",
+					"a": "不会。数据只在你第一次打开窗口时读取，只加载英文和你的语言，战斗中不会在地图上绘制任何内容。"
+				},
+				{
+					"q": "它会替我接任务或交任务吗？",
+					"a": "不会。它只负责显示和指引，从不替你玩：不会自动接取或交付，地图链接也只会放进你的聊天输入框，绝不会发送出去。"
+				},
+				{
+					"q": "如何打开 Wanderer Quests？",
+					"a": "通过 Wanderer 的菜单、它的选项页面、在游戏按键设置中为它绑定的按键，或输入 /wquests。"
+				},
+				{
+					"q": "它的数据来自哪里？",
+					"a": "来自 CMaNGOS 经典数据库和 pfQuest，地下城入口来自 Endless Map，图书馆书籍来自 Wowdee，均已注明出处。Wanderer Quests 是遵循 GPL 3.0 的自由软件。"
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Quests 标志：一本古老的任务之书，封面上一朵金色罗盘玫瑰熠熠生辉，旁边是一枚地图图钉",
+			"tagline": "世界藏起的任务",
+			"summary": "按任务链展示你的职业、地下城和区域的任务，每个任务都有详情，还有一份安静的追踪任务列表。"
+		}
+	},
+	"zh-tw": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Quests：每個任務及其任務鏈 (WoW Forever)",
+				"description": "Wanderer Quests，WoW Forever 免費插件：依任務鏈展示職業、地城和區域的任務，每個任務都有詳情，還有一份安靜的追蹤任務列表。"
+			},
+			"h1": "世界向你隱藏的任務，盡在一個安靜的視窗",
+			"lead": "Wanderer Quests 是 Wanderer 為 World of Warcraft Forever 推出的免費擴充。你的職業、每個地城和團隊副本以及每個區域的所有任務，每個都連同通往它的前置任務，並標明你在每個任務上的進度。點擊一個任務，詳情會告訴你要做什麼、由誰發布、交給誰，以及能得到什麼。螢幕上是一份安靜的追蹤任務列表，依你自己的順序排列，並有一個置前的任務。無需其他任務資料庫：一切都已內建。",
+			"sections": [
+				{
+					"id": "tabs",
+					"h2": "Wanderer Quests 會顯示哪些任務？",
+					"paragraphs": [
+						"五個分頁：你的職業，依等級區間列出；地城與團隊副本，連同所有通往它們的任務；區域，優先選取你所在的區域；圖書館的書籍；以及你的裝備。只顯示與你相關的內容：你的種族、你的職業、你的陣營。",
+						"每個地點都會匯整等級範圍和數量：可接取、在任務日誌中、已完成。搜尋框可在所有分頁中依名稱查找任務，已完成的任務可以隱藏。"
+					]
+				},
+				{
+					"id": "chains",
+					"h2": "如何查看任務鏈？",
+					"paragraphs": [
+						"一個地點的任務以樹狀呈現：開啟其他任務的前置任務位於上方，無論從哪裡開始，並以對你而言的難度顏色顯示。開啟地城任務鏈的任務、沒人告訴你的職業任務、三個區域之前錯過的那個任務：全都在這裡。",
+						"每個任務都會標明你的進度：已完成、在任務日誌中、可接取、需先完成其他任務、因其他選擇而排除、暫時等級過高，或在遊戲允許你跳過時標為已略過。"
+					]
+				},
+				{
+					"id": "sheet",
+					"h2": "任務詳情會顯示什麼？",
+					"paragraphs": [
+						"點擊任務即可在視窗旁開啟詳情：它在任務鏈中的位置，一行「可交付」條件（你的等級、前置任務、攜帶的物品），任務需求及你已有的數量，掉落所需物品的生物，由誰發布、交給誰。",
+						"一個主按鈕會跟隨你的進度：去找任務發布者、前往目標、回去交任務。獎勵是 Forever 實際給出的，在你看到時記下，對你更好的獎勵帶有綠色箭頭。如果你喜歡，尚未接取的任務的故事可以先收合起來，讓你先從發布者口中聽到。"
+					]
+				},
+				{
+					"id": "tracker",
+					"h2": "能重新排列追蹤的任務並把一個任務置前嗎？",
+					"paragraphs": [
+						"可以。Wanderer Quests 可以取代遊戲內建的追蹤任務列表。一個任務置於最上方：字更大，帶一顆星，目標始終顯示。點擊即可將任務置前，再次點擊即取消，其他任何事都不會改變它。即使它的某個目標發生變化，遊戲也會在地圖上繼續追蹤這個任務。",
+						"其他任務依你的順序排列：拖動把手，或在右鍵選單中移動；立即整理會依等級、依距離或可交付優先整理一次列表。你所在的區域排在最前，地城單獨列出，每個區域保持你上次摺疊的樣子。可交付的任務會告訴你交給誰，任務物品就在它那一行，列表在閒置時變淡，戰鬥中更安靜。"
+					]
+				},
+				{
+					"id": "map",
+					"h2": "能在世界地圖上顯示我可接的任務嗎？",
+					"paragraphs": [
+						"能。每個有你現在可接任務的發布者處都會出現遊戲原本的「!」，範圍從比你低三級到高三級，如果你願意，更低級的任務也會以灰色顯示。每個發布者、目標和交任務的人都只需一次點擊：用 Wanderer Maps 的箭頭前往，或使用遊戲原本的圖釘。",
+						"每個地城和團隊副本都有一個按鈕，可在地圖上把入口標在門口，即使遊戲沒有給出。在地城附近，一則低調的通知可以告訴你還能先接它的多少個任務。"
+					]
+				},
+				{
+					"id": "gear",
+					"h2": "哪些任務能給我更好的裝備？",
+					"paragraphs": [
+						"裝備分頁並排顯示兩張角色面板：你身上的裝備，以及每個部位上任務能給你的最佳裝備，依你的玩法評估，附帶提升幅度和全部穿上後的屬性。點擊一件裝備即可開啟對應任務。"
+					]
+				},
+				{
+					"id": "books",
+					"h2": "它能幫我收集 WoW Forever 的圖書館書籍嗎？",
+					"paragraphs": [
+						"能。書籍分頁列出所有圖書館書籍：它在哪裡、是否在你的背包或銀行裡、是否已繳交，以及下一個獎勵。搭配 Wanderer Maps，一個按鈕就能規劃一條經過所有待尋書籍的路線；在 Wanderer 的閱讀視窗中讀書時，會告訴你該交給誰。"
+					]
+				},
+				{
+					"id": "together",
+					"h2": "能與其他 Wanderer 插件搭配使用嗎？",
+					"paragraphs": [
+						"搭配 Wanderer Maps，一個按鈕就能規劃任務路線：依序經過可接任務的發布者和進行中任務的交付人，每一站都選離上一站最近的，每一步完成後自動勾選。任務所需的東西一鍵加入 Wanderer 的備忘，所需物品一鍵加入 Wanderer Auction 的購物清單。",
+						"Wanderer 的標籤會標出掉落你任務所需物品的生物，遊戲的任務日誌和目標追蹤中也有一行「在任務中開啟」。"
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "我需要 Questie 或其他任務插件嗎？",
+					"a": "不需要。Wanderer Quests 所知道的一切都已內建。如果你仍在使用 Questie 或 Kaliel's Tracker，Quests 會讓開：它的地圖標記讓給 Questie 的任務發布者，它的追蹤任務列表讓給它們的追蹤器。"
+				},
+				{
+					"q": "它知道 WoW Forever 新增的任務嗎？",
+					"a": "知道，隨你遇到而記錄：Forever 新增的任務在你看到其發布者時就會記下，之後會像其他任務一樣出現在清單和搜尋中。獎勵也以同樣方式記錄，所以始終以遊戲顯示的為準。"
+				},
+				{
+					"q": "Wanderer Quests 會拖慢我的遊戲嗎？",
+					"a": "不會。資料只在你第一次開啟視窗時讀取，只載入英文和你的語言，戰鬥中不會在地圖上繪製任何內容。"
+				},
+				{
+					"q": "它會替我接任務或交任務嗎？",
+					"a": "不會。它只負責顯示和指引，從不替你玩：不會自動接取或交付，地圖連結也只會放進你的聊天輸入框，絕不會送出。"
+				},
+				{
+					"q": "如何開啟 Wanderer Quests？",
+					"a": "透過 Wanderer 的選單、它的選項頁面、在遊戲按鍵設定中為它綁定的按鍵，或輸入 /wquests。"
+				},
+				{
+					"q": "它的資料來自哪裡？",
+					"a": "來自 CMaNGOS 經典資料庫和 pfQuest，地城入口來自 Endless Map，圖書館書籍來自 Wowdee，均已註明出處。Wanderer Quests 是遵循 GPL 3.0 的自由軟體。"
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Quests 標誌：一本古老的任務之書，封面上一朵金色羅盤玫瑰熠熠生輝，旁邊是一枚地圖圖釘",
+			"tagline": "世界藏起的任務",
+			"summary": "依任務鏈展示你的職業、地城和區域的任務，每個任務都有詳情，還有一份安靜的追蹤任務列表。"
+		}
+	}
+}

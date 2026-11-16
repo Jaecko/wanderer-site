@@ -1,0 +1,102 @@
+{
+	"home": {
+		"campfire": {
+			"alt": "Logo von Wanderer Campfire Game: ein kleines Lagerfeuer unter den Sternen, daneben ein Abenteurerrucksack und eine Karte",
+			"tagline": "Ein kleines Spiel am Feuer",
+			"paragraphs": [
+				"Ein kleines Idle-Spiel in einem Wanderer-Fenster: Euer Lagerfeuer wächst Stufe um Stufe, die letzte ohne Ende, Gefährten versammeln sich daran und ziehen in Echtzeit auf Expeditionen durch Azeroth, auch während ihr fort seid.",
+				"Deine echte Reise nährt es: Die Gebiete, die du erkundest, öffnen neue Wege, deine Berufe stärken das Lager und erfüllen die Aufträge des Quartiermeisters, die Dungeons, die du abschließt, bringen dauerhaft mehr ein."
+			]
+		},
+		"extensionsTitle": "Vier Begleiter für unterwegs",
+		"extensionsAnswer": "Vier kostenlose Module, die Wanderer für World of Warcraft Forever ergänzen. Wanderer Bags vereint deine Taschen und deine Bank in einem Fenster und schützt ausgewählte Gegenstände vor jedem Verkauf. Wanderer Auction holt das Auktionshaus in ein Wanderer-Fenster, verkauft nie unter dem Händlerpreis und führt deine Einkaufsliste. Wanderer Quests zeigt jede Quest deiner Klasse, deiner Dungeons und deiner Gebiete in Reihen, dazu die beste Ausrüstung, die dir deine Quests geben können. Wanderer Campfire Game ist ein kleines Idle-Spiel, das von deiner echten Reise lebt. Jedes benötigt Wanderer und hat seine eigene Seite auf wanderer-addon.com.",
+		"faq": {
+			"q": "Gibt es ein Spiel in Wanderer?",
+			"a": "Ja, als eigenes Modul: Wanderer Campfire Game, eine kostenlose Erweiterung. Ein Lagerfeuer wächst, Gefährten ziehen in Echtzeit auf Expeditionen quer durch Azeroth, und deine echte Reise (erkundete Gebiete, Berufe, abgeschlossene Dungeons) stärkt das Lager. Im echten Spiel bringt es nichts, und bei geschlossenem Fenster läuft nichts."
+		}
+	},
+	"page": {
+		"meta": {
+			"title": "Wanderer Campfire Game: Idle-Spiel am Lagerfeuer (WoW Forever)",
+			"description": "Wanderer Campfire Game, kostenloses Addon für WoW Forever: Lass ein Lagerfeuer wachsen, schick Gefährten auf Expeditionen in Echtzeit, deine Reise stärkt es."
+		},
+		"h1": "Ein kleines Spiel am Feuer, genährt von deiner Reise",
+		"lead": "Wanderer Campfire Game ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Ein Lagerfeuer wächst Stufe um Stufe, Gefährten versammeln sich daran und ziehen in Echtzeit auf Expeditionen durch Azeroth. Was ihr im Spiel tut, macht es stärker; was es gibt, bleibt in seiner eigenen Welt.",
+		"sections": [
+			{
+				"id": "fire",
+				"h2": "Wie wächst das Lager?",
+				"paragraphs": [
+					"Das Feuer erzeugt ständig Glut, auch während ihr fort seid (zwölf Stunden, mit der Asche mehr). Schürt es mit einem Klick, kauft seine Erzeuger und ihre Verbesserungen. Mit Glut und Ruhm wächst es durch sieben Stufen, jede mit Platz für mehr Gefährten und mehr Expeditionen zugleich; die siebte, die ewige Glut, endet nie, und jede ihrer Stufen verlangt mehr.",
+					"Sechs Gebäude, jedes bis Stufe fünf: eine Küche für Proviant, eine Schmiede für Stärke, eine Apotheke für Wunden, Zelte für Platz, ein Lagerhaus für Reserven, ein Wachturm für das, was zurückkommt."
+				]
+			},
+			{
+				"id": "ashes",
+				"h2": "Was ist ein neues Feuer?",
+				"paragraphs": [
+					"Ist ein Feuer gut gewachsen, lasst es für seine Asche erlöschen. Nur das Feuer beginnt von vorn: Stufe, Gebäude, Gefährten, Expeditionen und Ressourcen bleiben. Jede Asche macht alle folgenden Feuer stärker, für immer, und zwischen zwei Feuern, und nur dann, wird sie im Aschebaum ausgegeben."
+				]
+			},
+			{
+				"id": "companions",
+				"h2": "Wer sind die Gefährten?",
+				"paragraphs": [
+					"Abenteurer in den Farben der Klassen von WoW, jeder ein Beschützer, ein Heiler oder ein Kämpfer, mit einer ganz eigenen Eigenschaft. Sie steigen unterwegs auf, wählen auf Stufe 20, 40 und 60 ein Talent und tragen die Ausrüstung, die deine Schmiede für sie fertigt. Wer oft gemeinsam aufbricht, arbeitet besser zusammen.",
+					"Ein Ruf auf Ehrfürchtig bringt einen Champion dieser Fraktion an dein Feuer."
+				]
+			},
+			{
+				"id": "expeditions",
+				"h2": "Wie funktionieren die Expeditionen?",
+				"paragraphs": [
+					"Wähle einen Ort, eine Dauer und wer mitgeht: vierzig Gebiete, neunzehn Dungeons, sieben Schlachtzüge. Die Chancen, der Proviant und die erwartete Ausbeute stehen vor dem Aufbruch fest. Ein Beschützer und ein Heiler zählen, vor allem in Dungeons und Schlachtzügen.",
+					"Sie kehren in Echtzeit zurück, nach fünfzehn Minuten bis zu einem ganzen Tag, mit Ruhm, Glut, Vorräten und manchmal einer Trophäe. Ein kurzer Hinweis meldet ihre Rückkehr. Ab und zu bringt der Weg eine Entscheidung mit."
+				]
+			},
+			{
+				"id": "journey",
+				"h2": "Wie zählt meine echte Reise im Spiel?",
+				"paragraphs": [
+					"Ein Gebiet öffnet sich für Expeditionen, sobald dein Charakter dessen Erkundungserfolg hat. Deine Charakterstufe schaltet die Stufen des Feuers und die Dungeons frei. Deine Berufe stärken das Lager, und der Quartiermeister verlangt Waren deiner Berufe: Halte sie in deinen Taschen oder deiner Bank bereit, sie bleiben deine.",
+					"Jede abgegebene Quest bringt Ruhm, jeder gefangene Fisch und jedes gekochte Gericht bringt Proviant. Ein Boss, den du in einem Dungeon oder Schlachtzug besiegst, macht diesen Ort erlebt: Seine Expeditionen bringen dauerhaft ein Viertel mehr."
+				]
+			},
+			{
+				"id": "nights",
+				"h2": "Was geschieht am Feuer?",
+				"paragraphs": [
+					"Alle paar Stunden geschieht etwas am Feuer: ein Hausierer, ein Sturm, Wölfe, ein Barde. Du entscheidest und lebst damit. Manche Geschichten gehen über drei Nächte weiter.",
+					"Trophäen an jedem Ort, Heldentaten des Lagers und die Champions eurer ehrfürchtigen Fraktionen."
+				]
+			}
+		],
+		"faq": [
+			{
+				"q": "Bringt Wanderer Campfire Game etwas im echten Spiel?",
+				"a": "Nein. Es liest nur, was dein Charakter getan hat (Erfolge, Stufe, Berufe, Gegenstände in deinen Taschen); alles, was es gibt, bleibt im Spiel am Feuer."
+			},
+			{
+				"q": "Verlangsamt es mein Spiel?",
+				"a": "Nein. Solange sein Fenster geschlossen ist, läuft nichts: Die vergangene Zeit wird gezählt, wenn du hinschaust, und ein einziger Timer wartet nur auf die Rückkehr der nächsten Expedition."
+			},
+			{
+				"q": "Teilen sich meine Charaktere das Lager?",
+				"a": "Nein. Jeder Charakter hat sein eigenes Lager, genährt von seiner eigenen Reise."
+			},
+			{
+				"q": "Wie öffne ich es?",
+				"a": "Über das Menü von Wanderer, eine eigene Taste in der Tastaturbelegung des Spiels oder /wcampfire."
+			}
+		]
+	},
+	"questsGear": {
+		"id": "gear",
+		"h2": "Welche Quests geben mir bessere Ausrüstung?",
+		"paragraphs": [
+			"Der Reiter Ausrüstung zeigt zwei Charakterbögen nebeneinander: links, was du trägst, Platz für Platz, mit deinen Werten; rechts für jeden Platz das beste Teil, das dir eine Quest geben kann, bis zu drei Stufen über deiner, und wie viel besser es für den Zweig ist, den du spielst.",
+			"Darunter deine Werte, wenn du alles tragen würdest. Ein Klick auf ein Teil öffnet das Blatt seiner Quest: was zu tun ist, wo, wer sie vergibt."
+		]
+	},
+	"requiresVersion": "0.43"
+}

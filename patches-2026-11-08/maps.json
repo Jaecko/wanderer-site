@@ -1,0 +1,882 @@
+{
+  "en": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Maps: route, notes and arrow (WoW Forever)",
+        "description": "Wanderer Maps, a free WoW Forever addon: notes and a route on the map, an arrow on screen, guided flights and boats, seamless continents."
+      },
+      "h1": "Your notes, your route and your way, on the game's own map",
+      "lead": "Wanderer Maps is a free extension of Wanderer for World of Warcraft Forever. It adds your own notes and a route of steps to the world map, a small arrow toward the step you follow, and a way guided through your flight paths, the boats, zeppelins and tram. The continents become one seamless map, and each zone says its levels and the fishing it asks. Everything is drawn by the game's own map, so its zoom, pins and clicks stay as you know them.",
+      "sections": [
+        {
+          "id": "notes",
+          "h2": "How do I put my own notes on the world map?",
+          "paragraphs": [
+            "Alt+click anywhere on the map: a small card opens where you clicked, with a name and one of eight signs (a place, a star, a treasure, herbs, ore, danger, a meeting, a question). Enter saves it, Shift+Enter saves and follows it, Ctrl+Enter puts it on your route.",
+            "A window gathers your route and your notes in two tabs, with their distances kept fresh, and lists the nearest inn, flight master, mailbox and trainer you know, one click to follow. A route you like, a round of herbs or of mailboxes, can be kept under a name and followed again later.",
+            "A Notes button on the world map shows or hides your notes by sign, or all at once, and the minimap follows. On a continent's map they become small dots, grouped by zone when many, and the Notes tab removes a whole sign or zone at once, asked first."
+          ]
+        },
+        {
+          "id": "arrow",
+          "h2": "Can an arrow lead me to my next step?",
+          "paragraphs": [
+            "Yes. A small arrow you place where you like points toward the step you follow, with the distance in yards: gold on course, amber when the point is behind you. Near a step it ticks itself and the next one is followed. The game's own floating marker and a dotted line on the minimap follow the same point. It also gives the time of arrival and, on a route, the time for all of it.",
+            "When no step is followed, the arrow points to the pin the game keeps on your map: yours, a place from Wanderer Quests, a trainer. A right click on it gives the next step, a new plan of the way, or the window.",
+            "After a death, the arrow points to your corpse while you are a ghost, and your route comes back at resurrection."
+          ]
+        },
+        {
+          "id": "way",
+          "h2": "Does it count flight paths, boats and my hearthstone?",
+          "paragraphs": [
+            "Yes. To reach a step, the guided way takes the quickest road through your feet, the flight paths this character has found, the boats, zeppelins and tram of the original world, and leads you leg by leg: to the flight master, fly to, the boat to.",
+            "If you wish, your hearthstone counts too when its inn is known: still cooling down, its wait is counted, and it is only taken when it still comes first."
+          ]
+        },
+        {
+          "id": "world",
+          "h2": "Can the continent map show every zone in one piece?",
+          "paragraphs": [
+            "Yes. On a continent's map, each zone's own land is drawn where it lies, as sharp as on its own map: one seamless world. The land you have not explored yet shows softened and without colors, and the map's bar says how many areas of the zone you have explored.",
+            "Beside the zone's name, its levels in the colors of their difficulty for you and, when you fish, the skill its waters ask: two things WoW Forever does not show. If you like, the inns, mailboxes, banks, auction houses and trainers you have visited get a small mark."
+          ]
+        },
+        {
+          "id": "flights",
+          "h2": "How long is my flight?",
+          "paragraphs": [
+            "In flight, the destination's name stands over a slim line from take off to landing: a dot for each stop, yours moving along, and the time left. Times are learned from your own flights, guessed from the distance until then, and also shown in the flight master's map.",
+            "A flight master you have not found yet in your zone can be pointed out once, quietly, with one click to go there."
+          ]
+        },
+        {
+          "id": "quests",
+          "h2": "Does it work with Wanderer Quests?",
+          "paragraphs": [
+            "Hand in hand. From Wanderer Quests, a giver or an objective goes on your route in one click, and a Quest route button visits every giver of what you may take and every ender of what you carry, each the nearest from the last. Each quest step says what to do there and ticks itself when it is done."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Does Wanderer Maps replace TomTom?",
+          "a": "It does a similar job in Wanderer's style. If TomTom is installed, its arrow is kept and Maps' arrow steps aside, so the two never fight. The same goes for the arrows of the RestedXP and Zygor guides."
+        },
+        {
+          "q": "Does it walk or fly for me?",
+          "a": "No. It shows the way, the road is yours: nothing walks, mounts or flies for you, and nothing is drawn over the world beyond the game's own marker."
+        },
+        {
+          "q": "Are my notes shared between characters?",
+          "a": "Your notes and your route belong to each character. What the world teaches (flight times, the services of a town) is kept for all of them."
+        },
+        {
+          "q": "Can I turn it all off at once?",
+          "a": "Yes. One checkbox in Wanderer's options turns off everything that runs outside the window: the arrow, the pins, the flight line."
+        },
+        {
+          "q": "How do I open Wanderer Maps?",
+          "a": "From Wanderer's menu, a key of yours in the game's key bindings, or by typing /wmaps."
+        }
+      ]
+    },
+    "card": {
+      "alt": "Wanderer Maps logo",
+      "tagline": "Your way across the world",
+      "summary": "Notes and a route on your map, an arrow toward your next step, the continents in one piece and your flights timed."
+    }
+  },
+  "fr": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Maps : trajet, notes et flèche (WoW Forever)",
+        "description": "Wanderer Maps, addon gratuit pour WoW Forever : notes et trajet sur la carte, une flèche à l'écran, vols et bateaux guidés, continents d'un seul tenant."
+      },
+      "h1": "Vos notes, votre trajet et votre chemin, sur la carte du jeu",
+      "lead": "Wanderer Maps est une extension gratuite de Wanderer pour World of Warcraft Forever. Elle ajoute vos propres notes et un trajet par étapes sur la carte du monde, une petite flèche vers l'étape que vous suivez, et un chemin guidé par vos trajets aériens, les bateaux, les zeppelins et le tram. Les continents deviennent une seule carte d'un seul tenant, et chaque zone dit ses niveaux et la pêche qu'elle demande. Tout est dessiné par la carte du jeu elle-même : son zoom, ses épingles et ses clics restent ceux que vous connaissez.",
+      "sections": [
+        {
+          "id": "notes",
+          "h2": "Comment poser mes propres notes sur la carte du monde ?",
+          "paragraphs": [
+            "Un Alt+clic n'importe où sur la carte : une petite carte s'ouvre là où vous avez cliqué, avec un nom et l'un de huit signes (un lieu, une étoile, un trésor, des herbes, du minerai, un danger, un rendez-vous, une question). Entrée la garde, Maj+Entrée la garde et la suit, Ctrl+Entrée l'ajoute à votre trajet.",
+            "Une fenêtre réunit votre trajet et vos notes en deux onglets, avec leurs distances tenues à jour, et liste l'auberge, le maître de vol, la boîte aux lettres et le maître les plus proches que vous connaissez, à un clic de les suivre. Un trajet qui vous plaît, une tournée d'herbes ou de boîtes aux lettres, se garde sous un nom et se suit à nouveau plus tard.",
+            "Un bouton Notes sur la carte du monde montre ou cache vos notes par signe, ou toutes à la fois, et la minicarte suit. Sur la carte d'un continent, elles deviennent de petits points, regroupés par zone quand elles sont nombreuses, et l'onglet Notes retire d'un coup tout un signe ou toute une zone, après une question."
+          ]
+        },
+        {
+          "id": "arrow",
+          "h2": "Une flèche peut-elle me mener à ma prochaine étape ?",
+          "paragraphs": [
+            "Oui. Une petite flèche, placée où vous voulez, pointe vers l'étape que vous suivez, avec la distance en mètres : dorée dans la bonne direction, ambre quand le point est derrière vous. Près d'une étape, elle se coche toute seule et la suivante est suivie. Le marqueur flottant du jeu et une ligne pointillée sur la minicarte suivent le même point. Elle donne aussi l'heure d'arrivée et, sur un trajet, le temps pour l'ensemble.",
+            "Quand aucune étape n'est suivie, la flèche pointe vers l'épingle que le jeu garde sur votre carte : la vôtre, un lieu de Wanderer Quests, un maître. Un clic droit dessus donne l'étape suivante, un nouveau tracé du chemin, ou la fenêtre.",
+            "Après une mort, la flèche pointe vers votre corps tant que vous êtes un fantôme, et votre trajet revient à la résurrection."
+          ]
+        },
+        {
+          "id": "way",
+          "h2": "Compte-t-il les trajets aériens, les bateaux et ma pierre de foyer ?",
+          "paragraphs": [
+            "Oui. Pour atteindre une étape, le chemin guidé prend la route la plus rapide entre vos pieds, les trajets aériens que ce personnage a découverts, les bateaux, zeppelins et le tram du monde d'origine, et vous mène étape par étape : vers le maître de vol, vol vers, bateau vers.",
+            "Si vous le souhaitez, votre pierre de foyer compte aussi quand son auberge est connue : encore en recharge, son attente est comptée, et elle n'est prise que si elle reste la plus rapide."
+          ]
+        },
+        {
+          "id": "world",
+          "h2": "La carte d'un continent peut-elle montrer toutes les zones d'un seul tenant ?",
+          "paragraphs": [
+            "Oui. Sur la carte d'un continent, les terres de chaque zone sont dessinées là où elles se trouvent, aussi nettes que sur leur propre carte : un seul monde, d'un seul tenant. Les terres que vous n'avez pas encore explorées apparaissent adoucies et sans couleurs, et la barre de la carte dit combien de lieux de la zone vous avez explorés.",
+            "À côté du nom de la zone, ses niveaux aux couleurs de leur difficulté pour vous et, quand vous pêchez, la compétence que ses eaux demandent : deux choses que WoW Forever n'affiche pas. Si vous le souhaitez, les auberges, boîtes aux lettres, banques, hôtels des ventes et maîtres que vous avez visités reçoivent une petite marque."
+          ]
+        },
+        {
+          "id": "flights",
+          "h2": "Combien de temps dure mon vol ?",
+          "paragraphs": [
+            "En vol, le nom de la destination se tient au-dessus d'une fine ligne du décollage à l'atterrissage : un point pour chaque étape, le vôtre qui avance, et le temps restant. Les durées s'apprennent de vos propres vols, estimées d'après la distance d'ici là, et s'affichent aussi sur la carte du maître de vol.",
+            "Un maître de vol de votre zone que vous n'avez pas encore découvert peut vous être signalé une fois, discrètement, avec un clic pour vous y rendre."
+          ]
+        },
+        {
+          "id": "quests",
+          "h2": "Fonctionne-t-il avec Wanderer Quests ?",
+          "paragraphs": [
+            "Main dans la main. Depuis Wanderer Quests, un donneur ou un objectif rejoint votre trajet en un clic, et un bouton Trajet des quêtes passe par chaque donneur de ce que vous pouvez prendre et par chacun de ceux qui reprennent ce que vous portez, chacun le plus proche du précédent. Chaque étape de quête dit quoi y faire et se coche toute seule une fois faite."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Wanderer Maps remplace-t-il TomTom ?",
+          "a": "Il fait un travail semblable dans le style de Wanderer. Si TomTom est installé, sa flèche est gardée et celle de Maps s'efface, pour que les deux ne se gênent jamais. Il en va de même pour les flèches des guides RestedXP et Zygor."
+        },
+        {
+          "q": "Marche-t-il ou vole-t-il à ma place ?",
+          "a": "Non. Il montre le chemin, la route est à vous : rien ne marche, ne monte en selle ou ne vole pour vous, et rien n'est dessiné sur le monde au-delà du marqueur du jeu."
+        },
+        {
+          "q": "Mes notes sont-elles partagées entre personnages ?",
+          "a": "Vos notes et votre trajet sont propres à chaque personnage. Ce que le monde vous apprend (durées des vols, services d'une ville) est gardé pour tous."
+        },
+        {
+          "q": "Puis-je tout désactiver d'un coup ?",
+          "a": "Oui. Une case dans les options de Wanderer désactive tout ce qui agit hors de la fenêtre : la flèche, les épingles, la ligne de vol."
+        },
+        {
+          "q": "Comment ouvrir Wanderer Maps ?",
+          "a": "Depuis le menu de Wanderer, une touche à vous dans les raccourcis du jeu, ou en tapant /wmaps."
+        }
+      ]
+    },
+    "card": {
+      "alt": "Logo de Wanderer Maps",
+      "tagline": "Votre chemin à travers le monde",
+      "summary": "Des notes et un trajet sur votre carte, une flèche vers votre prochaine étape, les continents d'un seul tenant et vos vols chronométrés."
+    }
+  },
+  "de": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Maps: Route, Notizen und Pfeil (WoW Forever)",
+        "description": "Wanderer Maps, kostenloses Addon für WoW Forever: Notizen und Route auf der Karte, ein Pfeil, geführte Flüge und Schiffe, Kontinente aus einem Guss."
+      },
+      "h1": "Deine Notizen, deine Route und dein Weg, auf der Karte des Spiels",
+      "lead": "Wanderer Maps ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Es fügt der Weltkarte deine eigenen Notizen und eine Route aus Schritten hinzu, einen kleinen Pfeil zum Schritt, dem du folgst, und einen Weg, der dich über deine Flugrouten, die Schiffe, Zeppeline und die Tiefenbahn führt. Die Kontinente werden zu einer Karte aus einem Guss, und jedes Gebiet nennt seine Stufen und die Angelfertigkeit, die es verlangt. Alles zeichnet die Karte des Spiels selbst, sodass Zoom, Nadeln und Klicks so bleiben, wie du sie kennst.",
+      "sections": [
+        {
+          "id": "notes",
+          "h2": "Wie setze ich eigene Notizen auf die Weltkarte?",
+          "paragraphs": [
+            "Alt+Klick irgendwo auf die Karte: Eine kleine Karte öffnet sich dort, wo du geklickt hast, mit einem Namen und einem von acht Zeichen (ein Ort, ein Stern, ein Schatz, Kräuter, Erz, Gefahr, ein Treffpunkt, eine Frage). Eingabe speichert, Umschalt+Eingabe speichert und verfolgt, Strg+Eingabe setzt sie auf deine Route.",
+            "Ein Fenster vereint deine Route und deine Notizen in zwei Reitern, mit stets aktuellen Entfernungen, und listet das nächste Gasthaus, den nächsten Flugmeister, Briefkasten und Lehrer, die du kennst, mit einem Klick zu verfolgen. Eine Route, die dir gefällt, eine Runde Kräuter oder Briefkästen, kannst du unter einem Namen behalten und später wieder verfolgen.",
+            "Ein Knopf Notizen auf der Weltkarte zeigt oder verbirgt deine Notizen nach Zeichen oder alle auf einmal, und die Minikarte folgt. Auf der Karte eines Kontinents werden sie zu kleinen Punkten, nach Zone gruppiert, wenn es viele sind, und der Reiter Notizen entfernt ein ganzes Zeichen oder eine ganze Zone auf einmal, nach einer Frage."
+          ]
+        },
+        {
+          "id": "arrow",
+          "h2": "Kann mich ein Pfeil zu meinem nächsten Schritt führen?",
+          "paragraphs": [
+            "Ja. Ein kleiner Pfeil, den du platzierst, wo du magst, zeigt zum Schritt, dem du folgst, mit der Entfernung in Metern: golden auf Kurs, bernsteinfarben, wenn der Punkt hinter dir liegt. In der Nähe eines Schritts hakt er sich selbst ab, und der nächste wird verfolgt. Die schwebende Markierung des Spiels und eine gepunktete Linie auf der Minikarte folgen demselben Punkt. Er nennt auch die Ankunftszeit und, auf einer Route, die Zeit für alles.",
+            "Wird kein Schritt verfolgt, zeigt der Pfeil auf die Nadel, die das Spiel auf deiner Karte hält: deine, ein Ort aus Wanderer Quests, ein Lehrer. Ein Rechtsklick darauf bietet den nächsten Schritt, eine neue Planung des Wegs oder das Fenster.",
+            "Nach einem Tod zeigt der Pfeil zu deiner Leiche, solange du ein Geist bist, und bei der Wiederbelebung kehrt deine Route zurück."
+          ]
+        },
+        {
+          "id": "way",
+          "h2": "Berücksichtigt es Flugrouten, Schiffe und meinen Ruhestein?",
+          "paragraphs": [
+            "Ja. Um einen Schritt zu erreichen, nimmt der geführte Weg die schnellste Strecke über deine Füße, die Flugrouten, die dieser Charakter entdeckt hat, die Schiffe, Zeppeline und die Tiefenbahn der ursprünglichen Welt, und führt dich Etappe für Etappe: zum Flugmeister, fliege nach, das Schiff nach.",
+            "Auf Wunsch zählt auch dein Ruhestein, wenn sein Gasthaus bekannt ist: Kühlt er noch ab, wird die Wartezeit eingerechnet, und er wird nur genommen, wenn er trotzdem am schnellsten ist."
+          ]
+        },
+        {
+          "id": "world",
+          "h2": "Kann die Kontinentkarte jedes Gebiet aus einem Guss zeigen?",
+          "paragraphs": [
+            "Ja. Auf der Karte eines Kontinents wird das Land jedes Gebiets dort gezeichnet, wo es liegt, so scharf wie auf seiner eigenen Karte: eine Welt aus einem Guss. Das Land, das du noch nicht erkundet hast, erscheint gedämpft und ohne Farben, und die Leiste der Karte sagt, wie viele Bereiche des Gebiets du erkundet hast.",
+            "Neben dem Namen des Gebiets stehen seine Stufen in den Farben ihrer Schwierigkeit für dich und, wenn du angelst, die Fertigkeit, die seine Gewässer verlangen: zwei Dinge, die WoW Forever nicht zeigt. Auf Wunsch bekommen die Gasthäuser, Briefkästen, Banken, Auktionshäuser und Lehrer, die du besucht hast, eine kleine Markierung."
+          ]
+        },
+        {
+          "id": "flights",
+          "h2": "Wie lange dauert mein Flug?",
+          "paragraphs": [
+            "Im Flug steht der Name des Ziels über einer schmalen Linie vom Abflug bis zur Landung: ein Punkt für jeden Zwischenstopp, deiner wandert mit, und die verbleibende Zeit. Die Zeiten werden aus deinen eigenen Flügen gelernt, bis dahin aus der Entfernung geschätzt, und auch auf der Karte des Flugmeisters gezeigt.",
+            "Ein Flugmeister in deinem Gebiet, den du noch nicht entdeckt hast, kann einmal dezent angezeigt werden, mit einem Klick, um dorthin zu gehen."
+          ]
+        },
+        {
+          "id": "quests",
+          "h2": "Funktioniert es mit Wanderer Quests?",
+          "paragraphs": [
+            "Hand in Hand. Aus Wanderer Quests kommt ein Questgeber oder ein Ziel mit einem Klick auf deine Route, und ein Knopf Questroute besucht jeden Questgeber dessen, was du annehmen kannst, und jede Abgabestelle dessen, was du trägst, jeweils die nächste ab der letzten. Jeder Questschritt sagt, was dort zu tun ist, und hakt sich selbst ab, wenn es erledigt ist."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Ersetzt Wanderer Maps TomTom?",
+          "a": "Es erledigt eine ähnliche Aufgabe im Stil von Wanderer. Ist TomTom installiert, bleibt sein Pfeil, und der Pfeil von Maps tritt zurück, damit sich die beiden nie ins Gehege kommen. Dasselbe gilt für die Pfeile der Guides von RestedXP und Zygor."
+        },
+        {
+          "q": "Läuft oder fliegt es für mich?",
+          "a": "Nein. Es zeigt den Weg, gehen musst du ihn selbst: Nichts läuft, reitet oder fliegt für dich, und über der Welt wird nichts gezeichnet außer der Markierung des Spiels."
+        },
+        {
+          "q": "Teilen sich meine Charaktere die Notizen?",
+          "a": "Deine Notizen und deine Route gehören jedem Charakter selbst. Was die Welt lehrt (Flugzeiten, die Dienste einer Stadt), wird für alle gespeichert."
+        },
+        {
+          "q": "Kann ich alles auf einmal ausschalten?",
+          "a": "Ja. Ein Kontrollkästchen in den Optionen von Wanderer schaltet alles aus, was außerhalb des Fensters läuft: den Pfeil, die Nadeln, die Fluglinie."
+        },
+        {
+          "q": "Wie öffne ich Wanderer Maps?",
+          "a": "Über das Menü von Wanderer, eine eigene Taste in der Tastaturbelegung des Spiels oder mit /wmaps."
+        }
+      ]
+    },
+    "card": {
+      "alt": "Logo von Wanderer Maps",
+      "tagline": "Dein Weg durch die Welt",
+      "summary": "Notizen und eine Route auf deiner Karte, ein Pfeil zu deinem nächsten Schritt, die Kontinente aus einem Guss und deine Flüge mit Zeitangabe."
+    }
+  },
+  "es": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Maps: ruta, notas y flecha (WoW Forever)",
+        "description": "Wanderer Maps, addon gratuito para WoW Forever: notas y una ruta en el mapa, una flecha en pantalla, vuelos y barcos guiados, continentes sin cortes."
+      },
+      "h1": "Tus notas, tu ruta y tu camino, en el propio mapa del juego",
+      "lead": "Wanderer Maps es una extensión gratuita de Wanderer para World of Warcraft Forever. Añade al mapa del mundo tus propias notas y una ruta por etapas, una pequeña flecha hacia la etapa que sigues, y un camino guiado por tus rutas de vuelo, los barcos, los zepelines y el tranvía. Los continentes se convierten en un solo mapa sin cortes, y cada zona indica sus niveles y la pesca que exige. Todo lo dibuja el propio mapa del juego, así que su zoom, sus marcadores y sus clics siguen como los conoces.",
+      "sections": [
+        {
+          "id": "notes",
+          "h2": "¿Cómo pongo mis propias notas en el mapa del mundo?",
+          "paragraphs": [
+            "Alt+clic en cualquier punto del mapa: se abre una pequeña tarjeta donde hiciste clic, con un nombre y uno de ocho símbolos (un lugar, una estrella, un tesoro, hierbas, mineral, peligro, una cita, una pregunta). Intro la guarda, Mayús+Intro la guarda y la sigue, Ctrl+Intro la añade a tu ruta.",
+            "Una ventana reúne tu ruta y tus notas en dos pestañas, con sus distancias siempre al día, y lista la posada, el maestro de vuelo, el buzón y el instructor más cercanos que conoces, a un clic de seguirlos. Una ruta que te gusta, una vuelta de hierbas o de buzones, se guarda con un nombre y se vuelve a seguir más tarde.",
+            "Un botón Notas en el mapa del mundo muestra u oculta tus notas por signo, o todas a la vez, y el minimapa lo sigue. En el mapa de un continente se vuelven pequeños puntos, agrupados por zona cuando son muchos, y la pestaña Notas quita de una vez todo un signo o toda una zona, tras una pregunta."
+          ]
+        },
+        {
+          "id": "arrow",
+          "h2": "¿Puede una flecha llevarme a mi próxima etapa?",
+          "paragraphs": [
+            "Sí. Una pequeña flecha que colocas donde quieras apunta hacia la etapa que sigues, con la distancia en metros: dorada en el buen rumbo, ámbar cuando el punto queda detrás de ti. Cerca de una etapa se marca sola y se sigue la siguiente. El propio marcador flotante del juego y una línea de puntos en el minimapa siguen el mismo punto. También da la hora de llegada y, en una ruta, el tiempo de todo el recorrido.",
+            "Cuando no sigues ninguna etapa, la flecha apunta al marcador que el juego guarda en tu mapa: el tuyo, un lugar de Wanderer Quests, un instructor. Un clic derecho sobre ella da la siguiente etapa, un nuevo trazado del camino o la ventana.",
+            "Tras una muerte, la flecha apunta a tu cadáver mientras eres un fantasma, y tu ruta vuelve al resucitar."
+          ]
+        },
+        {
+          "id": "way",
+          "h2": "¿Tiene en cuenta las rutas de vuelo, los barcos y mi piedra de hogar?",
+          "paragraphs": [
+            "Sí. Para llegar a una etapa, el camino guiado toma la vía más rápida entre ir a pie, las rutas de vuelo que este personaje ha descubierto, los barcos, zepelines y el tranvía del mundo original, y te lleva tramo a tramo: al maestro de vuelo, vuela a, el barco a.",
+            "Si quieres, tu piedra de hogar también cuenta cuando se conoce su posada: si aún se está recargando, su espera se tiene en cuenta, y solo se usa cuando sigue siendo lo más rápido."
+          ]
+        },
+        {
+          "id": "world",
+          "h2": "¿Puede el mapa del continente mostrar todas las zonas de una pieza?",
+          "paragraphs": [
+            "Sí. En el mapa de un continente, el terreno de cada zona se dibuja donde está, tan nítido como en su propio mapa: un solo mundo sin cortes. Las tierras que aún no has explorado aparecen suavizadas y sin color, y la barra del mapa dice cuántas áreas de la zona has explorado.",
+            "Junto al nombre de la zona, sus niveles en los colores de su dificultad para ti y, cuando pescas, la habilidad que exigen sus aguas: dos cosas que WoW Forever no muestra. Si quieres, las posadas, buzones, bancos, casas de subastas e instructores que has visitado reciben una pequeña marca."
+          ]
+        },
+        {
+          "id": "flights",
+          "h2": "¿Cuánto dura mi vuelo?",
+          "paragraphs": [
+            "En vuelo, el nombre del destino aparece sobre una línea fina del despegue al aterrizaje: un punto por cada parada, el tuyo avanzando, y el tiempo restante. Los tiempos se aprenden de tus propios vuelos, se estiman por la distancia hasta entonces, y también se muestran en el mapa del maestro de vuelo.",
+            "Un maestro de vuelo de tu zona que aún no has descubierto puede señalarse una vez, discretamente, con un clic para ir allí."
+          ]
+        },
+        {
+          "id": "quests",
+          "h2": "¿Funciona con Wanderer Quests?",
+          "paragraphs": [
+            "De la mano. Desde Wanderer Quests, quien da una misión o un objetivo pasa a tu ruta con un clic, y un botón Ruta de misiones visita a todos los que dan lo que puedes tomar y a todos los que reciben lo que llevas, cada uno el más cercano al anterior. Cada etapa de misión dice qué hacer allí y se marca sola cuando está hecha."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿Wanderer Maps sustituye a TomTom?",
+          "a": "Hace un trabajo parecido al estilo de Wanderer. Si TomTom está instalado, se conserva su flecha y la de Maps se aparta, así que nunca chocan. Lo mismo ocurre con las flechas de las guías RestedXP y Zygor."
+        },
+        {
+          "q": "¿Camina o vuela por mí?",
+          "a": "No. Muestra el camino, el viaje es tuyo: nada camina, monta ni vuela por ti, y nada se dibuja sobre el mundo aparte del propio marcador del juego."
+        },
+        {
+          "q": "¿Mis notas se comparten entre personajes?",
+          "a": "Tus notas y tu ruta son propias de cada personaje. Lo que enseña el mundo (tiempos de vuelo, los servicios de una ciudad) se guarda para todos."
+        },
+        {
+          "q": "¿Puedo desactivarlo todo de una vez?",
+          "a": "Sí. Una casilla en las opciones de Wanderer desactiva todo lo que funciona fuera de la ventana: la flecha, los marcadores, la línea de vuelo."
+        },
+        {
+          "q": "¿Cómo abrir Wanderer Maps?",
+          "a": "Desde el menú de Wanderer, una tecla tuya en las asignaciones de teclas del juego, o escribiendo /wmaps."
+        }
+      ]
+    },
+    "card": {
+      "alt": "Logo de Wanderer Maps",
+      "tagline": "Tu camino por el mundo",
+      "summary": "Notas y una ruta en tu mapa, una flecha hacia tu próxima etapa, los continentes de una pieza y tus vuelos cronometrados."
+    }
+  },
+  "it": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Maps: percorso, note e freccia (WoW Forever)",
+        "description": "Wanderer Maps, addon gratuito per WoW Forever: note e un percorso sulla mappa, una freccia sullo schermo, voli e navi guidati, continenti senza giunture."
+      },
+      "h1": "Le tue note, il tuo percorso e la tua strada, sulla mappa del gioco",
+      "lead": "Wanderer Maps è un'estensione gratuita di Wanderer per World of Warcraft Forever. Aggiunge alla mappa del mondo le tue note e un percorso a tappe, una piccola freccia verso la tappa che segui e una strada guidata attraverso le tue rotte di volo, le navi, gli zeppelin e la tranvia. I continenti diventano un'unica mappa senza giunture, e ogni zona indica i suoi livelli e la pesca che richiede. Tutto è disegnato dalla mappa del gioco, così zoom, segnaposti e clic restano come li conosci.",
+      "sections": [
+        {
+          "id": "notes",
+          "h2": "Come metto le mie note sulla mappa del mondo?",
+          "paragraphs": [
+            "Alt+clic in qualsiasi punto della mappa: una piccola scheda si apre dove hai cliccato, con un nome e uno di otto simboli (un luogo, una stella, un tesoro, erbe, minerale, pericolo, un incontro, una domanda). Invio la salva, Maiusc+Invio la salva e la segue, Ctrl+Invio la mette nel percorso.",
+            "Una finestra riunisce il percorso e le note in due schede, con le distanze sempre aggiornate, ed elenca la locanda, il maestro di volo, la cassetta della posta e l'istruttore più vicini che conosci, a un clic da seguire. Un percorso che ti piace, un giro di erbe o di cassette della posta, si conserva con un nome e si segue di nuovo più tardi.",
+            "Un pulsante Note sulla mappa del mondo mostra o nasconde le tue note per segno, o tutte insieme, e la minimappa segue. Sulla mappa di un continente diventano piccoli punti, raggruppati per zona quando sono tante, e la scheda Note toglie in una volta tutto un segno o tutta una zona, dopo una domanda."
+          ]
+        },
+        {
+          "id": "arrow",
+          "h2": "Una freccia può guidarmi alla prossima tappa?",
+          "paragraphs": [
+            "Sì. Una piccola freccia, che metti dove vuoi, punta verso la tappa che segui, con la distanza in metri: oro quando sei in rotta, ambra quando il punto è dietro di te. Vicino a una tappa si spunta da sola e si segue la successiva. Il segnalino fluttuante del gioco e una linea tratteggiata sulla minimappa seguono lo stesso punto. Indica anche l'ora di arrivo e, su un percorso, il tempo per tutto il tragitto.",
+            "Quando non segui nessuna tappa, la freccia punta al segnaposto che il gioco tiene sulla tua mappa: il tuo, un luogo di Wanderer Quests, un istruttore. Un clic destro su di essa dà la tappa successiva, un nuovo piano della strada o la finestra.",
+            "Dopo una morte, la freccia punta al tuo corpo finché sei un fantasma, e il percorso torna alla resurrezione."
+          ]
+        },
+        {
+          "id": "way",
+          "h2": "Tiene conto delle rotte di volo, delle navi e della Pietra del Ritorno?",
+          "paragraphs": [
+            "Sì. Per raggiungere una tappa, la strada guidata prende la via più rapida tra i tuoi passi, le rotte di volo che questo personaggio ha scoperto, le navi, gli zeppelin e la tranvia del mondo originale, e ti guida tratto per tratto: dal maestro di volo, vola fino a, la nave per.",
+            "Se vuoi, conta anche la tua Pietra del Ritorno quando la sua locanda è nota: se è ancora in ricarica, l'attesa viene contata, e la si usa solo se arriva comunque prima."
+          ]
+        },
+        {
+          "id": "world",
+          "h2": "La mappa del continente può mostrare tutte le zone in un pezzo solo?",
+          "paragraphs": [
+            "Sì. Sulla mappa di un continente, la terra di ogni zona è disegnata dove si trova, nitida come sulla sua mappa: un unico mondo senza giunture. La terra che non hai ancora esplorato appare attenuata e senza colori, e la barra della mappa dice quante aree della zona hai esplorato.",
+            "Accanto al nome della zona, i suoi livelli nei colori della loro difficoltà per te e, quando peschi, l'abilità richiesta dalle sue acque: due cose che WoW Forever non mostra. Se vuoi, le locande, le cassette della posta, le banche, le case d'aste e gli istruttori che hai visitato ricevono un piccolo segno."
+          ]
+        },
+        {
+          "id": "flights",
+          "h2": "Quanto dura il mio volo?",
+          "paragraphs": [
+            "In volo, il nome della destinazione sta sopra una linea sottile dal decollo all'atterraggio: un punto per ogni tappa, il tuo che avanza, e il tempo rimasto. I tempi si imparano dai tuoi voli, stimati dalla distanza fino ad allora, e appaiono anche sulla mappa del maestro di volo.",
+            "Un maestro di volo della tua zona che non hai ancora scoperto può esserti indicato una volta, con discrezione, con un clic per andarci."
+          ]
+        },
+        {
+          "id": "quests",
+          "h2": "Funziona con Wanderer Quests?",
+          "paragraphs": [
+            "Mano nella mano. Da Wanderer Quests, un datore o un obiettivo entra nel tuo percorso con un clic, e un pulsante Percorso missioni visita ogni datore di ciò che puoi prendere e ogni destinatario di ciò che porti, ognuno il più vicino al precedente. Ogni tappa di missione dice cosa fare lì e si spunta da sola quando è fatta."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Wanderer Maps sostituisce TomTom?",
+          "a": "Fa un lavoro simile nello stile di Wanderer. Se TomTom è installato, la sua freccia resta e quella di Maps si fa da parte, così le due non si scontrano mai. Lo stesso vale per le frecce delle guide RestedXP e Zygor."
+        },
+        {
+          "q": "Cammina o vola al posto mio?",
+          "a": "No. Mostra la strada, il cammino è tuo: nulla cammina, monta o vola per te, e nulla viene disegnato sul mondo oltre al segnalino del gioco."
+        },
+        {
+          "q": "Le mie note sono condivise tra i personaggi?",
+          "a": "Le note e il percorso appartengono a ogni personaggio. Ciò che il mondo insegna (tempi di volo, i servizi di una città) è conservato per tutti."
+        },
+        {
+          "q": "Posso disattivare tutto in una volta?",
+          "a": "Sì. Una casella nelle opzioni di Wanderer disattiva tutto ciò che agisce fuori dalla finestra: la freccia, i segnaposti, la linea del volo."
+        },
+        {
+          "q": "Come aprire Wanderer Maps?",
+          "a": "Dal menu di Wanderer, con un tasto tuo nelle assegnazioni dei tasti del gioco, o digitando /wmaps."
+        }
+      ]
+    },
+    "card": {
+      "alt": "Logo di Wanderer Maps",
+      "tagline": "La tua strada nel mondo",
+      "summary": "Note e un percorso sulla mappa, una freccia verso la prossima tappa, i continenti in un solo pezzo e i tuoi voli cronometrati."
+    }
+  },
+  "pt-br": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Maps: rota, notas e seta (WoW Forever)",
+        "description": "Wanderer Maps, addon grátis para WoW Forever: notas e uma rota no mapa, uma seta na tela, voos e barcos guiados, continentes sem emendas."
+      },
+      "h1": "Suas notas, sua rota e seu caminho, no mapa do próprio jogo",
+      "lead": "Wanderer Maps é uma extensão gratuita do Wanderer para World of Warcraft Forever. Ele acrescenta ao mapa-múndi suas próprias notas e uma rota de etapas, uma pequena seta rumo à etapa que você segue, e um caminho guiado pelas suas rotas de voo, pelos barcos, zepelins e pelo bonde. Os continentes viram um único mapa sem emendas, e cada zona informa seus níveis e a pesca que exige. Tudo é desenhado pelo próprio mapa do jogo, então o zoom, os marcadores e os cliques continuam como você conhece.",
+      "sections": [
+        {
+          "id": "notes",
+          "h2": "Como colocar minhas próprias notas no mapa-múndi?",
+          "paragraphs": [
+            "Dê Alt+clique em qualquer ponto do mapa: um pequeno cartão se abre onde você clicou, com um nome e um de oito sinais (um lugar, uma estrela, um tesouro, ervas, minério, perigo, um encontro, uma pergunta). Enter salva, Shift+Enter salva e segue, Ctrl+Enter coloca na sua rota.",
+            "Uma janela reúne sua rota e suas notas em duas abas, com as distâncias sempre atualizadas, e lista a estalagem, o mestre de voo, a caixa de correio e o instrutor mais próximos que você conhece, a um clique de seguir. Uma rota de que você gosta, uma volta de ervas ou de caixas de correio, fica guardada com um nome para ser seguida de novo mais tarde.",
+            "Um botão Notas no mapa do mundo mostra ou esconde suas notas por sinal, ou todas de uma vez, e o minimapa acompanha. No mapa de um continente elas viram pequenos pontos, agrupados por zona quando são muitas, e a aba Notas remove de uma vez um sinal ou uma zona inteira, depois de uma pergunta."
+          ]
+        },
+        {
+          "id": "arrow",
+          "h2": "Uma seta pode me levar até a próxima etapa?",
+          "paragraphs": [
+            "Sim. Uma pequena seta, que você coloca onde quiser, aponta para a etapa que você segue, com a distância em metros: dourada no rumo certo, âmbar quando o ponto ficou para trás. Perto de uma etapa, ela se marca sozinha e a próxima passa a ser seguida. O marcador flutuante do próprio jogo e uma linha pontilhada no minimapa seguem o mesmo ponto. Ela também mostra a hora de chegada e, numa rota, o tempo do percurso inteiro.",
+            "Quando nenhuma etapa está sendo seguida, a seta aponta para o marcador que o jogo mantém no seu mapa: o seu, um lugar do Wanderer Quests, um instrutor. Um clique direito nela dá a próxima etapa, um novo traçado do caminho ou a janela.",
+            "Depois de uma morte, a seta aponta para o seu corpo enquanto você é um fantasma, e sua rota volta na ressurreição."
+          ]
+        },
+        {
+          "id": "way",
+          "h2": "Ele conta as rotas de voo, os barcos e minha pedra de regresso?",
+          "paragraphs": [
+            "Sim. Para chegar a uma etapa, o caminho guiado pega a via mais rápida entre seus próprios pés, as rotas de voo que este personagem descobriu, os barcos, zepelins e o bonde do mundo original, e guia você trecho por trecho: até o mestre de voo, voe para, o barco para.",
+            "Se quiser, sua pedra de regresso também conta quando a estalagem dela é conhecida: ainda em recarga, a espera é contada, e ela só é usada quando continua sendo a melhor opção."
+          ]
+        },
+        {
+          "id": "world",
+          "h2": "O mapa do continente pode mostrar todas as zonas numa peça só?",
+          "paragraphs": [
+            "Sim. No mapa de um continente, a terra de cada zona é desenhada onde fica, tão nítida quanto no mapa dela: um único mundo sem emendas. A terra que você ainda não explorou aparece suavizada e sem cores, e a barra do mapa diz quantas áreas da zona você explorou.",
+            "Ao lado do nome da zona, seus níveis nas cores da dificuldade para você e, quando você pesca, a perícia que as águas exigem: duas coisas que o WoW Forever não mostra. Se quiser, as estalagens, caixas de correio, bancos, casas de leilões e instrutores que você visitou ganham uma pequena marca."
+          ]
+        },
+        {
+          "id": "flights",
+          "h2": "Quanto tempo dura o meu voo?",
+          "paragraphs": [
+            "Em voo, o nome do destino fica sobre uma linha fina da decolagem ao pouso: um ponto para cada parada, o seu avançando, e o tempo restante. Os tempos são aprendidos com os seus próprios voos, estimados pela distância até lá, e também aparecem no mapa do mestre de voo.",
+            "Um mestre de voo que você ainda não encontrou na sua zona pode ser apontado uma vez, discretamente, com um clique para ir até lá."
+          ]
+        },
+        {
+          "id": "quests",
+          "h2": "Funciona com o Wanderer Quests?",
+          "paragraphs": [
+            "De mãos dadas. A partir do Wanderer Quests, quem dá uma missão ou um objetivo vai para a sua rota em um clique, e um botão Rota de missões visita cada personagem que dá o que você pode pegar e cada um que recebe o que você carrega, cada um o mais próximo do anterior. Cada etapa de missão diz o que fazer ali e se marca sozinha quando está feita."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "O Wanderer Maps substitui o TomTom?",
+          "a": "Ele faz um trabalho parecido no estilo do Wanderer. Se o TomTom estiver instalado, a seta dele é mantida e a do Maps sai da frente, para que as duas nunca disputem. O mesmo vale para as setas dos guias RestedXP e Zygor."
+        },
+        {
+          "q": "Ele anda ou voa por mim?",
+          "a": "Não. Ele mostra o caminho, a estrada é sua: nada anda, monta ou voa por você, e nada é desenhado sobre o mundo além do marcador do próprio jogo."
+        },
+        {
+          "q": "Minhas notas são compartilhadas entre personagens?",
+          "a": "Suas notas e sua rota são de cada personagem. O que o mundo ensina (tempos de voo, os serviços de uma cidade) fica guardado para todos eles."
+        },
+        {
+          "q": "Posso desligar tudo de uma vez?",
+          "a": "Sim. Uma caixa de seleção nas opções do Wanderer desliga tudo o que funciona fora da janela: a seta, os marcadores, a linha de voo."
+        },
+        {
+          "q": "Como abrir o Wanderer Maps?",
+          "a": "Pelo menu do Wanderer, por uma tecla sua nas teclas de atalho do jogo ou digitando /wmaps."
+        }
+      ]
+    },
+    "card": {
+      "alt": "Logo do Wanderer Maps",
+      "tagline": "Seu caminho pelo mundo",
+      "summary": "Notas e uma rota no seu mapa, uma seta rumo à próxima etapa, os continentes inteiros num só mapa e seus voos cronometrados."
+    }
+  },
+  "ru": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Maps: маршрут, заметки и стрелка (WoW Forever)",
+        "description": "Wanderer Maps, бесплатный аддон для WoW Forever: заметки и маршрут на карте, стрелка на экране, путь через полёты и корабли, цельные континенты."
+      },
+      "h1": "Ваши заметки, маршрут и путь на игровой карте",
+      "lead": "Wanderer Maps это бесплатное расширение Wanderer для World of Warcraft Forever. Оно добавляет на карту мира ваши заметки и маршрут из шагов, маленькую стрелку к шагу, за которым вы следуете, и путь через ваши маршруты полётов, корабли, дирижабли и метро. Континенты становятся одной цельной картой, а каждая зона называет свои уровни и нужный навык рыбной ловли. Всё рисует игровая карта, так что её масштаб, булавки и щелчки остаются привычными.",
+      "sections": [
+        {
+          "id": "notes",
+          "h2": "Как добавить свои заметки на карту мира?",
+          "paragraphs": [
+            "Alt+щелчок в любом месте карты: там, где вы щёлкнули, открывается небольшая карточка с названием и одним из восьми знаков (место, звезда, сокровище, травы, руда, опасность, встреча, вопрос). Enter сохраняет, Shift+Enter сохраняет и ведёт к ней, Ctrl+Enter добавляет её в маршрут.",
+            "Окно собирает маршрут и заметки в двух вкладках с актуальными расстояниями и перечисляет ближайшие известные вам таверну, распорядителя полётов, почтовый ящик и наставника, в одном щелчке. Понравившийся маршрут, обход трав или почтовых ящиков, можно сохранить под именем и пройти снова позже.",
+            "Кнопка «Заметки» на карте мира показывает или скрывает заметки по знаку или все сразу, и миникарта следует за ней. На карте континента они становятся маленькими точками, сгруппированными по зонам, если их много, а вкладка «Заметки» удаляет сразу целый знак или целую зону, спросив вас."
+          ]
+        },
+        {
+          "id": "arrow",
+          "h2": "Может ли стрелка вести меня к следующему шагу?",
+          "paragraphs": [
+            "Да. Маленькая стрелка, которую вы ставите куда хотите, указывает на шаг, за которым вы следуете, с расстоянием в метрах: золотая на верном курсе, янтарная, когда точка позади. Рядом с шагом он отмечается сам, и стрелка переходит к следующему. Игровой плавающий маркер и пунктир на мини-карте следуют за той же точкой. Она также показывает время прибытия, а на маршруте время всего пути.",
+            "Когда ни один шаг не выбран, стрелка указывает на булавку, которую игра держит на вашей карте: вашу, место из Wanderer Quests, наставника. Правый щелчок по ней даёт следующий шаг, новый расчёт пути или окно.",
+            "После смерти стрелка указывает на ваше тело, пока вы призрак, а при воскрешении маршрут возвращается."
+          ]
+        },
+        {
+          "id": "way",
+          "h2": "Учитывает ли он маршруты полётов, корабли и камень возвращения?",
+          "paragraphs": [
+            "Да. Чтобы добраться до шага, путь выбирает самую быструю дорогу: пешком, по маршрутам полётов, открытым этим персонажем, на кораблях, дирижаблях и метро исходного мира, и ведёт вас отрезок за отрезком: к распорядителю полётов, лететь до, корабль до.",
+            "Если хотите, учитывается и камень возвращения, когда его таверна известна: пока он восстанавливается, ожидание засчитывается, а используется он, только если всё ещё быстрее."
+          ]
+        },
+        {
+          "id": "world",
+          "h2": "Может ли карта континента показать все зоны одним целым?",
+          "paragraphs": [
+            "Да. На карте континента земля каждой зоны нарисована там, где она лежит, так же чётко, как на её собственной карте: один цельный мир. Неисследованные земли видны смягчёнными и без цвета, а панель карты говорит, сколько областей зоны вы исследовали.",
+            "Рядом с названием зоны её уровни в цветах сложности для вас и, если вы рыбачите, навык, которого требуют её воды: две вещи, которых WoW Forever не показывает. Если хотите, посещённые вами таверны, почтовые ящики, банки, аукционы и наставники получают маленькую отметку."
+          ]
+        },
+        {
+          "id": "flights",
+          "h2": "Сколько продлится мой полёт?",
+          "paragraphs": [
+            "В полёте название места назначения стоит над тонкой линией от взлёта до посадки: точка на каждой остановке, ваша движется вдоль, и оставшееся время. Время узнаётся по вашим собственным полётам, до тех пор рассчитывается по расстоянию и показывается также на карте распорядителя полётов.",
+            "О распорядителе полётов в вашей зоне, которого вы ещё не нашли, можно один раз неприметно напомнить, с одним щелчком, чтобы отправиться к нему."
+          ]
+        },
+        {
+          "id": "quests",
+          "h2": "Работает ли он с Wanderer Quests?",
+          "paragraphs": [
+            "Рука об руку. Из Wanderer Quests тот, кто выдаёт задание, или цель попадают в маршрут одним щелчком, а кнопка «Маршрут заданий» обходит всех, кто выдаёт доступные вам задания, и всех, кому сдавать взятые, каждый ближайший к предыдущему. Каждый шаг задания говорит, что там сделать, и отмечается сам, когда это сделано."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Заменяет ли Wanderer Maps TomTom?",
+          "a": "Он делает похожую работу в стиле Wanderer. Если установлен TomTom, остаётся его стрелка, а стрелка Maps отходит в сторону, так что они никогда не спорят. То же самое касается стрелок гайдов RestedXP и Zygor."
+        },
+        {
+          "q": "Ходит или летает ли он за меня?",
+          "a": "Нет. Он показывает путь, а дорога ваша: ничто не идёт, не садится на средство передвижения и не летит за вас, и поверх мира ничего не рисуется, кроме игрового маркера."
+        },
+        {
+          "q": "Общие ли заметки у моих персонажей?",
+          "a": "Заметки и маршрут свои у каждого персонажа. То, чему учит мир (время полётов, службы города), хранится для всех."
+        },
+        {
+          "q": "Можно ли выключить всё сразу?",
+          "a": "Да. Один флажок в настройках Wanderer выключает всё, что работает вне окна: стрелку, булавки, линию полёта."
+        },
+        {
+          "q": "Как открыть Wanderer Maps?",
+          "a": "Из меню Wanderer, своей клавишей в назначении клавиш игры или командой /wmaps."
+        }
+      ]
+    },
+    "card": {
+      "alt": "Логотип Wanderer Maps",
+      "tagline": "Ваш путь по миру",
+      "summary": "Заметки и маршрут на карте, стрелка к следующему шагу, цельные континенты и время ваших полётов."
+    }
+  },
+  "ko": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Maps: 경로, 메모, 화살표 (WoW Forever)",
+        "description": "무료 WoW Forever 애드온 Wanderer Maps: 지도 위의 메모와 경로, 화면의 화살표, 비행과 배까지 안내하는 길, 하나로 이어진 대륙."
+      },
+      "h1": "나의 메모, 나의 경로, 나의 길을 게임 본래의 지도 위에",
+      "lead": "Wanderer Maps는 World of Warcraft Forever용 Wanderer의 무료 확장입니다. 세계 지도에 나만의 메모와 단계로 이루어진 경로를 더하고, 따라가는 단계를 가리키는 작은 화살표와 비행 경로, 배, 비행선, 지하철을 거치는 안내를 제공합니다. 대륙은 하나로 이어진 지도가 되고, 지역마다 레벨과 필요한 낚시 숙련도를 알려 줍니다. 모든 것을 게임 본래의 지도가 그리므로, 확대, 핀, 클릭은 익숙한 그대로입니다.",
+      "sections": [
+        {
+          "id": "notes",
+          "h2": "세계 지도에 나만의 메모를 남기려면?",
+          "paragraphs": [
+            "지도 아무 곳이나 Alt+클릭하세요. 클릭한 자리에 작은 카드가 열리고, 이름과 여덟 가지 표시 중 하나(장소, 별, 보물, 약초, 광석, 위험, 만남, 질문)를 고릅니다. Enter로 저장, Shift+Enter로 저장 후 따라가기, Ctrl+Enter로 경로에 추가합니다.",
+            "창 하나가 경로와 메모를 두 탭에 모으고 거리를 늘 새로 고치며, 내가 아는 가장 가까운 여관, 비행 조련사, 우편함, 훈련사를 보여 줍니다. 클릭 한 번이면 따라갑니다. 마음에 드는 경로, 약초나 우편함을 도는 길은 이름을 붙여 보관했다가 나중에 다시 따라갈 수 있습니다.",
+            "세계 지도의 메모 버튼은 메모를 표시별로, 또는 한꺼번에 보이거나 숨기며 미니맵도 따라갑니다. 대륙 지도에서는 작은 점이 되고 많으면 지역별로 묶이며, 메모 탭에서는 한 번 물어본 뒤 표시 하나나 지역 하나의 메모를 한꺼번에 지울 수 있습니다."
+          ]
+        },
+        {
+          "id": "arrow",
+          "h2": "화살표가 다음 단계로 안내해 줄 수 있나요?",
+          "paragraphs": [
+            "네. 원하는 곳에 둔 작은 화살표가 따라가는 단계를 가리키며 거리를 미터로 보여 줍니다. 방향이 맞으면 금색, 지점이 뒤에 있으면 호박색입니다. 단계에 가까워지면 저절로 체크되고 다음 단계를 따라갑니다. 게임 본래의 떠 있는 표시와 미니맵의 점선도 같은 지점을 따라갑니다. 도착 예상 시간과, 경로에서는 전체 소요 시간도 알려 줍니다.",
+            "따라가는 단계가 없으면 화살표는 게임이 지도에 꽂아 둔 핀을 가리킵니다: 내가 꽂은 핀, Wanderer Quests의 장소, 훈련사. 화살표를 오른쪽 클릭하면 다음 단계, 길 다시 계획하기, 창 열기를 고를 수 있습니다.",
+            "죽은 뒤 유령인 동안에는 화살표가 시체를 가리키고, 부활하면 경로가 돌아옵니다."
+          ]
+        },
+        {
+          "id": "way",
+          "h2": "비행 경로, 배, 귀환석도 계산하나요?",
+          "paragraphs": [
+            "네. 단계에 가기 위해 안내는 가장 빠른 길을 찾습니다. 걷기, 이 캐릭터가 발견한 비행 경로, 원래 세계의 배, 비행선, 지하철을 거쳐 구간별로 안내합니다: 비행 조련사에게, 어디로 비행, 어디로 가는 배.",
+            "원하면 여관이 알려진 귀환석도 계산에 넣습니다. 재사용 대기 중이면 남은 시간을 셈하고, 그래도 가장 빠를 때만 사용합니다."
+          ]
+        },
+        {
+          "id": "world",
+          "h2": "대륙 지도에 모든 지역을 하나로 보여 줄 수 있나요?",
+          "paragraphs": [
+            "네. 대륙 지도에서 각 지역의 땅이 제자리에, 지역 지도만큼 선명하게 그려집니다. 하나로 이어진 세계입니다. 아직 탐험하지 않은 땅은 흐릿하고 색 없이 보이며, 지도 막대가 그 지역에서 탐험한 구역 수를 알려 줍니다.",
+            "지역 이름 옆에는 나에게 맞는 난이도 색의 레벨과, 낚시를 한다면 그 물에 필요한 숙련도가 나옵니다. 둘 다 WoW Forever가 보여 주지 않는 정보입니다. 원하면 방문한 여관, 우편함, 은행, 경매장, 훈련사에 작은 표시가 붙습니다."
+          ]
+        },
+        {
+          "id": "flights",
+          "h2": "비행은 얼마나 걸리나요?",
+          "paragraphs": [
+            "비행 중에는 목적지 이름이 이륙부터 착륙까지 이어진 가는 선 위에 떠 있습니다. 경유지마다 점이 있고, 내 점이 그 위를 움직이며, 남은 시간이 표시됩니다. 시간은 내 비행에서 배우고, 그 전까지는 거리로 추정하며, 비행 조련사의 지도에도 표시됩니다.",
+            "지역에서 아직 찾지 못한 비행 조련사가 있으면 한 번, 조용히 알려 주며, 클릭 한 번으로 그곳으로 안내합니다."
+          ]
+        },
+        {
+          "id": "quests",
+          "h2": "Wanderer Quests와 함께 작동하나요?",
+          "paragraphs": [
+            "손발이 척척 맞습니다. Wanderer Quests에서 퀘스트 주는 NPC나 목표를 클릭 한 번으로 경로에 넣고, 퀘스트 경로 버튼은 수락할 수 있는 퀘스트를 주는 NPC와 진행 중인 퀘스트를 완료할 NPC를 매번 직전 지점에서 가장 가까운 곳 순으로 모두 돕니다. 퀘스트 단계마다 그곳에서 할 일을 알려 주고, 끝나면 저절로 체크됩니다."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Wanderer Maps가 TomTom을 대체하나요?",
+          "a": "비슷한 일을 Wanderer의 스타일로 합니다. TomTom이 설치되어 있으면 TomTom의 화살표를 유지하고 Maps의 화살표가 물러나므로, 둘이 부딪치는 일은 없습니다. RestedXP와 Zygor 가이드의 화살표도 마찬가지입니다."
+        },
+        {
+          "q": "대신 걷거나 날아가 주나요?",
+          "a": "아니요. 길을 보여 줄 뿐, 가는 것은 나입니다. 대신 걷거나, 탈것에 타거나, 날아가는 일은 없으며, 게임 본래의 표시 말고는 세상 위에 아무것도 그리지 않습니다."
+        },
+        {
+          "q": "메모는 캐릭터끼리 공유되나요?",
+          "a": "메모와 경로는 캐릭터마다 따로입니다. 세상에서 배운 것(비행 시간, 마을의 편의 시설)은 모든 캐릭터가 함께 씁니다."
+        },
+        {
+          "q": "한 번에 모두 끌 수 있나요?",
+          "a": "네. Wanderer 옵션의 체크 상자 하나로 창 밖에서 동작하는 모든 것을 끕니다: 화살표, 핀, 비행 선."
+        },
+        {
+          "q": "Wanderer Maps는 어떻게 여나요?",
+          "a": "Wanderer 메뉴, 게임의 단축키 설정에서 정한 키, 또는 /wmaps 입력으로 엽니다."
+        }
+      ]
+    },
+    "card": {
+      "alt": "Wanderer Maps 로고",
+      "tagline": "세상을 가로지르는 나의 길",
+      "summary": "지도 위의 메모와 경로, 다음 단계를 가리키는 화살표, 하나로 이어진 대륙, 시간이 표시되는 비행."
+    }
+  },
+  "zh-cn": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Maps：路线、备注与箭头 (WoW Forever)",
+        "description": "Wanderer Maps，免费 WoW Forever 插件：地图上的备注和路线，屏幕上的箭头，涵盖飞行与船只的导航，无缝相连的大陆。"
+      },
+      "h1": "你的备注、你的路线、你的旅途，都在游戏原本的地图上",
+      "lead": "Wanderer Maps 是 Wanderer 为 World of Warcraft Forever 推出的免费扩展。它在世界地图上加入你自己的备注和由路点组成的路线，一个指向当前路点的小箭头，以及经过飞行路线、船只、飞艇和矿道地铁的导航。各大陆连成一张无缝地图，每个区域都会标出等级和所需的钓鱼技能。一切都由游戏原本的地图绘制，缩放、图钉和点击都和你熟悉的一样。",
+      "sections": [
+        {
+          "id": "notes",
+          "h2": "如何在世界地图上添加自己的备注？",
+          "paragraphs": [
+            "在地图上任意位置 Alt+点击：一张小卡片会在你点击处打开，填上名称并从八种标记中选一个（地点、星星、宝藏、草药、矿石、危险、会面、疑问）。Enter 保存，Shift+Enter 保存并跟随，Ctrl+Enter 加入路线。",
+            "一个窗口用两个标签页汇集你的路线和备注，距离实时更新，并列出你所知最近的旅店、飞行管理员、邮箱和训练师，一键即可前往。喜欢的路线，比如一圈采药或一圈邮箱，可以起个名字保存，以后再次跟随。",
+            "世界地图上的「备注」按钮可按标记或一次性显示、隐藏你的备注，小地图同步跟随。在大陆地图上它们变成小圆点，数量多时按区域归组；在「备注」标签页里，可以先确认，再一次删除某个标记或某个区域的全部备注。"
+          ]
+        },
+        {
+          "id": "arrow",
+          "h2": "能用箭头带我去下一站吗？",
+          "paragraphs": [
+            "能。一个可随意摆放的小箭头指向你正在跟随的路点，并以米显示距离：方向正确时为金色，目标在身后时为琥珀色。接近路点时会自动勾选，并转而跟随下一站。游戏原本的悬浮标记和小地图上的虚线也指向同一个点。它还会显示预计到达时间，在路线中还会显示全程所需时间。",
+            "没有跟随路点时，箭头指向游戏在你地图上保存的图钉：你自己的、Wanderer Quests 的地点、某位训练师。右键点击箭头可选择下一站、重新规划路线，或打开窗口。",
+            "死亡后，你是灵魂状态时箭头会指向你的尸体，复活后路线随即恢复。"
+          ]
+        },
+        {
+          "id": "way",
+          "h2": "它会计算飞行路线、船只和我的炉石吗？",
+          "paragraphs": [
+            "会。为了到达一个路点，导航会寻找最快的路：步行、这个角色已发现的飞行路线、原始世界中的船只、飞艇和矿道地铁，并一段一段地指引你：去找飞行管理员、飞往某地、搭船前往某地。",
+            "如果你愿意，已知旅店的炉石也会计算在内：仍在冷却时会算上等待时间，只有在它仍是最快选择时才会使用。"
+          ]
+        },
+        {
+          "id": "world",
+          "h2": "大陆地图能把每个区域连成一整片吗？",
+          "paragraphs": [
+            "能。在大陆地图上，每个区域自己的地貌都绘制在原本的位置，清晰度与区域地图相同：一个无缝的世界。尚未探索的土地会显得柔和且没有颜色，地图栏会显示该区域已探索的地区数量。",
+            "区域名称旁会以对你而言的难度颜色显示其等级，钓鱼时还会显示其水域所需的技能：这两项 WoW Forever 都不显示。如果你喜欢，你去过的旅店、邮箱、银行、拍卖行和训练师都会带上一个小标记。"
+          ]
+        },
+        {
+          "id": "flights",
+          "h2": "我的飞行要多久？",
+          "paragraphs": [
+            "飞行中，目的地名称悬在一条从起飞到降落的细线上方：每个停靠点一个圆点，你的圆点沿线移动，并显示剩余时间。时间从你自己的飞行中学习，在此之前按距离估算，也会显示在飞行管理员的地图上。",
+            "你所在区域中尚未发现的飞行管理员会被低调地提示一次，一键即可前往。"
+          ]
+        },
+        {
+          "id": "quests",
+          "h2": "它能和 Wanderer Quests 配合使用吗？",
+          "paragraphs": [
+            "两者相辅相成。在 Wanderer Quests 中，一键即可把任务发布者或目标加入路线；「任务路线」按钮会依次经过所有可接任务的发布者和进行中任务的交付人，每一站都选离上一站最近的。每个任务路点都会说明在那里要做什么，完成后自动勾选。"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Wanderer Maps 会取代 TomTom 吗？",
+          "a": "它以 Wanderer 的风格做类似的事。如果安装了 TomTom，会保留它的箭头，Maps 的箭头让开，两者绝不会冲突。RestedXP 和 Zygor 指南的箭头也是如此。"
+        },
+        {
+          "q": "它会替我走路或飞行吗？",
+          "a": "不会。它只指路，路由你自己走：不会替你走路、上坐骑或飞行，除了游戏原本的标记，也不会在世界上绘制任何东西。"
+        },
+        {
+          "q": "我的备注在角色之间共享吗？",
+          "a": "备注和路线归每个角色各自所有。从世界中学到的东西（飞行时间、城镇的设施）则所有角色共享。"
+        },
+        {
+          "q": "能一次全部关闭吗？",
+          "a": "能。在 Wanderer 的选项中取消一个勾选，即可关闭所有在窗口之外运行的内容：箭头、图钉、飞行线路。"
+        },
+        {
+          "q": "如何打开 Wanderer Maps？",
+          "a": "通过 Wanderer 的菜单、在游戏按键设置中为它绑定的按键，或输入 /wmaps。"
+        }
+      ]
+    },
+    "card": {
+      "alt": "Wanderer Maps 标志",
+      "tagline": "你穿越世界的路",
+      "summary": "地图上的备注和路线，指向下一站的箭头，无缝相连的大陆，以及计时的飞行。"
+    }
+  },
+  "zh-tw": {
+    "page": {
+      "meta": {
+        "title": "Wanderer Maps：路線、備註與箭頭 (WoW Forever)",
+        "description": "Wanderer Maps，免費 WoW Forever 插件：地圖上的備註和路線，畫面上的箭頭，涵蓋飛行與船隻的導引，無縫相連的大陸。"
+      },
+      "h1": "你的備註、你的路線、你的旅途，都在遊戲原本的地圖上",
+      "lead": "Wanderer Maps 是 Wanderer 為 World of Warcraft Forever 推出的免費擴充。它在世界地圖上加入你自己的備註和由路點組成的路線，一個指向目前路點的小箭頭，以及經過飛行路線、船隻、飛艇和礦道地鐵的導引。各大陸連成一張無縫地圖，每個區域都會標出等級和所需的釣魚技能。一切都由遊戲原本的地圖繪製，縮放、圖釘和點擊都和你熟悉的一樣。",
+      "sections": [
+        {
+          "id": "notes",
+          "h2": "如何在世界地圖上新增自己的備註？",
+          "paragraphs": [
+            "在地圖上任意位置 Alt+點擊：一張小卡片會在你點擊處開啟，填上名稱並從八種標記中選一個（地點、星星、寶藏、草藥、礦石、危險、會面、疑問）。Enter 儲存，Shift+Enter 儲存並跟隨，Ctrl+Enter 加入路線。",
+            "一個視窗用兩個分頁匯集你的路線和備註，距離即時更新，並列出你所知最近的旅店、飛行管理員、信箱和訓練師，一鍵即可前往。喜歡的路線，例如一圈採草藥或一圈信箱，可以取個名字保存，之後再次跟隨。",
+            "世界地圖上的「備註」按鈕可依標記或一次全部顯示、隱藏你的備註，小地圖同步跟隨。在大陸地圖上它們變成小圓點，數量多時依區域歸組；在「備註」分頁裡，可以先確認，再一次刪除某個標記或某個區域的全部備註。"
+          ]
+        },
+        {
+          "id": "arrow",
+          "h2": "能用箭頭帶我去下一站嗎？",
+          "paragraphs": [
+            "能。一個可隨意擺放的小箭頭指向你正在跟隨的路點，並以米顯示距離：方向正確時為金色，目標在身後時為琥珀色。接近路點時會自動勾選，並改為跟隨下一站。遊戲原本的懸浮標記和小地圖上的虛線也指向同一個點。它還會顯示預計抵達時間，在路線中還會顯示全程所需時間。",
+            "沒有跟隨路點時，箭頭指向遊戲在你地圖上保存的圖釘：你自己的、Wanderer Quests 的地點、某位訓練師。右鍵點擊箭頭可選擇下一站、重新規劃路線，或開啟視窗。",
+            "死亡後，你是靈魂狀態時箭頭會指向你的屍體，復活後路線隨即恢復。"
+          ]
+        },
+        {
+          "id": "way",
+          "h2": "它會計算飛行路線、船隻和我的爐石嗎？",
+          "paragraphs": [
+            "會。為了到達一個路點，導引會尋找最快的路：步行、這個角色已發現的飛行路線、原始世界中的船隻、飛艇和礦道地鐵，並一段一段地指引你：去找飛行管理員、飛往某地、搭船前往某地。",
+            "如果你願意，已知旅店的爐石也會計算在內：仍在冷卻時會算上等待時間，只有在它仍是最快選擇時才會使用。"
+          ]
+        },
+        {
+          "id": "world",
+          "h2": "大陸地圖能把每個區域連成一整片嗎？",
+          "paragraphs": [
+            "能。在大陸地圖上，每個區域自己的地貌都繪製在原本的位置，清晰度與區域地圖相同：一個無縫的世界。尚未探索的土地會顯得柔和且沒有顏色，地圖列會顯示該區域已探索的地區數量。",
+            "區域名稱旁會以對你而言的難度顏色顯示其等級，釣魚時還會顯示其水域所需的技能：這兩項 WoW Forever 都不顯示。如果你喜歡，你去過的旅店、信箱、銀行、拍賣場和訓練師都會帶上一個小標記。"
+          ]
+        },
+        {
+          "id": "flights",
+          "h2": "我的飛行要多久？",
+          "paragraphs": [
+            "飛行中，目的地名稱懸在一條從起飛到降落的細線上方：每個停靠點一個圓點，你的圓點沿線移動，並顯示剩餘時間。時間從你自己的飛行中學習，在此之前依距離估算，也會顯示在飛行管理員的地圖上。",
+            "你所在區域中尚未發現的飛行管理員會被低調地提示一次，一鍵即可前往。"
+          ]
+        },
+        {
+          "id": "quests",
+          "h2": "它能和 Wanderer Quests 搭配使用嗎？",
+          "paragraphs": [
+            "兩者相輔相成。在 Wanderer Quests 中，一鍵即可把任務發布者或目標加入路線；「任務路線」按鈕會依序經過所有可接任務的發布者和進行中任務的交付人，每一站都選離上一站最近的。每個任務路點都會說明在那裡要做什麼，完成後自動勾選。"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Wanderer Maps 會取代 TomTom 嗎？",
+          "a": "它以 Wanderer 的風格做類似的事。如果安裝了 TomTom，會保留它的箭頭，Maps 的箭頭退開，兩者絕不會衝突。RestedXP 和 Zygor 指南的箭頭也是如此。"
+        },
+        {
+          "q": "它會替我走路或飛行嗎？",
+          "a": "不會。它只指路，路由你自己走：不會替你走路、上坐騎或飛行，除了遊戲原本的標記，也不會在世界上繪製任何東西。"
+        },
+        {
+          "q": "我的備註在角色之間共用嗎？",
+          "a": "備註和路線歸每個角色各自所有。從世界中學到的東西（飛行時間、城鎮的設施）則所有角色共用。"
+        },
+        {
+          "q": "能一次全部關閉嗎？",
+          "a": "能。在 Wanderer 的選項中取消一個勾選，即可關閉所有在視窗之外運作的內容：箭頭、圖釘、飛行路線。"
+        },
+        {
+          "q": "如何開啟 Wanderer Maps？",
+          "a": "透過 Wanderer 的選單、在遊戲按鍵設定中為它綁定的按鍵，或輸入 /wmaps。"
+        }
+      ]
+    },
+    "card": {
+      "alt": "Wanderer Maps 標誌",
+      "tagline": "你穿越世界的路",
+      "summary": "地圖上的備註和路線，指向下一站的箭頭，無縫相連的大陸，以及計時的飛行。"
+    }
+  }
+}

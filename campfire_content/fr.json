@@ -1,0 +1,102 @@
+{
+	"home": {
+		"campfire": {
+			"alt": "Logo de Wanderer Campfire Game : un petit feu de camp sous les étoiles, un sac d'aventurier et une carte à côté",
+			"tagline": "Un petit jeu au coin du feu",
+			"paragraphs": [
+				"Un petit jeu idle dans une fenêtre Wanderer : votre feu de camp grandit palier après palier, le dernier sans fin, des compagnons s'y réunissent et partent en expédition à travers Azeroth, en temps réel, même pendant votre absence.",
+				"Votre vrai voyage le nourrit : les zones que vous explorez ouvrent de nouvelles routes, vos métiers renforcent le camp et remplissent les commandes du quartier-maître, les donjons que vous terminez rapportent davantage pour de bon."
+			]
+		},
+		"extensionsTitle": "Quatre compagnons de route",
+		"extensionsAnswer": "Quatre modules gratuits qui complètent Wanderer pour World of Warcraft Forever. Wanderer Bags réunit vos sacs et votre banque dans une fenêtre et met les objets choisis à l'abri de toute vente. Wanderer Auction met l'hôtel des ventes dans une fenêtre Wanderer, ne vend jamais sous le prix d'un marchand et tient votre liste d'achats. Wanderer Quests montre toutes les quêtes de votre classe, de vos donjons et de vos zones, en chaînes, et le meilleur équipement que vos quêtes peuvent donner. Wanderer Campfire Game est un petit jeu idle nourri par votre vrai voyage. Chacun demande Wanderer et a sa page sur wanderer-addon.com.",
+		"faq": {
+			"q": "Y a-t-il un jeu dans Wanderer ?",
+			"a": "Oui, à part : Wanderer Campfire Game, une extension gratuite. Un feu de camp grandit, des compagnons partent en expédition à travers Azeroth en temps réel, et votre vrai voyage (zones explorées, métiers, donjons terminés) renforce le camp. Il ne donne rien dans le vrai jeu et ne fait rien tourner quand sa fenêtre est fermée."
+		}
+	},
+	"page": {
+		"meta": {
+			"title": "Wanderer Campfire Game : un jeu idle au coin du feu (WoW Forever)",
+			"description": "Wanderer Campfire Game, un addon gratuit pour WoW Forever : faites grandir un feu de camp, envoyez des compagnons en expédition en temps réel, et laissez votre vrai voyage renforcer le camp."
+		},
+		"h1": "Un petit jeu au coin du feu, nourri par votre voyage",
+		"lead": "Wanderer Campfire Game est une extension gratuite de Wanderer pour World of Warcraft Forever. Un feu de camp grandit palier après palier, des compagnons s'y réunissent et partent en expédition à travers Azeroth en temps réel. Ce que vous faites dans le jeu le renforce ; ce qu'il donne reste dans son propre monde.",
+		"sections": [
+			{
+				"id": "fire",
+				"h2": "Comment le camp grandit-il ?",
+				"paragraphs": [
+					"Le feu produit des braises sans cesse, même pendant votre absence (douze heures, davantage avec les cendres). Tisonnez-le d'un clic, achetez ses producteurs et leurs améliorations. Avec les braises et la renommée, il grandit en sept paliers, chacun apportant de la place pour plus de compagnons et plus d'expéditions à la fois ; le septième, le brasier éternel, ne finit jamais, chacun de ses niveaux demandant davantage.",
+					"Six bâtiments, chacun jusqu'à cinq niveaux : une cuisine pour les provisions, une forge pour la force, une apothicairerie pour les blessures, des tentes pour la place, une réserve pour les stocks, une tour de guet pour ce qui revient."
+				]
+			},
+			{
+				"id": "ashes",
+				"h2": "Qu'est-ce qu'un nouveau feu ?",
+				"paragraphs": [
+					"Quand un feu a bien grandi, laissez-le s'éteindre pour ses cendres. Seul le feu recommence : le palier, les bâtiments, les compagnons, les expéditions et les ressources restent. Chaque cendre rend tous les feux suivants plus forts, pour de bon, et c'est entre deux feux, et seulement alors, qu'elles se dépensent dans l'arbre des cendres."
+				]
+			},
+			{
+				"id": "companions",
+				"h2": "Qui sont les compagnons ?",
+				"paragraphs": [
+					"Des aventuriers aux couleurs des classes de WoW, chacun protecteur, soigneur ou combattant, avec un trait bien à lui. Ils montent de niveau sur la route, choisissent un talent aux niveaux 20, 40 et 60, et portent l'équipement que votre forge leur fabrique. Ceux qui partent souvent ensemble s'entendent mieux.",
+					"Une réputation exaltée amène un champion de cette faction à votre feu."
+				]
+			},
+			{
+				"id": "expeditions",
+				"h2": "Comment fonctionnent les expéditions ?",
+				"paragraphs": [
+					"Choisissez un lieu, une durée et qui part : quarante zones, dix-neuf donjons, sept raids. Les chances, les provisions et ce que l'expédition devrait rapporter sont annoncés avant le départ. Un protecteur et un soigneur comptent, surtout en donjon et en raid.",
+					"Elles reviennent en temps réel, d'un quart d'heure à une journée entière, avec de la renommée, des braises, des fournitures et parfois un trophée. Une courte notification annonce leur retour. De temps en temps, la route rapporte un choix avec elle."
+				]
+			},
+			{
+				"id": "journey",
+				"h2": "Comment mon vrai voyage compte-t-il ?",
+				"paragraphs": [
+					"Une zone s'ouvre aux expéditions quand votre personnage a son haut fait d'exploration. Votre niveau ouvre les paliers du feu et les donjons. Vos métiers renforcent le camp, et le quartier-maître demande des marchandises de vos métiers : ayez-les dans vos sacs ou votre banque, elles restent à vous.",
+					"Chaque quête rendue apporte de la renommée, chaque poisson pêché et chaque plat cuisiné des provisions. Un boss que vous tuez dans un donjon ou un raid le rend vécu : ses expéditions rapportent un quart de plus, pour de bon."
+				]
+			},
+			{
+				"id": "nights",
+				"h2": "Que se passe-t-il au coin du feu ?",
+				"paragraphs": [
+					"Toutes les quelques heures, il se passe quelque chose au coin du feu : un colporteur, un orage, des loups, un barde. Vous choisissez, et vous faites avec. Certaines histoires se poursuivent sur trois nuits.",
+					"Des trophées à trouver en chaque lieu, des hauts faits du camp, et les champions de vos factions exaltées."
+				]
+			}
+		],
+		"faq": [
+			{
+				"q": "Wanderer Campfire Game donne-t-il quelque chose dans le vrai jeu ?",
+				"a": "Non. Il lit seulement ce que votre personnage a fait (hauts faits, niveau, métiers, objets dans vos sacs) ; tout ce qu'il donne reste dans le jeu au coin du feu."
+			},
+			{
+				"q": "Ralentit-il mon jeu ?",
+				"a": "Non. Rien ne tourne quand sa fenêtre est fermée : le temps écoulé est compté quand vous regardez, et un seul minuteur attend le retour de la prochaine expédition."
+			},
+			{
+				"q": "Le camp est-il partagé entre mes personnages ?",
+				"a": "Non. Chaque personnage a son propre camp, nourri par son propre voyage."
+			},
+			{
+				"q": "Comment l'ouvrir ?",
+				"a": "Depuis le menu de Wanderer, une touche à vous dans les raccourcis du jeu, ou /wcampfire."
+			}
+		]
+	},
+	"questsGear": {
+		"id": "gear",
+		"h2": "Quelles quêtes me donnent un meilleur équipement ?",
+		"paragraphs": [
+			"L'onglet Équipement montre deux fiches de personnage côte à côte : à gauche ce que vous portez, emplacement par emplacement, avec vos caractéristiques ; à droite, pour chaque emplacement, la meilleure pièce qu'une quête peut vous donner, jusqu'à trois niveaux au-dessus du vôtre, avec son gain pour la branche que vous jouez.",
+			"En dessous, vos caractéristiques si vous portiez tout ça. Un clic sur une pièce ouvre la fiche de sa quête : quoi faire, où, qui la donne."
+		]
+	},
+	"requiresVersion": "0.43"
+}

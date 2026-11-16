@@ -1,0 +1,103 @@
+{
+  "home": {
+    "extensionsTitle": "Trois compagnons de route",
+    "extensionsAnswer": "Trois modules gratuits qui complètent Wanderer pour World of Warcraft Forever. Wanderer Bags réunit vos sacs et votre banque dans une fenêtre et met les objets choisis à l'abri de toute vente. Wanderer Auction met l'hôtel des ventes dans une fenêtre Wanderer et ne vend jamais sous le prix d'un marchand. Wanderer Quests montre toutes les quêtes de votre classe, de vos donjons et de vos zones, en chaînes. Chacun demande Wanderer et a sa page sur wanderer-addon.com.",
+    "quests": {
+      "alt": "Logo de Wanderer Quests : un vieux livre de quêtes dont la couverture porte une rose des vents dorée et lumineuse, une punaise de carte à côté",
+      "paragraphs": [
+        "Toutes les quêtes de votre classe, de vos donjons et de vos zones, chacune avec celles qui y mènent, en arbre : où vous en êtes avec chacune, seulement ce qui est pour votre race, votre classe et votre camp.",
+        "Un clic sur une quête ouvre sa fiche : ce qu'il faut faire et son histoire, les objets demandés avec combien vous en avez, qui la donne et à qui la rendre, un repère sur votre carte pour chacun."
+      ],
+      "tagline": "Les quêtes que le monde vous cache"
+    },
+    "faq": {
+      "q": "Comment trouver les quêtes qui ouvrent un donjon dans WoW Forever ?",
+      "a": "Installez Wanderer Quests avec Wanderer et ouvrez son onglet Donjons : chaque donjon et raid liste ses quêtes et toutes celles qui y mènent, où qu'elles commencent, avec où vous en êtes et l'entrée marquée sur votre carte."
+    }
+  },
+  "page": {
+    "meta": {
+      "title": "Wanderer Quests : chaque quête, sa chaîne et sa fiche (WoW Forever)",
+      "description": "Wanderer Quests, addon gratuit pour WoW Forever : les quêtes de votre classe, des donjons et des zones en chaînes, où vous en êtes, ce qu'elles demandent."
+    },
+    "h1": "Les quêtes que le monde vous cache, dans une fenêtre discrète",
+    "lead": "Wanderer Quests est une extension gratuite de Wanderer pour World of Warcraft Forever. Elle montre toutes les quêtes de votre classe, de chaque donjon et raid et de chaque zone, chacune avec celles qui y mènent, et où vous en êtes avec chacune. Ce n'est pas une flèche au-dessus du monde : c'est un livre que l'on ouvre pour préparer sa route.",
+    "sections": [
+      {
+        "id": "tabs",
+        "h2": "Quelles quêtes Wanderer Quests montre-t-elle ?",
+        "paragraphs": [
+          "Trois onglets : votre classe, ses propres quêtes par tranches de niveaux ; donjons et raids, les quêtes de chacun et toutes celles qui y mènent ; zones, chaque zone qui a des quêtes pour vous, celle où vous êtes choisie d'abord.",
+          "Seulement ce qui est pour vous : votre race, votre classe, votre camp. Chaque lieu dit ses niveaux et combien de ses quêtes vous avez faites."
+        ]
+      },
+      {
+        "id": "chains",
+        "h2": "Comment voir une chaîne de quêtes ?",
+        "paragraphs": [
+          "Les quêtes d'un lieu forment un arbre : celles qui en ouvrent d'autres au-dessus, où qu'elles commencent, dans les couleurs de leur difficulté. La quête qui ouvre une chaîne de donjon, la quête de classe dont personne ne parle, celle sautée trois zones plus tôt : toutes y sont.",
+          "Chacune dit si elle est faite, en cours, à prendre, après une autre, si un autre choix a été fait, ou si elle est encore trop haute. Une quête que le jeu vous a laissé sauter est dite passée."
+        ]
+      },
+      {
+        "id": "sheet",
+        "h2": "Que montre la fiche d'une quête ?",
+        "paragraphs": [
+          "Un clic sur une quête ouvre sa fiche à côté de la fenêtre : ce qu'il faut faire, dans ses propres mots, et son histoire ; les objets demandés avec combien vous en avez déjà, les créatures ou objets à trouver ; qui la donne et à qui la rendre, avec un repère sur votre carte pour chacun.",
+          "Lisez à l'avance : une quête encore lointaine se prépare aussi bien qu'une quête de votre journal."
+        ]
+      },
+      {
+        "id": "together",
+        "h2": "Fonctionne-t-elle avec les autres addons Wanderer ?",
+        "paragraphs": [
+          "Ce qu'une quête demande va au pense-bête de Wanderer en un clic, avec combien vous en avez à mesure que vous rassemblez. Ses objets vont à la liste d'achats de Wanderer Auction, cherchée d'un coup à l'hôtel des ventes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Ai-je besoin de Questie ou d'un autre addon de quêtes ?",
+        "a": "Non. Tout ce que sait Wanderer Quests est livré avec elle, à partir de la base CMaNGOS classic et de pfQuest. Seul Wanderer est nécessaire."
+      },
+      {
+        "q": "Wanderer Quests ralentit-elle mon jeu ?",
+        "a": "Non. Ses données ne sont lues qu'à la première ouverture de la fenêtre, seule votre langue est chargée, et où vous en êtes est toujours demandé au jeu, jamais enregistré à part."
+      },
+      {
+        "q": "Wanderer Quests dessine-t-elle des flèches ou des marques dans le monde ?",
+        "a": "Non. Elle n'affiche rien dans le monde : un repère n'est posé sur votre carte que si vous le demandez."
+      },
+      {
+        "q": "Comment ouvrir Wanderer Quests ?",
+        "a": "Depuis le menu de Wanderer sur la minicarte, sa page d'options, ou en tapant /wquests."
+      },
+      {
+        "q": "Connaît-elle les quêtes ajoutées par WoW Forever ?",
+        "a": "Pas encore : elle connaît les quêtes du jeu d'origine. Dites-nous lesquelles vous rencontrez dans les commentaires sur CurseForge."
+      },
+      {
+        "q": "Wanderer Quests est-elle gratuite ?",
+        "a": "Oui, entièrement, comme Wanderer. C'est un logiciel libre sous GPL-3.0, traduit en 10 langues."
+      }
+    ]
+  },
+  "auction": {
+    "section": {
+      "id": "shopping",
+      "h2": "Puis-je tenir une liste d'achats ?",
+      "paragraphs": [
+        "Oui. Les objets ajoutés depuis Wanderer Quests ou le pense-bête de Wanderer forment une liste d'achats, cherchée d'un coup sur la page d'achat, le moins cher d'abord ; ce qui n'est pas en vente est signalé. Ce que vous avez déjà en nombre suffisant s'en va tout seul. Les objets identiques à vendre tiennent sur une ligne et partent ensemble, comme une pile."
+      ]
+    }
+  },
+  "bags": {
+    "section": {
+      "id": "select",
+      "h2": "Puis-je agir sur plusieurs objets à la fois ?",
+      "paragraphs": [
+        "Oui. Le bouton Sélectionner, à côté de la recherche, permet de choisir un objet ou plusieurs (Maj+clic pour une suite), puis d'agir sur tous depuis une barre sous les cases : les garder, les réserver pour l'hôtel des ventes, les marquer comme camelote, les ranger dans une section à vous, les vendre à un marchand ou les déposer à la banque."
+      ]
+    }
+  }
+}

@@ -1,0 +1,922 @@
+{
+	"en": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Bags: all your bags in one window (WoW Forever)",
+				"description": "Wanderer Bags, a free WoW Forever addon: bags and bank in one window, sorted by kind, crafting by profession, items kept safe from selling."
+			},
+			"h1": "All your bags and your bank in one quiet window",
+			"lead": "Wanderer Bags is a free extension of Wanderer for World of Warcraft Forever. It gathers every bag you carry in a single window, sorts what you carry the way you think about it, keeps what matters safe from a careless sale, and brings your bank along, even far from the banker. The squares are the game's own, and one checkbox gives you the game's bags back.",
+			"sections": [
+				{
+					"id": "window",
+					"h2": "How do I see all my bags in one window in WoW Forever?",
+					"paragraphs": [
+						"Install Wanderer Bags with Wanderer: your bags open in one window drawn like every Wanderer window. The squares are the game's own: a right click uses an item, a drag moves it, the tooltips, cooldowns and the glow of new items are exactly as you know them.",
+						"Sorted by kind, what you just picked up comes first, then gear, consumables, crafting, quests and the rest, the junk at the end. Quivers, ammo pouches, soul bags and profession bags each have their own free square, and while the window is open every item keeps its place, so nothing slides under your mouse. If you prefer, bag by bag, each slot in its place. The size of the squares and the number per row are yours."
+					]
+				},
+				{
+					"id": "find",
+					"h2": "How do I find an item quickly?",
+					"paragraphs": [
+						"A search by name or by kind lets what does not match step back, and says how many your other characters carry. It also knows levels (>40, 30-40), qualities, BoE, equip slots, ! for without and | for or. The item level shows in the corner of your gear, \"BoE\" on gear that binds when equipped, Wanderer's green arrow marks what is better for the way you play, a small coin marks the junk, and a quest sign the items a quest asks you to carry.",
+						"Over any item, a list says which of your characters carry it, in their bags and in their bank. When your bags are nearly full, the free slots name the cheapest things you carry."
+					]
+				},
+				{
+					"id": "crafting",
+					"h2": "Can my crafting reagents be sorted by profession?",
+					"paragraphs": [
+						"Yes. Crafting is split into a section for each of your professions, then what your other characters use, then what only other professions use, just before the junk: what you may sell, at a glance. The pieces of your outfits gather in a section of their own."
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "How do I stop an item from being sold by mistake?",
+					"paragraphs": [
+						"Alt+click an item: a small card offers Keep, Auction, Junk or Bank. A kept item wears a padlock and is never sold, neither to a merchant nor at the auction house. An item for the auction house is never sold to a merchant, a junk item goes with the junk whatever its color, and an item for the bank goes into it at your next visit.",
+						"Sections of your own take the names you like, fold with a click, and can be pinned to the top or moved. A Select button acts on many items at once."
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "Can I sell my junk safely at a merchant?",
+					"paragraphs": [
+						"At a merchant, the junk and what only other professions use show their value and a Sell button, which asks first how many items for how much. A merchant buys back only the last 12 items, so bigger sales go by lots of 12, and what is worth over three times more at the auction house is left aside unless you tick the box. The game's own Sell All Junk follows your marks too, so what you keep, your outfits and your quest items always stay in your bags."
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "Can I see my bank from anywhere?",
+					"paragraphs": [
+						"At the banker, your bank opens beside your bags, sorted the same way, with your character's tabs and the Warband's; a right click moves an item between the two, and what you marked for the bank goes in by itself (hold Shift to skip it). A section's card deposits the whole section, or sends it to the bank at every visit. Away from the banker, one link shows your bank as you left it."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Can I get the game's bags back?",
+					"a": "Yes. One checkbox in Wanderer's options gives the game's bags back, another the game's bank. Nothing else in your game changes."
+				},
+				{
+					"q": "Do quivers and soul bags count as free slots?",
+					"a": "No. Quivers, ammo pouches, soul bags and profession bags each have their own free square with their own count, so the free slots of your bags tell the truth, and the nearly full warning only looks at your ordinary bags."
+				},
+				{
+					"q": "Does it work with Bagnon, AdiBags or ElvUI's bags?",
+					"a": "Yes. When another addon has your bags, Wanderer Bags steps aside by itself, and your marks still guard what is sold at merchants."
+				},
+				{
+					"q": "Does Wanderer Bags work with Auctionator?",
+					"a": "Yes. What you keep is hidden from Auctionator's selling list, what you set aside for the auction house comes first in it, and its prices show on your sections."
+				},
+				{
+					"q": "Does Wanderer Bags handle the Warband bank?",
+					"a": "Yes. At the banker it shows your character's tabs and the Warband's beside your bags, with the game's own deposit and sorting, and keeps a copy you can look at anywhere."
+				},
+				{
+					"q": "Does it sell anything by itself?",
+					"a": "No. Nothing is sold without your click on Sell, and a section's sale is asked first. Only what you marked for the bank moves by itself, and Shift skips it."
+				},
+				{
+					"q": "Are my marks shared between characters?",
+					"a": "No. Marks, sections, their order and folds are each character's own."
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Bags logo: an adventurer's leather backpack lit by a lantern at night",
+			"tagline": "Your bags and your bank",
+			"summary": "Every bag in one window sorted by kind, crafting by profession, what you keep never sold, your bank seen anywhere."
+		}
+	},
+	"fr": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Bags : tous vos sacs dans une fenêtre (WoW Forever)",
+				"description": "Wanderer Bags, addon gratuit pour WoW Forever : sacs et banque dans une fenêtre, rangés par genre, artisanat par métier, objets protégés de la vente."
+			},
+			"h1": "Tous vos sacs et votre banque dans une seule fenêtre sobre",
+			"lead": "Wanderer Bags est une extension gratuite de Wanderer pour World of Warcraft Forever. Elle réunit tous vos sacs dans une seule fenêtre, range ce que vous portez comme vous y pensez, met à l'abri ce qui compte d'une vente distraite, et emporte votre banque avec vous, même loin du banquier. Les cases sont celles du jeu, et une seule case à cocher vous rend les sacs du jeu.",
+			"sections": [
+				{
+					"id": "window",
+					"h2": "Comment voir tous ses sacs dans une seule fenêtre sur WoW Forever ?",
+					"paragraphs": [
+						"Installez Wanderer Bags avec Wanderer : vos sacs s'ouvrent dans une fenêtre dessinée comme toutes celles de Wanderer. Les cases sont celles du jeu : un clic droit utilise un objet, un glisser le déplace, les infobulles, les temps de recharge et la lueur des nouveaux objets sont exactement ceux que vous connaissez.",
+						"Rangé par genre, ce que vous venez de ramasser passe en tête, puis l'équipement, les consommables, l'artisanat, les quêtes et le reste, la camelote à la fin. Carquois, gibernes, sacs d'âmes et sacs de métier ont chacun leur propre case libre, et tant que la fenêtre est ouverte chaque objet garde sa place : rien ne glisse sous votre souris. Si vous préférez, sac par sac, chaque case à sa place. La taille des cases et leur nombre par ligne vous appartiennent."
+					]
+				},
+				{
+					"id": "find",
+					"h2": "Comment retrouver un objet rapidement ?",
+					"paragraphs": [
+						"Une recherche par nom ou par genre met en retrait ce qui ne correspond pas, et dit combien vos autres personnages en portent. Elle connaît aussi les niveaux (>40, 30-40), les qualités, LqE, les emplacements, ! pour « sans » et | pour « ou ». Le niveau d'objet s'affiche dans le coin de votre équipement, « LqE » sur ce qui se lie quand on l'équipe, la flèche verte de Wanderer marque ce qui vaut mieux pour votre façon de jouer, une petite pièce signale la camelote, et un signe de quête les objets qu'une quête vous demande de porter.",
+						"Sur n'importe quel objet, une liste dit lesquels de vos personnages le portent, dans leurs sacs et dans leur banque. Quand vos sacs sont presque pleins, les emplacements libres nomment les choses les moins chères que vous portez."
+					]
+				},
+				{
+					"id": "crafting",
+					"h2": "Peut-on ranger ses composants d'artisanat par métier ?",
+					"paragraphs": [
+						"Oui. L'artisanat est découpé en une section pour chacun de vos métiers, puis ce qui sert à vos autres personnages, puis ce qui ne sert qu'à d'autres métiers, juste avant la camelote : ce que vous pouvez vendre, d'un coup d'œil. Les pièces de vos tenues se rassemblent dans leur propre section."
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "Comment éviter de vendre un objet par erreur ?",
+					"paragraphs": [
+						"Un Alt+clic sur un objet : une petite carte propose Garder, Hôtel des ventes, Camelote ou Banque. Un objet gardé porte un cadenas et n'est jamais vendu, ni à un marchand ni à l'hôtel des ventes. Un objet réservé à l'hôtel des ventes n'est jamais vendu à un marchand, un objet marqué camelote part avec la camelote quelle que soit sa couleur, et un objet pour la banque y est déposé à votre prochaine visite.",
+						"Vos propres sections prennent les noms que vous voulez, se replient d'un clic, et peuvent être épinglées en haut ou déplacées. Un bouton Sélectionner agit sur plusieurs objets à la fois."
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "Peut-on vendre sa camelote chez un marchand sans risque ?",
+					"paragraphs": [
+						"Chez un marchand, la camelote et ce qui ne sert qu'à d'autres métiers montrent leur valeur et un bouton Vendre, qui vous dit d'abord combien d'objets pour combien. Un marchand ne rachète que les 12 derniers objets : les grosses ventes se font donc par lots de 12, et ce qui vaut plus de trois fois plus à l'hôtel des ventes est laissé de côté, sauf si vous cochez la case. Le « Vendre la camelote » du jeu suit aussi vos marques : ce que vous gardez, vos tenues et vos objets de quête restent toujours dans vos sacs."
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "Peut-on consulter sa banque de n'importe où ?",
+					"paragraphs": [
+						"Chez le banquier, votre banque s'ouvre à côté de vos sacs, rangée de la même façon, avec les onglets du personnage et ceux du bataillon ; un clic droit déplace un objet de l'un à l'autre, et ce que vous avez marqué pour la banque y va tout seul (maintenez Maj pour l'éviter). La carte d'une section la dépose en entier, ou l'envoie à la banque à chaque visite. Loin du banquier, un lien montre votre banque telle que vous l'avez laissée."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Peut-on retrouver les sacs du jeu ?",
+					"a": "Oui. Une case dans les options de Wanderer rend les sacs du jeu, une autre la banque du jeu. Rien d'autre ne change dans votre jeu."
+				},
+				{
+					"q": "Les carquois et les sacs d'âmes comptent-ils dans les places libres ?",
+					"a": "Non. Carquois, gibernes, sacs d'âmes et sacs de métier ont chacun leur case libre et leur propre compte : les places libres de vos sacs disent la vérité, et l'alerte « presque pleins » ne regarde que vos sacs ordinaires."
+				},
+				{
+					"q": "Est-ce compatible avec Bagnon, AdiBags ou les sacs d'ElvUI ?",
+					"a": "Oui. Quand un autre addon gère vos sacs, Wanderer Bags s'efface de lui-même, et vos marques protègent toujours ce qui est vendu chez les marchands."
+				},
+				{
+					"q": "Wanderer Bags fonctionne-t-il avec Auctionator ?",
+					"a": "Oui. Ce que vous gardez est caché de la liste de vente d'Auctionator, ce que vous réservez à l'hôtel des ventes y passe en tête, et ses prix s'affichent sur vos sections."
+				},
+				{
+					"q": "Wanderer Bags gère-t-il la banque de bataillon ?",
+					"a": "Oui. Chez le banquier, Wanderer Bags montre les onglets du personnage et ceux du bataillon à côté de vos sacs, avec le dépôt et le tri du jeu, et en garde une copie consultable partout."
+				},
+				{
+					"q": "Vend-il quelque chose tout seul ?",
+					"a": "Non. Rien n'est vendu sans votre clic sur Vendre, et la vente d'une section vous est demandée d'abord. Seul ce que vous avez marqué pour la banque se déplace tout seul, et Maj l'évite."
+				},
+				{
+					"q": "Mes marques sont-elles partagées entre personnages ?",
+					"a": "Non. Les marques, les sections, leur ordre et leurs replis sont propres à chaque personnage."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo de Wanderer Bags : un sac d'aventurier en cuir éclairé par une lanterne, la nuit",
+			"tagline": "Vos sacs et votre banque",
+			"summary": "Tous vos sacs dans une fenêtre, rangés par genre, l'artisanat par métier, ce que vous gardez jamais vendu, votre banque consultable partout."
+		}
+	},
+	"de": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Bags: alle Taschen in einem Fenster (WoW Forever)",
+				"description": "Wanderer Bags, kostenloses Addon für WoW Forever: Taschen und Bank in einem Fenster, nach Art sortiert, Handwerk nach Beruf, vor Fehlverkäufen geschützt."
+			},
+			"h1": "Alle deine Taschen und deine Bank in einem ruhigen Fenster",
+			"lead": "Wanderer Bags ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Es vereint jede Tasche, die du trägst, in einem einzigen Fenster, ordnet dein Gepäck so, wie du darüber denkst, bewahrt das Wichtige vor einem achtlosen Verkauf und nimmt deine Bank mit, selbst fern vom Bankier. Die Felder sind die des Spiels, und ein Kontrollkästchen gibt dir die Taschen des Spiels zurück.",
+			"sections": [
+				{
+					"id": "window",
+					"h2": "Wie sehe ich alle Taschen in einem Fenster in WoW Forever?",
+					"paragraphs": [
+						"Installiere Wanderer Bags mit Wanderer: Deine Taschen öffnen sich in einem Fenster, gestaltet wie jedes Fenster von Wanderer. Die Felder sind die des Spiels: Ein Rechtsklick benutzt einen Gegenstand, Ziehen verschiebt ihn, Tooltips, Abklingzeiten und das Leuchten neuer Gegenstände sind genau so, wie du sie kennst.",
+						"Nach Art sortiert kommt zuerst, was du gerade aufgehoben hast, dann Ausrüstung, Verbrauchsgüter, Handwerkswaren, Quests und der Rest, der Plunder ganz am Ende. Köcher, Munitionsbeutel, Seelentaschen und Berufstaschen haben jeweils ein eigenes freies Feld, und solange das Fenster offen ist, behält jeder Gegenstand seinen Platz: Nichts rutscht unter deiner Maus weg. Wenn du es lieber magst: Tasche für Tasche, jeder Platz an seiner Stelle. Die Größe der Felder und ihre Anzahl pro Reihe bestimmst du."
+					]
+				},
+				{
+					"id": "find",
+					"h2": "Wie finde ich schnell einen Gegenstand?",
+					"paragraphs": [
+						"Eine Suche nach Name oder Art lässt zurücktreten, was nicht passt, und sagt, wie viele davon deine anderen Charaktere tragen. Sie kennt auch Stufen (>40, 30-40), Qualitäten, BoE, Ausrüstungsplätze, ! für ohne und | für oder. Die Gegenstandsstufe steht in der Ecke deiner Ausrüstung, „BoE“ auf dem, was beim Anlegen gebunden wird, Wanderers grüner Pfeil markiert, was für deine Spielweise besser ist, eine kleine Münze kennzeichnet den Plunder und ein Questzeichen die Gegenstände, die eine Quest von dir verlangt.",
+						"Über jedem Gegenstand sagt eine Liste, welche deiner Charaktere ihn tragen, in ihren Taschen und in ihrer Bank. Sind deine Taschen fast voll, nennen die freien Plätze die billigsten Dinge, die du trägst."
+					]
+				},
+				{
+					"id": "crafting",
+					"h2": "Lassen sich Handwerksmaterialien nach Beruf sortieren?",
+					"paragraphs": [
+						"Ja. Die Handwerkswaren teilen sich in einen Abschnitt für jeden deiner Berufe, dann das, was deine anderen Charaktere verwenden, dann das, was nur andere Berufe brauchen, direkt vor dem Plunder: Was du verkaufen kannst, auf einen Blick. Die Teile deiner Ausrüstungssets sammeln sich in einem eigenen Abschnitt."
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "Wie verhindere ich, dass ein Gegenstand versehentlich verkauft wird?",
+					"paragraphs": [
+						"Alt+Klick auf einen Gegenstand: Eine kleine Karte bietet Behalten, Auktion, Plunder oder Bank an. Ein behaltener Gegenstand trägt ein Vorhängeschloss und wird nie verkauft, weder an einen Händler noch im Auktionshaus. Ein Gegenstand fürs Auktionshaus wird nie an einen Händler verkauft, ein Plunder-Gegenstand geht mit dem Plunder, welche Farbe er auch hat, und ein Gegenstand für die Bank kommt bei deinem nächsten Besuch hinein.",
+						"Eigene Abschnitte tragen die Namen, die du magst, klappen mit einem Klick zu und lassen sich oben anheften oder verschieben. Ein Knopf Auswählen wirkt auf viele Gegenstände auf einmal."
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "Kann ich meinen Plunder sicher beim Händler verkaufen?",
+					"paragraphs": [
+						"Beim Händler zeigen der Plunder und das, was nur andere Berufe brauchen, ihren Wert und einen Knopf Verkaufen, der zuerst fragt, wie viele Gegenstände für wie viel. Ein Händler kauft nur die letzten 12 Gegenstände zurück, darum gehen größere Verkäufe in Losen zu 12, und was im Auktionshaus mehr als dreimal so viel wert ist, bleibt beiseite, außer du setzt das Häkchen. Auch das „Allen Plunder verkaufen“ des Spiels folgt deinen Markierungen, sodass Behaltenes, deine Ausrüstungssets und deine Questgegenstände immer in deinen Taschen bleiben."
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "Kann ich meine Bank von überall aus sehen?",
+					"paragraphs": [
+						"Beim Bankier öffnet sich deine Bank neben deinen Taschen, genauso sortiert, mit den Reitern deines Charakters und denen der Kriegsmeute; ein Rechtsklick verschiebt einen Gegenstand zwischen beiden, und was du für die Bank markiert hast, wandert von selbst hinein (halte Umschalt, um das zu überspringen). Die Karte eines Abschnitts lagert ihn ganz ein oder schickt ihn bei jedem Besuch in die Bank. Fern vom Bankier zeigt ein Link deine Bank so, wie du sie verlassen hast."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Kann ich die Taschen des Spiels zurückbekommen?",
+					"a": "Ja. Ein Kontrollkästchen in den Optionen von Wanderer bringt die Taschen des Spiels zurück, ein weiteres die Bank des Spiels. Sonst ändert sich nichts an deinem Spiel."
+				},
+				{
+					"q": "Zählen Köcher und Seelentaschen bei den freien Plätzen mit?",
+					"a": "Nein. Köcher, Munitionsbeutel, Seelentaschen und Berufstaschen haben jeweils ihr eigenes freies Feld mit eigener Zahl, so stimmen die freien Plätze deiner Taschen, und die Warnung „fast voll“ schaut nur auf deine gewöhnlichen Taschen."
+				},
+				{
+					"q": "Funktioniert es mit Bagnon, AdiBags oder den Taschen von ElvUI?",
+					"a": "Ja. Übernimmt ein anderes Addon deine Taschen, tritt Wanderer Bags von selbst zurück, und deine Markierungen schützen weiterhin, was beim Händler verkauft wird."
+				},
+				{
+					"q": "Funktioniert Wanderer Bags mit Auctionator?",
+					"a": "Ja. Was du behältst, ist in der Verkaufsliste von Auctionator ausgeblendet, was du für das Auktionshaus beiseitelegst, steht darin ganz oben, und seine Preise erscheinen auf deinen Abschnitten."
+				},
+				{
+					"q": "Unterstützt Wanderer Bags die Kriegsmeutenbank?",
+					"a": "Ja. Beim Bankier zeigt es die Reiter deines Charakters und die der Kriegsmeute neben deinen Taschen, mit dem spieleigenen Einlagern und Sortieren, und speichert eine Kopie, die du dir überall ansehen kannst."
+				},
+				{
+					"q": "Verkauft es etwas von selbst?",
+					"a": "Nein. Nichts wird ohne deinen Klick auf Verkaufen verkauft, und der Verkauf eines Abschnitts wird zuerst erfragt. Nur was du für die Bank markiert hast, wandert von selbst, und Umschalt überspringt es."
+				},
+				{
+					"q": "Teilen sich meine Charaktere die Markierungen?",
+					"a": "Nein. Markierungen, Abschnitte, ihre Reihenfolge und was zugeklappt ist, gehören jedem Charakter selbst."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo von Wanderer Bags: ein lederner Abenteurerrucksack im Licht einer Laterne bei Nacht",
+			"tagline": "Deine Taschen und deine Bank",
+			"summary": "Alle Taschen in einem Fenster, nach Art sortiert, Handwerk nach Beruf, Behaltenes nie verkauft, deine Bank überall einsehbar."
+		}
+	},
+	"es": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Bags: todas tus bolsas en una ventana (WoW Forever)",
+				"description": "Wanderer Bags, addon gratuito para WoW Forever: bolsas y banco en una ventana, ordenados por tipo, materiales por profesión, nada vendido por error."
+			},
+			"h1": "Todas tus bolsas y tu banco en una sola ventana tranquila",
+			"lead": "Wanderer Bags es una extensión gratuita de Wanderer para World of Warcraft Forever. Reúne todas las bolsas que llevas en una sola ventana, ordena lo que cargas tal como tú lo piensas, protege lo importante de una venta descuidada y lleva tu banco contigo, incluso lejos del banquero. Las casillas son las del propio juego, y una casilla de verificación te devuelve las bolsas del juego.",
+			"sections": [
+				{
+					"id": "window",
+					"h2": "¿Cómo ver todas las bolsas en una sola ventana en WoW Forever?",
+					"paragraphs": [
+						"Instala Wanderer Bags con Wanderer: tus bolsas se abren en una ventana dibujada como todas las de Wanderer. Las casillas son las del propio juego: un clic derecho usa un objeto, arrastrar lo mueve, y las descripciones, los tiempos de reutilización y el brillo de los objetos nuevos son exactamente los que conoces.",
+						"Ordenado por tipo, primero aparece lo que acabas de recoger, luego el equipo, los consumibles, los materiales, las misiones y el resto, la chatarra al final. Carcajes, bolsas de munición, bolsas de almas y bolsas de profesión tienen cada uno su propia casilla libre, y mientras la ventana está abierta cada objeto conserva su sitio: nada se desliza bajo tu ratón. Si lo prefieres, bolsa por bolsa, cada hueco en su sitio. El tamaño de las casillas y cuántas hay por fila los decides tú."
+					]
+				},
+				{
+					"id": "find",
+					"h2": "¿Cómo encontrar un objeto rápidamente?",
+					"paragraphs": [
+						"Una búsqueda por nombre o por tipo deja en segundo plano lo que no coincide, y dice cuántos llevan tus otros personajes. También entiende niveles (>40, 30-40), calidades, BoE, ranuras de equipo, ! para «sin» y | para «o». El nivel de objeto aparece en la esquina de tu equipo, «BoE» en lo que se liga al equiparlo, la flecha verde de Wanderer marca lo que es mejor según cómo juegas, una pequeña moneda señala la chatarra y una señal de misión los objetos que una misión te pide llevar.",
+						"Sobre cualquier objeto, una lista indica cuáles de tus personajes lo llevan, en sus bolsas y en su banco. Cuando tus bolsas están casi llenas, los huecos libres nombran lo más barato que llevas."
+					]
+				},
+				{
+					"id": "crafting",
+					"h2": "¿Se pueden ordenar los materiales por profesión?",
+					"paragraphs": [
+						"Sí. Los materiales se dividen en una sección para cada una de tus profesiones, después lo que usan tus otros personajes, después lo que solo usan otras profesiones, justo antes de la chatarra: lo que puedes vender, de un vistazo. Las piezas de tus atuendos se reúnen en una sección propia."
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "¿Cómo evitar vender un objeto por error?",
+					"paragraphs": [
+						"Alt+clic sobre un objeto: una pequeña tarjeta ofrece Conservar, Subasta, Chatarra o Banco. Un objeto conservado lleva un candado y nunca se vende, ni a un mercader ni en la casa de subastas. Un objeto para la casa de subastas nunca se vende a un mercader, un objeto marcado como chatarra se va con la chatarra sea cual sea su color, y un objeto para el banco entra en él en tu próxima visita.",
+						"Las secciones propias llevan el nombre que quieras, se pliegan con un clic y pueden fijarse arriba o moverse. Un botón Seleccionar actúa sobre muchos objetos a la vez."
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "¿Puedo vender mi chatarra al mercader sin riesgo?",
+					"paragraphs": [
+						"Ante un mercader, la chatarra y lo que solo usan otras profesiones muestran su valor y un botón Vender, que antes te pregunta cuántos objetos y por cuánto. Un mercader solo recompra los 12 últimos objetos, así que las ventas grandes van por lotes de 12, y lo que vale más del triple en la casa de subastas queda aparte, salvo que marques la casilla. El «Vender toda la chatarra» del juego también respeta tus marcas, así que lo que conservas, tus atuendos y tus objetos de misión siempre se quedan en tus bolsas."
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "¿Puedo ver mi banco desde cualquier lugar?",
+					"paragraphs": [
+						"Ante el banquero, tu banco se abre junto a tus bolsas, ordenado de la misma manera, con las pestañas de tu personaje y las de la banda guerrera; un clic derecho mueve un objeto entre ambos, y lo que marcaste para el banco entra solo (mantén Mayús para evitarlo). La tarjeta de una sección la deposita entera, o la envía al banco en cada visita. Lejos del banquero, un enlace muestra tu banco tal como lo dejaste."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "¿Puedo recuperar las bolsas del juego?",
+					"a": "Sí. Una casilla en las opciones de Wanderer devuelve las bolsas del juego, y otra el banco del juego. Nada más cambia en tu juego."
+				},
+				{
+					"q": "¿Los carcajes y las bolsas de almas cuentan como huecos libres?",
+					"a": "No. Carcajes, bolsas de munición, bolsas de almas y bolsas de profesión tienen cada uno su casilla libre con su propia cuenta, así que los huecos libres de tus bolsas dicen la verdad, y el aviso de bolsas casi llenas solo mira tus bolsas normales."
+				},
+				{
+					"q": "¿Funciona con Bagnon, AdiBags o las bolsas de ElvUI?",
+					"a": "Sí. Cuando otro addon se ocupa de tus bolsas, Wanderer Bags se aparta solo, y tus marcas siguen protegiendo lo que se vende a los mercaderes."
+				},
+				{
+					"q": "¿Wanderer Bags funciona con Auctionator?",
+					"a": "Sí. Lo que conservas queda oculto en la lista de venta de Auctionator, lo que apartas para la casa de subastas aparece primero en ella, y sus precios se muestran en tus secciones."
+				},
+				{
+					"q": "¿Wanderer Bags gestiona el banco de la banda guerrera?",
+					"a": "Sí. En el banquero muestra las pestañas de tu personaje y las de la banda guerrera junto a tus bolsas, con el depósito y la ordenación propios del juego, y guarda una copia que puedes consultar en cualquier lugar."
+				},
+				{
+					"q": "¿Vende algo por sí solo?",
+					"a": "No. Nada se vende sin tu clic en Vender, y la venta de una sección se pregunta antes. Solo lo que marcaste para el banco se mueve solo, y Mayús lo evita."
+				},
+				{
+					"q": "¿Mis marcas se comparten entre personajes?",
+					"a": "No. Las marcas, las secciones, su orden y lo que está plegado son propios de cada personaje."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo de Wanderer Bags: una mochila de aventurero de cuero iluminada por un farol de noche",
+			"tagline": "Tus bolsas y tu banco",
+			"summary": "Todas tus bolsas en una ventana ordenadas por tipo, los materiales por profesión, lo que conservas nunca se vende, tu banco visible en cualquier parte."
+		}
+	},
+	"it": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Bags: tutte le borse in una finestra (WoW Forever)",
+				"description": "Wanderer Bags, addon gratuito per WoW Forever: borse e banca in una finestra, ordinate per tipo, materiali per professione, oggetti mai venduti per errore."
+			},
+			"h1": "Tutte le tue borse e la tua banca in un'unica finestra tranquilla",
+			"lead": "Wanderer Bags è un'estensione gratuita di Wanderer per World of Warcraft Forever. Riunisce ogni borsa che porti in un'unica finestra, ordina ciò che trasporti come lo pensi tu, protegge ciò che conta da una vendita distratta e porta con sé la tua banca, anche lontano dal banchiere. Le caselle sono quelle del gioco, e una sola casella di spunta ti restituisce le borse del gioco.",
+			"sections": [
+				{
+					"id": "window",
+					"h2": "Come vedere tutte le borse in una finestra su WoW Forever?",
+					"paragraphs": [
+						"Installa Wanderer Bags con Wanderer: le tue borse si aprono in una finestra disegnata come ogni finestra di Wanderer. Le caselle sono quelle del gioco: un clic destro usa un oggetto, trascinarlo lo sposta, e descrizioni, tempi di recupero e il bagliore dei nuovi oggetti sono esattamente come li conosci.",
+						"Ordinate per tipo, prima viene ciò che hai appena raccolto, poi l'equipaggiamento, i consumabili, i materiali, le missioni e il resto, le cianfrusaglie in fondo. Faretre, giberne, borse delle anime e borse di professione hanno ciascuna la propria casella libera, e finché la finestra è aperta ogni oggetto resta al suo posto: niente scivola sotto il mouse. Se preferisci, borsa per borsa, ogni posto al suo posto. La dimensione delle caselle e quante per riga le decidi tu."
+					]
+				},
+				{
+					"id": "find",
+					"h2": "Come trovare velocemente un oggetto?",
+					"paragraphs": [
+						"Una ricerca per nome o per tipo fa passare in secondo piano ciò che non corrisponde, e dice quanti ne portano gli altri tuoi personaggi. Conosce anche i livelli (>40, 30-40), le qualità, BoE, gli slot di equipaggiamento, ! per «senza» e | per «o». Il livello dell'oggetto appare nell'angolo del tuo equipaggiamento, «BoE» su ciò che si vincola quando lo indossi, la freccia verde di Wanderer indica ciò che è migliore per come giochi, una piccola moneta segnala le cianfrusaglie e un segno di missione gli oggetti che una missione ti chiede di portare.",
+						"Sopra qualsiasi oggetto, un elenco dice quali tuoi personaggi lo portano, nelle borse e in banca. Quando le borse sono quasi piene, i posti liberi indicano le cose meno preziose che porti."
+					]
+				},
+				{
+					"id": "crafting",
+					"h2": "Si possono ordinare i materiali per professione?",
+					"paragraphs": [
+						"Sì. I materiali si dividono in una sezione per ciascuna delle tue professioni, poi ciò che usano gli altri tuoi personaggi, poi ciò che serve solo ad altre professioni, subito prima delle cianfrusaglie: ciò che puoi vendere, a colpo d'occhio. I pezzi dei tuoi completi si raccolgono in una sezione tutta loro."
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "Come evitare di vendere un oggetto per errore?",
+					"paragraphs": [
+						"Alt+clic su un oggetto: una piccola scheda propone Conserva, Asta, Cianfrusaglia o Banca. Un oggetto conservato porta un lucchetto e non viene mai venduto, né a un mercante né alla casa d'aste. Un oggetto per la casa d'aste non viene mai venduto a un mercante, una cianfrusaglia parte con le cianfrusaglie qualunque sia il suo colore, e un oggetto per la banca ci va alla tua prossima visita.",
+						"Le sezioni tue prendono il nome che preferisci, si chiudono con un clic e si possono fissare in alto o spostare. Un pulsante Seleziona agisce su più oggetti alla volta."
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "Posso vendere le cianfrusaglie al mercante in sicurezza?",
+					"paragraphs": [
+						"Da un mercante, le cianfrusaglie e ciò che serve solo ad altre professioni mostrano il loro valore e un pulsante Vendi, che chiede prima quanti oggetti e per quanto. Un mercante riacquista solo gli ultimi 12 oggetti, quindi le vendite più grandi vanno a lotti di 12, e ciò che alla casa d'aste vale più del triplo resta da parte, a meno che tu non spunti la casella. Anche il «Vendi tutte le cianfrusaglie» del gioco rispetta i tuoi segni, così ciò che conservi, i tuoi completi e gli oggetti delle missioni restano sempre nelle tue borse."
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "Posso vedere la mia banca da qualsiasi luogo?",
+					"paragraphs": [
+						"Dal banchiere, la tua banca si apre accanto alle borse, ordinata allo stesso modo, con le schede del tuo personaggio e quelle della Brigata; un clic destro sposta un oggetto tra le due, e ciò che hai segnato per la banca ci entra da solo (tieni premuto Maiusc per evitarlo). La scheda di una sezione la deposita tutta, oppure la manda in banca a ogni visita. Lontano dal banchiere, un collegamento mostra la banca così come l'hai lasciata."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Posso riavere le borse del gioco?",
+					"a": "Sì. Una casella nelle opzioni di Wanderer restituisce le borse del gioco, un'altra la banca del gioco. Nient'altro cambia nel tuo gioco."
+				},
+				{
+					"q": "Faretre e borse delle anime contano tra i posti liberi?",
+					"a": "No. Faretre, giberne, borse delle anime e borse di professione hanno ciascuna la sua casella libera con il proprio conteggio, così i posti liberi delle tue borse dicono il vero, e l'avviso di borse quasi piene guarda solo le borse normali."
+				},
+				{
+					"q": "Funziona con Bagnon, AdiBags o le borse di ElvUI?",
+					"a": "Sì. Quando un altro addon gestisce le tue borse, Wanderer Bags si fa da parte da solo, e i tuoi segni continuano a proteggere ciò che si vende ai mercanti."
+				},
+				{
+					"q": "Wanderer Bags funziona con Auctionator?",
+					"a": "Sì. Ciò che conservi è nascosto dall'elenco di vendita di Auctionator, ciò che metti da parte per la casa d'aste vi compare per primo, e i suoi prezzi appaiono sulle tue sezioni."
+				},
+				{
+					"q": "Wanderer Bags gestisce la banca della Brigata?",
+					"a": "Sì. Dal banchiere mostra le schede del tuo personaggio e quelle della Brigata accanto alle tue borse, con il deposito e il riordino propri del gioco, e conserva una copia che puoi consultare ovunque."
+				},
+				{
+					"q": "Vende qualcosa da solo?",
+					"a": "No. Nulla viene venduto senza il tuo clic su Vendi, e la vendita di una sezione viene chiesta prima. Solo ciò che hai segnato per la banca si sposta da solo, e Maiusc lo evita."
+				},
+				{
+					"q": "I miei segni sono condivisi tra i personaggi?",
+					"a": "No. Segni, sezioni, il loro ordine e quelle chiuse appartengono a ogni personaggio."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo di Wanderer Bags: uno zaino da avventuriero in cuoio illuminato da una lanterna di notte",
+			"tagline": "Le tue borse e la tua banca",
+			"summary": "Tutte le borse in una finestra ordinate per tipo, i materiali per professione, ciò che tieni mai venduto, la tua banca visibile ovunque."
+		}
+	},
+	"pt-br": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Bags: todas as bolsas em uma janela (WoW Forever)",
+				"description": "Wanderer Bags, addon grátis para WoW Forever: bolsas e banco em uma janela, itens por tipo, materiais por profissão, itens protegidos da venda."
+			},
+			"h1": "Todas as suas bolsas e o seu banco em uma janela tranquila",
+			"lead": "Wanderer Bags é uma extensão gratuita do Wanderer para World of Warcraft Forever. Ela reúne todas as bolsas que você carrega em uma única janela, organiza o que você leva do jeito que você pensa, protege o que importa de uma venda descuidada e traz o seu banco junto, mesmo longe do banqueiro. Os espaços são os do próprio jogo, e uma caixa de seleção devolve as bolsas do jogo.",
+			"sections": [
+				{
+					"id": "window",
+					"h2": "Como ver todas as bolsas em uma janela no WoW Forever?",
+					"paragraphs": [
+						"Instale o Wanderer Bags com o Wanderer: suas bolsas se abrem em uma janela desenhada como todas as janelas do Wanderer. Os espaços são os do próprio jogo: um clique direito usa o item, arrastar o move, e as dicas, as recargas e o brilho dos itens novos são exatamente como você conhece.",
+						"Na organização por tipo, o que você acabou de pegar vem primeiro, depois equipamentos, consumíveis, profissões, missões e o resto, o lixo no final. Aljavas, bolsas de munição, bolsas de almas e bolsas de profissão têm cada uma seu próprio quadrado livre, e enquanto a janela está aberta cada item fica no seu lugar: nada escorrega sob o seu mouse. Se preferir, bolsa por bolsa, cada espaço no seu lugar. O tamanho dos quadrados e quantos ficam por linha são escolha sua."
+					]
+				},
+				{
+					"id": "find",
+					"h2": "Como encontrar um item rapidamente?",
+					"paragraphs": [
+						"Uma busca por nome ou por tipo deixa em segundo plano o que não corresponde, e diz quantos seus outros personagens carregam. Ela também entende níveis (>40, 30-40), qualidades, BoE, espaços de equipamento, ! para «sem» e | para «ou». O nível do item aparece no canto do seu equipamento, «BoE» no que se vincula ao equipar, a seta verde do Wanderer marca o que é melhor para o seu jeito de jogar, uma pequena moeda marca o lixo, e um sinal de missão os itens que uma missão pede para carregar.",
+						"Sobre qualquer item, uma lista diz quais dos seus personagens o carregam, nas bolsas e no banco. Quando suas bolsas estão quase cheias, os espaços livres indicam as coisas mais baratas que você carrega."
+					]
+				},
+				{
+					"id": "crafting",
+					"h2": "Dá para organizar os reagentes por profissão?",
+					"paragraphs": [
+						"Sim. Os materiais de profissão se dividem em uma seção para cada uma das suas profissões, depois o que seus outros personagens usam, depois o que só outras profissões usam, logo antes do lixo: o que você pode vender, num relance. As peças dos seus trajes se reúnem numa seção própria."
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "Como evitar vender um item por engano?",
+					"paragraphs": [
+						"Dê Alt+clique em um item: um pequeno cartão oferece Guardar, Leilão, Lixo ou Banco. Um item guardado ganha um cadeado e nunca é vendido, nem a um mercador nem na casa de leilões. Um item para a casa de leilões nunca é vendido a um mercador, um item marcado como lixo vai com o lixo seja qual for a cor, e um item para o banco é depositado na sua próxima visita.",
+						"As suas próprias seções levam os nomes que você quiser, se recolhem com um clique e podem ser fixadas no topo ou movidas. Um botão Selecionar age sobre vários itens de uma vez."
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "Como vender o lixo com segurança no mercador?",
+					"paragraphs": [
+						"No mercador, o lixo e o que só outras profissões usam mostram o seu valor e um botão Vender, que pergunta antes quantos itens e por quanto. Um mercador só recompra os 12 últimos itens, então vendas maiores vão em lotes de 12, e o que vale mais que o triplo na casa de leilões fica de lado, a menos que você marque a caixa. O botão do próprio jogo para vender todo o lixo também respeita as suas marcas, então o que você guarda, seus trajes e seus itens de missão ficam sempre nas suas bolsas."
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "Dá para ver o banco de qualquer lugar?",
+					"paragraphs": [
+						"No banqueiro, o seu banco se abre ao lado das bolsas, organizado do mesmo jeito, com as abas do personagem e as do Bando de Guerra; um clique direito move um item entre os dois, e o que você marcou para o banco vai sozinho (segure Shift para pular). O cartão de uma seção a deposita inteira, ou a manda para o banco a cada visita. Longe do banqueiro, um link mostra o seu banco como você o deixou."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Posso voltar às bolsas do jogo?",
+					"a": "Sim. Uma caixa de seleção nas opções do Wanderer devolve as bolsas do jogo, outra o banco do jogo. Nada mais muda no seu jogo."
+				},
+				{
+					"q": "Aljavas e bolsas de almas contam como espaços livres?",
+					"a": "Não. Aljavas, bolsas de munição, bolsas de almas e bolsas de profissão têm cada uma seu quadrado livre com a sua própria contagem, então os espaços livres das suas bolsas dizem a verdade, e o aviso de bolsas quase cheias só olha as bolsas comuns."
+				},
+				{
+					"q": "Funciona com o Bagnon, o AdiBags ou as bolsas do ElvUI?",
+					"a": "Sim. Quando outro addon cuida das suas bolsas, o Wanderer Bags sai da frente sozinho, e as suas marcas continuam protegendo o que é vendido nos mercadores."
+				},
+				{
+					"q": "O Wanderer Bags funciona com o Auctionator?",
+					"a": "Sim. O que você guarda fica oculto na lista de venda do Auctionator, o que você separa para a casa de leilões aparece primeiro nela, e os preços dele aparecem nas suas seções."
+				},
+				{
+					"q": "O Wanderer Bags funciona com o banco do Bando de Guerra?",
+					"a": "Sim. No banqueiro, ele mostra as abas do seu personagem e as do Bando de Guerra ao lado das suas bolsas, com o depósito e a organização do próprio jogo, e guarda uma cópia que você pode consultar em qualquer lugar."
+				},
+				{
+					"q": "Ele vende alguma coisa sozinho?",
+					"a": "Não. Nada é vendido sem o seu clique em Vender, e a venda de uma seção é confirmada antes. Só o que você marcou para o banco vai sozinho, e Shift pula isso."
+				},
+				{
+					"q": "Minhas marcas são compartilhadas entre personagens?",
+					"a": "Não. As marcas, as seções, a ordem delas e o que fica recolhido são de cada personagem."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo do Wanderer Bags: uma mochila de aventureiro de couro iluminada por uma lanterna à noite",
+			"tagline": "Suas bolsas e seu banco",
+			"summary": "Todas as bolsas numa janela, por tipo, materiais por profissão, o que você guarda nunca vendido, seu banco visto de qualquer lugar."
+		}
+	},
+	"ru": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Bags: все сумки в одном окне (WoW Forever)",
+				"description": "Wanderer Bags, бесплатный аддон для WoW Forever: сумки и банк в одном окне, сортировка по типу, ремесло по профессиям, защита от продажи."
+			},
+			"h1": "Все ваши сумки и банк в одном спокойном окне",
+			"lead": "Wanderer Bags это бесплатное расширение Wanderer для World of Warcraft Forever. Оно собирает все ваши сумки в одном окне, раскладывает вещи так, как вы о них думаете, оберегает важное от случайной продажи и держит банк под рукой, даже вдали от банкира. Ячейки взяты из самой игры, а один флажок возвращает игровые сумки.",
+			"sections": [
+				{
+					"id": "window",
+					"h2": "Как открыть все сумки одним окном в WoW Forever?",
+					"paragraphs": [
+						"Установите Wanderer Bags вместе с Wanderer: сумки открываются в одном окне, оформленном как все окна Wanderer. Ячейки взяты из самой игры: правый щелчок использует предмет, перетаскивание перемещает его, а подсказки, время восстановления и сияние новых предметов точно такие, какими вы их знаете.",
+						"При сортировке по типу сначала идёт только что подобранное, затем экипировка, расходуемые предметы, ремесло, задания и прочее, хлам в самом конце. У колчанов, подсумков, сумок душ и профессиональных сумок свой свободный квадрат, а пока окно открыто, каждый предмет остаётся на месте: ничего не уезжает из-под мыши. Если хотите, можно по сумкам, каждая ячейка на своём месте. Размер ячеек и их число в ряду выбираете вы."
+					]
+				},
+				{
+					"id": "find",
+					"h2": "Как быстро найти предмет?",
+					"paragraphs": [
+						"Поиск по названию или по типу отодвигает в тень всё, что не подходит, и говорит, сколько таких предметов у других ваших персонажей. Он понимает и уровни (>40, 30-40), качество, ПпН, ячейки экипировки, ! для «без» и | для «или». Уровень предмета виден в углу вашей экипировки, «ПпН» на том, что становится персональным при надевании, зелёная стрелка Wanderer отмечает то, что лучше для вашего стиля игры, маленькая монета отмечает хлам, а знак задания предметы, которые задание просит носить с собой.",
+						"Над любым предметом список показывает, у каких ваших персонажей он есть, в сумках и в банке. Когда сумки почти полны, свободные ячейки называют самые дешёвые вещи, которые вы носите."
+					]
+				},
+				{
+					"id": "crafting",
+					"h2": "Можно ли сортировать реагенты по профессиям?",
+					"paragraphs": [
+						"Да. Ремесленные материалы делятся на разделы для каждой вашей профессии, затем то, что используют другие ваши персонажи, затем то, что нужно только другим профессиям, прямо перед хламом: что можно продать, видно с первого взгляда. Вещи из ваших комплектов собираются в собственном разделе."
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "Как защитить предмет от случайной продажи?",
+					"paragraphs": [
+						"Alt+щелчок по предмету: небольшая карточка предлагает «Сохранить», «Аукцион», «Хлам» или «Банк». Сохранённый предмет носит замок и никогда не продаётся, ни торговцу, ни на аукционе. Предмет для аукциона никогда не продаётся торговцу, хлам уходит вместе с хламом, какого бы цвета он ни был, а предмет для банка кладётся туда при следующем визите.",
+						"Собственные разделы получают любые названия, сворачиваются щелчком и могут быть закреплены наверху или перемещены. Кнопка «Выбрать» действует сразу над многими предметами."
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "Можно ли безопасно продать хлам торговцу?",
+					"paragraphs": [
+						"У торговца хлам и то, что нужно только другим профессиям, показывают свою стоимость и кнопку «Продать», которая сначала спрашивает, сколько предметов и за какую сумму. Торговец выкупает обратно только 12 последних предметов, поэтому крупные продажи идут партиями по 12, а то, что на аукционе стоит больше чем втрое дороже, откладывается, если вы не поставите галочку. Игровая кнопка продажи всего хлама тоже учитывает ваши пометки, так что сохранённое, ваши комплекты и предметы заданий всегда остаются в сумках."
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "Можно ли смотреть банк из любого места?",
+					"paragraphs": [
+						"У банкира банк открывается рядом с сумками, отсортированный так же, с вкладками персонажа и отряда; правый щелчок перекладывает предмет между ними, а отмеченное для банка кладётся само (удерживайте Shift, чтобы пропустить). Карточка раздела кладёт его в банк целиком или отправляет туда при каждом визите. Вдали от банкира одна ссылка показывает банк таким, каким вы его оставили."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Можно ли вернуть игровые сумки?",
+					"a": "Да. Один флажок в настройках Wanderer возвращает игровые сумки, другой игровой банк. Больше в игре ничего не меняется."
+				},
+				{
+					"q": "Считаются ли колчаны и сумки душ свободными ячейками?",
+					"a": "Нет. У колчанов, подсумков, сумок душ и профессиональных сумок свой свободный квадрат со своим счётом, так что свободные ячейки ваших сумок говорят правду, а предупреждение о почти полных сумках смотрит только на обычные сумки."
+				},
+				{
+					"q": "Работает ли он с Bagnon, AdiBags или сумками ElvUI?",
+					"a": "Да. Когда сумками занимается другой аддон, Wanderer Bags сам отходит в сторону, а ваши пометки по-прежнему охраняют то, что продаётся торговцам."
+				},
+				{
+					"q": "Работает ли Wanderer Bags с Auctionator?",
+					"a": "Да. Сохранённое скрыто из списка продажи Auctionator, отложенное для аукциона стоит в нём первым, а его цены видны на ваших разделах."
+				},
+				{
+					"q": "Работает ли Wanderer Bags с банком отряда?",
+					"a": "Да. У банкира он показывает вкладки вашего персонажа и отряда рядом с сумками, со встроенными в игру вкладом и сортировкой, и сохраняет копию, которую можно посмотреть где угодно."
+				},
+				{
+					"q": "Продаёт ли он что-нибудь сам?",
+					"a": "Нет. Ничего не продаётся без вашего щелчка по «Продать», а продажа раздела сначала подтверждается. Само перемещается только отмеченное для банка, и Shift это пропускает."
+				},
+				{
+					"q": "Общие ли пометки у моих персонажей?",
+					"a": "Нет. Пометки, разделы, их порядок и свёрнутость свои у каждого персонажа."
+				}
+			]
+		},
+		"card": {
+			"alt": "Логотип Wanderer Bags: кожаный рюкзак путешественника в свете фонаря ночью",
+			"tagline": "Ваши сумки и банк",
+			"summary": "Все сумки в одном окне по типам, ремесло по профессиям, сохранённое никогда не продаётся, банк виден откуда угодно."
+		}
+	},
+	"ko": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Bags: 모든 가방을 한 창에 (WoW Forever)",
+				"description": "무료 WoW Forever 애드온 Wanderer Bags: 가방과 은행을 한 창에, 종류별 정리, 전문 기술별 재료, 실수로 팔리지 않게 지켜 주는 표시."
+			},
+			"h1": "모든 가방과 은행을 하나의 차분한 창에",
+			"lead": "Wanderer Bags는 World of Warcraft Forever용 Wanderer의 무료 확장입니다. 들고 다니는 모든 가방을 하나의 창에 모으고, 소지품을 생각하는 방식대로 정리하며, 중요한 물건을 실수로 팔지 않도록 지켜 주고, 은행원에게서 멀리 있어도 은행을 함께 보여 줍니다. 칸은 게임의 칸 그대로이고, 체크 상자 하나면 게임의 가방이 돌아옵니다.",
+			"sections": [
+				{
+					"id": "window",
+					"h2": "WoW Forever에서 모든 가방을 한 창에서 보려면?",
+					"paragraphs": [
+						"Wanderer와 함께 Wanderer Bags를 설치하세요. 가방이 다른 Wanderer 창과 같은 모습의 한 창으로 열립니다. 칸은 게임의 칸 그대로입니다. 오른쪽 클릭으로 아이템을 사용하고, 끌어서 옮기며, 툴팁과 재사용 대기시간, 새 아이템의 반짝임도 익숙한 모습 그대로입니다.",
+						"종류별로 정리하면 방금 얻은 아이템이 맨 앞에 오고, 이어서 장비, 소비용품, 제작 재료, 퀘스트 아이템과 나머지가 오며, 잡동사니는 맨 끝에 놓입니다. 화살통, 탄약 주머니, 영혼의 가방, 전문 기술 가방은 각자 빈 칸 하나를 따로 가지며, 창이 열려 있는 동안 아이템은 제자리를 지키므로 마우스 아래에서 밀려나지 않습니다. 원한다면 가방별로, 각 칸을 제자리에 둘 수도 있습니다. 칸의 크기와 한 줄의 칸 수는 마음대로 정합니다."
+					]
+				},
+				{
+					"id": "find",
+					"h2": "아이템을 빠르게 찾으려면?",
+					"paragraphs": [
+						"이름이나 종류로 검색하면 일치하지 않는 아이템이 흐려지고, 다른 캐릭터들이 몇 개 가지고 있는지도 알려 줍니다. 레벨(>40, 30-40), 품질, 착귀, 장비 부위, '제외'를 뜻하는 !, '또는'을 뜻하는 |도 알아듣습니다. 장비 모서리에는 아이템 레벨이, 착용 시 귀속되는 장비에는 '착귀'가 표시되고, Wanderer의 초록색 화살표는 내 플레이 방식에 더 좋은 아이템을, 작은 동전은 잡동사니를, 퀘스트 표시는 퀘스트가 지니라고 요구하는 아이템을 가리킵니다.",
+						"어떤 아이템이든 위에 마우스를 올리면, 내 캐릭터 중 누가 가방과 은행에 그것을 가지고 있는지 목록으로 보여 줍니다. 가방이 거의 가득 차면 빈 칸이 가지고 있는 것 중 가장 값싼 물건을 알려 줍니다."
+					]
+				},
+				{
+					"id": "crafting",
+					"h2": "제작 재료를 전문 기술별로 정리할 수 있나요?",
+					"paragraphs": [
+						"네. 제작 재료는 내 전문 기술마다 하나의 구역으로 나뉘고, 이어서 다른 캐릭터가 쓰는 재료, 다른 전문 기술만 쓰는 재료가 잡동사니 바로 앞에 놓입니다. 팔아도 되는 것이 한눈에 보입니다. 복장에 속한 장비는 따로 한 구역에 모입니다."
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "아이템을 실수로 팔지 않으려면 어떻게 하나요?",
+					"paragraphs": [
+						"아이템을 Alt+클릭하면 작은 카드가 보관, 경매, 잡동사니, 은행을 제안합니다. 보관한 아이템에는 자물쇠가 붙고, 상인에게도 경매장에서도 절대 팔리지 않습니다. 경매용 아이템은 상인에게 팔리지 않고, 잡동사니로 표시한 아이템은 색과 상관없이 잡동사니와 함께 팔리며, 은행용 아이템은 다음 방문 때 은행에 들어갑니다.",
+						"나만의 구역은 원하는 이름을 붙이고, 클릭으로 접으며, 맨 위에 고정하거나 옮길 수 있습니다. 선택 버튼으로 여러 아이템을 한꺼번에 처리합니다."
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "상인에게 잡동사니를 안전하게 팔 수 있나요?",
+					"paragraphs": [
+						"상인 앞에서는 잡동사니와 다른 전문 기술만 쓰는 재료가 그 가치와 판매 버튼을 보여 주며, 버튼은 먼저 몇 개를 얼마에 파는지 묻습니다. 상인은 마지막 12개만 되사 주므로 큰 판매는 12개씩 나누어 진행되고, 경매장에서 세 배 넘게 받을 수 있는 물건은 상자에 체크하지 않는 한 빼 둡니다. 게임의 잡동사니 모두 판매도 내 표시를 따르므로, 보관한 물건, 복장, 퀘스트 아이템은 언제나 가방에 남습니다."
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "어디서든 은행을 볼 수 있나요?",
+					"paragraphs": [
+						"은행원 앞에서는 은행이 가방 옆에 같은 방식으로 정리되어 열리며, 캐릭터 탭과 전투부대 탭이 있습니다. 오른쪽 클릭으로 아이템을 둘 사이에 옮기고, 은행용으로 표시한 것은 저절로 들어갑니다(건너뛰려면 Shift). 섹션 카드로 섹션 전체를 맡기거나, 방문할 때마다 은행으로 보내도록 할 수 있습니다. 은행원에게서 멀리 있을 때는 링크 하나로 마지막으로 남겨 둔 은행 모습을 볼 수 있습니다."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "게임의 가방으로 돌아갈 수 있나요?",
+					"a": "네. Wanderer 옵션의 체크 상자 하나가 게임의 가방을, 다른 하나가 게임의 은행을 되돌려 줍니다. 게임의 다른 부분은 아무것도 바뀌지 않습니다."
+				},
+				{
+					"q": "화살통과 영혼의 가방도 빈 칸으로 세나요?",
+					"a": "아니요. 화살통, 탄약 주머니, 영혼의 가방, 전문 기술 가방은 각자 빈 칸과 개수를 따로 가지므로 가방의 빈 칸 수가 정확하고, 가방이 거의 찼다는 경고도 일반 가방만 봅니다."
+				},
+				{
+					"q": "Bagnon, AdiBags, ElvUI 가방과 함께 쓸 수 있나요?",
+					"a": "네. 다른 애드온이 가방을 맡고 있으면 Wanderer Bags는 저절로 물러나고, 내 표시는 여전히 상인에게 팔리는 것을 지켜 줍니다."
+				},
+				{
+					"q": "Wanderer Bags는 Auctionator와 함께 쓸 수 있나요?",
+					"a": "네. 보관한 물건은 Auctionator의 판매 목록에서 숨겨지고, 경매장용으로 따로 둔 물건은 그 목록 맨 앞에 오며, Auctionator의 가격이 내 구역에 표시됩니다."
+				},
+				{
+					"q": "전투부대 은행도 다루나요?",
+					"a": "네. 은행원 앞에서 캐릭터 탭과 전투부대 탭을 가방 옆에 보여 주며, 게임의 보관과 정리 기능을 그대로 쓰고, 어디서나 볼 수 있는 사본을 간직합니다."
+				},
+				{
+					"q": "저절로 무언가를 팔기도 하나요?",
+					"a": "아니요. 판매를 클릭하지 않으면 아무것도 팔리지 않고, 구역 전체 판매는 먼저 확인을 받습니다. 저절로 움직이는 것은 은행용으로 표시한 물건뿐이며, Shift로 건너뜁니다."
+				},
+				{
+					"q": "표시는 캐릭터끼리 공유되나요?",
+					"a": "아니요. 표시, 구역, 그 순서와 접힘 상태는 캐릭터마다 따로입니다."
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Bags 로고: 밤에 랜턴 불빛을 받는 모험가의 가죽 배낭",
+			"tagline": "가방과 은행",
+			"summary": "모든 가방을 종류별로 정리한 한 창, 전문 기술별 재료, 보관한 물건은 절대 팔지 않고, 은행은 어디서나 확인."
+		}
+	},
+	"zh-cn": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Bags：所有背包合于一窗 (WoW Forever)",
+				"description": "Wanderer Bags，免费 WoW Forever 插件：背包与银行合于一窗，按类别整理，材料按专业归类，重要物品防止误卖。"
+			},
+			"h1": "所有背包与银行，尽在一个安静的窗口",
+			"lead": "Wanderer Bags 是 Wanderer 为 World of Warcraft Forever 推出的免费扩展。它把你携带的每个背包汇集到一个窗口中，按你的思路整理物品，保护重要物品不被随手卖掉，即使远离银行职员，也能随时查看银行。格子就是游戏原本的格子，勾选一个选项就能换回游戏自带的背包。",
+			"sections": [
+				{
+					"id": "window",
+					"h2": "WoW Forever 如何在一个窗口中查看所有背包？",
+					"paragraphs": [
+						"随 Wanderer 一起安装 Wanderer Bags：背包会在一个与其他 Wanderer 窗口风格一致的窗口中打开。格子就是游戏原本的格子：右键使用物品，拖动移动物品，鼠标提示、冷却时间和新物品的光效都和你熟悉的一样。",
+						"按类别整理时，刚拾取的物品排在最前，然后是装备、消耗品、制造材料、任务物品和其他物品，垃圾放在最后。箭袋、弹药袋、灵魂袋和专业背包各有自己的空格，窗口打开期间每件物品都留在原位，不会在鼠标下滑走。如果你更喜欢，也可以按背包排列，每个格子各在其位。格子大小和每行数量由你决定。"
+					]
+				},
+				{
+					"id": "find",
+					"h2": "如何快速找到一件物品？",
+					"paragraphs": [
+						"按名称或类别搜索，不匹配的物品会淡出，并显示你的其他角色各带了多少。搜索还认得等级（>40、30-40）、品质、装绑、装备部位，! 表示「不含」，| 表示「或」。装备角落显示物品等级，装备后绑定的物品显示「装绑」，Wanderer 的绿色箭头标出更适合你玩法的物品，小金币标出垃圾，任务标记则标出任务要求你携带的物品。",
+						"鼠标移到任意物品上，会列出你的哪些角色在背包和银行里有它。背包快满时，空格子会告诉你身上最不值钱的东西是什么。"
+					]
+				},
+				{
+					"id": "crafting",
+					"h2": "制造材料可以按专业分类吗？",
+					"paragraphs": [
+						"可以。制造材料按你的每个专业各分一栏，然后是你其他角色使用的材料，再是只有其他专业才用的材料，紧挨在垃圾之前：哪些可以卖，一目了然。你各套装中的装备会集中在单独的一栏。"
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "如何防止物品被误卖？",
+					"paragraphs": [
+						"Alt+点击物品：一张小卡片会提供「保留」「拍卖」「垃圾」「银行」。保留的物品带有一把锁，绝不会被卖掉，无论是卖给商人还是在拍卖行。留给拍卖行的物品绝不会卖给商人，标为垃圾的物品不论品质都随垃圾一起卖掉，标为银行的物品会在你下次去银行时存入。",
+						"你自建的分栏可以随意命名，点击即可折叠，还能置顶或移动。「选择」按钮可一次处理多件物品。"
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "可以在商人处安全地卖掉垃圾吗？",
+					"paragraphs": [
+						"在商人处，垃圾和只有其他专业才用的材料会显示其价值和一个「出售」按钮，它会先告诉你要卖几件、能卖多少钱。商人只能回购最后 12 件物品，所以大批出售会按每批 12 件进行；在拍卖行价值超过三倍的物品会被留下，除非你勾选方框。游戏自带的「出售所有垃圾」也会遵循你的标记，因此你保留的物品、套装和任务物品始终留在背包里。"
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "可以随时随地查看银行吗？",
+					"paragraphs": [
+						"在银行职员处，银行会在背包旁打开，以同样的方式整理，包含角色标签页和战团标签页；右键即可在两者之间移动物品，标为银行的物品会自动存入（按住 Shift 可跳过）。分区卡片可以把整个分区存入，或在每次到访时都送进银行。远离银行职员时，一个链接就能显示你离开时的银行内容。"
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "可以换回游戏自带的背包吗？",
+					"a": "可以。在 Wanderer 的选项中勾选一项即可换回游戏背包，另一项换回游戏银行。游戏的其他部分都不会改变。"
+				},
+				{
+					"q": "箭袋和灵魂袋算在空格里吗？",
+					"a": "不算。箭袋、弹药袋、灵魂袋和专业背包各有自己的空格和计数，所以背包的空格数是准确的，「背包快满」的提醒也只看普通背包。"
+				},
+				{
+					"q": "它能和 Bagnon、AdiBags 或 ElvUI 的背包一起用吗？",
+					"a": "能。当另一个插件接管背包时，Wanderer Bags 会自动让开，而你的标记依然守护着在商人处出售的物品。"
+				},
+				{
+					"q": "Wanderer Bags 能和 Auctionator 一起用吗？",
+					"a": "能。你保留的物品会从 Auctionator 的出售列表中隐藏，留给拍卖行的物品排在列表最前，Auctionator 的价格也会显示在你的分栏上。"
+				},
+				{
+					"q": "Wanderer Bags 支持战团银行吗？",
+					"a": "支持。在银行职员处，它会在背包旁显示角色标签页和战团标签页，使用游戏自带的存放和整理功能，并保存一份随处可查看的副本。"
+				},
+				{
+					"q": "它会自己卖东西吗？",
+					"a": "不会。没有你点击「出售」，什么都不会卖掉，整栏出售也会先征求确认。只有标为银行的物品会自动移动，按住 Shift 即可跳过。"
+				},
+				{
+					"q": "我的标记在角色之间共享吗？",
+					"a": "不共享。标记、分栏及其顺序和折叠状态都归每个角色各自所有。"
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Bags 标志：夜晚被提灯照亮的冒险者皮革背包",
+			"tagline": "背包与银行",
+			"summary": "所有背包合于一个窗口并按类别整理，材料按专业归类，保留的物品绝不出售，银行随处可查。"
+		}
+	},
+	"zh-tw": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Bags：所有背包合於一窗 (WoW Forever)",
+				"description": "Wanderer Bags，免費 WoW Forever 插件：背包與銀行合於一窗，依類別整理，材料依專業歸類，重要物品防止誤賣。"
+			},
+			"h1": "所有背包與銀行，盡在一個安靜的視窗",
+			"lead": "Wanderer Bags 是 Wanderer 為 World of Warcraft Forever 推出的免費擴充。它把你攜帶的每個背包集中到一個視窗中，依你的思路整理物品，保護重要物品不被隨手賣掉，即使遠離銀行員，也能隨時查看銀行。格子就是遊戲原本的格子，勾選一個選項就能換回遊戲內建的背包。",
+			"sections": [
+				{
+					"id": "window",
+					"h2": "WoW Forever 如何在一個視窗中查看所有背包？",
+					"paragraphs": [
+						"隨 Wanderer 一起安裝 Wanderer Bags：背包會在一個與其他 Wanderer 視窗風格一致的視窗中開啟。格子就是遊戲原本的格子：右鍵使用物品，拖曳移動物品，滑鼠提示、冷卻時間和新物品的光芒都和你熟悉的一樣。",
+						"依類別整理時，剛拾取的物品排在最前，接著是裝備、消耗品、製作材料、任務物品和其他物品，垃圾放在最後。箭袋、彈藥袋、靈魂袋和專業背包各有自己的空格，視窗開啟期間每件物品都留在原位，不會在滑鼠下滑走。如果你偏好，也可以依背包排列，每個格子各在其位。格子大小和每列數量由你決定。"
+					]
+				},
+				{
+					"id": "find",
+					"h2": "如何快速找到一件物品？",
+					"paragraphs": [
+						"依名稱或類別搜尋，不符合的物品會淡出，並顯示你的其他角色各帶了多少。搜尋還認得等級（>40、30-40）、品質、裝綁、裝備部位，! 表示「不含」，| 表示「或」。裝備角落顯示物品等級，裝備後綁定的物品顯示「裝綁」，Wanderer 的綠色箭頭標出更適合你玩法的物品，小金幣標出垃圾，任務標記則標出任務要求你攜帶的物品。",
+						"滑鼠移到任一物品上，會列出你的哪些角色在背包和銀行裡有它。背包快滿時，空格會告訴你身上最不值錢的東西是什麼。"
+					]
+				},
+				{
+					"id": "crafting",
+					"h2": "製作材料可以依專業分類嗎？",
+					"paragraphs": [
+						"可以。製作材料依你的每項專業各分一欄，接著是你其他角色使用的材料，再來是只有其他專業才用的材料，緊鄰在垃圾之前：哪些可以賣，一目了然。你各套裝中的裝備會集中在獨立的一欄。"
+					]
+				},
+				{
+					"id": "keep",
+					"h2": "如何防止物品被誤賣？",
+					"paragraphs": [
+						"Alt+點擊物品：一張小卡片會提供「保留」「拍賣」「垃圾」「銀行」。保留的物品帶有一把鎖，絕不會被賣掉，無論是賣給商人還是在拍賣場。留給拍賣場的物品絕不會賣給商人，標為垃圾的物品不論品質都隨垃圾一起賣掉，標為銀行的物品會在你下次去銀行時存入。",
+						"你自建的分欄可以隨意命名，點擊即可收合，還能置頂或移動。「選擇」按鈕可一次處理多件物品。"
+					]
+				},
+				{
+					"id": "merchant",
+					"h2": "可以在商人處安全地賣掉垃圾嗎？",
+					"paragraphs": [
+						"在商人處，垃圾和只有其他專業才用的材料會顯示其價值和一個「出售」按鈕，它會先告訴你要賣幾件、能賣多少錢。商人只能買回最後 12 件物品，所以大批出售會以每批 12 件進行；在拍賣場價值超過三倍的物品會被留下，除非你勾選方框。遊戲內建的「出售所有垃圾」也會遵循你的標記，因此你保留的物品、套裝和任務物品始終留在背包裡。"
+					]
+				},
+				{
+					"id": "bank",
+					"h2": "可以隨時隨地查看銀行嗎？",
+					"paragraphs": [
+						"在銀行員處，銀行會在背包旁開啟，以同樣的方式整理，包含角色分頁和戰隊分頁；右鍵即可在兩者之間移動物品，標為銀行的物品會自動存入（按住 Shift 可略過）。分區卡片可以把整個分區存入，或在每次造訪時都送進銀行。遠離銀行員時，一個連結就能顯示你離開時的銀行內容。"
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "可以換回遊戲內建的背包嗎？",
+					"a": "可以。在 Wanderer 的選項中勾選一項即可換回遊戲背包，另一項換回遊戲銀行。遊戲的其他部分都不會改變。"
+				},
+				{
+					"q": "箭袋和靈魂袋算在空格裡嗎？",
+					"a": "不算。箭袋、彈藥袋、靈魂袋和專業背包各有自己的空格和計數，所以背包的空格數是準確的，「背包快滿」的提醒也只看一般背包。"
+				},
+				{
+					"q": "它能和 Bagnon、AdiBags 或 ElvUI 的背包一起用嗎？",
+					"a": "能。當另一個插件接管背包時，Wanderer Bags 會自動退開，而你的標記依然守護著在商人處出售的物品。"
+				},
+				{
+					"q": "Wanderer Bags 能和 Auctionator 一起用嗎？",
+					"a": "能。你保留的物品會從 Auctionator 的出售清單中隱藏，留給拍賣場的物品排在清單最前，Auctionator 的價格也會顯示在你的分欄上。"
+				},
+				{
+					"q": "Wanderer Bags 支援戰隊銀行嗎？",
+					"a": "支援。在銀行員處，它會在背包旁顯示角色分頁和戰隊分頁，使用遊戲內建的存放和整理功能，並保存一份隨處可查看的副本。"
+				},
+				{
+					"q": "它會自己賣東西嗎？",
+					"a": "不會。沒有你點擊「出售」，什麼都不會賣掉，整欄出售也會先徵求確認。只有標為銀行的物品會自動移動，按住 Shift 即可略過。"
+				},
+				{
+					"q": "我的標記在角色之間共用嗎？",
+					"a": "不共用。標記、分欄及其順序和收合狀態都歸每個角色各自所有。"
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Bags 標誌：夜晚被提燈照亮的冒險者皮革背包",
+			"tagline": "背包與銀行",
+			"summary": "所有背包合於一個視窗並依類別整理，材料依專業歸類，保留的物品絕不出售，銀行隨處可查。"
+		}
+	}
+}

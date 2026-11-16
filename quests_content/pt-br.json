@@ -1,0 +1,103 @@
+{
+  "home": {
+    "extensionsTitle": "Três companheiros de viagem",
+    "extensionsAnswer": "Três módulos gratuitos que complementam o Wanderer para World of Warcraft Forever. O Wanderer Bags reúne suas bolsas e seu banco em uma única janela e protege os itens escolhidos de qualquer venda. O Wanderer Auction traz a casa de leilões para uma janela do Wanderer e nunca vende abaixo do preço de um mercador. O Wanderer Quests mostra todas as missões da sua classe, das suas masmorras e das suas zonas, em cadeias. Cada um precisa do Wanderer e tem sua própria página em wanderer-addon.com.",
+    "quests": {
+      "alt": "Logo do Wanderer Quests: um velho livro de missões com uma rosa dos ventos dourada e luminosa na capa, e um alfinete de mapa ao lado",
+      "paragraphs": [
+        "Todas as missões da sua classe, das suas masmorras e das suas zonas, cada uma com as que levam a ela, em forma de árvore: em que ponto você está com cada uma, e só o que é para a sua raça, sua classe e sua facção.",
+        "Um clique em uma missão abre a ficha dela: o que fazer e a sua história, os itens pedidos com quantos você tem, quem a entrega e a quem devolvê-la, com um marcador no seu mapa para cada um."
+      ],
+      "tagline": "As missões que o mundo esconde"
+    },
+    "faq": {
+      "q": "Como encontrar as missões que abrem uma masmorra no WoW Forever?",
+      "a": "Instale o Wanderer Quests com o Wanderer e abra a aba Masmorras: cada masmorra e raide lista as suas missões e todas as que levam a elas, onde quer que comecem, com o seu progresso em cada uma e a entrada marcada no mapa."
+    }
+  },
+  "page": {
+    "meta": {
+      "title": "Wanderer Quests: cada missão, sua cadeia e sua ficha (WoW Forever)",
+      "description": "Wanderer Quests, addon gratuito para WoW Forever: missões da sua classe, masmorras e zonas em cadeias, seu progresso, o que cada uma pede e quem a dá."
+    },
+    "h1": "As missões que o mundo esconde de você, em uma janela tranquila",
+    "lead": "O Wanderer Quests é uma extensão gratuita do Wanderer para World of Warcraft Forever. Ele mostra todas as missões da sua classe, de cada masmorra e raide e de cada zona, cada uma com as que levam a ela, e em que ponto você está com cada uma. Não é uma seta sobre o mundo: é um livro que você abre para planejar o seu caminho.",
+    "sections": [
+      {
+        "id": "tabs",
+        "h2": "Quais missões o Wanderer Quests mostra?",
+        "paragraphs": [
+          "Três abas: a sua classe, com as suas próprias missões por faixas de nível; masmorras e raides, as missões de cada uma e todas as que levam a elas; zonas, cada zona com missões para você, a sua escolhida primeiro.",
+          "Só o que é para você: sua raça, sua classe, sua facção. Cada lugar informa os seus níveis e quantas das suas missões você já concluiu."
+        ]
+      },
+      {
+        "id": "chains",
+        "h2": "Como ver uma cadeia de missões?",
+        "paragraphs": [
+          "As missões de um lugar são desenhadas como uma árvore: as que abrem outras ficam acima, onde quer que comecem, nas cores da sua dificuldade. A missão que abre a cadeia de uma masmorra, a missão de classe de que ninguém fala, aquela que você pulou três zonas atrás: estão todas ali.",
+          "Cada uma diz se está concluída, no seu registro, disponível, depois de outra, descartada por outra escolha ou ainda alta demais. Uma missão que o jogo deixou você pular aparece como superada."
+        ]
+      },
+      {
+        "id": "sheet",
+        "h2": "O que a ficha de uma missão mostra?",
+        "paragraphs": [
+          "Um clique em uma missão abre a ficha dela ao lado da janela: o que fazer, nas suas próprias palavras, e a sua história; os itens pedidos com quantos você já tem, as criaturas ou objetos a encontrar; quem a entrega e a quem devolvê-la, com um marcador no mapa para cada um.",
+          "Leia com antecedência: uma missão ainda distante se prepara tão bem quanto uma do seu registro."
+        ]
+      },
+      {
+        "id": "together",
+        "h2": "Funciona com os outros addons do Wanderer?",
+        "paragraphs": [
+          "O que uma missão pede vai para os lembretes do Wanderer com um clique, com quantos você tem à medida que junta. Os itens dela vão para a lista de compras do Wanderer Auction, buscados todos de uma vez na casa de leilões."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Preciso do Questie ou de outro addon de missões?",
+        "a": "Não. Tudo o que o Wanderer Quests sabe vem com ele, do banco de dados clássico do CMaNGOS e do pfQuest. Só o Wanderer é necessário."
+      },
+      {
+        "q": "O Wanderer Quests deixa o jogo mais lento?",
+        "a": "Não. Os dados só são lidos na primeira vez que você abre a janela, só o seu idioma é carregado, e o seu progresso é sempre consultado no jogo, nunca salvo à parte."
+      },
+      {
+        "q": "O Wanderer Quests desenha setas ou marcadores no mundo?",
+        "a": "Não. Ele não mostra nada sobre o mundo: um marcador só vai para o seu mapa quando você pede."
+      },
+      {
+        "q": "Como abrir o Wanderer Quests?",
+        "a": "Pelo menu do minimapa do Wanderer, pela página de opções ou digitando /wquests."
+      },
+      {
+        "q": "Ele conhece as missões adicionadas pelo WoW Forever?",
+        "a": "Ainda não: ele conhece as missões do jogo original. Conte quais novas você encontra nos comentários do CurseForge."
+      },
+      {
+        "q": "O Wanderer Quests é gratuito?",
+        "a": "Sim, totalmente, como o Wanderer. É software livre sob GPL-3.0, traduzido para 10 idiomas."
+      }
+    ]
+  },
+  "auction": {
+    "section": {
+      "id": "shopping",
+      "h2": "Posso manter uma lista de compras?",
+      "paragraphs": [
+        "Sim. Os itens adicionados pelo Wanderer Quests ou pelos lembretes do Wanderer se reúnem em uma lista de compras, buscada toda de uma vez na página de compra, do mais barato ao mais caro; o que não está à venda é informado. O que você já tem em quantidade suficiente sai da lista sozinho. Itens idênticos para vender ficam em uma só linha e são anunciados juntos, como uma pilha."
+      ]
+    }
+  },
+  "bags": {
+    "section": {
+      "id": "select",
+      "h2": "Posso agir sobre vários itens de uma vez?",
+      "paragraphs": [
+        "Sim. O botão Selecionar, ao lado da busca, permite escolher um item ou vários (Shift+clique para uma sequência) e agir sobre todos a partir de uma barra sob os espaços: guardá-los, separá-los para a casa de leilões, marcá-los como lixo, colocá-los em uma seção sua, vendê-los a um mercador ou depositá-los no banqueiro."
+      ]
+    }
+  }
+}

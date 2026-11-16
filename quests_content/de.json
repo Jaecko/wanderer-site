@@ -1,0 +1,103 @@
+{
+  "home": {
+    "extensionsTitle": "Drei Begleiter für unterwegs",
+    "extensionsAnswer": "Drei kostenlose Module, die Wanderer für World of Warcraft Forever ergänzen. Wanderer Bags vereint deine Taschen und deine Bank in einem Fenster und schützt ausgewählte Gegenstände vor jedem Verkauf. Wanderer Auction holt das Auktionshaus in ein Wanderer-Fenster und verkauft nie unter dem Preis eines Händlers. Wanderer Quests zeigt alle Quests deiner Klasse, deiner Dungeons und deiner Gebiete, in Questreihen. Jedes braucht Wanderer und hat eine eigene Seite auf wanderer-addon.com.",
+    "quests": {
+      "alt": "Logo von Wanderer Quests: ein altes Questbuch mit einer leuchtenden goldenen Kompassrose auf dem Einband, daneben eine Kartennadel",
+      "paragraphs": [
+        "Alle Quests deiner Klasse, deiner Dungeons und deiner Gebiete, jede mit den Quests, die zu ihr führen, als Baum: wo du bei jeder stehst, und nur, was für dein Volk, deine Klasse und deine Fraktion bestimmt ist.",
+        "Ein Klick auf eine Quest öffnet ihr Blatt: was zu tun ist und ihre Geschichte, die verlangten Gegenstände samt deiner Anzahl, wer sie vergibt und wer sie annimmt, mit einer Nadel auf deiner Karte für jeden."
+      ],
+      "tagline": "Die Quests, die die Welt verbirgt"
+    },
+    "faq": {
+      "q": "Wie finde ich die Quests, die einen Dungeon freischalten, in WoW Forever?",
+      "a": "Installiere Wanderer Quests mit Wanderer und öffne den Reiter Dungeons: Jeder Dungeon und Schlachtzug listet seine Quests und alle, die zu ihnen führen, wo auch immer sie beginnen, mit deinem Stand bei jeder und dem Eingang als Nadel auf deiner Karte."
+    }
+  },
+  "page": {
+    "meta": {
+      "title": "Wanderer Quests: jede Quest, ihre Reihe und ihr Blatt (WoW Forever)",
+      "description": "Wanderer Quests, kostenloses Addon für WoW Forever: Quests deiner Klasse, Dungeons und Gebiete in Reihen, dein Stand, was jede verlangt, wer sie vergibt."
+    },
+    "h1": "Die Quests, die dir die Welt verbirgt, in einem ruhigen Fenster",
+    "lead": "Wanderer Quests ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Es zeigt alle Quests deiner Klasse, jedes Dungeons und Schlachtzugs und jedes Gebiets, jede mit den Quests, die zu ihr führen, und wo du bei jeder stehst. Es ist kein Pfeil über der Welt: Es ist ein Buch, das du aufschlägst, um deinen Weg zu planen.",
+    "sections": [
+      {
+        "id": "tabs",
+        "h2": "Welche Quests zeigt Wanderer Quests?",
+        "paragraphs": [
+          "Drei Reiter: deine Klasse, ihre eigenen Quests nach Stufenbereichen; Dungeons und Schlachtzüge, die Quests jedes einzelnen und alle, die zu ihnen führen; Gebiete, jedes Gebiet mit Quests für dich, das, in dem du stehst, zuerst gewählt.",
+          "Nur, was für dich bestimmt ist: dein Volk, deine Klasse, deine Fraktion. Jeder Ort nennt seine Stufen und wie viele seiner Quests du erledigt hast."
+        ]
+      },
+      {
+        "id": "chains",
+        "h2": "Wie sehe ich eine Questreihe?",
+        "paragraphs": [
+          "Die Quests eines Ortes werden als Baum gezeichnet: die Quests, die andere freischalten, darüber, wo auch immer sie beginnen, in den Farben ihrer Schwierigkeit. Die Quest, die eine Dungeon-Reihe öffnet, die Klassenquest, von der dir niemand erzählt, die eine, die du drei Gebiete zuvor übersprungen hast: Sie sind alle da.",
+          "Jede sagt, ob sie erledigt ist, in deinem Questlog steht, annehmbar ist, nach einer anderen kommt, durch eine andere Wahl entfällt oder vorerst zu hoch ist. Eine Quest, die dich das Spiel überspringen ließ, gilt als übergangen."
+        ]
+      },
+      {
+        "id": "sheet",
+        "h2": "Was zeigt das Blatt einer Quest?",
+        "paragraphs": [
+          "Ein Klick auf eine Quest öffnet ihr Blatt neben dem Fenster: was zu tun ist, in ihren eigenen Worten, und ihre Geschichte; die verlangten Gegenstände samt der Anzahl, die du schon trägst, die Kreaturen oder Objekte, die zu finden sind; wer sie vergibt und wer sie annimmt, mit einer Nadel auf deiner Karte für jeden.",
+          "Lies voraus: Eine Quest, die noch fern liegt, lässt sich genauso vorbereiten wie eine aus deinem Questlog."
+        ]
+      },
+      {
+        "id": "together",
+        "h2": "Funktioniert es mit den anderen Wanderer-Addons?",
+        "paragraphs": [
+          "Was eine Quest verlangt, kommt mit einem Klick auf den Merkzettel von Wanderer, samt der Anzahl, die du beim Sammeln trägst. Ihre Gegenstände kommen auf die Einkaufsliste von Wanderer Auction und werden im Auktionshaus alle auf einmal gesucht."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Brauche ich Questie oder ein anderes Quest-Addon?",
+        "a": "Nein. Alles, was Wanderer Quests weiß, bringt es selbst mit, aus der klassischen Datenbank von CMaNGOS und aus pfQuest. Nur Wanderer wird benötigt."
+      },
+      {
+        "q": "Verlangsamt Wanderer Quests mein Spiel?",
+        "a": "Nein. Seine Daten werden erst beim ersten Öffnen des Fensters gelesen, nur deine Sprache wird geladen, und deinen Stand fragt es immer beim Spiel ab, nie getrennt gespeichert."
+      },
+      {
+        "q": "Zeichnet Wanderer Quests Pfeile oder Markierungen in die Welt?",
+        "a": "Nein. Es zeigt nichts über der Welt: Eine Nadel kommt nur auf deine Karte, wenn du darum bittest."
+      },
+      {
+        "q": "Wie öffne ich Wanderer Quests?",
+        "a": "Über das Minimap-Menü von Wanderer, seine Optionsseite oder mit dem Befehl /wquests."
+      },
+      {
+        "q": "Kennt es die von WoW Forever hinzugefügten Quests?",
+        "a": "Noch nicht: Es kennt die Quests des ursprünglichen Spiels. Sag uns in den Kommentaren auf CurseForge, welche neuen dir begegnen."
+      },
+      {
+        "q": "Ist Wanderer Quests kostenlos?",
+        "a": "Ja, vollständig, wie Wanderer. Es ist freie Software unter der GPL-3.0, übersetzt in 10 Sprachen."
+      }
+    ]
+  },
+  "auction": {
+    "section": {
+      "id": "shopping",
+      "h2": "Kann ich eine Einkaufsliste führen?",
+      "paragraphs": [
+        "Ja. Gegenstände aus Wanderer Quests oder vom Merkzettel von Wanderer sammeln sich in einer Einkaufsliste, die auf der Kaufseite alle auf einmal gesucht wird, das Günstigste zuerst; was nicht angeboten wird, wird genannt. Was du bereits in ausreichender Zahl trägst, verschwindet von selbst daraus. Gleiche Gegenstände zum Verkauf stehen in einer Zeile und werden zusammen eingestellt, wie ein Stapel."
+      ]
+    }
+  },
+  "bags": {
+    "section": {
+      "id": "select",
+      "h2": "Kann ich mehrere Gegenstände auf einmal bearbeiten?",
+      "paragraphs": [
+        "Ja. Mit dem Knopf Auswählen neben der Suche wählst du einen Gegenstand oder mehrere (Umschalt+Klick für eine ganze Reihe) und handelst dann für alle über eine Leiste unter den Feldern: sie behalten, fürs Auktionshaus beiseitelegen, als Plunder markieren, einem eigenen Abschnitt zuordnen, beim Händler verkaufen oder beim Bankier einlagern."
+      ]
+    }
+  }
+}

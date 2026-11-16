@@ -1,0 +1,882 @@
+{
+	"en": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Chat: a calm, clear chat for WoW Forever",
+				"description": "Wanderer Chat, a free WoW Forever addon: a glass chat that fades, your name in gold, alerts when you are named, quieter channels, whispers as threads."
+			},
+			"h1": "A chat that stays quiet and brings up what is for you",
+			"lead": "Wanderer Chat is a free extension of Wanderer for World of Warcraft Forever. The game's own chat is dressed as glass: no frame at rest, lines on a light veil that fade, everything back under the mouse. Your name shows in gold, your guild and group stand out, and a small card comes only when something is really for you. Nothing is ever sent without your own Enter.",
+			"sections": [
+				{
+					"id": "glass",
+					"h2": "Can the chat fade away when nothing happens?",
+					"paragraphs": [
+						"Yes. At rest the chat has no frame, no tabs, no buttons: each line sits on a soft veil and fades after twenty seconds, or one or two minutes, or never. Rest the mouse on it or start typing and a quiet ground, the tabs and a thin scroll bar come back.",
+						"Each line reads at a glance: the time in its own column, the chat as one colored letter, the name in its color. Long channel names get shorter, one text size serves every chat window, and scrolled up, one click brings you back to the latest."
+					]
+				},
+				{
+					"id": "named",
+					"h2": "How do I know when someone says my name?",
+					"paragraphs": [
+						"A line naming you shows in gold, and stays a minute longer. If it was said where you could not read it, in another tab, while the chat had faded or while you were busy, a card beside the chat shows it with a button to answer, and a quiet sound can tell you, once a minute at most.",
+						"Give it your other names too, a nickname or your main's: they show in gold and alert you like your own.",
+						"When someone greets the guild or says goodbye, a card offers an answer by name that fits the hour, written for you and sent only by your Enter. A whisper you have not answered waits in a small line above the chat."
+					]
+				},
+				{
+					"id": "channels",
+					"h2": "Can it calm the trade and general channels?",
+					"paragraphs": [
+						"Yes. The same words said again within a minute and obvious gold selling are kept out of the public channels, never your lines, your friends, your guild, your group or your whispers. A quiet line says how many were hidden, and a click shows them.",
+						"Words of your own can keep lines out of the public channels as well, and a stranger whispering gold for sale makes no sound and opens no window. Everything kept out waits in one list, ready to read or copy, never lost.",
+						"If you wish, a card comes when someone seeks players for a dungeon of your level, short names like RFC or BRD understood, or when one of your own watched words is said."
+					]
+				},
+				{
+					"id": "tabs",
+					"h2": "Can my chat tabs show what I missed?",
+					"paragraphs": [
+						"Group, Guild, Whispers and Channels can sit beside General in one click, each with only its own messages. A small gold count says what was said while a tab was hidden, a gold dot when a line there names you. Each tab keeps its last lines after a reload, and your sent messages come back with the arrow keys.",
+						"A search finds words in a tab's lines, each found in gold, Enter for the older one. From the menu of a name, Copy the line gives that line alone, ready to copy."
+					]
+				},
+				{
+					"id": "people",
+					"h2": "Can I see who someone is from the chat?",
+					"paragraphs": [
+						"Rest the mouse on a name: a card shows their level, class, zone, guild and rank, whether they are a friend or one of your characters, and your private note on them, only from what the game already knows. The name's menu gains Greet, Reply and Quote this line."
+					]
+				},
+				{
+					"id": "whispers",
+					"h2": "Can whispers read like a conversation?",
+					"paragraphs": [
+						"If you turn it on, your whispers move to a window of their own, one conversation per person in bubbles, yours in gold. A new message opens it without taking your keyboard, never during a fight. Pin a conversation, search it, invite, add a friend, all from its menu.",
+						"The words you started stay in their conversation when you switch to another one or close the window."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Does it replace the game's chat?",
+					"a": "No. The game's chat engine stays, Wanderer Chat only dresses it and rewrites lines after the game builds them. One checkbox gives the chat back entirely to the game."
+				},
+				{
+					"q": "Does it work with ElvUI, Prat or Chattynator?",
+					"a": "Yes. When one of them dresses the chat, Wanderer Chat's look steps aside and keeps only what does not clash. With WIM, your whispers stay WIM's."
+				},
+				{
+					"q": "Does it send anything by itself?",
+					"a": "Never. Greetings and answers are written in your chat line and sent only by your Enter, and it never does a /who on its own."
+				},
+				{
+					"q": "Are my settings and notes shared between characters?",
+					"a": "No. Settings, notes, kept lines and conversations belong to each character."
+				},
+				{
+					"q": "How do I open my private messages?",
+					"a": "From Wanderer's menu, a key of yours, or by typing /wchat."
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Chat logo",
+			"tagline": "The chat, made calm",
+			"summary": "A glass chat that fades, your name in gold, a card when someone names you, quieter channels and whispers as conversations."
+		}
+	},
+	"fr": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Chat : un chat calme et clair pour WoW Forever",
+				"description": "Wanderer Chat, addon gratuit pour WoW Forever : un chat de verre qui s'efface, votre nom en doré, alertes quand on vous nomme, canaux plus calmes."
+			},
+			"h1": "Un chat qui reste discret et fait remonter ce qui est pour vous",
+			"lead": "Wanderer Chat est une extension gratuite de Wanderer pour World of Warcraft Forever. Le chat du jeu est habillé de verre : aucun cadre au repos, des lignes sur un voile léger qui s'estompent, tout revient sous la souris. Votre nom s'affiche en doré, votre guilde et votre groupe ressortent, et une petite carte n'apparaît que quand quelque chose est vraiment pour vous. Rien n'est jamais envoyé sans votre propre touche Entrée.",
+			"sections": [
+				{
+					"id": "glass",
+					"h2": "Le chat peut-il s'effacer quand il ne se passe rien ?",
+					"paragraphs": [
+						"Oui. Au repos, le chat n'a ni cadre, ni onglets, ni boutons : chaque ligne repose sur un voile doux et s'estompe après vingt secondes, ou une ou deux minutes, ou jamais. Posez la souris dessus ou commencez à écrire, et un fond discret, les onglets et une fine barre de défilement reviennent.",
+						"Chaque ligne se lit d'un coup d'œil : l'heure dans sa propre colonne, le canal en une lettre colorée, le nom à sa couleur. Les longs noms de canaux raccourcissent, une seule taille de texte sert à toutes les fenêtres de chat et, quand vous êtes remonté, un clic vous ramène au plus récent."
+					]
+				},
+				{
+					"id": "named",
+					"h2": "Comment savoir quand quelqu'un dit mon nom ?",
+					"paragraphs": [
+						"Une ligne qui vous nomme s'affiche en doré et reste une minute de plus. Si elle a été dite là où vous ne pouviez pas la lire (dans un autre onglet, pendant que le chat s'était estompé ou que vous étiez occupé), une carte à côté du chat la montre avec un bouton pour répondre, et un son discret peut vous prévenir, une fois par minute au plus.",
+						"Donnez-lui aussi vos autres noms, un surnom ou celui de votre personnage principal : ils s'affichent en doré et vous alertent comme le vôtre.",
+						"Quand quelqu'un salue la guilde ou dit au revoir, une carte propose une réponse avec son nom, adaptée à l'heure, écrite pour vous et envoyée seulement par votre touche Entrée. Un chuchotement auquel vous n'avez pas répondu attend sur une petite ligne au-dessus du chat."
+					]
+				},
+				{
+					"id": "channels",
+					"h2": "Peut-il calmer les canaux Commerce et Général ?",
+					"paragraphs": [
+						"Oui. Les mêmes mots répétés en moins d'une minute et la vente d'or évidente sont tenus à l'écart des canaux publics, jamais vos lignes, vos amis, votre guilde, votre groupe ou vos chuchotements. Une ligne discrète dit combien de messages ont été cachés, et un clic les montre.",
+						"Des mots à vous peuvent aussi tenir des lignes hors des canaux publics, et un inconnu qui chuchote de l'or à vendre ne fait aucun son et n'ouvre aucune fenêtre. Tout ce qui est écarté attend dans une seule liste, à lire ou à copier, jamais perdu.",
+						"Si vous le souhaitez, une carte apparaît quand quelqu'un cherche des joueurs pour un donjon de votre niveau, abréviations comme RFC ou BRD comprises, ou quand l'un des mots que vous surveillez est dit."
+					]
+				},
+				{
+					"id": "tabs",
+					"h2": "Mes onglets de chat peuvent-ils montrer ce que j'ai manqué ?",
+					"paragraphs": [
+						"Groupe, Guilde, Chuchotements et Canaux peuvent se placer à côté de Général en un clic, chacun avec seulement ses propres messages. Un petit compte doré dit ce qui a été dit pendant qu'un onglet était caché, un point doré quand une ligne y cite votre nom. Chaque onglet garde ses dernières lignes après un rechargement, et vos messages envoyés reviennent avec les flèches du clavier.",
+						"Une recherche trouve des mots dans les lignes d'un onglet, chacun marqué en doré, Entrée pour le précédent. Depuis le menu d'un nom, Copier la ligne donne cette ligne seule, prête à copier."
+					]
+				},
+				{
+					"id": "people",
+					"h2": "Puis-je voir qui est quelqu'un depuis le chat ?",
+					"paragraphs": [
+						"Posez la souris sur un nom : une carte montre son niveau, sa classe, sa zone, sa guilde et son rang, s'il est un ami ou l'un de vos personnages, et votre note privée sur lui, uniquement d'après ce que le jeu sait déjà. Le menu du nom gagne Saluer, Répondre et Citer cette ligne."
+					]
+				},
+				{
+					"id": "whispers",
+					"h2": "Les chuchotements peuvent-ils se lire comme une conversation ?",
+					"paragraphs": [
+						"Si vous l'activez, vos chuchotements passent dans une fenêtre à part entière, une conversation par personne en bulles, les vôtres en doré. Un nouveau message l'ouvre sans prendre votre clavier, jamais pendant un combat. Épinglez une conversation, cherchez-y, invitez, ajoutez un ami, tout depuis son menu.",
+						"Les mots que vous aviez commencés restent dans leur conversation quand vous passez à une autre ou fermez la fenêtre."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Remplace-t-il le chat du jeu ?",
+					"a": "Non. Le moteur du chat du jeu reste, Wanderer Chat ne fait que l'habiller et réécrire les lignes une fois que le jeu les a construites. Une case rend entièrement le chat au jeu."
+				},
+				{
+					"q": "Est-ce compatible avec ElvUI, Prat ou Chattynator ?",
+					"a": "Oui. Quand l'un d'eux habille le chat, l'allure de Wanderer Chat s'efface et ne garde que ce qui n'entre pas en conflit. Avec WIM, vos chuchotements restent à WIM."
+				},
+				{
+					"q": "Envoie-t-il quelque chose tout seul ?",
+					"a": "Jamais. Les salutations et les réponses sont écrites dans votre ligne de saisie et envoyées seulement par votre touche Entrée, et il ne fait jamais de /who de lui-même."
+				},
+				{
+					"q": "Mes réglages et mes notes sont-ils partagés entre personnages ?",
+					"a": "Non. Réglages, notes, lignes gardées et conversations sont propres à chaque personnage."
+				},
+				{
+					"q": "Comment ouvrir mes messages privés ?",
+					"a": "Depuis le menu de Wanderer, une touche à vous, ou en tapant /wchat."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo de Wanderer Chat",
+			"tagline": "Le chat, apaisé",
+			"summary": "Un chat de verre qui s'efface, votre nom en doré, une carte quand on vous nomme, des canaux plus calmes et les chuchotements en conversations."
+		}
+	},
+	"de": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Chat: ein ruhiger, klarer Chat für WoW Forever",
+				"description": "Wanderer Chat, kostenloses Addon für WoW Forever: ein gläserner Chat, der verblasst, dein Name in Gold, Hinweise, ruhigere Kanäle, Flüstern als Gespräche."
+			},
+			"h1": "Ein Chat, der ruhig bleibt und hervorhebt, was dich betrifft",
+			"lead": "Wanderer Chat ist eine kostenlose Erweiterung von Wanderer für World of Warcraft Forever. Der Chat des Spiels wird wie Glas gestaltet: in Ruhe kein Rahmen, Zeilen auf einem leichten Schleier, die verblassen, alles zurück unter der Maus. Dein Name erscheint in Gold, deine Gilde und deine Gruppe heben sich ab, und eine kleine Karte kommt nur, wenn etwas wirklich für dich ist. Nichts wird je ohne deine eigene Eingabetaste verschickt.",
+			"sections": [
+				{
+					"id": "glass",
+					"h2": "Kann der Chat verblassen, wenn nichts passiert?",
+					"paragraphs": [
+						"Ja. In Ruhe hat der Chat keinen Rahmen, keine Reiter, keine Knöpfe: Jede Zeile liegt auf einem sanften Schleier und verblasst nach zwanzig Sekunden, nach ein oder zwei Minuten oder nie. Ruht die Maus darauf oder beginnst du zu tippen, kehren ein ruhiger Grund, die Reiter und eine schmale Bildlaufleiste zurück.",
+						"Jede Zeile liest sich auf einen Blick: die Uhrzeit in ihrer eigenen Spalte, der Chat als ein farbiger Buchstabe, der Name in seiner Farbe. Lange Kanalnamen werden kürzer, eine Schriftgröße gilt für jedes Chatfenster, und hast du hochgescrollt, bringt dich ein Klick zum Neuesten zurück."
+					]
+				},
+				{
+					"id": "named",
+					"h2": "Woran merke ich, dass jemand meinen Namen sagt?",
+					"paragraphs": [
+						"Eine Zeile, die dich nennt, erscheint in Gold und bleibt eine Minute länger. Fiel sie dort, wo du sie nicht lesen konntest (in einem anderen Reiter, während der Chat verblasst war oder du beschäftigt warst), zeigt eine Karte neben dem Chat sie mit einem Knopf zum Antworten, und ein leiser Ton kann dich darauf hinweisen, höchstens einmal pro Minute.",
+						"Gib ihm auch deine anderen Namen, einen Spitznamen oder den deines Hauptcharakters: Sie erscheinen in Gold und melden sich wie dein eigener.",
+						"Grüßt jemand die Gilde oder verabschiedet sich, bietet eine Karte eine Antwort mit Namen an, passend zur Tageszeit, für dich geschrieben und nur mit deiner Eingabetaste verschickt. Ein Flüstern, auf das du nicht geantwortet hast, wartet in einer kleinen Zeile über dem Chat."
+					]
+				},
+				{
+					"id": "channels",
+					"h2": "Kann es den Handels- und den allgemeinen Kanal beruhigen?",
+					"paragraphs": [
+						"Ja. Dieselben Worte, innerhalb einer Minute wiederholt, und offensichtlicher Goldverkauf werden aus den öffentlichen Kanälen herausgehalten, nie deine Zeilen, deine Freunde, deine Gilde, deine Gruppe oder dein Flüstern. Eine ruhige Zeile sagt, wie viele ausgeblendet wurden, und ein Klick zeigt sie.",
+						"Eigene Wörter können Zeilen ebenfalls aus den öffentlichen Kanälen heraushalten, und ein Fremder, der dir Gold zum Kauf flüstert, macht keinen Ton und öffnet kein Fenster. Alles Herausgehaltene wartet in einer Liste, zum Lesen oder Kopieren, nie verloren.",
+						"Auf Wunsch kommt eine Karte, wenn jemand Spieler für einen Dungeon deiner Stufe sucht, Kürzel wie RFC oder BRD inbegriffen, oder wenn eines deiner eigenen beobachteten Wörter fällt."
+					]
+				},
+				{
+					"id": "tabs",
+					"h2": "Können meine Chatreiter zeigen, was ich verpasst habe?",
+					"paragraphs": [
+						"Gruppe, Gilde, Flüstern und Kanäle lassen sich mit einem Klick neben Allgemein setzen, jeder nur mit seinen eigenen Nachrichten. Eine kleine goldene Zahl sagt, was gesagt wurde, während ein Reiter verborgen war, ein goldener Punkt, wenn dich dort eine Zeile nennt. Jeder Reiter behält seine letzten Zeilen nach einem Neuladen, und deine gesendeten Nachrichten kommen mit den Pfeiltasten zurück.",
+						"Eine Suche findet Wörter in den Zeilen eines Reiters, jedes Ergebnis in Gold, Eingabe für das ältere. Im Menü eines Namens gibt Zeile kopieren genau diese Zeile, bereit zum Kopieren."
+					]
+				},
+				{
+					"id": "people",
+					"h2": "Kann ich im Chat sehen, wer jemand ist?",
+					"paragraphs": [
+						"Lass die Maus auf einem Namen ruhen: Eine Karte zeigt Stufe, Klasse, Gebiet, Gilde und Rang, ob es ein Freund oder einer deiner Charaktere ist, und deine private Notiz zu ihm, nur aus dem, was das Spiel schon weiß. Das Menü des Namens bekommt Grüßen, Antworten und Diese Zeile zitieren."
+					]
+				},
+				{
+					"id": "whispers",
+					"h2": "Kann sich Flüstern wie ein Gespräch lesen?",
+					"paragraphs": [
+						"Schaltest du es ein, wandert dein Flüstern in ein eigenes Fenster, ein Gespräch pro Person in Blasen, deine in Gold. Eine neue Nachricht öffnet es, ohne dir die Tastatur zu nehmen, nie während eines Kampfes. Ein Gespräch anheften, durchsuchen, einladen, als Freund hinzufügen: alles aus seinem Menü.",
+						"Begonnene Worte bleiben in ihrem Gespräch, wenn du zu einem anderen wechselst oder das Fenster schließt."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Ersetzt es den Chat des Spiels?",
+					"a": "Nein. Die Chat-Engine des Spiels bleibt, Wanderer Chat gestaltet sie nur und schreibt Zeilen um, nachdem das Spiel sie gebaut hat. Ein Kontrollkästchen gibt den Chat ganz dem Spiel zurück."
+				},
+				{
+					"q": "Funktioniert es mit ElvUI, Prat oder Chattynator?",
+					"a": "Ja. Gestaltet eines davon den Chat, tritt der Stil von Wanderer Chat zurück und behält nur, was sich nicht beißt. Mit WIM bleibt dein Flüstern bei WIM."
+				},
+				{
+					"q": "Verschickt es etwas von selbst?",
+					"a": "Nie. Grüße und Antworten werden in deine Chatzeile geschrieben und nur mit deiner Eingabetaste verschickt, und es macht nie von selbst ein /who."
+				},
+				{
+					"q": "Teilen sich meine Charaktere Einstellungen und Notizen?",
+					"a": "Nein. Einstellungen, Notizen, behaltene Zeilen und Gespräche gehören jedem Charakter selbst."
+				},
+				{
+					"q": "Wie öffne ich meine privaten Nachrichten?",
+					"a": "Über das Menü von Wanderer, eine eigene Taste oder mit /wchat."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo von Wanderer Chat",
+			"tagline": "Der Chat, zur Ruhe gebracht",
+			"summary": "Ein gläserner Chat, der verblasst, dein Name in Gold, eine Karte, wenn dich jemand nennt, ruhigere Kanäle und Flüstern als Gespräche."
+		}
+	},
+	"es": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Chat: un chat tranquilo y claro para WoW Forever",
+				"description": "Wanderer Chat, addon gratuito para WoW Forever: chat de cristal que se desvanece, tu nombre en dorado, avisos al nombrarte, canales en calma, susurros."
+			},
+			"h1": "Un chat que se queda en calma y te trae lo que es para ti",
+			"lead": "Wanderer Chat es una extensión gratuita de Wanderer para World of Warcraft Forever. El propio chat del juego se viste de cristal: sin marco en reposo, líneas sobre un velo ligero que se desvanecen, y todo vuelve bajo el ratón. Tu nombre aparece en dorado, tu hermandad y tu grupo destacan, y una pequeña tarjeta solo llega cuando algo es de verdad para ti. Nunca se envía nada sin tu propio Intro.",
+			"sections": [
+				{
+					"id": "glass",
+					"h2": "¿Puede el chat desvanecerse cuando no pasa nada?",
+					"paragraphs": [
+						"Sí. En reposo, el chat no tiene marco, ni pestañas, ni botones: cada línea descansa sobre un velo suave y se desvanece a los veinte segundos, o a uno o dos minutos, o nunca. Pasa el ratón por encima o empieza a escribir y vuelven un fondo discreto, las pestañas y una fina barra de desplazamiento.",
+						"Cada línea se lee de un vistazo: la hora en su propia columna, el canal como una letra de color, el nombre en su color. Los nombres de canal largos se acortan, un solo tamaño de texto sirve para todas las ventanas de chat, y si has subido, un clic te devuelve a lo último."
+					]
+				},
+				{
+					"id": "named",
+					"h2": "¿Cómo sé cuándo alguien dice mi nombre?",
+					"paragraphs": [
+						"Una línea que te nombra aparece en dorado y se queda un minuto más. Si se dijo donde no podías leerla (en otra pestaña, mientras el chat estaba desvanecido o mientras estabas ocupado), una tarjeta junto al chat la muestra con un botón para responder, y un sonido discreto puede avisarte, como mucho una vez por minuto.",
+						"Dale también tus otros nombres, un apodo o el de tu personaje principal: aparecen en dorado y te avisan como el tuyo.",
+						"Cuando alguien saluda a la hermandad o se despide, una tarjeta ofrece una respuesta con su nombre adecuada a la hora, escrita por ti y enviada solo con tu Intro. Un susurro que no has respondido espera en una pequeña línea sobre el chat."
+					]
+				},
+				{
+					"id": "channels",
+					"h2": "¿Puede calmar los canales de comercio y general?",
+					"paragraphs": [
+						"Sí. Las mismas palabras repetidas en menos de un minuto y la venta de oro evidente quedan fuera de los canales públicos, nunca tus líneas, tus amigos, tu hermandad, tu grupo ni tus susurros. Una línea discreta dice cuántas se han ocultado, y un clic las muestra.",
+						"Palabras tuyas también pueden dejar líneas fuera de los canales públicos, y un desconocido que te susurra oro en venta no hace ningún sonido ni abre ninguna ventana. Todo lo apartado espera en una sola lista, para leerlo o copiarlo, nunca perdido.",
+						"Si quieres, llega una tarjeta cuando alguien busca jugadores para una mazmorra de tu nivel (se entienden abreviaturas como RFC o BRD), o cuando se dice una de las palabras que vigilas."
+					]
+				},
+				{
+					"id": "tabs",
+					"h2": "¿Pueden mis pestañas de chat mostrar lo que me perdí?",
+					"paragraphs": [
+						"Grupo, Hermandad, Susurros y Canales pueden ponerse junto a General con un clic, cada una solo con sus propios mensajes. Un pequeño contador dorado dice lo que se dijo mientras una pestaña estaba oculta, y un punto dorado cuando una línea allí te nombra. Cada pestaña conserva sus últimas líneas tras recargar, y tus mensajes enviados vuelven con las flechas del teclado.",
+						"Una búsqueda encuentra palabras en las líneas de una pestaña, cada una en dorado, Intro para la anterior. Desde el menú de un nombre, Copiar la línea da esa línea sola, lista para copiar."
+					]
+				},
+				{
+					"id": "people",
+					"h2": "¿Puedo ver quién es alguien desde el chat?",
+					"paragraphs": [
+						"Pasa el ratón sobre un nombre: una tarjeta muestra su nivel, clase, zona, hermandad y rango, si es un amigo o uno de tus personajes, y tu nota privada sobre él, solo a partir de lo que el juego ya sabe. El menú del nombre gana Saludar, Responder y Citar esta línea."
+					]
+				},
+				{
+					"id": "whispers",
+					"h2": "¿Pueden los susurros leerse como una conversación?",
+					"paragraphs": [
+						"Si lo activas, tus susurros pasan a una ventana propia, una conversación por persona en burbujas, las tuyas en dorado. Un mensaje nuevo la abre sin quitarte el teclado, nunca durante un combate. Fija una conversación, búscala, invita, añade un amigo, todo desde su menú.",
+						"Lo que empezaste a escribir se queda en su conversación cuando pasas a otra o cierras la ventana."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "¿Sustituye el chat del juego?",
+					"a": "No. El motor de chat del juego se queda, Wanderer Chat solo lo viste y reescribe las líneas después de que el juego las construya. Una casilla devuelve el chat por completo al juego."
+				},
+				{
+					"q": "¿Funciona con ElvUI, Prat o Chattynator?",
+					"a": "Sí. Cuando uno de ellos viste el chat, el aspecto de Wanderer Chat se aparta y solo conserva lo que no choca. Con WIM, tus susurros siguen siendo de WIM."
+				},
+				{
+					"q": "¿Envía algo por sí solo?",
+					"a": "Nunca. Los saludos y las respuestas se escriben en tu línea de chat y solo se envían con tu Intro, y nunca hace un /who por su cuenta."
+				},
+				{
+					"q": "¿Mis ajustes y notas se comparten entre personajes?",
+					"a": "No. Los ajustes, las notas, las líneas guardadas y las conversaciones son propios de cada personaje."
+				},
+				{
+					"q": "¿Cómo abro mis mensajes privados?",
+					"a": "Desde el menú de Wanderer, una tecla tuya, o escribiendo /wchat."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo de Wanderer Chat",
+			"tagline": "El chat, en calma",
+			"summary": "Un chat de cristal que se desvanece, tu nombre en dorado, una tarjeta cuando alguien te nombra, canales más tranquilos y susurros como conversaciones."
+		}
+	},
+	"it": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Chat: una chat calma e chiara per WoW Forever",
+				"description": "Wanderer Chat, addon gratuito per WoW Forever: chat di vetro che sfuma, il tuo nome in oro, avvisi quando ti nominano, canali più quieti, sussurri in fila."
+			},
+			"h1": "Una chat che resta quieta e fa emergere ciò che è per te",
+			"lead": "Wanderer Chat è un'estensione gratuita di Wanderer per World of Warcraft Forever. La chat del gioco si veste di vetro: nessuna cornice a riposo, righe su un velo leggero che sfumano, tutto di nuovo sotto il mouse. Il tuo nome appare in oro, la gilda e il gruppo risaltano, e una piccola scheda arriva solo quando qualcosa è davvero per te. Nulla viene mai inviato senza il tuo Invio.",
+			"sections": [
+				{
+					"id": "glass",
+					"h2": "La chat può sfumare quando non succede nulla?",
+					"paragraphs": [
+						"Sì. A riposo la chat non ha cornice, né schede, né pulsanti: ogni riga sta su un velo morbido e sfuma dopo venti secondi, o uno o due minuti, o mai. Appoggia il mouse o inizia a scrivere e tornano uno sfondo discreto, le schede e una sottile barra di scorrimento.",
+						"Ogni riga si legge a colpo d'occhio: l'ora nella sua colonna, il canale come una lettera colorata, il nome nel suo colore. I nomi lunghi dei canali si accorciano, una sola dimensione del testo vale per tutte le finestre della chat, e se sei risalito, un clic ti riporta all'ultimo messaggio."
+					]
+				},
+				{
+					"id": "named",
+					"h2": "Come so quando qualcuno dice il mio nome?",
+					"paragraphs": [
+						"Una riga che ti nomina appare in oro e resta un minuto in più. Se è stata detta dove non potevi leggerla (in un'altra scheda, mentre la chat era sfumata o mentre eri occupato), una scheda accanto alla chat la mostra con un pulsante per rispondere, e un suono discreto può avvisarti, al massimo una volta al minuto.",
+						"Dagli anche i tuoi altri nomi, un soprannome o quello del tuo personaggio principale: appaiono in oro e ti avvisano come il tuo.",
+						"Quando qualcuno saluta la gilda o si congeda, una scheda propone una risposta col suo nome adatta all'ora, scritta per te e inviata solo con il tuo Invio. Un sussurro a cui non hai risposto aspetta in una piccola riga sopra la chat."
+					]
+				},
+				{
+					"id": "channels",
+					"h2": "Può calmare i canali commercio e generale?",
+					"paragraphs": [
+						"Sì. Le stesse parole ripetute entro un minuto e l'evidente vendita di oro restano fuori dai canali pubblici, mai le tue righe, i tuoi amici, la gilda, il gruppo o i sussurri. Una riga discreta dice quante ne sono state nascoste, e un clic le mostra.",
+						"Parole tue possono tenere fuori righe dai canali pubblici, e uno sconosciuto che ti sussurra oro in vendita non fa alcun suono e non apre alcuna finestra. Tutto ciò che è tenuto fuori aspetta in un solo elenco, da leggere o copiare, mai perso.",
+						"Se vuoi, arriva una scheda quando qualcuno cerca giocatori per una spedizione del tuo livello (le sigle come RFC o BRD vengono capite), o quando viene detta una delle tue parole sorvegliate."
+					]
+				},
+				{
+					"id": "tabs",
+					"h2": "Le schede della chat possono mostrare cosa mi sono perso?",
+					"paragraphs": [
+						"Gruppo, Gilda, Sussurri e Canali possono affiancarsi a Generale con un clic, ognuna con i soli suoi messaggi. Un piccolo numero dorato dice cosa è stato detto mentre una scheda era nascosta, un punto dorato quando una riga lì ti nomina. Ogni scheda conserva le ultime righe dopo un ricaricamento, e i messaggi inviati tornano con i tasti freccia.",
+						"Una ricerca trova parole nelle righe di una scheda, ognuna in oro, Invio per la precedente. Dal menu di un nome, Copia la riga dà quella riga da sola, pronta da copiare."
+					]
+				},
+				{
+					"id": "people",
+					"h2": "Posso vedere chi è qualcuno dalla chat?",
+					"paragraphs": [
+						"Appoggia il mouse su un nome: una scheda mostra livello, classe, zona, gilda e grado, se è un amico o uno dei tuoi personaggi, e la tua nota privata su di lui, solo da ciò che il gioco sa già. Il menu del nome si arricchisce di Saluta, Rispondi e Cita questa riga."
+					]
+				},
+				{
+					"id": "whispers",
+					"h2": "I sussurri possono leggersi come una conversazione?",
+					"paragraphs": [
+						"Se lo attivi, i tuoi sussurri passano in una finestra tutta loro, una conversazione per persona a bolle, le tue in oro. Un nuovo messaggio la apre senza prenderti la tastiera, mai durante un combattimento. Fissa una conversazione, cercaci dentro, invita, aggiungi un amico, tutto dal suo menu.",
+						"Le parole che hai iniziato restano nella loro conversazione quando passi a un'altra o chiudi la finestra."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Sostituisce la chat del gioco?",
+					"a": "No. Il motore della chat del gioco resta, Wanderer Chat si limita a vestirla e a riscrivere le righe dopo che il gioco le ha create. Una casella restituisce la chat interamente al gioco."
+				},
+				{
+					"q": "Funziona con ElvUI, Prat o Chattynator?",
+					"a": "Sì. Quando uno di loro veste la chat, l'aspetto di Wanderer Chat si fa da parte e tiene solo ciò che non si scontra. Con WIM, i sussurri restano a WIM."
+				},
+				{
+					"q": "Invia qualcosa da solo?",
+					"a": "Mai. Saluti e risposte vengono scritti nella tua riga della chat e inviati solo con il tuo Invio, e non fa mai un /who di sua iniziativa."
+				},
+				{
+					"q": "Le mie impostazioni e note sono condivise tra i personaggi?",
+					"a": "No. Impostazioni, note, righe conservate e conversazioni appartengono a ogni personaggio."
+				},
+				{
+					"q": "Come apro i miei messaggi privati?",
+					"a": "Dal menu di Wanderer, con un tasto tuo, o digitando /wchat."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo di Wanderer Chat",
+			"tagline": "La chat, più calma",
+			"summary": "Una chat di vetro che sfuma, il tuo nome in oro, una scheda quando qualcuno ti nomina, canali più quieti e sussurri come conversazioni."
+		}
+	},
+	"pt-br": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Chat: um chat calmo e claro para WoW Forever",
+				"description": "Wanderer Chat, addon grátis para WoW Forever: chat de vidro que se apaga, seu nome em dourado, avisos ao ser citado, canais calmos, sussurros em conversa."
+			},
+			"h1": "Um chat que fica em silêncio e mostra o que é para você",
+			"lead": "Wanderer Chat é uma extensão gratuita do Wanderer para World of Warcraft Forever. O chat do próprio jogo ganha um visual de vidro: nenhuma moldura em repouso, linhas sobre um véu leve que se apagam, tudo de volta sob o mouse. Seu nome aparece em dourado, sua guilda e seu grupo se destacam, e um pequeno cartão só aparece quando algo é realmente para você. Nada é enviado sem o seu próprio Enter.",
+			"sections": [
+				{
+					"id": "glass",
+					"h2": "O chat pode se apagar quando nada acontece?",
+					"paragraphs": [
+						"Sim. Em repouso o chat não tem moldura, abas nem botões: cada linha fica sobre um véu suave e se apaga depois de vinte segundos, ou de um ou dois minutos, ou nunca. Pouse o mouse sobre ele ou comece a digitar e um fundo discreto, as abas e uma barra de rolagem fina voltam.",
+						"Cada linha se lê num relance: a hora na sua própria coluna, o chat numa única letra colorida, o nome na sua cor. Nomes longos de canais ficam mais curtos, um só tamanho de texto serve todas as janelas de chat, e depois de rolar para cima, um clique traz você de volta ao mais recente."
+					]
+				},
+				{
+					"id": "named",
+					"h2": "Como saber quando alguém diz o meu nome?",
+					"paragraphs": [
+						"Uma linha que cita você aparece em dourado e fica um minuto a mais. Se foi dita onde você não podia ler (em outra aba, enquanto o chat estava apagado ou enquanto você estava ocupado), um cartão ao lado do chat a mostra com um botão para responder, e um som discreto pode avisar, no máximo uma vez por minuto.",
+						"Dê também seus outros nomes, um apelido ou o do seu personagem principal: eles aparecem em dourado e avisam como o seu.",
+						"Quando alguém cumprimenta a guilda ou se despede, um cartão oferece uma resposta com o nome, adequada à hora, escrita para você e enviada só pelo seu Enter. Um sussurro que você ainda não respondeu espera numa pequena linha acima do chat."
+					]
+				},
+				{
+					"id": "channels",
+					"h2": "Ele pode acalmar os canais de comércio e geral?",
+					"paragraphs": [
+						"Sim. As mesmas palavras repetidas em menos de um minuto e a venda de ouro evidente ficam fora dos canais públicos, nunca as suas linhas, as dos seus amigos, da sua guilda, do seu grupo ou os seus sussurros. Uma linha discreta diz quantas foram escondidas, e um clique as mostra.",
+						"Palavras suas também podem deixar linhas fora dos canais públicos, e um desconhecido que sussurra ouro à venda não faz som nem abre janela. Tudo o que fica de fora espera em uma só lista, para ler ou copiar, nunca perdido.",
+						"Se quiser, um cartão aparece quando alguém procura jogadores para uma masmorra do seu nível (siglas como RFC ou BRD são entendidas), ou quando uma das palavras que você vigia é dita."
+					]
+				},
+				{
+					"id": "tabs",
+					"h2": "Minhas abas de chat podem mostrar o que eu perdi?",
+					"paragraphs": [
+						"Grupo, Guilda, Sussurros e Canais podem ficar ao lado de Geral em um clique, cada uma só com as suas mensagens. Um pequeno número dourado diz o que foi dito enquanto uma aba estava escondida, um ponto dourado quando uma linha ali cita você. Cada aba guarda suas últimas linhas depois de recarregar, e suas mensagens enviadas voltam com as setas do teclado.",
+						"Uma busca encontra palavras nas linhas de uma aba, cada uma em dourado, Enter para a anterior. No menu de um nome, Copiar a linha dá só aquela linha, pronta para copiar."
+					]
+				},
+				{
+					"id": "people",
+					"h2": "Dá para ver quem é alguém pelo chat?",
+					"paragraphs": [
+						"Pouse o mouse sobre um nome: um cartão mostra o nível, a classe, a zona, a guilda e o cargo, se é um amigo ou um dos seus personagens, e a sua nota particular sobre ele, só com o que o jogo já sabe. O menu do nome ganha Cumprimentar, Responder e Citar esta linha."
+					]
+				},
+				{
+					"id": "whispers",
+					"h2": "Os sussurros podem ser lidos como uma conversa?",
+					"paragraphs": [
+						"Se você ligar, seus sussurros vão para uma janela própria, uma conversa por pessoa em balões, os seus em dourado. Uma mensagem nova a abre sem tomar o seu teclado, nunca durante um combate. Fixe uma conversa, busque nela, convide, adicione como amigo, tudo pelo menu dela.",
+						"O que você começou a escrever fica na conversa quando você passa para outra ou fecha a janela."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Ele substitui o chat do jogo?",
+					"a": "Não. O mecanismo de chat do jogo continua, o Wanderer Chat só o veste e reescreve as linhas depois que o jogo as monta. Uma caixa de seleção devolve o chat inteiramente ao jogo."
+				},
+				{
+					"q": "Funciona com o ElvUI, o Prat ou o Chattynator?",
+					"a": "Sim. Quando um deles veste o chat, o visual do Wanderer Chat sai da frente e mantém só o que não conflita. Com o WIM, seus sussurros continuam com o WIM."
+				},
+				{
+					"q": "Ele envia alguma coisa sozinho?",
+					"a": "Nunca. Cumprimentos e respostas são escritos na sua linha de chat e enviados só pelo seu Enter, e ele nunca faz um /who por conta própria."
+				},
+				{
+					"q": "Minhas configurações e notas são compartilhadas entre personagens?",
+					"a": "Não. Configurações, notas, linhas guardadas e conversas são de cada personagem."
+				},
+				{
+					"q": "Como abrir minhas mensagens privadas?",
+					"a": "Pelo menu do Wanderer, por uma tecla sua ou digitando /wchat."
+				}
+			]
+		},
+		"card": {
+			"alt": "Logo do Wanderer Chat",
+			"tagline": "O chat, mais calmo",
+			"summary": "Um chat de vidro que se apaga, seu nome em dourado, um cartão quando alguém diz seu nome, canais mais calmos e sussurros como conversas."
+		}
+	},
+	"ru": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Chat: спокойный и ясный чат для WoW Forever",
+				"description": "Wanderer Chat, бесплатный аддон для WoW Forever: стеклянный чат, который тает, ваше имя золотом, оповещения об упоминании, тихие каналы, шёпот беседой."
+			},
+			"h1": "Чат, который остаётся тихим и показывает то, что для вас",
+			"lead": "Wanderer Chat это бесплатное расширение Wanderer для World of Warcraft Forever. Игровой чат одет в стекло: в покое без рамки, строки на лёгкой вуали, которые тают, а под мышью всё возвращается. Ваше имя золотом, гильдия и группа выделяются, а небольшая карточка появляется, только когда что-то действительно для вас. Ничего не отправляется без вашего собственного Enter.",
+			"sections": [
+				{
+					"id": "glass",
+					"h2": "Может ли чат исчезать, когда ничего не происходит?",
+					"paragraphs": [
+						"Да. В покое у чата нет рамки, вкладок и кнопок: каждая строка лежит на мягкой вуали и тает через двадцать секунд, через одну или две минуты или никогда. Наведите на него мышь или начните печатать, и возвращаются спокойный фон, вкладки и тонкая полоса прокрутки.",
+						"Каждая строка читается с одного взгляда: время в своём столбце, канал одной цветной буквой, имя в своём цвете. Длинные названия каналов сокращаются, один размер текста служит всем окнам чата, а если вы прокрутили вверх, один щелчок возвращает к последнему."
+					]
+				},
+				{
+					"id": "named",
+					"h2": "Как узнать, что кто-то назвал моё имя?",
+					"paragraphs": [
+						"Строка с вашим именем показывается золотом и остаётся на минуту дольше. Если её сказали там, где вы не могли прочитать (в другой вкладке, пока чат был скрыт или пока вы были заняты), карточка рядом с чатом показывает её с кнопкой ответа, а тихий звук может сообщить об этом, не чаще раза в минуту.",
+						"Укажите и другие свои имена, прозвище или имя основного персонажа: они показываются золотом и оповещают, как ваше собственное.",
+						"Когда кто-то приветствует гильдию или прощается, карточка предлагает ответ по имени, подходящий к времени суток, написанный за вас и отправляемый только вашим Enter. Шёпот, на который вы не ответили, ждёт в небольшой строке над чатом."
+					]
+				},
+				{
+					"id": "channels",
+					"h2": "Может ли он успокоить каналы торговли и общий?",
+					"paragraphs": [
+						"Да. Одни и те же слова, повторённые в течение минуты, и явная продажа золота не попадают в публичные каналы, но никогда ваши строки, ваши друзья, гильдия, группа или шёпот. Неприметная строка говорит, сколько скрыто, а щелчок показывает их.",
+						"Ваши собственные слова тоже могут убирать строки из публичных каналов, а незнакомец, шепчущий о продаже золота, не издаёт звука и не открывает окно. Всё убранное ждёт в одном списке, его можно прочитать или скопировать, ничего не теряется.",
+						"Если хотите, карточка появляется, когда кто-то ищет игроков в подземелье вашего уровня (сокращения вроде ОП или ГЧГ понимаются) или когда звучит одно из ваших отслеживаемых слов."
+					]
+				},
+				{
+					"id": "tabs",
+					"h2": "Могут ли вкладки чата показать, что я пропустил?",
+					"paragraphs": [
+						"Группа, Гильдия, Шёпот и Каналы могут встать рядом с Общим в один щелчок, каждая только со своими сообщениями. Маленький золотой счётчик показывает, что было сказано, пока вкладка была скрыта, а золотая точка, что строка там называет вас. Каждая вкладка хранит последние строки после перезагрузки, а отправленные сообщения возвращаются клавишами со стрелками.",
+						"Поиск находит слова в строках вкладки, каждое найденное золотом, Enter ведёт к более раннему. В меню имени «Копировать строку» даёт только эту строку, готовую к копированию."
+					]
+				},
+				{
+					"id": "people",
+					"h2": "Можно ли из чата узнать, кто это?",
+					"paragraphs": [
+						"Наведите мышь на имя: карточка показывает уровень, класс, зону, гильдию и звание, друг ли это или один из ваших персонажей, и вашу личную заметку о нём, только по тому, что игра уже знает. Меню имени получает «Поприветствовать», «Ответить» и «Процитировать строку»."
+					]
+				},
+				{
+					"id": "whispers",
+					"h2": "Может ли шёпот читаться как беседа?",
+					"paragraphs": [
+						"Если вы это включите, шёпот переходит в отдельное окно, одна беседа на человека, в пузырях, ваши реплики золотом. Новое сообщение открывает его, не забирая клавиатуру, и никогда во время боя. Закрепите беседу, ищите в ней, пригласите, добавьте в друзья, всё из её меню.",
+						"Начатые слова остаются в своём разговоре, когда вы переходите к другому или закрываете окно."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "Заменяет ли он игровой чат?",
+					"a": "Нет. Движок чата игры остаётся, Wanderer Chat лишь оформляет его и переписывает строки после того, как игра их построит. Один флажок полностью возвращает чат игре."
+				},
+				{
+					"q": "Работает ли он с ElvUI, Prat или Chattynator?",
+					"a": "Да. Когда один из них оформляет чат, облик Wanderer Chat отходит в сторону и оставляет только то, что не конфликтует. С WIM ваш шёпот остаётся за WIM."
+				},
+				{
+					"q": "Отправляет ли он что-нибудь сам?",
+					"a": "Никогда. Приветствия и ответы пишутся в вашу строку чата и отправляются только вашим Enter, и он никогда сам не делает /who."
+				},
+				{
+					"q": "Общие ли настройки и заметки у моих персонажей?",
+					"a": "Нет. Настройки, заметки, сохранённые строки и беседы свои у каждого персонажа."
+				},
+				{
+					"q": "Как открыть личные сообщения?",
+					"a": "Из меню Wanderer, своей клавишей или командой /wchat."
+				}
+			]
+		},
+		"card": {
+			"alt": "Логотип Wanderer Chat",
+			"tagline": "Спокойный чат",
+			"summary": "Стеклянный чат, который тает, ваше имя золотом, карточка, когда вас упоминают, тихие каналы и шёпот как беседы."
+		}
+	},
+	"ko": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Chat: 차분하고 깔끔한 대화창 (WoW Forever)",
+				"description": "무료 WoW Forever 애드온 Wanderer Chat: 흐려지는 유리 같은 대화창, 금색의 내 이름, 나를 부르면 알림, 조용해진 채널, 대화처럼 읽히는 귓속말."
+			},
+			"h1": "조용히 머물다가 나를 위한 것만 꺼내 주는 대화창",
+			"lead": "Wanderer Chat은 World of Warcraft Forever용 Wanderer의 무료 확장입니다. 게임 본래의 대화창이 유리를 입습니다. 평소에는 테두리가 없고, 줄은 옅은 베일 위에서 흐려지며, 마우스를 올리면 모든 것이 돌아옵니다. 내 이름은 금색으로, 길드와 파티는 눈에 띄게 표시되고, 정말 나를 위한 일이 있을 때만 작은 카드가 뜹니다. 내가 Enter를 누르지 않으면 아무것도 전송되지 않습니다.",
+			"sections": [
+				{
+					"id": "glass",
+					"h2": "아무 일도 없을 때 대화창이 흐려질 수 있나요?",
+					"paragraphs": [
+						"네. 평소에는 대화창에 테두리도, 탭도, 버튼도 없습니다. 줄마다 부드러운 베일 위에 놓여 20초, 1분이나 2분 뒤, 또는 끝까지 흐려지지 않게 할 수 있습니다. 마우스를 올리거나 입력을 시작하면 차분한 바탕, 탭, 얇은 스크롤 막대가 돌아옵니다.",
+						"줄마다 한눈에 읽힙니다: 따로 놓인 시간, 색 글자 하나로 표시되는 채널, 자기 색의 이름. 긴 채널 이름은 짧아지고, 모든 대화창이 같은 글자 크기를 쓰며, 위로 스크롤했을 때는 클릭 한 번으로 최신 줄로 돌아옵니다."
+					]
+				},
+				{
+					"id": "named",
+					"h2": "누가 내 이름을 말하면 어떻게 알 수 있나요?",
+					"paragraphs": [
+						"나를 부르는 줄은 금색으로 표시되고 1분 더 머뭅니다. 다른 탭이었거나, 대화창이 흐려져 있었거나, 바빴을 때처럼 읽을 수 없는 곳에서 말했다면, 대화창 옆 카드가 답장 버튼과 함께 보여 주고, 원하면 조용한 소리가 최대 1분에 한 번 알려 줍니다.",
+						"다른 이름도 알려 줄 수 있습니다. 별명이나 본캐 이름을 적으면 내 이름처럼 금색으로 표시되고 알림도 줍니다.",
+						"누군가 길드에 인사하거나 작별을 고하면, 카드가 시간대에 맞는 인사를 이름과 함께 제안합니다. 문장은 대신 써 주지만 전송은 내 Enter로만 됩니다. 아직 답하지 않은 귓속말은 대화창 위의 작은 줄에서 기다립니다."
+					]
+				},
+				{
+					"id": "channels",
+					"h2": "거래 채널과 일반 채널을 조용하게 할 수 있나요?",
+					"paragraphs": [
+						"네. 1분 안에 되풀이된 같은 말과 뻔한 골드 판매는 공개 채널에서 걸러지며, 내 줄, 친구, 길드, 파티, 귓속말은 절대 걸러지지 않습니다. 조용한 줄이 몇 개를 숨겼는지 알려 주고, 클릭하면 보여 줍니다.",
+						"내가 정한 단어로도 공개 채널의 줄을 걸러 낼 수 있고, 모르는 사람이 골드 판매를 귓속말하면 소리도 나지 않고 창도 열리지 않습니다. 걸러진 것은 모두 한 목록에서 기다리며, 읽거나 복사할 수 있고 사라지지 않습니다.",
+						"원하면 누군가 내 레벨에 맞는 던전 파티원을 찾을 때(RFC, BRD 같은 줄임말도 알아듣습니다), 또는 내가 지정한 단어가 나올 때 카드가 뜹니다."
+					]
+				},
+				{
+					"id": "tabs",
+					"h2": "대화 탭이 놓친 것을 보여 줄 수 있나요?",
+					"paragraphs": [
+						"파티, 길드, 귓속말, 채널 탭을 클릭 한 번으로 일반 옆에 둘 수 있으며, 각 탭에는 자기 메시지만 나옵니다. 탭이 숨어 있는 동안 오간 말은 작은 금색 숫자로, 나를 부른 줄이 있으면 금색 점으로 표시됩니다. 각 탭은 재시작 후에도 마지막 줄을 간직하고, 보낸 메시지는 화살표 키로 다시 불러옵니다.",
+						"검색으로 탭의 줄에서 단어를 찾으면 찾은 곳이 금색으로 표시되고, Enter로 이전 것으로 갑니다. 이름의 메뉴에서 줄 복사를 고르면 그 줄만 복사할 수 있게 나옵니다."
+					]
+				},
+				{
+					"id": "people",
+					"h2": "대화창에서 상대가 누구인지 볼 수 있나요?",
+					"paragraphs": [
+						"이름 위에 마우스를 올리면 카드가 레벨, 직업, 지역, 길드와 등급, 친구인지 내 캐릭터인지, 그리고 내가 남긴 개인 메모를 보여 줍니다. 모두 게임이 이미 아는 정보에서만 가져옵니다. 이름 메뉴에는 인사하기, 답장, 이 줄 인용이 추가됩니다."
+					]
+				},
+				{
+					"id": "whispers",
+					"h2": "귓속말을 대화처럼 읽을 수 있나요?",
+					"paragraphs": [
+						"켜 두면 귓속말이 전용 창으로 옮겨집니다. 상대마다 대화 하나씩, 말풍선으로 표시되며 내 말은 금색입니다. 새 메시지가 오면 키보드 입력을 빼앗지 않고 창을 열며, 전투 중에는 절대 열지 않습니다. 대화 고정, 검색, 초대, 친구 추가를 모두 메뉴에서 할 수 있습니다.",
+						"쓰다 만 말은 다른 대화로 옮기거나 창을 닫아도 그 대화에 남아 있습니다."
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "게임의 대화창을 대체하나요?",
+					"a": "아니요. 게임의 대화 엔진은 그대로이며, Wanderer Chat은 겉모습만 바꾸고 게임이 만든 줄을 다시 씁니다. 체크 상자 하나로 대화창을 온전히 게임에 돌려줍니다."
+				},
+				{
+					"q": "ElvUI, Prat, Chattynator와 함께 쓸 수 있나요?",
+					"a": "네. 그중 하나가 대화창을 꾸미고 있으면 Wanderer Chat의 모습은 물러나고 충돌하지 않는 기능만 남깁니다. WIM이 있으면 귓속말은 WIM이 맡습니다."
+				},
+				{
+					"q": "저절로 무언가를 보내기도 하나요?",
+					"a": "절대 아닙니다. 인사와 답장은 대화 입력줄에 써 둘 뿐 내 Enter로만 전송되며, 스스로 /who를 실행하는 일도 없습니다."
+				},
+				{
+					"q": "설정과 메모는 캐릭터끼리 공유되나요?",
+					"a": "아니요. 설정, 메모, 간직한 줄, 대화는 캐릭터마다 따로입니다."
+				},
+				{
+					"q": "귓속말 창은 어떻게 여나요?",
+					"a": "Wanderer 메뉴, 직접 정한 키, 또는 /wchat 입력으로 엽니다."
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Chat 로고",
+			"tagline": "차분해진 대화창",
+			"summary": "흐려지는 유리 같은 대화창, 금색으로 표시되는 내 이름, 누가 나를 부르면 뜨는 카드, 조용해진 채널, 대화처럼 읽히는 귓속말."
+		}
+	},
+	"zh-cn": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Chat：安静清爽的聊天框 (WoW Forever)",
+				"description": "Wanderer Chat，免费 WoW Forever 插件：会淡出的玻璃质感聊天框，金色的你的名字，被提到时提醒，更清静的频道，密语如对话。"
+			},
+			"h1": "一个保持安静、只把与你有关的内容带到眼前的聊天框",
+			"lead": "Wanderer Chat 是 Wanderer 为 World of Warcraft Forever 推出的免费扩展。游戏原本的聊天框换上玻璃质感：平时没有边框，文字浮在一层轻纱上并逐渐淡出，鼠标移上去一切又回来。你的名字显示为金色，公会和队伍的发言更醒目，只有真正与你有关时才会弹出一张小卡片。没有你亲自按下 Enter，什么都不会发送。",
+			"sections": [
+				{
+					"id": "glass",
+					"h2": "没事时聊天框能淡出吗？",
+					"paragraphs": [
+						"能。平时聊天框没有边框、没有标签、没有按钮：每行文字浮在柔和的轻纱上，二十秒、一两分钟后淡出，或者永不淡出。把鼠标停在上面或开始输入，低调的底色、标签和一条细滚动条就会回来。",
+						"每行都一目了然：时间单独成列，频道用一个彩色字母表示，名字按其颜色显示。过长的频道名会缩短，所有聊天窗口使用同一字号，向上翻阅时一键即可回到最新消息。"
+					]
+				},
+				{
+					"id": "named",
+					"h2": "有人提到我的名字时我怎么知道？",
+					"paragraphs": [
+						"提到你的那一行会显示为金色，并多停留一分钟。如果它出现在你看不到的地方，比如在另一个标签里、聊天框已淡出或你正忙着，聊天框旁的卡片会显示它并附上回复按钮，还可以用轻柔的声音提醒你，每分钟最多一次。",
+						"还可以告诉它你的其他名字，比如昵称或主角色的名字：它们会像你的名字一样显示为金色并提醒你。",
+						"有人向公会问好或道别时，卡片会提供一句按名字称呼、合乎时辰的回应，替你写好，只有你按 Enter 才会发送。你还没回复的密语会在聊天框上方的一小行中等你。"
+					]
+				},
+				{
+					"id": "channels",
+					"h2": "能让交易频道和综合频道清静一些吗？",
+					"paragraphs": [
+						"能。一分钟内重复的同样内容和明显的卖金广告会被挡在公共频道之外，但绝不会挡掉你的发言、好友、公会、队伍或密语。一行低调的文字会告诉你隐藏了多少条，点击即可查看。",
+						"你自己的词语也能把某些行挡在公共频道之外；陌生人密语卖金时不会发出声音，也不会打开窗口。所有被挡下的内容都在同一个列表里等着，可以阅读或复制，绝不会丢失。",
+						"如果你愿意，当有人为适合你等级的地下城找人时（能看懂 RFC、BRD 这类简称），或当你关注的关键词出现时，都会弹出一张卡片。"
+					]
+				},
+				{
+					"id": "tabs",
+					"h2": "聊天标签能显示我错过了什么吗？",
+					"paragraphs": [
+						"队伍、公会、密语和频道标签一键即可放在综合旁边，每个只显示自己的消息。标签隐藏期间的发言会以小小的金色数字显示，有提到你的内容时则显示一个金色圆点。每个标签在重载后都会保留最后几行，已发送的消息可以用方向键找回。",
+						"搜索能在一个标签的各行中查找词语，找到的地方显示为金色，按回车跳到更早的一条。在名字的菜单里，「复制这一行」会单独给出那一行，方便复制。"
+					]
+				},
+				{
+					"id": "people",
+					"h2": "能从聊天中看出对方是谁吗？",
+					"paragraphs": [
+						"把鼠标停在名字上：一张卡片会显示其等级、职业、区域、公会和会阶，是否是你的好友或你的角色，以及你给他写的私人备注，这些都只来自游戏已知的信息。名字的菜单中会多出「问好」「回复」和「引用这一行」。"
+					]
+				},
+				{
+					"id": "whispers",
+					"h2": "密语能读起来像对话吗？",
+					"paragraphs": [
+						"开启后，你的密语会移到单独的窗口中，每个人一段对话，以气泡显示，你的话为金色。新消息会打开窗口但不抢走你的键盘，战斗中也绝不会打开。置顶对话、搜索、邀请、加好友，全都在它的菜单里。",
+						"切换到另一段对话或关闭窗口时，你写了一半的话会留在原来的对话里。"
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "它会取代游戏的聊天框吗？",
+					"a": "不会。游戏的聊天引擎保持不变，Wanderer Chat 只是装扮它，并在游戏生成文字后重写这些行。取消一个勾选，聊天框就完全交还给游戏。"
+				},
+				{
+					"q": "它能和 ElvUI、Prat 或 Chattynator 一起用吗？",
+					"a": "能。当其中之一在装扮聊天框时，Wanderer Chat 的外观会让开，只保留不冲突的功能。有 WIM 时，密语仍由 WIM 负责。"
+				},
+				{
+					"q": "它会自己发送东西吗？",
+					"a": "绝不会。问候和回复只会写进你的聊天输入行，只有你按 Enter 才会发送，它也从不自行执行 /who。"
+				},
+				{
+					"q": "我的设置和备注在角色之间共享吗？",
+					"a": "不共享。设置、备注、保留的消息和对话都归每个角色各自所有。"
+				},
+				{
+					"q": "如何打开我的私人消息？",
+					"a": "通过 Wanderer 的菜单、你绑定的按键，或输入 /wchat。"
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Chat 标志",
+			"tagline": "安静下来的聊天框",
+			"summary": "会淡出的玻璃质感聊天框，你的名字显示为金色，有人提到你时弹出卡片，频道更清静，密语读起来像对话。"
+		}
+	},
+	"zh-tw": {
+		"page": {
+			"meta": {
+				"title": "Wanderer Chat：安靜清爽的聊天視窗 (WoW Forever)",
+				"description": "Wanderer Chat，免費 WoW Forever 插件：會淡出的玻璃質感聊天視窗，金色的你的名字，被提到時提醒，更清靜的頻道，密語如對話。"
+			},
+			"h1": "一個保持安靜、只把與你有關的內容帶到眼前的聊天視窗",
+			"lead": "Wanderer Chat 是 Wanderer 為 World of Warcraft Forever 推出的免費擴充。遊戲原本的聊天視窗換上玻璃質感：平時沒有邊框，文字浮在一層輕紗上並逐漸淡出，滑鼠移上去一切又回來。你的名字顯示為金色，公會和隊伍的發言更醒目，只有真正與你有關時才會彈出一張小卡片。沒有你親自按下 Enter，什麼都不會送出。",
+			"sections": [
+				{
+					"id": "glass",
+					"h2": "沒事時聊天視窗能淡出嗎？",
+					"paragraphs": [
+						"能。平時聊天視窗沒有邊框、沒有分頁、沒有按鈕：每行文字浮在柔和的輕紗上，二十秒、一兩分鐘後淡出，或者永不淡出。把滑鼠停在上面或開始輸入，低調的底色、分頁和一條細捲軸就會回來。",
+						"每行都一目了然：時間獨立成欄，頻道用一個彩色字母表示，名字依其顏色顯示。過長的頻道名稱會縮短，所有聊天視窗使用同一字級，向上捲動時一鍵即可回到最新訊息。"
+					]
+				},
+				{
+					"id": "named",
+					"h2": "有人提到我的名字時我怎麼知道？",
+					"paragraphs": [
+						"提到你的那一行會顯示為金色，並多停留一分鐘。如果它出現在你看不到的地方，例如在另一個分頁裡、聊天視窗已淡出或你正忙著，聊天視窗旁的卡片會顯示它並附上回覆按鈕，還可以用輕柔的聲音提醒你，每分鐘最多一次。",
+						"還可以告訴它你的其他名字，例如暱稱或主角色的名字：它們會像你的名字一樣顯示為金色並提醒你。",
+						"有人向公會問好或道別時，卡片會提供一句以名字稱呼、合乎時辰的回應，替你寫好，只有你按 Enter 才會送出。你還沒回覆的密語會在聊天視窗上方的一小行中等你。"
+					]
+				},
+				{
+					"id": "channels",
+					"h2": "能讓交易頻道和綜合頻道清靜一些嗎？",
+					"paragraphs": [
+						"能。一分鐘內重複的同樣內容和明顯的賣金廣告會被擋在公開頻道之外，但絕不會擋掉你的發言、好友、公會、隊伍或密語。一行低調的文字會告訴你隱藏了多少則，點擊即可查看。",
+						"你自己的詞語也能把某些行擋在公開頻道之外；陌生人密語賣金時不會發出聲音，也不會開啟視窗。所有被擋下的內容都在同一個清單裡等著，可以閱讀或複製，絕不會遺失。",
+						"如果你願意，當有人為適合你等級的地城找人時（看得懂 RFC、BRD 這類簡稱），或當你關注的關鍵字出現時，都會彈出一張卡片。"
+					]
+				},
+				{
+					"id": "tabs",
+					"h2": "聊天分頁能顯示我錯過了什麼嗎？",
+					"paragraphs": [
+						"隊伍、公會、密語和頻道分頁一鍵即可放在綜合旁邊，每個只顯示自己的訊息。分頁隱藏期間的發言會以小小的金色數字顯示，有提到你的內容時則顯示一個金色圓點。每個分頁在重載後都會保留最後幾行，已送出的訊息可以用方向鍵找回。",
+						"搜尋能在一個分頁的各行中尋找詞語，找到的地方顯示為金色，按 Enter 跳到更早的一則。在名字的選單裡，「複製這一行」會單獨給出那一行，方便複製。"
+					]
+				},
+				{
+					"id": "people",
+					"h2": "能從聊天中看出對方是誰嗎？",
+					"paragraphs": [
+						"把滑鼠停在名字上：一張卡片會顯示其等級、職業、區域、公會和階級，是否是你的好友或你的角色，以及你給他寫的私人備註，這些都只來自遊戲已知的資訊。名字的選單中會多出「問好」「回覆」和「引用這一行」。"
+					]
+				},
+				{
+					"id": "whispers",
+					"h2": "密語能讀起來像對話嗎？",
+					"paragraphs": [
+						"開啟後，你的密語會移到獨立的視窗中，每個人一段對話，以氣泡顯示，你的話為金色。新訊息會開啟視窗但不搶走你的鍵盤，戰鬥中也絕不會開啟。置頂對話、搜尋、邀請、加好友，全都在它的選單裡。",
+						"切換到另一段對話或關閉視窗時，你寫了一半的話會留在原來的對話裡。"
+					]
+				}
+			],
+			"faq": [
+				{
+					"q": "它會取代遊戲的聊天視窗嗎？",
+					"a": "不會。遊戲的聊天引擎保持不變，Wanderer Chat 只是裝扮它，並在遊戲產生文字後重寫這些行。取消一個勾選，聊天視窗就完全交還給遊戲。"
+				},
+				{
+					"q": "它能和 ElvUI、Prat 或 Chattynator 一起用嗎？",
+					"a": "能。當其中之一在裝扮聊天視窗時，Wanderer Chat 的外觀會退開，只保留不衝突的功能。有 WIM 時，密語仍由 WIM 負責。"
+				},
+				{
+					"q": "它會自己送出東西嗎？",
+					"a": "絕不會。問候和回覆只會寫進你的聊天輸入列，只有你按 Enter 才會送出，它也從不自行執行 /who。"
+				},
+				{
+					"q": "我的設定和備註在角色之間共用嗎？",
+					"a": "不共用。設定、備註、保留的訊息和對話都歸每個角色各自所有。"
+				},
+				{
+					"q": "如何開啟我的私人訊息？",
+					"a": "透過 Wanderer 的選單、你綁定的按鍵，或輸入 /wchat。"
+				}
+			]
+		},
+		"card": {
+			"alt": "Wanderer Chat 標誌",
+			"tagline": "安靜下來的聊天視窗",
+			"summary": "會淡出的玻璃質感聊天視窗，你的名字顯示為金色，有人提到你時彈出卡片，頻道更清靜，密語讀起來像對話。"
+		}
+	}
+}

@@ -1,0 +1,303 @@
+{
+  "lang": "es",
+  "hreflang": "es",
+  "ogLocale": "es_ES",
+  "nativeName": "Español",
+  "meta": {
+    "title": "Wanderer: addons de inmersión y comodidad para WoW Forever",
+    "description": "Addons gratuitos para WoW Forever: nombres ocultos, etiqueta al pasar el ratón, misiones como escenas, marcos limpios y diez extensiones."
+  },
+  "ui": {
+    "skip": "Ir al contenido",
+    "languages": "Idioma",
+    "play": "Ver el tráiler",
+    "videoTitle": "Tráiler de Wanderer, addon de inmersión para WoW Forever",
+    "videoDescription": "Cuarenta segundos con Wanderer en WoW Forever: nombres ocultos sobre las cabezas, la etiqueta al pasar el ratón, misiones como escenas tranquilas y una interfaz que se aparta.",
+    "videoFallback": "Ver el tráiler en YouTube",
+    "downloadOn": "Descargar en",
+    "screenshotSoon": "Captura de pantalla próximamente",
+    "menu": "Menú",
+    "nav": "Páginas",
+    "faq": "Preguntas",
+    "family": "La familia",
+    "comingSoon": "Próximamente en CurseForge",
+    "soonBadge": "Próximamente"
+  },
+  "hero": {
+    "h1": "Vive en Azeroth: inmersión y comodidad para WoW Forever",
+    "subtitle": "Wanderer",
+    "lead": "Wanderer es una familia gratuita de addons para World of Warcraft Forever. Los nombres desaparecen de las cabezas a tu alrededor, una etiqueta te dice quién es alguien cuando lo miras, las conversaciones se vuelven escenas tranquilas, y las pequeñas comodidades para las que instalarías una docena de addons están reunidas en uno solo.",
+    "status": "Gratuito, traducido a 10 idiomas, en desarrollo activo."
+  },
+  "download": {
+    "heading": "Descargar Wanderer",
+    "note": "Versión {version}. La aplicación de CurseForge lo instala y lo actualiza por ti."
+  },
+  "core": {
+    "kicker": "Wanderer en sí",
+    "title": "El corazón de la familia",
+    "intro": "Wanderer funciona por sí solo y guarda lo que comparten las extensiones: su aspecto, sus perfiles, su ventana de ajustes. Esto es lo que hace por ti, desde el primer minuto."
+  },
+  "sections": [
+    {
+      "id": "immersion",
+      "h2": "¿Cómo oculto los nombres sobre las cabezas para jugar con inmersión?",
+      "paragraphs": [
+        "Elige Inmersión total y los nombres sobre las cabezas desaparecen: jugadores, PNJ, enemigos, mascotas, hermandades y títulos se ajustan cada uno por separado, y cada tipo de lugar (el mundo abierto, las ciudades, las mazmorras, las bandas) tiene su propia elección. Mantén una tecla y todos los nombres vuelven un momento, junto con lo que la interfaz había desvanecido.",
+        "Tu grupo y tu hermandad conservan un nombre pequeño y tenue en su color, y los jugadores que conoces también pueden conservar el suyo. Los enemigos pueden mostrar su nombre al acercarte, primero tenue y luego nítido."
+      ],
+      "image": {
+        "file": "names-hidden-revealed",
+        "alt": "Una calle de Ventormenta al atardecer, sin ningún nombre sobre las cabezas"
+      }
+    },
+    {
+      "id": "label",
+      "h2": "¿Cómo saber quién es alguien sin nombres por todas partes?",
+      "paragraphs": [
+        "Pasa el ratón sobre un personaje y aparece una etiqueta justo encima de su cabeza. Ves su retrato, su nivel coloreado según la dificultad, su función, tu reputación con su facción, el hechizo que lanza y a quién está mirando, con tres niveles de detalle.",
+        "También muestra lo que importa en ese momento: la misión que da o espera, tus objetivos (3/8), lo que puedes recolectar, desollar o despojar y, sobre un monstruo, cuántos más como él necesitas aproximadamente para subir de nivel. Mantén Mayús sobre un jugador para ver sus talentos y su nivel de objeto."
+      ],
+      "image": {
+        "file": "label-npc",
+        "alt": "La etiqueta de Wanderer sobre un personaje que da misiones, con retrato redondo, nivel, función y objetivos de misión"
+      }
+    },
+    {
+      "id": "scenes",
+      "h2": "¿Se pueden vivir las misiones y los diálogos como escenas cinematográficas?",
+      "paragraphs": [
+        "Habla con un personaje: la interfaz se desvanece, la cámara se acerca y sus palabras aparecen página a página en un panel en la parte inferior de la pantalla. Las misiones de élite y de grupo se anuncian antes de aceptarlas, las recompensas muestran su rareza, y la que más vale ante un mercader lleva una moneda.",
+        "Espacio para continuar, 1 a 9 para elegir, la rueda vuelve a lo ya dicho. Los libros, placas y cartas se abren en una ventana de lectura que recuerda tu página. Mantén Mayús y tendrás la ventana del juego cuando quieras. Las opciones que ya leíste se muestran atenuadas, nunca ocultas, y el panel se coloca donde quieras, con el fondo tan claro u oscuro como prefieras."
+      ],
+      "image": {
+        "file": "quest-scene",
+        "alt": "Una misión como escena: la interfaz desvanecida, la cámara cerca del PNJ y el texto de la misión en un panel en la parte inferior de la pantalla"
+      }
+    },
+    {
+      "id": "frames",
+      "h2": "¿Pueden verse limpios mis marcos de unidad y barras de salud en WoW Forever?",
+      "paragraphs": [
+        "Tu marco, tu objetivo, tu grupo, tus jefes y sus barras de lanzamiento adoptan el aspecto de Wanderer: un retrato cuadrado con tu nivel y tu descanso, la salud y el poder a su lado exactamente a su altura, la barra de lanzamiento debajo. El código del juego, sus valores y los tamaños del Modo de edición no se tocan, y otros tres aspectos están a una elección.",
+        "Si quieres, una franja suave muestra el daño que tus efectos periódicos aún van a infligir, con una calavera que se llena a medida que cubre lo que queda, y una franja verde oscuro lo que tus sanaciones periódicas aún van a curar. En grupo, tu amenaza aparece en una línea discreta."
+      ],
+      "image": {
+        "file": "frames",
+        "alt": "Marcos de unidad de Wanderer: retratos cuadrados con el nivel, barras de salud y de poder a su lado, una franja de sanación en el tuyo y una franja de daño con una calavera en el objetivo"
+      }
+    },
+    {
+      "id": "items",
+      "h2": "¿Puedo ver de un vistazo si un objeto es mejor para mi especialización?",
+      "paragraphs": [
+        "Sobre un objeto que podrías llevar, una línea dice cómo se compara con lo que llevas, según cómo juegas: el oso y el felino por separado en un druida feral. Los pesos se calculan a partir de tu propio equipo y tus talentos, o se ajustan a mano, y las escalas de Pawn se importan y exportan tal como las dan Raidbots y las guías de clase.",
+        "Cada descripción emergente dice lo que daría un mercader, y un componente dice qué profesiones lo usan, las tuyas en dorado."
+      ],
+      "image": {
+        "file": "items",
+        "alt": "La descripción de un objeto en el color de su calidad con una línea verde que dice que es mejor para ti, junto a la ventana de pesos de características"
+      }
+    },
+    {
+      "id": "comfort",
+      "h2": "¿Un solo addon para vender la chatarra, reparar, despojar al instante y pescar con doble clic?",
+      "paragraphs": [
+        "Wanderer vende tu chatarra y repara en los mercaderes, despoja al instante con el despojo automático del juego y te deja pescar con un doble clic derecho, mientras la etiqueta sobre el corcho cuenta cada captura. Lo que siempre vuelves a comprar (flechas, agua, componentes) se te ofrece de nuevo con un clic, y los instructores tienen un botón Aprender todo.",
+        "Al llegar a una ciudad, un solo aviso reúne lo que te espera allí: reparaciones, hechizos nuevos, tu lista de la compra, tu correo. Todo lo que actúa por ti se puede desactivar, y mantener Mayús siempre deja las cosas en tus manos."
+      ]
+    },
+    {
+      "id": "travel",
+      "h2": "¿Puede la interfaz apartarse mientras viajo o me ausento?",
+      "paragraphs": [
+        "En vuelo la interfaz se desvanece, la cámara se aleja y una tarjeta nombra tu destino. Lejos del teclado, la cámara gira despacio a tu alrededor, te sienta junto al fuego o se aleja sobre el paisaje. El modo foto lo oculta todo con una sola tecla. Si los movimientos de cámara te molestan, Movimientos tranquilos deja la cámara donde la pusiste y nada se desliza en la pantalla.",
+        "El minimapa y el seguimiento de misiones pueden adoptar el aspecto discreto de Wanderer, una barra fina reúne su menú y los iconos de tus addons, y cada ventana del juego se abre donde la dejaste, la última pulsada delante. Quests, el mapa y tus mensajes se quedan en esa barra; cada otra ventana espera en Más, una tarjeta con el icono y la cuenta de cada una, donde una estrella la fija en la barra, para cada perfil."
+      ],
+      "image": {
+        "file": "travel",
+        "alt": "Un cielo nocturno sobre las colinas, la línea de vuelo con sus paradas y un punto luminoso para el viajero"
+      }
+    },
+    {
+      "id": "group",
+      "h2": "¿Ayuda Wanderer en grupo sin jugar por mí?",
+      "paragraphs": [
+        "Mantén una tecla sobre un enemigo y los ocho marcadores de banda se abren alrededor del cursor, sin cambiar tu objetivo. Tus bendiciones que se disipan en ti o en tu grupo se avisan para lanzarlas de nuevo, se señala un monstruo que nadie ha golpeado aún, y en mazmorras el tanque se entera cuando un monstruo lo deja.",
+        "Las peticiones pueden responderse por ti si quieres (grupos de amigos, invocaciones, resurrecciones), pero nunca una resurrección en banda. Mantén Mayús y cada petición espera tu propia respuesta. Todo sigue siendo información: ninguna ayuda de rotación, ninguna decisión tomada en combate."
+      ],
+      "image": {
+        "file": "group",
+        "alt": "La rueda de marcadores de banda abierta alrededor del cursor del ratón, con la calavera elegida"
+      }
+    },
+    {
+      "id": "options",
+      "h2": "¿Puedo ajustarlo a mi forma de jugar y cambiar lo que quiera después?",
+      "paragraphs": [
+        "Una bienvenida junto al fuego ofrece seis formas de jugar (el recién llegado, el trotamundos, el narrador, el aventurero curtido, el explorador de profundidades, el artesano) y ajusta lo que encaja solo para este personaje, con deshacer. Cada ajuste viene preajustado, y cada ajuste se puede cambiar.",
+        "Una sola ventana de ajustes reúne a toda la familia, con buscador, una página Lo que has cambiado y perfiles por personaje y por tipo de lugar. Seis estilos visten a la vez la etiqueta y las descripciones emergentes. Desactiva Wanderer y recuperas cada ajuste del juego que había cambiado."
+      ],
+      "image": {
+        "file": "options-styles",
+        "alt": "Las opciones de Wanderer en los ajustes del juego, con los estilos predefinidos y la vista previa de la etiqueta en directo"
+      }
+    },
+    {
+      "id": "characters",
+      "h2": "¿Puede seguir a mis personajes y lo que no debo olvidar?",
+      "paragraphs": [
+        "Una ventana lista todos los personajes de tu cuenta: nivel, experiencia de descanso incluso mientras duermen, oro, profesiones y sus tiempos de reutilización, cartas a punto de salir del buzón. Los recordatorios guardan lo que no debes olvidar, ligados a un lugar si quieres, y te avisan cuando vuelves allí.",
+        "Los jugadores de rol conservan en la etiqueta sus nombres, títulos y estado de Total RP 3, y con el addon Spoken, sus voces suenan en las escenas."
+      ],
+      "image": {
+        "file": "characters",
+        "alt": "La ventana de personajes con rostros en los colores de su clase, niveles, barras de descanso y oro, junto a una tarjeta de recordatorios"
+      }
+    },
+    {
+      "id": "controller",
+      "h2": "¿Puedo jugar con mando en WoW Forever?",
+      "paragraphs": [
+        "Sí. Wanderer no toca el modo mando del juego: las ventanas, las bolsas, el mapa y los menús del juego funcionan como siempre. Cada ventana de Wanderer también se maneja con el mando: la cruceta pasa de un botón a otro, con un marco dorado en tu elección, el botón inferior pulsa, el derecho cierra, el superior hace el clic derecho y el joystick derecho desplaza.",
+        "Los gatillos pasan de una ventana abierta a otra, las del juego incluidas, y al cerrar una vuelves a donde estabas. Los menús se convierten en tarjetas, el botón del panel táctil abre la barra de Wanderer en lo alto de la pantalla, desde la que se abre toda la familia, y en combate cada botón vuelve al juego. Tus barras de acción siguen a la vista y solo se atenúan durante las conversaciones. Los ajustes que necesitan ratón o teclado lo dicen, y las palabras en pantalla cambian al instante cuando pasas del ratón al mando."
+      ]
+    }
+  ],
+  "faq": {
+    "heading": "Preguntas",
+    "items": [
+      {
+        "q": "¿Cómo oculto los nombres sobre las cabezas en WoW Forever?",
+        "a": "Instala Wanderer y elige Inmersión total, en la pantalla de bienvenida o en la página Nombres de las opciones. Todos los nombres desaparecen. Pasa el ratón sobre alguien para saber quién es, o mantén la tecla para revelar."
+      },
+      {
+        "q": "¿Sustituye mi ventana de misiones?",
+        "a": "Solo mientras las conversaciones como escenas estén activadas. Mantén Mayús al hablar con un PNJ para tener la ventana del juego, o desactiva las escenas en las opciones."
+      },
+      {
+        "q": "¿Puedo impedir que Wanderer mueva mi cámara?",
+        "a": "Sí. Activa Movimientos tranquilos en las opciones: la cámara ya no se mueve para una escena, un vuelo ni mientras estás ausente, y nada se desliza en la pantalla. En mazmorras y bandas la cámara ya se queda quieta, y la primera vez que se mueve, un aviso te ofrece dejarla donde está."
+      },
+      {
+        "q": "¿Cambia mis ajustes del juego para siempre?",
+        "a": "No. Desactiva Wanderer, o escribe /wanderer off, y recuperas cada ajuste que había cambiado."
+      },
+      {
+        "q": "¿Juega por mí?",
+        "a": "No. Wanderer es un addon de comodidad: nada se compra, se envía ni se gasta sin tu clic, mantener Mayús deja cada automatismo en tus manos, y nada decide por ti en combate."
+      },
+      {
+        "q": "¿Funciona con ElvUI, Questie u otros addons?",
+        "a": "Sí. Cuando otro addon ya se ocupa de algo (ElvUI de los marcos de unidad, Questie, TomTom, Postal, Bagnon y muchos más), Wanderer se aparta de esa tarea y su opción indica quién la hace."
+      },
+      {
+        "q": "¿Funciona con mando?",
+        "a": "Sí, con el modo mando del juego, que Wanderer nunca toca. Cada ventana de Wanderer y cada extensión se manejan con la cruceta, los botones y los gatillos, y en combate cada botón vuelve al juego."
+      },
+      {
+        "q": "¿Mis ajustes son los mismos en todos mis personajes?",
+        "a": "No, cada personaje tiene su propio perfil, con sus propios perfiles para el mundo, las ciudades y las mazmorras. Hay un perfil compartido si lo quieres, y un personaje nuevo puede empezar como tu principal."
+      },
+      {
+        "q": "¿Qué son las extensiones de Wanderer?",
+        "a": "Diez addons gratuitos que completan Wanderer: Bags, Auction, Mail, Quests, Maps, Training, Outfits, Professions, Chat y Bestiary. Toma solo los que quieras: cada uno necesita Wanderer, que funciona por sí solo sin ellos, y cada uno tiene su página en wanderer-addon.com."
+      },
+      {
+        "q": "¿Wanderer es gratuito?",
+        "a": "Sí, del todo, y nada sale de tu juego: ninguna comunicación con otros jugadores ni con sitios web."
+      }
+    ]
+  },
+  "install": {
+    "heading": "Instalar sin aplicación de addons",
+    "steps": [
+      "Descarga el archivo zip desde CurseForge.",
+      "Abre la carpeta de WoW Forever, luego Interface y AddOns (en la mayoría de instalaciones: World of Warcraft, _forever_, Interface, AddOns).",
+      "Descomprime el zip ahí, para tener una carpeta Wanderer dentro de AddOns. Haz lo mismo con cada extensión que quieras.",
+      "Inicia el juego, o escribe /reload si ya está abierto. Escribe /wanderer para abrir las opciones."
+    ],
+    "changelog": "Ver los cambios de cada versión"
+  },
+  "feedback": {
+    "heading": "Cuéntame qué te parece",
+    "text": "Wanderer lo hace un jugador y crece con tus comentarios. Un error, una idea, una traducción que corregir: cada mensaje se lee.",
+    "comments": "Comentarios en CurseForge",
+    "github": "El proyecto en GitHub"
+  },
+  "footer": {
+    "text": "Wanderer es un addon gratuito hecho por un fan. World of Warcraft es una marca de Blizzard Entertainment, que no respalda este addon.",
+    "madeBy": "Hecho por {author}, en {curseforge} y {github}.",
+    "studio": "El sitio y los addons fueron creados por {studio}."
+  },
+  "facts": {
+    "heading": "Wanderer de un vistazo",
+    "game": "Juego",
+    "price": "Precio",
+    "priceValue": "Gratis",
+    "languages": "Idiomas",
+    "languagesValue": "{count} idiomas",
+    "compatibility": "Compatible con",
+    "compatibilityValue": "ElvUI, Questie, Total RP 3",
+    "updated": "Última actualización",
+    "updatedValue": "{date}, versión {version}",
+    "platforms": "Descargar",
+    "downloads": "Descargas",
+    "downloadsValue": "{count} en CurseForge"
+  },
+  "extensions": {
+    "kicker": "La familia",
+    "title": "Diez compañeros de viaje",
+    "intro": "Addons gratuitos que comparten el aspecto de Wanderer, sus perfiles y su ventana de ajustes. Toma solo los que quieras: Wanderer funciona por sí solo, y la aplicación de CurseForge lo instala con ellos."
+  },
+  "bags": {
+    "alt": "Logo de Wanderer Bags: una mochila de aventurero de cuero iluminada por un farol de noche",
+    "tagline": "Tus bolsas y tu banco",
+    "summary": "Todas tus bolsas en una ventana ordenadas por tipo, los materiales por profesión, lo que conservas nunca se vende, tu banco visible en cualquier parte."
+  },
+  "auction": {
+    "alt": "Logo de Wanderer Auction",
+    "tagline": "La casa de subastas",
+    "summary": "Vende, compra y sigue tus subastas en una ventana, con un precio justo propuesto, nunca por debajo del mercader, y una lista de la compra en cualquier parte."
+  },
+  "mail": {
+    "alt": "Logo de Wanderer Mail",
+    "tagline": "El buzón",
+    "summary": "Una tarjeta que resume tu buzón, las cartas que eliges recogidas con un clic y tus otros personajes en la lista de destinatarios."
+  },
+  "quests": {
+    "alt": "Logo de Wanderer Quests: un viejo libro de misiones con una rosa de los vientos dorada y luminosa en la cubierta, y una chincheta de mapa a su lado",
+    "tagline": "Las misiones que el mundo esconde",
+    "summary": "Las misiones de tu clase, tus mazmorras y tus zonas, en cadenas, una ficha para cada una y una lista tranquila de las que sigues."
+  },
+  "maps": {
+    "alt": "Logo de Wanderer Maps",
+    "tagline": "Tu camino por el mundo",
+    "summary": "El Atlas, un gran mapa con tus misiones como zonas, tus notas y tu ruta, una flecha hacia tu próxima etapa, vuelos y barcos tenidos en cuenta."
+  },
+  "training": {
+    "alt": "Logo de Wanderer Training",
+    "tagline": "Lo que guarda tu instructor",
+    "summary": "Lo que tus instructores aún tienen para ti y lo que costará, contado según cómo juegas, y tus talentos planificados."
+  },
+  "outfits": {
+    "alt": "Logo de Wanderer Outfits",
+    "tagline": "La pieza justa en el momento justo",
+    "summary": "Tus piezas de montura, pesca y mazmorra puestas en el momento justo y quitadas después, solas. Y conjuntos completos con un clic."
+  },
+  "professions": {
+    "alt": "Logo de Wanderer Professions: un banco de trabajo de madera con un yunque, un carrete de hilo y un frasco",
+    "tagline": "Tu banco de trabajo",
+    "summary": "Cada receta con su icono, los componentes en tarjetas, las próximas creaciones útiles y una cola que tú inicias."
+  },
+  "chat": {
+    "alt": "Logo de Wanderer Chat",
+    "tagline": "El chat, en calma",
+    "summary": "Un chat de cristal que se desvanece, tu nombre en dorado, una tarjeta cuando alguien te nombra, canales más tranquilos y susurros como conversaciones."
+  },
+  "bestiary": {
+    "alt": "Emblema de Wanderer Bestiary: un libro abierto con una cabeza de lobo dibujada en oro",
+    "tagline": "Las criaturas del mundo",
+    "summary": "Cada criatura con su modelo 3D, su fuerza y sus hechizos, revelada al cruzarte con ella, y tu propio registro de caza."
+  }
+}

@@ -414,7 +414,7 @@
           "id": "flights",
           "h2": "Wie lange dauert mein Flug?",
           "paragraphs": [
-            "Im Flug steht der Name des Ziels über einer schmalen Linie vom Abflug bis zur Landung: ein Punkt für jeden Zwischenstopp, deiner wandert mit, und die verbleibende Zeit. Die Zeiten werden aus deinen eigenen Flügen gelernt, bis dahin aus der Entfernung geschätzt, und auch auf der Karte des Flugmeisters gezeigt.",
+            "Im Flug, sobald die Oberfläche ausgeblendet ist, zieht sich eine dünne Linie über den unteren Bildschirmrand: ein Punkt für jeden Halt mit seinem Namen darüber, deiner wandert mit. Jeder Halt steht dort, wo seine Zeit ihn hinsetzt: schon geflogene Strecken nach ihrer echten Dauer, die anderen nach ihrer Länge, und unterwegs passierte Halte setzen die nächsten neu. Die Zeiten stehen auch auf der Karte des Flugmeisters.",
             "Ein Flugmeister in deinem Gebiet, den du noch nicht entdeckt hast, kann einmal dezent angezeigt werden, mit einem Klick, um dorthin zu gehen."
           ]
         },
@@ -630,7 +630,7 @@
           "id": "bench",
           "h2": "Wie sehe ich alle meine Rezepte mit Symbolen in WoW Forever?",
           "paragraphs": [
-            "Die Taste, die du schon für deine Berufe benutzt, öffnet die Werkbank. Deine herstellenden Berufe stehen auf einer Leiste, einen Klick voneinander entfernt. Rezepte erscheinen als Liste oder als Wand aus Symbolen: hell, wenn du sie herstellen kannst, grau, wenn nicht, die mögliche Anzahl in der Ecke. Du kannst nach Rezept oder Reagenz suchen. Mit dem Controller öffnet auch der Eintrag Berufe im Radialmenü die Werkbank.",
+            "Die Taste, die du schon für deine Berufe benutzt, öffnet die Werkbank. Deine herstellenden Berufe stehen auf einer Leiste, einen Klick voneinander entfernt. Rezepte erscheinen als Liste oder als Wand aus Symbolen: hell, wenn du sie herstellen kannst, grau, wenn nicht, die mögliche Anzahl in der Ecke. Du kannst nach Rezept oder Reagenz suchen. Mit dem Controller öffnet auch der Eintrag Berufe im Radialmenü die Werkbank. Auch eine Verzauberung wird an der Werkbank gewirkt: ihr Gegenstand wird aus Feldern wie in deinen Taschen gewählt, was du trägst, zuerst.",
             "Das gewählte Rezept wird groß gezeigt: das Teil an deinem Charakter, wenn das möglich ist, wie es gebunden wird und welche Rüstung es ist, und seine Fertigkeitsfarben auf einem Balken, auf dem deine Fertigkeit markiert ist."
           ]
         },

@@ -414,7 +414,7 @@
           "id": "flights",
           "h2": "Combien de temps dure mon vol ?",
           "paragraphs": [
-            "En vol, le nom de la destination se tient au-dessus d'une fine ligne du décollage à l'atterrissage : un point pour chaque étape, le vôtre qui avance, et le temps restant. Les durées s'apprennent de vos propres vols, estimées d'après la distance d'ici là, et s'affichent aussi sur la carte du maître de vol.",
+            "En vol, une fois l'interface effacée, une fine ligne traverse le bas de l'écran : un point pour chaque étape avec son nom au-dessus, le vôtre qui avance. Chaque étape se tient là où son temps la place : les tronçons déjà volés selon leur vraie durée, les autres selon leur longueur, et les étapes passées en route replacent les suivantes. Les durées s'affichent aussi sur la carte du maître de vol.",
             "Un maître de vol de votre zone que vous n'avez pas encore découvert peut vous être signalé une fois, discrètement, avec un clic pour vous y rendre."
           ]
         },
@@ -630,7 +630,7 @@
           "id": "bench",
           "h2": "Comment voir toutes mes recettes avec leur icône dans WoW Forever ?",
           "paragraphs": [
-            "La touche que vous utilisez déjà pour les métiers ouvre l'établi. Vos métiers qui fabriquent quelque chose se tiennent sur un rail, à un clic l'un de l'autre. Les recettes s'affichent en liste ou en mur d'icônes : vives quand vous pouvez les faire, grises sinon, le nombre possible dans le coin. Vous pouvez chercher par recette ou par composant. À la manette, l'entrée Métiers de la roue ouvre aussi l'établi.",
+            "La touche que vous utilisez déjà pour les métiers ouvre l'établi. Vos métiers qui fabriquent quelque chose se tiennent sur un rail, à un clic l'un de l'autre. Les recettes s'affichent en liste ou en mur d'icônes : vives quand vous pouvez les faire, grises sinon, le nombre possible dans le coin. Vous pouvez chercher par recette ou par composant. À la manette, l'entrée Métiers de la roue ouvre aussi l'établi. Un enchantement se pose aussi depuis l'établi : son objet se choisit parmi des cases comme dans vos sacs, ce que vous portez en premier.",
             "La recette choisie s'affiche en grand : la pièce portée par votre personnage quand c'est possible, comment elle se lie, quelle armure c'est, et ses couleurs de compétence sur une seule barre où votre niveau est marqué."
           ]
         },

@@ -414,7 +414,7 @@
           "id": "flights",
           "h2": "Quanto tempo dura o meu voo?",
           "paragraphs": [
-            "Em voo, o nome do destino fica sobre uma linha fina da decolagem ao pouso: um ponto para cada parada, o seu avançando, e o tempo restante. Os tempos são aprendidos com os seus próprios voos, estimados pela distância até lá, e também aparecem no mapa do mestre de voo.",
+            "Em voo, assim que a interface se apaga, uma linha fina atravessa o pé da tela: um ponto para cada parada com o nome acima, o seu avançando. Cada parada fica onde o tempo a coloca: os trechos já voados pela duração real, os outros pelo comprimento, e as paradas passadas no caminho reposicionam as seguintes. Os tempos também aparecem no mapa do mestre de voo.",
             "Um mestre de voo que você ainda não encontrou na sua zona pode ser apontado uma vez, discretamente, com um clique para ir até lá."
           ]
         },
@@ -630,7 +630,7 @@
           "id": "bench",
           "h2": "Como ver todas as minhas receitas com ícones no WoW Forever?",
           "paragraphs": [
-            "A tecla que você já usa para as profissões abre a bancada. Suas profissões que fabricam algo ficam em uma barra, a um clique uma da outra. As receitas aparecem em lista ou em um mural de ícones: vivas quando você pode fazer, cinza quando não, quantas no canto. Você pode buscar por receita ou por reagente. Com controle, a entrada Profissões da roda radial também abre a bancada.",
+            "A tecla que você já usa para as profissões abre a bancada. Suas profissões que fabricam algo ficam em uma barra, a um clique uma da outra. As receitas aparecem em lista ou em um mural de ícones: vivas quando você pode fazer, cinza quando não, quantas no canto. Você pode buscar por receita ou por reagente. Com controle, a entrada Profissões da roda radial também abre a bancada. Um encantamento também é aplicado pela bancada: o item é escolhido entre quadrados como nas suas bolsas, o que você veste primeiro.",
             "A receita escolhida aparece em destaque: a peça vestida no seu personagem quando possível, como ela vincula e qual armadura é, e suas cores de perícia em uma só barra com sua perícia marcada."
           ]
         },

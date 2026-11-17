@@ -414,7 +414,7 @@
           "id": "flights",
           "h2": "¿Cuánto dura mi vuelo?",
           "paragraphs": [
-            "En vuelo, el nombre del destino aparece sobre una línea fina del despegue al aterrizaje: un punto por cada parada, el tuyo avanzando, y el tiempo restante. Los tiempos se aprenden de tus propios vuelos, se estiman por la distancia hasta entonces, y también se muestran en el mapa del maestro de vuelo.",
+            "En vuelo, una vez desvanecida la interfaz, una línea fina cruza el pie de la pantalla: un punto por cada parada con su nombre encima, el tuyo avanzando. Cada parada está donde su tiempo la pone: los tramos ya volados según su duración real, los demás según su longitud, y las paradas pasadas por el camino recolocan las siguientes. Los tiempos también se ven en el mapa del maestro de vuelo.",
             "Un maestro de vuelo de tu zona que aún no has descubierto puede señalarse una vez, discretamente, con un clic para ir allí."
           ]
         },
@@ -630,7 +630,7 @@
           "id": "bench",
           "h2": "¿Cómo veo todas mis recetas con sus iconos en WoW Forever?",
           "paragraphs": [
-            "La tecla que ya usas para las profesiones abre el banco de trabajo. Tus profesiones que fabrican algo están en una barra, a un clic una de otra. Las recetas se muestran como lista o como muro de iconos: vivas cuando puedes hacerlas, grises cuando no, cuántas en la esquina. Puedes buscar por receta o por componente. Con mando, la entrada Profesiones de la rueda radial también abre el banco de trabajo.",
+            "La tecla que ya usas para las profesiones abre el banco de trabajo. Tus profesiones que fabrican algo están en una barra, a un clic una de otra. Las recetas se muestran como lista o como muro de iconos: vivas cuando puedes hacerlas, grises cuando no, cuántas en la esquina. Puedes buscar por receta o por componente. Con mando, la entrada Profesiones de la rueda radial también abre el banco de trabajo. Un encantamiento también se aplica desde el banco de trabajo: su objeto se elige entre casillas como en tus bolsas, lo que llevas puesto primero.",
             "La receta elegida se muestra en grande: la pieza puesta en tu personaje cuando se puede, cómo se liga y qué armadura es, y sus colores de habilidad en una sola barra con tu habilidad marcada."
           ]
         },

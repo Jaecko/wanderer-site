@@ -414,7 +414,7 @@
           "id": "flights",
           "h2": "How long is my flight?",
           "paragraphs": [
-            "In flight, the destination's name stands over a slim line from take off to landing: a dot for each stop, yours moving along, and the time left. Times are learned from your own flights, guessed from the distance until then, and also shown in the flight master's map.",
+            "In flight, once the interface has faded away, a slim line crosses the foot of the screen: a dot for each stop with its name above it, yours moving along. Each stop stands where its time puts it: the stretches you flew before by their real time, the others by their length, and the stops passed on the way place the next ones again. Times are also shown in the flight master's map.",
             "A flight master you have not found yet in your zone can be pointed out once, quietly, with one click to go there."
           ]
         },
@@ -630,7 +630,7 @@
           "id": "bench",
           "h2": "How do I see all my recipes with their icons in WoW Forever?",
           "paragraphs": [
-            "The key you already use for professions opens the workbench. Your professions that make something stand on a rail, one click from one to another. Recipes come as a list or as a wall of icons: bright when you can make it, grey when you cannot, how many in the corner. You can search by recipe or by reagent. With a controller, the Professions entry of the radial wheel opens the workbench too.",
+            "The key you already use for professions opens the workbench. Your professions that make something stand on a rail, one click from one to another. Recipes come as a list or as a wall of icons: bright when you can make it, grey when you cannot, how many in the corner. You can search by recipe or by reagent. With a controller, the Professions entry of the radial wheel opens the workbench too. An enchant is laid on the workbench too: its item is chosen among squares as in your bags, what you wear first.",
             "The recipe you choose is shown large: the piece worn on your character when it can be, how it binds and what armor it is, and its skill colors on one bar with your skill marked on it."
           ]
         },
